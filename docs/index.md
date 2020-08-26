@@ -2,12 +2,13 @@
 layout: default
 ---
 
-# indexed at 26/08/2020 14:17:51 UTC
+# indexed at 26/08/2020 14:35:25 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Arwes – Futuristic Sci-Fi / Cyberpunk Graphical User Interface Framework](https://arwes.dev)
 * [Jacques Cousteau’s Grandson Wants to Build the ISS of the Sea](https://www.smithsonianmag.com/innovation/jacques-cousteaus-grandson-wants-to-build-international-space-station-of-the-sea-180975635/)
 * [Discrete Cosine Transform – Explain Like I'm Five](https://ottverse.com/discrete-cosine-transform-dct-video-compression/)
 * [Boom Supersonic hopes to test-fly its supersonic plane in 2021](https://www.engadget.com/boom-supersonic-xb-1-2021-130025910.html)
@@ -19,25 +20,24 @@ layout: default
 * [Africa declared free of wild polio](https://www.bbc.com/news/world-africa-53887947)
 * [HPC Systems Special Offer: Two A64FX Nodes in a 2U for $40k](https://www.anandtech.com/show/15885/hpc-systems-special-offer-two-a64fx-nodes-in-a-2u-for-40k)
 * [A log/event processing pipeline you can't have (2019)](https://apenwarr.ca/log/20190216)
-* [Is TDD Dead?](https://martinfowler.com/articles/is-tdd-dead/)
 * [Heyyyyyyyyyyyy.com](https://heyyyyyyyyyyyy.com/)
-* [PCI Express Retimers vs. Redrivers: An Eye-Popping Difference (2019)](https://www.asteralabs.com/2019/06/26/pci-express-retimers-vs-redrivers-an-eye-popping-difference/)
+* [Is TDD Dead?](https://martinfowler.com/articles/is-tdd-dead/)
 * [Low adoption of features and the sad realization](https://agyam.com/low-adoption-and-sad-realization/)
+* [PCI Express Retimers vs. Redrivers: An Eye-Popping Difference (2019)](https://www.asteralabs.com/2019/06/26/pci-express-retimers-vs-redrivers-an-eye-popping-difference/)
 * [New facts about the leadup to the Beirut explosion](https://www.occrp.org/en/investigations/a-hidden-tycoon-african-explosives-and-a-loan-from-a-notorious-bank-questionable-connections-surround-beirut-explosion-shipment)
+* [YC Software Startups: Value and Initial Programming Language Used](https://charliereese.ca/article/top-50-y-combinator-tech-startups)
 * [Missions to and Sample Returns from Nearby Interstellar Objects](https://arxiv.org/abs/2008.07647)
 * [Literably (IK12 W13) Is Hiring a Senior Software Engineer (Remote)](https://news.ycombinator.com/item?id=24281744)
-* [Agoge](https://en.wikipedia.org/wiki/Agoge)
+* [Lean HTTP Server for Gleam](http://crowdhailer.me/2020-06-23/introducing-lean-server-for-midas/)
 * [Luminar Plans $3.4B Reverse-Merger IPO](https://www.thestreet.com/investing/luminar-driverless-car-producer-to-go-public-through-reverse-merger)
-* [YC Software Startups: Value and Initial Programming Language Used](https://charliereese.ca/article/top-50-y-combinator-tech-startups)
 * [Tom Lehrer's Mathematical Songs (1951)](https://mathshistory.st-andrews.ac.uk/Extras/Lehrer_Songs/)
-* [Shrinking a Kotlin Binary by 99.2%](https://jakewharton.com/shrinking-a-kotlin-binary/)
-* [“Alexander the Grate” on living in the “interstices of the infrastructure”](https://www.smithsonianmag.com/smithsonian-institution/alexander-grate-homelessness-amid-pandemic-180975474/)
 * [Going Public Circa 2020; Door #3: The SPAC](http://abovethecrowd.com/2020/08/23/going-public-circa-2020-door-3-the-spac/)
+* [Shrinking a Kotlin Binary by 99.2%](https://jakewharton.com/shrinking-a-kotlin-binary/)
+* [Agoge](https://en.wikipedia.org/wiki/Agoge)
+* [“Alexander the Grate” on living in the “interstices of the infrastructure”](https://www.smithsonianmag.com/smithsonian-institution/alexander-grate-homelessness-amid-pandemic-180975474/)
 * [Want people to do the right thing? Save them the guilt trip](https://psyche.co/ideas/you-want-people-to-do-the-right-thing-save-them-the-guilt-trip)
 * [US indictments of piracy group members throw top-tier piracy world into chaos](https://torrentfreak.com/us-indictments-and-raids-of-piracy-group-members-in-the-scene-throw-top-tier-piracy-world-into-chaos-200826/)
 * [Zappos CEO Tony Hsieh is stepping down after 21 years](https://footwearnews.com/2020/business/executive-moves/zappos-ceo-tony-hsieh-steps-down-1203045974/)
-* [Openwifi: Linux mac80211 compatible full-stack 802.11/Wi-Fi design based on SDR](https://github.com/open-sdr/openwifi)
-* [Secure Modular Runtimes](https://guybedford.com/secure-modular-runtimes.html)
 ## nytimes.com
 
 
@@ -49,9 +49,8 @@ layout: default
 * [Melania Trump Expresses Sympathy on Virus in R.N.C. Speech](https://www.nytimes.com/2020/08/25/us/politics/melania-trump.html)
 * [Kenosha Shootings: Two Killed and One Injured in Chaotic Night](https://www.nytimes.com/2020/08/26/us/kenosha-shooting-protests-jacob-blake.html)
 * [Covid-19 News: Live Updates](https://www.nytimes.com/2020/08/26/world/covid-19-coronavirus.html)
-* [As Stanford Cuts Teams, Olympic Hopefuls All Over the U.S. Feel a Chill](https://www.nytimes.com/2020/08/26/sports/olympics/stanford-cuts-olympics.html)
 * [As Summer Wanes, New Yorkers Worry About Covid Comeback in the Fall](https://www.nytimes.com/2020/08/26/nyregion/coronavirus-fall-new-york.html)
-* [Gaza Under Lockdown After First Local Cases of Virus](https://www.nytimes.com/2020/08/25/world/middleeast/coronavirus-gaza.html)
+* [Hurricane Laura Live Updates: Storm Is Expected to Hit Category 4 Strength](https://www.nytimes.com/2020/08/26/us/hurricane-laura-update.html)
 * [U.S. Sanctions 24 Chinese Companies Over Role in South China Sea](https://www.nytimes.com/2020/08/26/business/economy/trump-sanctions-south-china-sea.html)
 * [How TikTok’s Talks With Microsoft Turned Into a Soap Opera](https://www.nytimes.com/2020/08/26/technology/tiktoks-microsoft-deal-soap-opera-trump.html)
 * [The Debate Over Riots](https://www.nytimes.com/2020/08/26/briefing/kenosha-melania-trump-hurricane-laura-your-wednesday-briefing.html)
@@ -105,13 +104,13 @@ layout: default
 ## globo.com
 
 
-* ['Ninguém queria ficar perto do Bolsonaro', diz diretor de filme com cena que viralizou na internet](https://oglobo.globo.com/cultura/ninguem-queria-ficar-perto-do-bolsonaro-diz-diretor-de-filme-com-cena-que-viralizou-na-internet-24605530)
-* [Deputado entra com representação para perda de mandato de Flordelis por quebra de decoro](https://oglobo.globo.com/rio/deputado-entra-com-representacao-para-perda-de-mandato-de-flordelis-por-quebra-de-decoro-24606776)
+* [Coronavírus: Fórum Econômico Mundial de Davos adia encontro de 2021](https://oglobo.globo.com/economia/coronavirus-forum-economico-mundial-de-davos-adia-encontro-de-2021-24606804)
+* [Intenção de votos em Biden não aumento após Convenção Democrata, indica pesquisa Reuters/Ipsos](https://oglobo.globo.com/mundo/intencao-de-votos-em-biden-nao-aumento-apos-convencao-democrata-indica-pesquisa-reutersipsos-24606690)
+* [Papa Francisco vai retomar as audiências públicas das quartas, que estavam suspensas por conta da pandemia](https://oglobo.globo.com/sociedade/papa-francisco-vai-retomar-as-audiencias-publicas-das-quartas-que-estavam-suspensas-por-conta-da-pandemia-24606757)
 * ['Ninguém queria ficar perto do Bolsonaro', diz diretor de documentário sobre Davos](https://oglobo.globo.com/cultura/ninguem-queria-ficar-perto-do-bolsonaro-diz-diretor-de-documentario-sobre-davos-24605051)
-* [Após patamar mais baixo, taxa de transmissão do novo coronavírus volta para 1](https://oglobo.globo.com/sociedade/coronavirus/apos-patamar-mais-baixo-taxa-de-transmissao-do-novo-coronavirus-volta-para-1-24606706)
-* [Papa Francisco vai retomar as audiências públicas das quartas-feiras](https://oglobo.globo.com/sociedade/papa-francisco-vai-retomar-as-audiencias-publicas-das-quartas-feiras-24606757)
+* [Deputado entra com representação para perda de mandato de Flordelis por quebra de decoro](https://oglobo.globo.com/rio/deputado-entra-com-representacao-para-perda-de-mandato-de-flordelis-por-quebra-de-decoro-24606776)
+* [Problema técnico atrasa em quase uma hora viagem no ramal Saracuruna da SuperVia](https://oglobo.globo.com/rio/problema-tecnico-atrasa-em-quase-uma-hora-viagem-no-ramal-saracuruna-da-supervia-24606808)
+* [Youtuber emociona a web ao construir piscina para mãe que usava caixa d'água para se refrescar](https://oglobo.globo.com/ela/gente/youtuber-emociona-web-ao-construir-piscina-para-mae-que-usava-caixa-dagua-para-se-refrescar-24606799)
+* ['Ninguém queria ficar perto do Bolsonaro', diz diretor de filme com cena que viralizou na internet](https://oglobo.globo.com/cultura/ninguem-queria-ficar-perto-do-bolsonaro-diz-diretor-de-filme-com-cena-que-viralizou-na-internet-24605530)
 * [Riscos jurídicos para fabricantes travam acordos com UE para vacinas contra Covid-19](https://oglobo.globo.com/sociedade/riscos-juridicos-para-fabricantes-travam-acordos-com-ue-para-vacinas-contra-covid-19-24606748)
 * [BRF tenta reativar Becel e esquenta mercado de margarinas](https://epoca.globo.com/guilherme-amado/brf-tenta-reativar-becel-esquenta-mercado-de-margarinas-1-24606404)
-* [Drive-ins: novo 'Macabro', sobre crimes de necrofilia na Serra Fluminense, é destaque](https://oglobo.globo.com/rioshow/drive-ins-novo-macabro-sobre-crimes-de-necrofilia-na-serra-fluminense-destaque-24605122)
-* [Por que ministro do interior da França defendeu publicamente topless nas praias](https://epoca.globo.com/mundo/por-que-ministro-do-interior-da-franca-defendeu-publicamente-topless-nas-praias-24606718)
-* [Crítica: Museu dos Meninos é coleção de utopias do Complexo do Alemão](https://oglobo.globo.com/rioshow/critica-museu-dos-meninos-colecao-de-utopias-do-complexo-do-alemao-24606705)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 26/08/2020 04:19:03 UTC
+# indexed at 26/08/2020 04:35:00 UTC
 
 
 ## news.ycombinator.com
@@ -10,25 +10,25 @@ layout: default
 
 * [Africa declared free of wild polio](https://www.bbc.com/news/world-africa-53887947)
 * [PCI Express Retimers vs. Redrivers: An Eye-Popping Difference (2019)](https://www.asteralabs.com/2019/06/26/pci-express-retimers-vs-redrivers-an-eye-popping-difference/)
-* [Missions to and Sample Returns from Nearby Interstellar Objects](https://arxiv.org/abs/2008.07647)
 * [My AI Timelines Have Sped Up](https://www.alexirpan.com/2020/08/18/ai-timelines.html)
 * [Luminar Plans $3.4B Reverse-Merger IPO](https://www.thestreet.com/investing/luminar-driverless-car-producer-to-go-public-through-reverse-merger)
+* [Missions to and Sample Returns from Nearby Interstellar Objects](https://arxiv.org/abs/2008.07647)
 * [Zappos CEO Tony Hsieh is stepping down after 21 years](https://footwearnews.com/2020/business/executive-moves/zappos-ceo-tony-hsieh-steps-down-1203045974/)
 * [You want people to do the right thing? Save them the guilt trip](https://psyche.co/ideas/you-want-people-to-do-the-right-thing-save-them-the-guilt-trip)
+* [Tesorio Is Hiring a Senior Analytics Engineer and Senior Product Designer](https://www.tesorio.com/careers#job-openings)
 * [Openwifi: Linux mac80211 compatible full-stack 802.11/Wi-Fi design based on SDR](https://github.com/open-sdr/openwifi)
+* [New facts about the leadup to the Beirut explosion](https://www.occrp.org/en/investigations/a-hidden-tycoon-african-explosives-and-a-loan-from-a-notorious-bank-questionable-connections-surround-beirut-explosion-shipment)
 * [Japan facing credit card number shortage](https://mainichi.jp/english/articles/20200821/p2a/00m/0bu/025000c)
 * [Creating a Common Lisp implementation, part 1 [video]](https://www.youtube.com/watch?v=Wa81OJnlsoI)
 * [Syllabus for Eric's PhD Students](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit)
-* [Kindle collects a surprisingly large amount of data](https://nullsweep.com/kindle-collects-a-surprisingly-large-amount-of-data/)
 * [A Chrome feature is creating enormous load on global root DNS servers](https://arstechnica.com/gadgets/2020/08/a-chrome-feature-is-creating-enormous-load-on-global-root-dns-servers/)
 * [The longest train ride in the world](https://basementgeographer.com/the-longest-train-ride-in-the-world/)
 * [Global Mass Surveillance – The Fourteen Eyes](https://www.privacytools.io/providers/#ukusa)
-* [New facts about the leadup to the Beirut explosion](https://www.occrp.org/en/investigations/a-hidden-tycoon-african-explosives-and-a-loan-from-a-notorious-bank-questionable-connections-surround-beirut-explosion-shipment)
 * [Optimal Peanut Butter and Banana Sandwiches](https://www.ethanrosenthal.com/2020/08/25/optimal-peanut-butter-and-banana-sandwiches/)
 * [Signifier – a Brutalist response to 17th century typefaces](https://klim.co.nz/blog/signifier-design-information/)
-* [Lightmatter's Mars SoC Bends Light to Process Data](https://www.tomshardware.com/news/lightmatter-mars-soc-bends-light-to-process-data-silicon-photonics)
-* [Beating Google ReCaptcha and the funCaptcha using AWS Rekognition](https://bitbucket.org/Pirates-of-Silicon-Hills/voightkampff)
 * [Cat vs. panel heater: which is better?](https://www.oneroof.co.nz/news/38319)
+* [Beating Google ReCaptcha and the funCaptcha using AWS Rekognition](https://bitbucket.org/Pirates-of-Silicon-Hills/voightkampff)
+* [Lightmatter's Mars SoC Bends Light to Process Data](https://www.tomshardware.com/news/lightmatter-mars-soc-bends-light-to-process-data-silicon-photonics)
 * [Gallup: 81% of Black Americans Want Police to Retain Local Presence](https://news.gallup.com/poll/316571/black-americans-police-retain-local-presence.aspx)
 * [FritzFrog: A New Generation of Peer-to-Peer Botnets](https://www.guardicore.com/2020/08/fritzfrog-p2p-botnet-infects-ssh-servers/)
 * [Keeping CALM: When Distributed Consistency Is Easy](https://m-cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext)
@@ -36,15 +36,16 @@ layout: default
 * [Firefox Android Build that caused issues is working as intended](https://www.theregister.com/2020/08/25/firefox_android_update/)
 * [AWS Controllers for Kubernetes](https://github.com/aws/aws-controllers-k8s)
 * [Evgeny Kuznetsov practices with Bauer stick that has hole in the blade](https://russianmachineneverbreaks.com/2020/07/17/evgeny-kuznetsov-practices-with-bauer-stick-that-has-hole-in-the-blade/)
+* [WebBundles harmful to content blocking, security tools, and the open web](https://brave.com/webbundles-harmful-to-content-blocking-security-tools-and-the-open-web/)
 * [A Tuna's Worth](https://www.hakaimagazine.com/features/a-tunas-worth/)
-* [Practical tips for better microcopy](https://learnuxd.io/posts/7-practical-tips-for-better-microcopy/)
 ## nytimes.com
 
 
-* [Melania Trump Is Rare Speaker to Express Sympathy on Covid-19](https://www.nytimes.com/live/2020/08/25/us/rnc-convention-election)
+* [Trump Leverages Powers of Office as He Seeks to Broaden Appeal](https://www.nytimes.com/2020/08/26/us/politics/republican-convention-recap.html)
+* [Melania Trump and Mike Pompeo End the Night](https://www.nytimes.com/live/2020/08/25/us/rnc-convention-election)
 * [Fact-Checking Night 2 of the Republican National Convention](https://www.nytimes.com/live/2020/08/25/us/rnc-fact-check)
-* [Pompeo to Deliver R.N.C. Speech From Israel With Eye on 2024](https://www.nytimes.com/2020/08/25/us/politics/pompeo-trump-jerusalem-republican-convention.html)
-* [Trump Pardons Jon Ponder, a Convicted Bank Robber](https://www.nytimes.com/2020/08/25/us/politics/trump-jon-ponder-pardon.html)
+* [R.N.C. Presents Donald Trump, the American Protector](https://www.nytimes.com/2020/08/26/us/politics/trump-convention-night-2.html)
+* [Melania Trump Expresses Sympathy on Virus in R.N.C. Speech](https://www.nytimes.com/2020/08/25/us/politics/melania-trump.html)
 * [Naturalization Ceremony at R.N.C. Stands at Odds With Trump’s Stance on Immigration](https://www.nytimes.com/2020/08/25/us/politics/trump-convention-white-house.html)
 * [New Virus Hot Spots: U.S. Islands from Hawaii to Puerto Rico](https://www.nytimes.com/2020/08/25/us/coronavirus-guam-virgin-islands-hawaii-puerto-rico.html)
 * [Covid-19 Live Updates: C.D.C. Changes Testing Guidance to Exclude People Without Symptoms, Worrying Experts](https://www.nytimes.com/2020/08/25/world/covid-19-coronavirus.html)
@@ -81,11 +82,11 @@ layout: default
 * [Whitney Cancels Show That Included Works Bought at Fund-Raisers](https://www.nytimes.com/2020/08/25/arts/design/whitney-museum-exhibition-canceled.html)
 * [Jerry Falwell Jr.’s Departure Brings Relief on Liberty University’s Campus](https://www.nytimes.com/2020/08/25/us/falwell-resigns-liberty-university.html)
 * [California Fires Live Updates: Firefighters Make Progress in ‘Marathon’ Battle](https://www.nytimes.com/2020/08/25/us/california-fires.html)
+* [How to Set Pandemic Boundaries for Relatives](https://www.nytimes.com/2020/08/22/well/family/boundaries-pandemic-family-relationships.html)
+* [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
 * [5 Simple Ways to Improve Your Wi-Fi](https://www.nytimes.com/2020/08/24/smarter-living/home-wifi-upgrade.html)
 * [Play these Old School Games](https://www.nytimes.com/2020/08/22/at-home/sharpen-a-pencil-and-challenge-an-opponent.html)
 * [Why Getting Children Flu Shots Is Even More Important This Year](https://www.nytimes.com/2020/08/21/parenting/flu-shot-kids-coronavirus.html)
-* [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
-* [How to Set Pandemic Boundaries for Relatives](https://www.nytimes.com/2020/08/22/well/family/boundaries-pandemic-family-relationships.html)
 * [The Actors With Disabilities Redefining Representation](https://www.nytimes.com/2020/08/25/t-magazine/actors-disability-theater-film-tv.html)
 * [Orchestras Looking to Broaden Horizons? Start Improvising](https://www.nytimes.com/2020/08/25/arts/music/classical-music-orchestra-improvisation.html)
 * [Can I Stay Friends With Someone Who Voices Racist Views?](https://www.nytimes.com/2020/08/25/magazine/can-i-stay-friends-with-someone-who-voices-racist-views.html)
@@ -95,7 +96,7 @@ layout: default
 * [The Extra Stigma of Mental Illness for African-Americans](https://www.nytimes.com/2020/08/25/well/mind/black-mental-health.html)
 * [How to Handle Separation Anxiety Meltdowns in Kids](https://www.nytimes.com/2020/08/20/parenting/separation-anxiety-children.html)
 * [This Star Looked Like It Would Explode. Maybe It Just Sneezed](https://www.nytimes.com/2020/08/14/science/betelgeuse-star-supernova.html)
-* [10 Under-the-Radar Movies for Offbeat Times](https://www.nytimes.com/2020/08/23/movies/offbeat-movies-streaming.html)
+* [How to Watch the Democratic National Convention](https://www.nytimes.com/2020/08/20/us/politics/dnc.html)
 * [Kimberly Guilfoyle, the R.N.C.'s Woman in Red](https://www.nytimes.com/2020/08/25/style/kimberly-guilfoyle-republican-national-convention.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
@@ -103,8 +104,8 @@ layout: default
 ## globo.com
 
 
-* [Primeira a falar às vítimas da pandemia, Melania Trump tenta conquistar famílias](https://oglobo.globo.com/mundo/primeira-falar-as-vitimas-da-pandemia-melania-trump-tenta-conquistar-familias-24605886)
-* [Nenê marca três gols e comanda classificação do Fluminense na Copa do Brasil](https://oglobo.globo.com/esportes/fluminense/nene-marca-tres-gols-comanda-classificacao-do-fluminense-na-copa-do-brasil-1-24606320)
+* [Israel bombardeia posições do Hezbollah no Líbano após ataque a suas tropas](https://oglobo.globo.com/mundo/israel-bombardeia-posicoes-do-hezbollah-no-libano-apos-ataque-suas-tropas-24606394)
+* [Primeira a falar às vítimas da pandemia, Melania Trump tenta conquistar famílias](https://oglobo.globo.com/mundo/primeira-falar-as-vitimas-da-pandemia-melania-trump-tenta-conquistar-familias-1-24605886)
 * [Incêndios e desmatamento na Amazônia expõem mais de 4 milhões de pessoas a níveis elevados de poluição atmosférica](https://oglobo.globo.com/sociedade/incendios-desmatamento-na-amazonia-expoem-mais-de-4-milhoes-de-pessoas-niveis-elevados-de-poluicao-atmosferica-1-24606286)
 * [Distribuidoras vão precisar entregar até 70,5% mais água para suprir demanda no país em 2040, diz estudo](https://oglobo.globo.com/economia/distribuidoras-vao-precisar-entregar-ate-705-mais-agua-para-suprir-demanda-no-pais-em-2040-diz-estudo-24605855)
 * [Até que ponto vai o boicote à cultura?](https://oglobo.globo.com/opiniao/ate-que-ponto-vai-boicote-cultura-24605706)

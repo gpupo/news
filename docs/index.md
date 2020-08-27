@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 27/08/2020 23:16:15 UTC
+# indexed at 27/08/2020 23:35:12 UTC
 
 
 ## news.ycombinator.com
@@ -12,38 +12,40 @@ layout: default
 * [Does Facebook pay Apple 30% of revenue derived from ads made within its iOS app?](https://twitter.com/SpencerDailey/status/1299063704483438593)
 * [When Asbestos Was a Gift Fit for a King](https://daily.jstor.org/when-asbestos-was-a-gift-fit-for-a-king/)
 * [Scrollbar Blindness](https://svenkadak.com/blog/scrollbar-blindness)
+* [YouTube please stop showing me Trump ads](https://support.google.com/youtube/thread/66051026?hl=en)
 * [A Short Guide to Minimal Web Development (2018)](https://meiert.com/en/blog/minimal-web-development/)
-* [The time it takes to run a paid newsletter](https://simonowens.substack.com/p/the-exact-time-commitment-it-takes)
+* [The Rapier Physics Engine](https://www.dimforge.com/blog/2020/08/25/announcing-the-rapier-physics-engine/)
 * [The Lounge – Modern web IRC client designed for self-hosting](https://github.com/thelounge/thelounge)
+* [The time it takes to run a paid newsletter](https://simonowens.substack.com/p/the-exact-time-commitment-it-takes)
 * [Constant Time LFU](https://arpitbhayani.me/blogs/lfu)
 * [Band-Limiting Procedural Textures](https://iquilezles.org/www/articles/bandlimiting/bandlimiting.htm)
-* [The Rapier Physics Engine](https://www.dimforge.com/blog/2020/08/25/announcing-the-rapier-physics-engine/)
 * [Show HN: Muse – Tool for Thought on iPad](https://launch-preview.museapp.com/)
 * [An Archive of a Different Type](http://blog.archive.org/2020/08/26/an-archive-of-a-different-type/)
 * [Nitrokey](https://www.nitrokey.com/)
-* [Circle Medical (YC S15) Is Hiring a Senior Front End Engineer in Montréal](https://jobs.lever.co/circlemedical/46d8485b-0092-48a5-8a26-96262438353d)
 * [Hard work vs. Long work (2011)](https://seths.blog/2011/05/hard-work-vs-long-work/)
+* [Circle Medical (YC S15) Is Hiring a Senior Front End Engineer in Montréal](https://jobs.lever.co/circlemedical/46d8485b-0092-48a5-8a26-96262438353d)
 * [Anime-to-Real Clothing: Cosplay Costume Generation](https://arxiv.org/abs/2008.11479)
 * [Discovery of scholar's notes shine light on race to decipher Rosetta Stone](https://www.theguardian.com/culture/2020/aug/25/discovery-of-scholars-notes-shine-light-on-race-to-decipher-rosetta-stone)
 * [Hunting the Nearly-Invisible Personal Website](https://cheapskatesguide.org/articles/personal-website-hunting.html)
 * [Rust 1.46](https://blog.rust-lang.org/2020/08/27/Rust-1.46.0.html)
+* [Ask HN: How does onlyfans.com work around the “no porn” Stripe rule?](https://news.ycombinator.com/item?id=24291790)
 * [Confessions of an ID Theft Kingpin, Part II](https://krebsonsecurity.com/2020/08/confessions-of-an-id-theft-kingpin-part-ii/)
 * [Wind and solar are cheaper than thought, admits UK government](https://www.carbonbrief.org/wind-and-solar-are-30-50-cheaper-than-thought-admits-uk-government)
-* [New case studies about Google’s use of Go](https://opensource.googleblog.com/2020/08/new-case-studies-about-googles-use-of-go.html)
-* [The magic of ion channels in the neurons](https://i-kh.net/2020/08/26/the-magic-of-ion-channels/)
-* [Ask HN: How does onlyfans.com work around the “no porn” Stripe rule?](https://news.ycombinator.com/item?id=24291790)
 * [Show HN: Olaf – Acoustic Fingerprinting on the ESP32 and in the Browser](https://0110.be/posts/Olaf_-_Acoustic_fingerprinting_on_the_ESP32_and_in_the_Browser)
+* [Architecture Playbook](https://nocomplexity.com/documents/arplaybook/introduction.html)
+* [The magic of ion channels in the neurons](https://i-kh.net/2020/08/26/the-magic-of-ion-channels/)
+* [New case studies about Google’s use of Go](https://opensource.googleblog.com/2020/08/new-case-studies-about-googles-use-of-go.html)
 * [How satellite ‘megaconstellations’ will photobomb astronomy images](https://www.nature.com/articles/d41586-020-02480-5)
-* [Antibiotics nearly double risk of developing IBD, doctors warn](https://www.studyfinds.org/antibiotics-double-ibd-risk/)
-* [Interview with Zig language creator Andrew Kelley [video]](https://www.youtube.com/watch?v=ZvskDoP09Ao&feature=emb_logo)
-* [TSMC and Graphcore Prepare for AI Acceleration on 3nm](https://www.anandtech.com/show/16040/tsmc-and-graphcore-prepare-for-ai-acceleration-on-3nm)
 * [Rare plants that ‘bleed’ nickel](https://www.bbc.com/future/article/20200825-indonesia-the-plants-that-mine-poisonous-metals)
+* [Interview with Zig language creator Andrew Kelley [video]](https://www.youtube.com/watch?v=ZvskDoP09Ao&feature=emb_logo)
 ## nytimes.com
 
 
 * [Responding to Pence, Biden Warns of ‘Donald Trump’s America’](https://www.nytimes.com/live/2020/08/27/us/rnc-convention-election)
 * [Is Ivanka Trump Going to Change Anyone’s Mind?](https://www.nytimes.com/2020/08/27/us/politics/ivanka-trump-rnc.html)
 * [President Trump, Ivanka Trump, Dana White to Speak During R.N.C.'s Final Night](https://www.nytimes.com/2020/08/27/us/politics/republican-national-convention-guide.html)
+* [In Trump’s Gilded Beltway, Rudy Giuliani Finds a Potent Reward: Relevance](https://www.nytimes.com/2020/08/27/us/politics/trump-washington-giuliani.html)
+* [R.N.C. Skims Over Trump’s ‘Unfinished Business’ in Foreign Policy](https://www.nytimes.com/2020/08/27/us/politics/trump-foreign-policy.html)
 * [Hurricane Laura Live News and Updates](https://www.nytimes.com/2020/08/27/us/hurricane-laura-update.html)
 * [Hurricane Laura Topples Confederate Statue That Survived Protests](https://www.nytimes.com/2020/08/27/us/hurricane-laura-confederate-statue.html)
 * [Laura Hits Petrochemical Region, and a Factory Goes Up in Flames](https://www.nytimes.com/2020/08/27/climate/hurricane-laura-fire-pollution.html)
@@ -51,7 +53,6 @@ layout: default
 * [With Walkouts, a New High Bar for Protests in Sports Is Set](https://www.nytimes.com/2020/08/27/sports/basketball/kenosha-nba-protests-players-boycott.html)
 * [Tracking Kyle Rittenhouse in the Fatal Kenosha Shootings](https://www.nytimes.com/2020/08/27/us/kyle-rittenhouse-kenosha-shooting-video.html)
 * [Covid-19 Live Updates](https://www.nytimes.com/2020/08/27/world/covid-19-coronavirus.html)
-* [Reopened Schools Find Health Risks in Water After Covid-19 Lockdowns](https://www.nytimes.com/2020/08/27/health/covid-schools-legionnaires-disease.html)
 * [Can You Get a Flu Shot Now? Yes, and Doctors Say You Should](https://www.nytimes.com/2020/08/25/health/flu-vaccine-coronavirus.html)
 * [Fed Chair Sets Stage for Longer Periods of Lower Rates](https://www.nytimes.com/2020/08/27/business/economy/federal-reserve-inflation-jerome-powell.html)
 * [Walmart Joining Microsoft in TikTok Bid](https://www.nytimes.com/2020/08/27/technology/walmart-tiktok-deal.html)
@@ -82,9 +83,9 @@ layout: default
 * [In Pandemic, More Are Paying for Direct Access to Their Doctors](https://www.nytimes.com/2020/08/21/your-money/concierge-personal-medical-care-coronavirus.html)
 * [U.S. Open Draw Lacks Some Stars, but Not Story Lines](https://www.nytimes.com/2020/08/27/sports/tennis/us-open-draw-serena-williams.html)
 * [Printer Jam: Serious Supply Issues Disrupt the Book Industry’s Fall Season](https://www.nytimes.com/2020/08/27/books/printing-companies-backlog-book-publishing.html)
-* [The 2020 Back-to-School List for Teens’ Emotional Well-Being](https://www.nytimes.com/2020/08/25/well/family/teens-mental-health-needs.html)
-* [Play these Old School Games](https://www.nytimes.com/2020/08/22/at-home/sharpen-a-pencil-and-challenge-an-opponent.html)
 * [The Lesson We’re Learning From TikTok? It’s All About Our Data](https://www.nytimes.com/2020/08/26/technology/personaltech/tiktok-data-apps.html)
+* [Play these Old School Games](https://www.nytimes.com/2020/08/22/at-home/sharpen-a-pencil-and-challenge-an-opponent.html)
+* [The 2020 Back-to-School List for Teens’ Emotional Well-Being](https://www.nytimes.com/2020/08/25/well/family/teens-mental-health-needs.html)
 * [How to Set Pandemic Boundaries for Relatives](https://www.nytimes.com/2020/08/22/well/family/boundaries-pandemic-family-relationships.html)
 * [The British Museum Reopens to a World That Has Changed](https://www.nytimes.com/2020/08/27/arts/design/british-museum-reopening.html)
 * [A Cozy Cottage on an Island Northeast of Stockholm](https://www.nytimes.com/2020/08/26/t-magazine/cottage-stockholm-home-design.html)
@@ -104,8 +105,8 @@ layout: default
 ## globo.com
 
 
+* [Secretário de Fazenda critica Conselho que acompanha ajuste fiscal do RJ](https://oglobo.globo.com/rio/secretario-de-fazenda-critica-conselho-que-acompanha-ajuste-fiscal-do-rj-24609813)
 * [Palavras cruzadas do site do GLOBO têm edição temática sobre o Rio nesta sexta-feira](https://oglobo.globo.com/brasil/palavras-cruzadas-do-site-do-globo-tem-edicao-tematica-sobre-rio-nesta-sexta-feira-24609850)
-* [Governo aprova transferência de R$ 325 bilhões do Banco Central para o Tesouro](https://oglobo.globo.com/economia/governo-aprova-transferencia-de-325-bilhoes-do-banco-central-para-tesouro-24609708)
 * ['Esses caras estão torcendo pela violência', diz Biden sobre Trump e Pence](https://oglobo.globo.com/mundo/esses-caras-estao-torcendo-pela-violencia-diz-biden-sobre-trump-pence-24609839)
 * [Brasil ultrapassa 118 mil mortos por Covid-19, aponta consórcio de veículos de imprensa no boletim das 20h](https://oglobo.globo.com/sociedade/brasil-ultrapassa-118-mil-mortos-por-covid-19-aponta-consorcio-de-veiculos-de-imprensa-no-boletim-das-20h-1-24609814)
 * [Argentina ultrapassa dez mil casos diários de coronavírus enquanto cresce tensão política](https://oglobo.globo.com/mundo/argentina-ultrapassa-dez-mil-casos-diarios-de-coronavirus-enquanto-cresce-tensao-politica-24609759)

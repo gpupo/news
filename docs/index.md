@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 27/08/2020 20:18:06 UTC
+# indexed at 27/08/2020 20:34:56 UTC
 
 
 ## news.ycombinator.com
 
 
 * [ReMarkable 2.0 – A digital notebook that feels like paper](https://remarkable.com/#What_Is_New)
+* [Does Facebook pay Apple 30% of revenue derived from ads made within its iOS app?](https://twitter.com/SpencerDailey/status/1299063704483438593)
 * [Scrollbar Blindness](https://svenkadak.com/blog/scrollbar-blindness)
-* [New case studies about Google’s use of Go](https://opensource.googleblog.com/2020/08/new-case-studies-about-googles-use-of-go.html)
+* [When Asbestos Was a Gift Fit for a King](https://daily.jstor.org/when-asbestos-was-a-gift-fit-for-a-king/)
 * [A Short Guide to Minimal Web Development (2018)](https://meiert.com/en/blog/minimal-web-development/)
+* [New case studies about Google’s use of Go](https://opensource.googleblog.com/2020/08/new-case-studies-about-googles-use-of-go.html)
 * [The Lounge – Modern web IRC client designed for self-hosting](https://github.com/thelounge/thelounge)
-* [Band-Limiting Procedural Textures](https://iquilezles.org/www/articles/bandlimiting/bandlimiting.htm)
 * [The time it takes to run a paid newsletter](https://simonowens.substack.com/p/the-exact-time-commitment-it-takes)
+* [Band-Limiting Procedural Textures](https://iquilezles.org/www/articles/bandlimiting/bandlimiting.htm)
 * [Show HN: Muse – Tool for Thought on iPad](https://launch-preview.museapp.com/)
-* [Rust 1.46](https://blog.rust-lang.org/2020/08/27/Rust-1.46.0.html)
+* [An Archive of a Different Type](http://blog.archive.org/2020/08/26/an-archive-of-a-different-type/)
 * [Wind and solar are cheaper than thought, admits UK government](https://www.carbonbrief.org/wind-and-solar-are-30-50-cheaper-than-thought-admits-uk-government)
-* [Hard work vs. Long work (2011)](https://seths.blog/2011/05/hard-work-vs-long-work/)
+* [Rust 1.46](https://blog.rust-lang.org/2020/08/27/Rust-1.46.0.html)
 * [Confessions of an ID Theft Kingpin, Part II](https://krebsonsecurity.com/2020/08/confessions-of-an-id-theft-kingpin-part-ii/)
+* [Hard work vs. Long work (2011)](https://seths.blog/2011/05/hard-work-vs-long-work/)
 * [Nitrokey](https://www.nitrokey.com/)
-* [TSMC and Graphcore Prepare for AI Acceleration on 3nm](https://www.anandtech.com/show/16040/tsmc-and-graphcore-prepare-for-ai-acceleration-on-3nm)
+* [Apple showing signs it may soon launch a search engine](https://www.coywolf.news/seo/apple-search-engine/)
 * [Hunting the Nearly-Invisible Personal Website](https://cheapskatesguide.org/articles/personal-website-hunting.html)
+* [TSMC and Graphcore Prepare for AI Acceleration on 3nm](https://www.anandtech.com/show/16040/tsmc-and-graphcore-prepare-for-ai-acceleration-on-3nm)
+* [The magic of ion channels in the neurons](https://i-kh.net/2020/08/26/the-magic-of-ion-channels/)
 * [Rare plants that ‘bleed’ nickel](https://www.bbc.com/future/article/20200825-indonesia-the-plants-that-mine-poisonous-metals)
 * [Show HN: Olaf – Acoustic Fingerprinting on the ESP32 and in the Browser](https://0110.be/posts/Olaf_-_Acoustic_fingerprinting_on_the_ESP32_and_in_the_Browser)
-* [Abstracting Abstract Machines (2010) [pdf]](http://matt.might.net/papers/vanhorn2010abstract.pdf)
 * [Making QUIC Quicker with NIC Offload](https://dl.acm.org/doi/abs/10.1145/3405796.3405827)
-* [On the Uniqueness and Reidentifiability of Web Browsing Histories [pdf]](https://www.usenix.org/system/files/soups2020-bird.pdf)
-* [How satellite ‘megaconstellations’ will photobomb astronomy images](https://www.nature.com/articles/d41586-020-02480-5)
 * [Ask HN: How does onlyfans.com work around the “no porn” Stripe rule?](https://news.ycombinator.com/item?id=24291790)
+* [Abstracting Abstract Machines (2010) [pdf]](http://matt.might.net/papers/vanhorn2010abstract.pdf)
+* [How satellite ‘megaconstellations’ will photobomb astronomy images](https://www.nature.com/articles/d41586-020-02480-5)
+* [Interview with Zig language creator Andrew Kelley [video]](https://www.youtube.com/watch?v=ZvskDoP09Ao&feature=emb_logo)
+* [Antibiotics nearly double risk of developing IBD, doctors warn](https://www.studyfinds.org/antibiotics-double-ibd-risk/)
 * [Blanked-out spots on China's maps helped us uncover Xinjiang's camps](https://www.buzzfeednews.com/article/alison_killing/satellite-images-investigation-xinjiang-detention-camps)
 * [Even Google engineers are confused about Google’s privacy settings](https://www.theverge.com/2020/8/26/21403202/google-engineers-privacy-settings-lawsuit-arizona-doubleclick)
-* [Interview with Zig language creator Andrew Kelley [video]](https://www.youtube.com/watch?v=ZvskDoP09Ao&feature=emb_logo)
-* [Parabola on ReMarkable: A Guide [pdf]](http://www.davisr.me/projects/parabola-rm/install-guide-latest.pdf)
-* [Antibiotics nearly double risk of developing IBD, doctors warn](https://www.studyfinds.org/antibiotics-double-ibd-risk/)
-* [Walmart Joins Talks to Buy TikTok](https://www.nytimes.com/2020/08/27/technology/walmart-tiktok-deal.html)
-* [FEMA Spends More Preparing for Terrorism Than Hurricanes](https://www.bloomberg.com/news/articles/2020-08-27/hurricane-laura-fema-grants-aren-t-focused-on-climate-change)
-* [An Archive of a Different Type](http://blog.archive.org/2020/08/26/an-archive-of-a-different-type/)
 ## nytimes.com
 
 
@@ -91,22 +91,22 @@ layout: default
 * [First Documented Coronavirus Reinfection Reported in Hong Kong](https://www.nytimes.com/2020/08/24/health/coronavirus-reinfection.html)
 * [Why Some Tropical Fish Are Gettin’ Squiggly With It](https://www.nytimes.com/2020/08/22/science/angelfish-paracentropyge-hybrid-genetics.html)
 * [New Video Shows Largest Hydrogen Bomb Ever Exploded](https://www.nytimes.com/2020/08/25/science/tsar-bomba-nuclear-test.html)
-* [Stephen Colbert Refuses to Watch Night 3 of the R.N.C.](https://www.nytimes.com/2020/08/27/arts/television/stephen-colbert-republican-convention.html)
-* [“So, it didn’t surprise me when President Donald Trump appointed the most women to senior level positions of any administration in history.”](https://www.nytimes.com/2020/08/26/us/politics/so-it-didnt-surprise-me-when-president-donald-trump-appointed-the-most-women-to-senior-level-positions-of-any-administration-in-.html)
-* [A judge rules again that Trump must produce his tax returns.](https://www.nytimes.com/2020/08/20/us/elections/a-judge-rules-again-that-trump-must-produce-his-tax-returns.html)
+* [This Zucchini Tian Is Nonna-Inspired Cooking at Restaurant Speed](https://www.nytimes.com/2020/08/26/magazine/this-zucchini-tian-is-nonna-inspired-cooking-at-restaurant-speed.html)
+* [Hotels Tout Cleaning, But Guests Say, ‘My Room Was Dirty’](https://www.nytimes.com/2020/08/26/travel/virus-hotels-cleaning.html)
+* [‘I Fear That We Are Witnessing the End of American Democracy’](https://www.nytimes.com/2020/08/26/opinion/trump-republican-convention-racism.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
-* [Relatora do Fundeb apresenta projeto de lei para organizar repasses do fundo em 2021](https://oglobo.globo.com/sociedade/relatora-do-fundeb-apresenta-projeto-de-lei-para-organizar-repasses-do-fundo-em-2021-24609478)
 * [‘Vamos vencer essa batalha na oração’, diz Flordelis em áudio para fiéis de igreja](https://oglobo.globo.com/rio/vamos-vencer-essa-batalha-na-oracao-diz-flordelis-em-audio-para-fieis-de-igreja-24609380)
+* [Relatora do Fundeb apresenta projeto de lei para organizar repasses do fundo em 2021](https://oglobo.globo.com/sociedade/relatora-do-fundeb-apresenta-projeto-de-lei-para-organizar-repasses-do-fundo-em-2021-24609478)
+* [Austeridade fiscal de centrão é para inglês ver](https://oglobo.globo.com/analitico/austeridade-fiscal-de-centrao-para-ingles-ver-24609431)
+* [Corregedoria pede esclarecimentos ao MP do Rio sobre arrombamento de loja de chocolates de Flávio Bolsonaro](https://oglobo.globo.com/brasil/corregedoria-pede-esclarecimentos-ao-mp-do-rio-sobre-arrombamento-de-loja-de-chocolates-de-flavio-bolsonaro-24609511)
 * [Após críticas, agência de saúde dos EUA recua: 'teste pode ser considerado para qualquer um exposto à Covid-19'](https://oglobo.globo.com/mundo/apos-criticas-agencia-de-saude-dos-eua-recua-teste-pode-ser-considerado-para-qualquer-um-exposto-covid-19-24609441)
 * [Mulher pode ter sido curada de HIV sem tratamento médico, aponta pesquisa](https://oglobo.globo.com/sociedade/mulher-pode-ter-sido-curada-de-hiv-sem-tratamento-medico-aponta-pesquisa-24609017)
 * [Senado aprova prorrogação de incentivos tributários para empresas exportadoras](https://oglobo.globo.com/economia/senado-aprova-prorrogacao-de-incentivos-tributarios-para-empresas-exportadoras-24609454)
 * [FBI vai investigar disparos feitos por policial branco contra homem negro em Kenosha](https://oglobo.globo.com/mundo/fbi-vai-investigar-disparos-feitos-por-policial-branco-contra-homem-negro-em-kenosha-24608930)
 * [Rio volta ao velho normal com violência que Witzel prometeu combater](https://oglobo.globo.com/analitico/rio-volta-ao-velho-normal-com-violencia-que-witzel-prometeu-combater-24609287)
 * [Assista agora: Guilherme Amado entrevista Fernando Henrique Cardoso](https://epoca.globo.com/assista-agora-guilherme-amado-entrevista-fernando-henrique-cardoso-24609419)
-* [Livemícios: TSE vai decidir nesta sexta sobre shows online de apoio a políticos](https://oglobo.globo.com/brasil/livemicios-tse-vai-decidir-nesta-sexta-sobre-shows-online-de-apoio-politicos-1-24609341)
-* ['Doloroso e ofensivo': a reação à onda de pessoas 'imitando' vítimas do Holocausto no TikTok](https://epoca.globo.com/mundo/doloroso-ofensivo-reacao-onda-de-pessoas-imitando-vitimas-do-holocausto-no-tiktok-24609332)

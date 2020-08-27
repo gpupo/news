@@ -2,24 +2,24 @@
 layout: default
 ---
 
-# indexed at 27/08/2020 02:18:24 UTC
+# indexed at 27/08/2020 02:35:11 UTC
 
 
 ## news.ycombinator.com
 
 
-* [The Potentially Revolutionary Celera 500L Aircraft Officially Breaks Cover](https://www.thedrive.com/the-war-zone/36016/the-potentially-revolutionary-celera-500l-officially-breaks-cover)
+* [The potentially revolutionary Celera 500L aircraft](https://www.thedrive.com/the-war-zone/36016/the-potentially-revolutionary-celera-500l-officially-breaks-cover)
 * [MixedName – Bilingual baby name finder](https://mixedname.com/)
 * [Arwes – Futuristic Sci-Fi / Cyberpunk Graphical User Interface Framework](https://arwes.dev)
 * [Why Johnny Won't Upgrade](https://jacquesmattheij.com/why-johnny-wont-upgrade/)
-* [How Drakeo the Ruler recorded an amazing-sounding album from jail](https://pitchfork.com/thepitch/how-drakeo-the-ruler-recorded-thank-you-for-using-gtl-from-jail-joogszn-interview/)
 * [Live View of Hurricane Laura](https://www.windy.com/?28.695,-93.082,7)
+* [How Drakeo the Ruler recorded an amazing-sounding album from jail](https://pitchfork.com/thepitch/how-drakeo-the-ruler-recorded-thank-you-for-using-gtl-from-jail-joogszn-interview/)
 * [Andy Matuschak's Notes](https://notes.andymatuschak.org/About_these_notes)
 * [D3 6.0](https://github.com/d3/d3/blob/master/CHANGES.md)
 * [A mysterious radio burst that keeps repeating](https://www.sciencealert.com/right-on-schedule-a-repeating-fast-radio-burst-has-woken-up)
+* [Willscott/go-NFS: Golang NFSv3 server](https://github.com/willscott/go-nfs/)
 * [Show HN: ztext.js – JavaScript library (3.9 kb) that makes any font 3D](https://bennettfeely.com/ztext/)
 * [New Racket Language Website](https://racket-lang.org/)
-* [Willscott/go-NFS: Golang NFSv3 server](https://github.com/willscott/go-nfs/)
 * [Problem Solving with Algorithms and Data Structures [pdf]](https://www.cs.auckland.ac.nz/compsci105s1c/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf)
 * [Building a Home Lab Beginners Guide](https://haydenjames.io/home-lab-beginners-guide-hardware/)
 * [SEC Modernizes the Accredited Investor Definition](https://www.sec.gov/news/press-release/2020-191)
@@ -28,16 +28,16 @@ layout: default
 * [New planets confirmed in machine learning first](https://phys.org/news/2020-08-planets-machine.html)
 * [Preparing Our Partners for iOS 14](https://www.facebook.com/business/news/preparing-our-partners-for-ios-14-launch/)
 * [Show HN: Teal – a serverless VM and programming language](https://www.condense9.com/)
-* [The Selectric Typewriter](https://www.ibm.com/ibm/history/ibm100/us/en/icons/selectric/)
-* [Show HN: Lulim Jewelry – Design and 3D print your own custom wedding band](https://lulimjewelry.com)
-* [Pachama (YC W19) seeks ML and SW engineers to solve climate change](https://jobs.lever.co/pachama)
 * [First tax year with Stripe Atlas](https://tryhexadecimal.com/journal/business-taxes)
-* [Jacksonpollock.org (2003)](https://jacksonpollock.org/)
+* [Show HN: Lulim Jewelry – Design and 3D print your own custom wedding band](https://lulimjewelry.com)
 * [The Illusion of Control in Web Design (2018)](https://alistapart.com/article/the-illusion-of-control-in-web-design/)
+* [Jacksonpollock.org (2003)](https://jacksonpollock.org/)
+* [Pachama (YC W19) seeks ML and SW engineers to solve climate change](https://jobs.lever.co/pachama)
+* [The Selectric Typewriter](https://www.ibm.com/ibm/history/ibm100/us/en/icons/selectric/)
 * [SSH Keygen – RSA, DSA, Ecdsa, EdDSA](https://gravitational.com/blog/comparing-ssh-keys/)
 * [Information on the revocation of WinRAR 5.91 digital certificate](https://www.rarlab.com/revoked591.html)
-* [GNU tar blocking factor, blocks, records and checkpoints](https://finch.am/projects/tar/)
 * [What happens when you load a URL? (2015)](https://danluu.com/navigate-url/)
+* [GNU tar blocking factor, blocks, records and checkpoints](https://finch.am/projects/tar/)
 ## nytimes.com
 
 
@@ -82,11 +82,11 @@ layout: default
 * [Brother of Impeachment Witness Says His Firing Was a Whistle-Blower Reprisal](https://www.nytimes.com/2020/08/26/us/politics/yevgeny-vindman-whistleblower-complaint.html)
 * [U.S. Troops Injured in Syria After Collision With Russian Vehicles](https://www.nytimes.com/2020/08/26/world/middleeast/pentagon-russia-syria.html)
 * [Sarah Turney Sought Justice on TikTok. Now Her Father Is Charged With Homicide.](https://www.nytimes.com/2020/08/26/us/alissa-turney-update.html)
-* [Play these Old School Games](https://www.nytimes.com/2020/08/22/at-home/sharpen-a-pencil-and-challenge-an-opponent.html)
 * [The Lesson We’re Learning From TikTok? It’s All About Our Data](https://www.nytimes.com/2020/08/26/technology/personaltech/tiktok-data-apps.html)
+* [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
 * [How to Handle Separation Anxiety Meltdowns in Kids](https://www.nytimes.com/2020/08/20/parenting/separation-anxiety-children.html)
 * [How to Set Pandemic Boundaries for Relatives](https://www.nytimes.com/2020/08/22/well/family/boundaries-pandemic-family-relationships.html)
-* [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
+* [Play these Old School Games](https://www.nytimes.com/2020/08/22/at-home/sharpen-a-pencil-and-challenge-an-opponent.html)
 * [Itzhak Perlman, Violin Legend, Still Proves the Critics Wrong](https://www.nytimes.com/2020/08/26/arts/music/itzhak-perlman-violin.html)
 * [In U.F.C., Retirement Threats Are the Fighters’ New Leverage](https://www.nytimes.com/2020/08/26/sports/ufc-fighter-pay.html)
 * [Changing My Name Allowed Me to Move On](https://www.nytimes.com/2020/08/26/magazine/name-change.html)
@@ -96,17 +96,17 @@ layout: default
 * [Why Getting Children Flu Shots Is Even More Important This Year](https://www.nytimes.com/2020/08/21/parenting/flu-shot-kids-coronavirus.html)
 * [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
 * [E-Bikes Are All the Rage. Should They Be?](https://www.nytimes.com/2020/08/19/well/move/e-bike-safety-exercise.html)
-* [DNA Evidence Exonerates Man in 1983 Rape and Killing, Prosecutors Say](https://www.nytimes.com/2020/08/26/us/robert-duboise-wrongful-conviction.html)
+* [Bayern Munich 1, P.S.G. 0: A Champions League Win for Tradition and Team](https://www.nytimes.com/2020/08/23/sports/soccer/psg-bayern-live-score.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [Ibama vai exonerar chefe de centro que combate queimadas na Amazônia e no Pantanal](https://oglobo.globo.com/sociedade/ibama-vai-exonerar-chefe-de-centro-que-combate-queimadas-na-amazonia-no-pantanal-1-24608228)
 * [Governo Bolsonaro vai acabar com cargo de porta-voz](https://oglobo.globo.com/brasil/governo-bolsonaro-vai-acabar-com-cargo-de-porta-voz-1-24608025)
 * [TCM pede explicações a Crivella sobre antecipação de royalties](https://oglobo.globo.com/rio/tcm-pede-explicacoes-crivella-sobre-antecipacao-de-royalties-24607971)
 * [Conselho da Petrobras aprova venda de participação remanescente de 37,5% na BR Distribuidora](https://oglobo.globo.com/economia/conselho-da-petrobras-aprova-venda-de-participacao-remanescente-de-375-na-br-distribuidora-1-24608017)
-* [Google vai recorrer ao STF para não liberar dados de seus clientes para investigações do Caso Marielle](https://oglobo.globo.com/rio/google-vai-recorrer-ao-stf-para-nao-liberar-dados-de-seus-clientes-para-investigacoes-do-caso-marielle-24607952)
 * [Dez músicos pegam Covid-19 após ensaio da orquestra Jazz Sinfônica, em São Paulo](https://oglobo.globo.com/cultura/dez-musicos-pegam-covid-19-apos-ensaio-da-orquestra-jazz-sinfonica-em-sao-paulo-1-24607940)
 * [Zambelli se cura da Covid, tem alta e vai ao Alvorada](https://epoca.globo.com/guilherme-amado/zambelli-se-cura-da-covid-tem-alta-vai-ao-alvorada-1-24607996)
 * [Câmara aprova projeto que proíbe trabalho presencial de grávidas durante a pandemia](https://oglobo.globo.com/sociedade/camara-aprova-projeto-que-proibe-trabalho-presencial-de-gravidas-durante-pandemia-24608055)

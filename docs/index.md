@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 27/08/2020 06:18:23 UTC
+# indexed at 27/08/2020 06:35:33 UTC
 
 
 ## news.ycombinator.com
@@ -18,26 +18,26 @@ layout: default
 * [Show HN: Computer Music with Python](https://github.com/luvsound/pippi)
 * [Unicornify](https://unicornify.pictures)
 * [Show HN: ztext.js – JavaScript library that makes any font 3D](https://bennettfeely.com/ztext/)
-* [A fleet of computers helps settle a 90-year-old math problem](https://www.wired.com/story/a-fleet-of-computers-helps-settle-a-90-year-old-math-problem/)
 * [Problem Solving with Algorithms and Data Structures [pdf]](https://www.cs.auckland.ac.nz/compsci105s1c/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf)
-* [Andy Matuschak's Notes](https://notes.andymatuschak.org/About_these_notes)
+* [A fleet of computers helps settle a 90-year-old math problem](https://www.wired.com/story/a-fleet-of-computers-helps-settle-a-90-year-old-math-problem/)
 * [Motoko, a programming language for building directly on the internet](https://stackoverflow.blog/2020/08/24/motoko-the-language-that-turns-the-web-into-a-computer/)
-* [Anime-to-Real Clothing: Cosplay Costume Generation](https://arxiv.org/abs/2008.11479)
-* [New Racket Language Website](https://racket-lang.org/)
+* [Andy Matuschak's Notes](https://notes.andymatuschak.org/About_these_notes)
 * [Belarus turned off the internet – citizens hot-wired it](https://gizmodo.com/belarus-turned-off-the-internet-its-citizens-hot-wired-1844853575)
-* [Discovery of scholar's notes shine light on race to decipher Rosetta Stone](https://www.theguardian.com/culture/2020/aug/25/discovery-of-scholars-notes-shine-light-on-race-to-decipher-rosetta-stone)
-* [Building a Home Lab Beginners Guide](https://haydenjames.io/home-lab-beginners-guide-hardware/)
+* [New Racket Language Website](https://racket-lang.org/)
 * [D3 6.0](https://github.com/d3/d3/blob/master/CHANGES.md)
+* [Building a Home Lab Beginners Guide](https://haydenjames.io/home-lab-beginners-guide-hardware/)
+* [Anime-to-Real Clothing: Cosplay Costume Generation](https://arxiv.org/abs/2008.11479)
 * [Willscott/go-NFS: Golang NFSv3 server](https://github.com/willscott/go-nfs/)
-* [How Drakeo the Ruler recorded an album from jail](https://pitchfork.com/thepitch/how-drakeo-the-ruler-recorded-thank-you-for-using-gtl-from-jail-joogszn-interview/)
-* [Arwes – Futuristic Sci-Fi / Cyberpunk Graphical User Interface Framework](https://arwes.dev)
-* [TF-Coder, a tool that writes tricky TensorFlow expressions](https://blog.tensorflow.org/2020/08/introducing-tensorflow-coder-tool.html)
-* [A mysterious radio burst that keeps repeating](https://www.sciencealert.com/right-on-schedule-a-repeating-fast-radio-burst-has-woken-up)
 * [Differentiable Control Problems](https://fluxml.ai/2019/03/05/dp-vs-rl.html)
+* [Arwes – Futuristic Sci-Fi / Cyberpunk Graphical User Interface Framework](https://arwes.dev)
+* [Discovery of scholar's notes shine light on race to decipher Rosetta Stone](https://www.theguardian.com/culture/2020/aug/25/discovery-of-scholars-notes-shine-light-on-race-to-decipher-rosetta-stone)
+* [How Drakeo the Ruler recorded an album from jail](https://pitchfork.com/thepitch/how-drakeo-the-ruler-recorded-thank-you-for-using-gtl-from-jail-joogszn-interview/)
+* [A mysterious radio burst that keeps repeating](https://www.sciencealert.com/right-on-schedule-a-repeating-fast-radio-burst-has-woken-up)
+* [TF-Coder, a tool that writes tricky TensorFlow expressions](https://blog.tensorflow.org/2020/08/introducing-tensorflow-coder-tool.html)
 * [Photon – a live demo of a natural language interface to databases](https://naturalsql.com/)
-* [Show HN: Teal – a serverless VM and programming language](https://www.condense9.com/)
+* [Live View of Hurricane Laura](https://www.windy.com/?28.695,-93.082,7)
 * [Learn Vim (the Smart Way): a book to learn the good parts of Vim](https://github.com/iggredible/Learn-Vim)
-* [Heptapod – Mercurial for Gitlab](https://heptapod.net)
+* [Show HN: Teal – a serverless VM and programming language](https://www.condense9.com/)
 ## nytimes.com
 
 
@@ -82,11 +82,11 @@ layout: default
 * [Brother of Impeachment Witness Says His Firing Was a Whistle-Blower Reprisal](https://www.nytimes.com/2020/08/26/us/politics/yevgeny-vindman-whistleblower-complaint.html)
 * [U.S. Troops Injured in Syria After Collision With Russian Vehicles](https://www.nytimes.com/2020/08/26/world/middleeast/pentagon-russia-syria.html)
 * [Sarah Turney Sought Justice on TikTok. Now Her Father Is Charged With Homicide.](https://www.nytimes.com/2020/08/26/us/alissa-turney-update.html)
-* [Play these Old School Games](https://www.nytimes.com/2020/08/22/at-home/sharpen-a-pencil-and-challenge-an-opponent.html)
-* [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
 * [The Lesson We’re Learning From TikTok? It’s All About Our Data](https://www.nytimes.com/2020/08/26/technology/personaltech/tiktok-data-apps.html)
+* [Play these Old School Games](https://www.nytimes.com/2020/08/22/at-home/sharpen-a-pencil-and-challenge-an-opponent.html)
 * [How to Set Pandemic Boundaries for Relatives](https://www.nytimes.com/2020/08/22/well/family/boundaries-pandemic-family-relationships.html)
 * [How to Handle Separation Anxiety Meltdowns in Kids](https://www.nytimes.com/2020/08/20/parenting/separation-anxiety-children.html)
+* [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
 * [Itzhak Perlman, Violin Legend, Still Proves the Critics Wrong](https://www.nytimes.com/2020/08/26/arts/music/itzhak-perlman-violin.html)
 * [In U.F.C., Retirement Threats Are the Fighters’ New Leverage](https://www.nytimes.com/2020/08/26/sports/ufc-fighter-pay.html)
 * [Changing My Name Allowed Me to Move On](https://www.nytimes.com/2020/08/26/magazine/name-change.html)
@@ -96,9 +96,7 @@ layout: default
 * [Why Getting Children Flu Shots Is Even More Important This Year](https://www.nytimes.com/2020/08/21/parenting/flu-shot-kids-coronavirus.html)
 * [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
 * [E-Bikes Are All the Rage. Should They Be?](https://www.nytimes.com/2020/08/19/well/move/e-bike-safety-exercise.html)
-* [What to Plant in a Hot, Dry Year? Succulents, of Course](https://www.nytimes.com/2020/08/26/realestate/succulents-care-indoor-outdoor-water.html)
-* [Convicted of Sex Crimes, but With No Victims](https://www.nytimes.com/2020/08/26/magazine/sex-offender-operation-net-nanny.html)
-* [Can You Get a Flu Shot Now? Yes, and Doctors Say You Should](https://www.nytimes.com/2020/08/25/health/flu-vaccine-coronavirus.html)
+* [Bayern Munich 1, P.S.G. 0: A Champions League Win for Tradition and Team](https://www.nytimes.com/2020/08/23/sports/soccer/psg-bayern-live-score.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)

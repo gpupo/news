@@ -2,15 +2,16 @@
 layout: default
 ---
 
-# indexed at 27/08/2020 12:21:32 UTC
+# indexed at 27/08/2020 12:34:42 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Donald Knuth versus Email](https://www-cs-faculty.stanford.edu/~knuth/email.html)
 * [Hunting the Nearly-Invisible Personal Website](https://cheapskatesguide.org/articles/personal-website-hunting.html)
 * [The potentially revolutionary Celera 500L aircraft](https://www.thedrive.com/the-war-zone/36016/the-potentially-revolutionary-celera-500l-officially-breaks-cover)
+* [Show HN: Olaf – Acoustic Fingerprinting on the ESP32 and in the Browser](https://0110.be/posts/Olaf_-_Acoustic_fingerprinting_on_the_ESP32_and_in_the_Browser)
+* [Knuth versus Email (1999)](https://www-cs-faculty.stanford.edu/~knuth/email.html)
 * [Why Johnny Won't Upgrade](https://jacquesmattheij.com/why-johnny-wont-upgrade/)
 * [Facebook apologizes to users for Apple’s monstrous efforts to protect privacy](https://www.theregister.com/2020/08/27/facebook_ios_ads/)
 * [An Archive of a Different Type](http://blog.archive.org/2020/08/26/an-archive-of-a-different-type/)
@@ -23,20 +24,19 @@ layout: default
 * [Shakuntala Devi – The Human Computer (2016)](https://petersmagnusson.org/2016/01/15/shakuntala-devi-the-human-computer/)
 * [Thoughts on 2 Years as a Remote Robotics Consultant](https://msadowski.github.io/2-years-remote-consulting/)
 * [Unicornify](https://unicornify.pictures)
-* [Problem Solving with Algorithms and Data Structures [pdf]](https://www.cs.auckland.ac.nz/compsci105s1c/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf)
-* [How satellite ‘megaconstellations’ will photobomb astronomy images](https://www.nature.com/articles/d41586-020-02480-5)
 * [Motoko, a programming language for building directly on the internet](https://stackoverflow.blog/2020/08/24/motoko-the-language-that-turns-the-web-into-a-computer/)
+* [Problem Solving with Algorithms and Data Structures [pdf]](https://www.cs.auckland.ac.nz/compsci105s1c/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf)
 * [Show HN: Computer Music with Python](https://github.com/luvsound/pippi)
-* [Digital Sight Management, and the Mystery of the Missing Amazon Receipts](https://mssv.net/2020/08/16/digital-sight-management-and-the-mystery-of-the-missing-amazon-receipts/)
-* [Arwes – Futuristic Sci-Fi / Cyberpunk Graphical User Interface Framework](https://arwes.dev)
-* [SpaceX Starlink average speedtest is 42.3Mbps down / 9.7 Mbps up](https://testmy.net/hoststats/spacex_starlink)
-* [Andy Matuschak's Notes](https://notes.andymatuschak.org/About_these_notes)
-* [Differentiable Control Problems](https://fluxml.ai/2019/03/05/dp-vs-rl.html)
 * [Shippos USPS Time in Transit Data](https://goshippo.com/usps-data-2020/)
+* [Arwes – Futuristic Sci-Fi / Cyberpunk Graphical User Interface Framework](https://arwes.dev)
+* [Andy Matuschak's Notes](https://notes.andymatuschak.org/About_these_notes)
+* [Digital Sight Management, and the Mystery of the Missing Amazon Receipts](https://mssv.net/2020/08/16/digital-sight-management-and-the-mystery-of-the-missing-amazon-receipts/)
+* [Differentiable Control Problems](https://fluxml.ai/2019/03/05/dp-vs-rl.html)
 * [MixedName – Bilingual baby name finder](https://mixedname.com/)
-* [The daydream that never stops (2017)](https://www.bbc.co.uk/news/resources/idt-sh/the_daydream_that_never_stops)
 * [D3 6.0](https://github.com/d3/d3/blob/master/CHANGES.md)
 * [Willscott/go-NFS: Golang NFSv3 server](https://github.com/willscott/go-nfs/)
+* [SpaceX Starlink average speedtest is 42.3Mbps down / 9.7 Mbps up](https://testmy.net/hoststats/spacex_starlink)
+* [The daydream that never stops (2017)](https://www.bbc.co.uk/news/resources/idt-sh/the_daydream_that_never_stops)
 * [TF-Coder, a tool that writes tricky TensorFlow expressions](https://blog.tensorflow.org/2020/08/introducing-tensorflow-coder-tool.html)
 ## nytimes.com
 
@@ -75,17 +75,16 @@ layout: default
 * [TikTok Chief Executive Kevin Mayer Resigns](https://www.nytimes.com/2020/08/27/technology/tiktok-kevin-mayer-resign.html)
 * [China Fires Missiles Into South China Sea, Sending U.S. a Message](https://www.nytimes.com/2020/08/27/world/asia/missiles-south-china-sea.html)
 * [New Zealand Gives Christchurch Gunman a Life Sentence](https://www.nytimes.com/2020/08/26/world/asia/christchurch-brenton-tarrant-sentenced.html)
+* [Over 100 Ex-Staff Members for John McCain Endorse Joe Biden](https://www.nytimes.com/2020/08/27/us/politics/john-mccain-biden-trump.html)
 * [Minneapolis Homicide Suspect’s Suicide Spurs More Protests, Police Say](https://www.nytimes.com/2020/08/26/us/minneapolis-protests-unrest.html)
-* [Sailor Investigated for Arson in U.S.S. Bonhomme Richard Fire](https://www.nytimes.com/2020/08/26/us/bonhomme-richard-arson-fire.html)
 * [Trash Piles Up in Parks, Just When New Yorkers Need Them the Most](https://www.nytimes.com/2020/08/27/nyregion/nyc-parks-trash.html)
 * [Tennis's Bryan Brothers Say They Are Retiring Ahead of U.S. Open](https://www.nytimes.com/2020/08/26/sports/tennis/bryan-brothers-retire.html)
 * [Turkey Braces for Yet Another Currency Crisis](https://www.nytimes.com/2020/08/27/business/turkey-currency-crisis.html)
 * [Intel Slips, and a High-Profile Supercomputer Is Delayed](https://www.nytimes.com/2020/08/27/technology/intel-aurora-supercomputer.html)
-* [How to Handle Separation Anxiety Meltdowns in Kids](https://www.nytimes.com/2020/08/20/parenting/separation-anxiety-children.html)
-* [How to Set Pandemic Boundaries for Relatives](https://www.nytimes.com/2020/08/22/well/family/boundaries-pandemic-family-relationships.html)
-* [Play these Old School Games](https://www.nytimes.com/2020/08/22/at-home/sharpen-a-pencil-and-challenge-an-opponent.html)
-* [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
-* [The Lesson We’re Learning From TikTok? It’s All About Our Data](https://www.nytimes.com/2020/08/26/technology/personaltech/tiktok-data-apps.html)
+* [5 Simple Ways to Improve Your Wi-Fi](https://www.nytimes.com/2020/08/24/smarter-living/home-wifi-upgrade.html)
+* [5 Things We Know About Flying Right Now](https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html)
+* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
+* [The Monotony of Family Meals Can Trigger Past Disordered Eating](https://www.nytimes.com/2020/08/19/parenting/eating-disorders-coronavirus.html)
 * [Félix Fénéon, the Collector-Anarchist Who Was Seurat’s First Champion](https://www.nytimes.com/2020/08/27/arts/design/moma-reopens-felix-feneon.html)
 * [Jon Meacham on John Lewis, the Legend and the Man](https://www.nytimes.com/2020/08/25/books/review/his-truth-is-marching-on-jon-meacham.html)
 * [How ‘MTV Cribs’ Rewired My Brain, and Maybe Yours Too](https://www.nytimes.com/2020/08/26/arts/television/mtv-cribs-mariah-carey.html)
@@ -104,13 +103,13 @@ layout: default
 ## globo.com
 
 
-* [Nasce a filha de Katy Perry e Orlando Bloom](https://oglobo.globo.com/ela/gente/nasce-filha-de-katy-perry-orlando-bloom-24608458)
-* [Por que dizer 'tomei cloroquina e por isso me curei', como faz Bolsonaro, é uma 'falácia' e não prova nada](https://epoca.globo.com/sociedade/por-que-dizer-tomei-cloroquina-por-isso-me-curei-como-faz-bolsonaro-uma-falacia-nao-prova-nada-24608460)
-* [PF faz operação contra tráfico internacional de drogas no DF e quatro estados](https://oglobo.globo.com/brasil/pf-faz-operacao-contra-trafico-internacional-de-drogas-no-df-quatro-estados-24608424)
+* [Furacão Laura: tempestade chega aos EUA com ameaça de 'ressacas catastróficas, ventos extremos e inundações'](https://epoca.globo.com/mundo/furacao-laura-tempestade-chega-aos-eua-com-ameaca-de-ressacas-catastroficas-ventos-extremos-inundacoes-24608491)
+* [Nasce Daisy Dove, a filha de Katy Perry e Orlando Bloom](https://oglobo.globo.com/ela/gente/nasce-daisy-dove-filha-de-katy-perry-orlando-bloom-24608458)
+* [Quando as principais ligas esportivas dos EUA resolveram parar contra o racismo](https://oglobo.globo.com/esportes/quando-as-principais-ligas-esportivas-dos-eua-resolveram-parar-contra-racismo-24608495)
+* [Operação no DF e quatro estados mira traficantes que atuam na fronteira com o Paraguai](https://oglobo.globo.com/brasil/operacao-no-df-quatro-estados-mira-traficantes-que-atuam-na-fronteira-com-paraguai-24608424)
+* [Dólar abre em queda de 0,44%, cotado a R$ 5,58, na expectativa de discurso do Banco Central dos EUA](https://oglobo.globo.com/economia/dolar-abre-em-queda-de-044-cotado-r-558-na-expectativa-de-discurso-do-banco-central-dos-eua-24608486)
+* [Por que dizer 'tomei cloroquina e por isso me curei', como faz Bolsonaro, é uma 'falácia' e não prova nada](https://epoca.globo.com/sociedade/por-que-dizer-tomei-cloroquina-por-isso-me-curei-como-faz-bolsonaro-uma-falacia-nao-prova-nada-1-24608460)
 * [PGR recomenda ao Supremo rejeitar recurso do MP do Rio contra foro privilegiado de Flávio Bolsonaro](https://oglobo.globo.com/brasil/pgr-recomenda-ao-supremo-rejeitar-recurso-do-mp-do-rio-contra-foro-privilegiado-de-flavio-bolsonaro-24608449)
 * [Como o Flamengo pode ganhar time e estádio em Las Vegas](https://epoca.globo.com/esportes/como-flamengo-pode-ganhar-time-estadio-em-las-vegas-24607366)
 * [Nicole Poturalski: cinco curiosidades sobre a nova namorada de Brad Pitt](https://oglobo.globo.com/ela/gente/nicole-poturalski-cinco-curiosidades-sobre-nova-namorada-de-brad-pitt-24608402)
-* [Exclusivo: vídeo mostra irmão tentando fazer bandido que mantinha reféns no Rio Comprido se entregar](https://oglobo.globo.com/rio/exclusivo-video-mostra-irmao-tentando-fazer-bandido-que-mantinha-refens-no-rio-comprido-se-entregar-24608400)
-* [Por que a aprovação de Trump na gestão da economia permanece sólida](https://oglobo.globo.com/mundo/por-que-aprovacao-de-trump-na-gestao-da-economia-permanece-solida-24607972)
 * [Crianças de até 14 anos são maioria das mulheres estupradas no estado do Rio, aponta Dossiê Mulher 2020](https://oglobo.globo.com/celina/criancas-de-ate-14-anos-sao-maioria-das-mulheres-estupradas-no-estado-do-rio-aponta-dossie-mulher-2020-24607139)
-* [Aprovação de novo tribunal, com novos gastos, mostra limites de Rodrigo Maia](https://oglobo.globo.com/analitico/aprovacao-de-novo-tribunal-com-novos-gastos-mostra-limites-de-rodrigo-maia-24608153)

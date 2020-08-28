@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 28/08/2020 03:17:42 UTC
+# indexed at 28/08/2020 03:35:18 UTC
 
 
 ## news.ycombinator.com
@@ -14,11 +14,11 @@ layout: default
 * [Does Facebook pay Apple 30% of revenue derived from ads made within its iOS app?](https://twitter.com/SpencerDailey/status/1299063704483438593)
 * [Waymo Tests Autonomous Trucks in Texas](https://www.ttnews.com/articles/waymo-tests-autonomous-trucks-texas)
 * [New Economic Challenges and the Fed's Monetary Policy Review](https://www.federalreserve.gov/newsevents/speech/powell20200827a.htm)
-* [Scrollbar Blindness](https://svenkadak.com/blog/scrollbar-blindness)
 * [Lego IKEA Bygglek – First Look](http://www.brickfinder.net/2020/07/11/lego-ikea-bygglek-first-look/)
+* [Scrollbar Blindness](https://svenkadak.com/blog/scrollbar-blindness)
 * [When Asbestos Was a Gift Fit for a King](https://daily.jstor.org/when-asbestos-was-a-gift-fit-for-a-king/)
-* [A Short Guide to Minimal Web Development (2018)](https://meiert.com/en/blog/minimal-web-development/)
 * [The Lounge – Modern web IRC client designed for self-hosting](https://github.com/thelounge/thelounge)
+* [A Short Guide to Minimal Web Development (2018)](https://meiert.com/en/blog/minimal-web-development/)
 * [Band-Limiting Procedural Textures](https://iquilezles.org/www/articles/bandlimiting/bandlimiting.htm)
 * [The time it takes to run a paid newsletter](https://simonowens.substack.com/p/the-exact-time-commitment-it-takes)
 * [Show HN: Muse – Tool for Thought on iPad](https://launch-preview.museapp.com/)
@@ -26,17 +26,17 @@ layout: default
 * [Hard work vs. Long work (2011)](https://seths.blog/2011/05/hard-work-vs-long-work/)
 * [An Archive of a Different Type](http://blog.archive.org/2020/08/26/an-archive-of-a-different-type/)
 * [Nitrokey](https://www.nitrokey.com/)
-* [Constant Time LFU](https://arpitbhayani.me/blogs/lfu)
-* [Apple to start requiring written consent for third party API usage in apps](https://9to5mac.com/2020/08/27/apple-rejects-watch-for-tesla-app-as-it-starts-requiring-written-consent-for-third-party-api-use/)
-* [Antibiotics nearly double risk of developing IBD, doctors warn](https://www.studyfinds.org/antibiotics-double-ibd-risk/)
-* [Anime-to-Real Clothing: Cosplay Costume Generation](https://arxiv.org/abs/2008.11479)
-* [Rare plants that ‘bleed’ nickel](https://www.bbc.com/future/article/20200825-indonesia-the-plants-that-mine-poisonous-metals)
 * [In Ashgabat](https://www.lrb.co.uk/the-paper/v42/n15/james-lomax/diary)
-* [Confessions of an ID Theft Kingpin, Part II](https://krebsonsecurity.com/2020/08/confessions-of-an-id-theft-kingpin-part-ii/)
-* [Show HN: Olaf – Acoustic Fingerprinting on the ESP32 and in the Browser](https://0110.be/posts/Olaf_-_Acoustic_fingerprinting_on_the_ESP32_and_in_the_Browser)
+* [Constant Time LFU](https://arpitbhayani.me/blogs/lfu)
+* [Antibiotics nearly double risk of developing IBD, doctors warn](https://www.studyfinds.org/antibiotics-double-ibd-risk/)
+* [Rare plants that ‘bleed’ nickel](https://www.bbc.com/future/article/20200825-indonesia-the-plants-that-mine-poisonous-metals)
+* [Anime-to-Real Clothing: Cosplay Costume Generation](https://arxiv.org/abs/2008.11479)
+* [Apple to start requiring written consent for third party API usage in apps](https://9to5mac.com/2020/08/27/apple-rejects-watch-for-tesla-app-as-it-starts-requiring-written-consent-for-third-party-api-use/)
 * [Discovery of scholar's notes shine light on race to decipher Rosetta Stone](https://www.theguardian.com/culture/2020/aug/25/discovery-of-scholars-notes-shine-light-on-race-to-decipher-rosetta-stone)
+* [Confessions of an ID Theft Kingpin, Part II](https://krebsonsecurity.com/2020/08/confessions-of-an-id-theft-kingpin-part-ii/)
 * [Blanked-out spots on China's maps helped us uncover Xinjiang's camps](https://www.buzzfeednews.com/article/alison_killing/satellite-images-investigation-xinjiang-detention-camps)
 * [The magic of ion channels in the neurons](https://i-kh.net/2020/08/26/the-magic-of-ion-channels/)
+* [Bill Gates' nuclear venture plans reactor to complement solar, wind power boom](https://www.reuters.com/article/us-usa-nuclearpower-terrapower/bill-gates-nuclear-venture-plans-reactor-to-complement-solar-wind-power-boom-idUSKBN25N2U8)
 * [Rust 1.46](https://blog.rust-lang.org/2020/08/27/Rust-1.46.0.html)
 ## nytimes.com
 
@@ -82,8 +82,8 @@ layout: default
 * [U.S. Open Draw Lacks Some Stars, but Not Story Lines](https://www.nytimes.com/2020/08/27/sports/tennis/us-open-draw-serena-williams.html)
 * [Printer Jam: Serious Supply Issues Disrupt the Book Industry’s Fall Season](https://www.nytimes.com/2020/08/27/books/printing-companies-backlog-book-publishing.html)
 * [The Lesson We’re Learning From TikTok? It’s All About Our Data](https://www.nytimes.com/2020/08/26/technology/personaltech/tiktok-data-apps.html)
-* [The 2020 Back-to-School List for Teens’ Emotional Well-Being](https://www.nytimes.com/2020/08/25/well/family/teens-mental-health-needs.html)
 * [Play these Old School Games](https://www.nytimes.com/2020/08/22/at-home/sharpen-a-pencil-and-challenge-an-opponent.html)
+* [The 2020 Back-to-School List for Teens’ Emotional Well-Being](https://www.nytimes.com/2020/08/25/well/family/teens-mental-health-needs.html)
 * [How to Set Pandemic Boundaries for Relatives](https://www.nytimes.com/2020/08/22/well/family/boundaries-pandemic-family-relationships.html)
 * [The British Museum Reopens to a World That Has Changed](https://www.nytimes.com/2020/08/27/arts/design/british-museum-reopening.html)
 * [A Cozy Cottage on an Island Northeast of Stockholm](https://www.nytimes.com/2020/08/26/t-magazine/cottage-stockholm-home-design.html)
@@ -94,9 +94,8 @@ layout: default
 * [First Documented Coronavirus Reinfection Reported in Hong Kong](https://www.nytimes.com/2020/08/24/health/coronavirus-reinfection.html)
 * [Why Some Tropical Fish Are Gettin’ Squiggly With It](https://www.nytimes.com/2020/08/22/science/angelfish-paracentropyge-hybrid-genetics.html)
 * [New Video Shows Largest Hydrogen Bomb Ever Exploded](https://www.nytimes.com/2020/08/25/science/tsar-bomba-nuclear-test.html)
-* [Bayern Munich 1, P.S.G. 0: A Champions League Win for Tradition and Team](https://www.nytimes.com/2020/08/23/sports/soccer/psg-bayern-live-score.html)
 * [Stephen Colbert Refuses to Watch Night 3 of the R.N.C.](https://www.nytimes.com/2020/08/27/arts/television/stephen-colbert-republican-convention.html)
-* [“So, it didn’t surprise me when President Donald Trump appointed the most women to senior level positions of any administration in history.”](https://www.nytimes.com/live/2020/08/26/us/rnc-fact-check/so-it-didnt-surprise-me-when-president-donald-trump-appointed-the-most-women-to-senior-level-positions-of-administration)
+* [Bare Breasts on French Beaches? You Can, Despite Police Warnings](https://www.nytimes.com/2020/08/26/world/europe/france-beach-topless.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)

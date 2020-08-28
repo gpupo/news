@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 28/08/2020 22:35:20 UTC
+# indexed at 28/08/2020 23:07:12 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Apple Terminates Epic Games' Developer Account](https://www.macrumors.com/2020/08/28/apple-terminates-epic-games-developer-account/)
 * [Netflix is now doing per-shot encoding for UHD content](https://netflixtechblog.com/optimized-shot-based-encodes-for-4k-now-streaming-47b516b10bbb)
 * [Ethereum Is a Dark Forest](https://medium.com/@danrobinson/ethereum-is-a-dark-forest-ecc5f0505dff)
-* [Apple Terminates Epic Games' Developer Account](https://www.macrumors.com/2020/08/28/apple-terminates-epic-games-developer-account/)
 * [Game Design Curriculum](https://www.riotgames.com/en/urf-academy/curriculum-guide)
+* [The Joy of Cryptography](http://web.engr.oregonstate.edu/~rosulekm/crypto/)
 * [Objective-Rust](https://belkadan.com/blog/2020/08/Objective-Rust/)
 * [GoodRx S-1](https://www.sec.gov/Archives/edgar/data/1809519/000119312520234662/d949310ds1.htm)
-* [People](https://patrickcollison.com/people)
 * [Impact of Go AI on the professional Go world](https://medium.com/@hajinlee/impact-of-go-ai-on-the-professional-go-world-f14cf201c7c2)
-* [GNU/Linux Smartphone Librem 5 Evergreen Update: Mold and Milestones](https://puri.sm/posts/librem-5-evergreen-update-mold-and-milestones/)
 * [Show HN: Visualize Data Structures in VS Code](https://github.com/hediet/vscode-debug-visualizer/tree/master/extension)
 * [Intel's “cripple AMD” function (2019)](https://www.agner.org/forum/viewtopic.php?f=1&t=6)
 * [Show HN: Read The Count of Monte Cristo and others in installments in your email](https://www.serialliterature.com/)
 * [Google is apparently taking down all/most Fediverse apps from the Play Store](https://qoto.org/@freemo/104765288863293481)
+* [GNU/Linux Smartphone Librem 5 Evergreen Update: Mold and Milestones](https://puri.sm/posts/librem-5-evergreen-update-mold-and-milestones/)
+* [Show HN: Healthcare Is Dumb](https://healthcareisdumb.com/)
 * [Squad Wealth](https://otherinter.net/squad-wealth/)
-* [The Joy of Cryptography](http://web.engr.oregonstate.edu/~rosulekm/crypto/)
 * [Show HN: 3D first person game rendered in CSS/HTML](https://pantel.is/projects/css3d/)
 * [Expert overclockers successfully push DOOM Eternal past 1k frames per second](https://slayersclub.bethesda.net/en/article/48xD6yVj0VsulONXKAnr7n/doom-eternal-overclocked-at-1000-fps)
 * [Retrobatch – flexible batch image processing for Mac](https://flyingmeat.com/retrobatch/)
-* [Zoom is now critical infrastructure – that’s a concern](https://www.brookings.edu/blog/techtank/2020/08/27/zoom-is-now-critical-infrastructure-thats-a-concern/)
 * [The Jellyfish Problem](https://www.historytoday.com/archive/natural-histories/jellyfish-problem)
+* [Zoom is now critical infrastructure – that’s a concern](https://www.brookings.edu/blog/techtank/2020/08/27/zoom-is-now-critical-infrastructure-thats-a-concern/)
 * [Ham radio is not dying, it's evolving](http://k0lwc.com/ham-radio-is-dying-no-its-not-its-evolving/)
-* [Pure and Applied Chess](https://theelectricagora.com/2020/08/28/pure-and-applied-chess/)
-* [Show HN: Healthcare Is Dumb](https://healthcareisdumb.com/)
+* [In Defense of the IPO, and How to Improve It](https://a16z.com/2020/08/28/in-defense-of-the-ipo/)
+* [Good vibrations: acoustic technologies in cars](https://physicsworld.com/a/good-vibrations-acoustic-technologies-in-cars/)
+* [Millions of Americans could lose their electricity as shutoff moratoriums expire](https://carbonswitch.co/energy-insecurity-and-covid-19)
 * [Graphtage: A New Semantic Diffing Tool](https://blog.trailofbits.com/2020/08/28/graphtage/)
 * [Why I’m Willing to Pay a Premium for Security, Privacy, and Peace of Mind](https://tirania.org/blog/archive/2020/Aug-28.html)
+* [Firefox 80 and my confusion over its hardware accelerated video on Linux](https://utcc.utoronto.ca/~cks/space/blog/web/Firefox80VideoAccelConfusion)
 * [Robots that can walk are now striding to market](https://www.economist.com/science-and-technology/2020/08/25/robots-that-can-walk-are-now-striding-to-market)
+* [Pure and Applied Chess](https://theelectricagora.com/2020/08/28/pure-and-applied-chess/)
 * [The Magic of Engineered Serendipity](https://www.beondeck.com/post/the-magic-of-engineered-serendipity)
-* [Millions of Americans could lose their electricity as shutoff moratoriums expire](https://carbonswitch.co/energy-insecurity-and-covid-19)
-* [Is Cyberpunk Dead? A Conversation with Bruce Bethke](https://www.markeverglade.com/iscyberpunkdead)
-* [Boeing yanks eight 787s from service over structural issue](https://theaircurrent.com/aviation-safety/boeing-pulls-eight-787s-from-service-over-structural-issue/)
 ## nytimes.com
 
 
@@ -45,7 +45,7 @@ layout: default
 * [Emily Miller and Another P.R. Expert Ousted At F.D.A. After Blood Plasma Fiasco](https://www.nytimes.com/2020/08/28/health/blood-plasma-fda.html)
 * [Spotting $62 Million in Alleged P.P.P. Fraud Was the Easy Part](https://www.nytimes.com/2020/08/28/business/ppp-small-business-fraud-coronavirus.html)
 * [Live Updates: Jacob Blake Will No Longer Be Shackled to Bed, Lawyer Says](https://www.nytimes.com/2020/08/28/us/kenosha-shooting-protests.html)
-* [March on Washington 2020: Protesters Gathered to Demand Racial Justice](https://www.nytimes.com/2020/08/28/us/march-on-washington-2020.html)
+* [March on Washington 2020: Protesters Hope to Rekindle Spirit of 1963](https://www.nytimes.com/2020/08/28/us/march-on-washington-2020.html)
 * [N.B.A. and Players’ Union Agree to Resume Playoffs](https://www.nytimes.com/2020/08/28/sports/basketball/nba-playoffs-resume.html)
 * [Election Updates: Woman Who Praised Trump at R.N.C. Gets Full Pardon](https://www.nytimes.com/live/2020/08/28/us/trump-vs-biden)
 * [For Trump, G.O.P. Created an Alternative America Beyond Covid-19](https://www.nytimes.com/2020/08/28/us/politics/trump-coronavirus-fact-check.html)
@@ -73,8 +73,8 @@ layout: default
 * [‘It’s a Joy for Me to Bury Them’: A Quest to Honor Migrant Dead](https://www.nytimes.com/2020/08/28/world/africa/morocco-bodies-migrants.html)
 * [‘WAP’ Is Good, Raunchy Fun. On TikTok, It’s at Home.](https://www.nytimes.com/2020/08/28/arts/music/wap-cardi-b-megan-thee-stallion-ppcocaine.html)
 * [Remembering Odetta, Whose Powerful Voice Met a Profound Moment](https://www.nytimes.com/2020/08/24/books/review-odetta-biography-ian-zack-one-grain-of-sand-matthew-frye-jacobson.html)
-* [Britain’s Central Bank Could Cut Rates Below Zero: Live Business Updates](https://www.nytimes.com/live/2020/08/28/business/stock-market-today-coronavirus)
 * [On Trump, Merkel's Face Does the Talking](https://www.nytimes.com/2020/08/28/world/europe/merkel-trump-grenell.html)
+* [2 TikTok Stars Who Threw Big Parties Face Charges, Prosecutors Say](https://www.nytimes.com/2020/08/28/style/2-tiktok-stars-who-threw-big-parties-face-charges-prosecutors-say.html)
 * [Keith Raniere, Nxivm ‘Sex Cult’ Leader, Should Get Life in Prison, Prosecutors Say](https://www.nytimes.com/2020/08/28/nyregion/nxivm-keith-raniere-sentence.html)
 * [After 7 Years on the Run, a Muslim Brotherhood Leader Is Caught](https://www.nytimes.com/2020/08/28/world/middleeast/egypt-muslim-brotherhood-ezzat.html)
 * [7 Takeaways From ‘Melania and Me,’ by the First Lady’s Former Friend](https://www.nytimes.com/2020/08/28/books/review/melania-and-me-stephanie-winston-wolkoff.html)
@@ -95,21 +95,20 @@ layout: default
 * [Reopened Schools Find Health Risks in Water After Covid-19 Lockdowns](https://www.nytimes.com/2020/08/27/health/covid-schools-legionnaires-disease.html)
 * [Fossil Reveals ‘One of the Cutest Dinosaurs’ Ever Found](https://www.nytimes.com/2020/08/27/science/dinosaur-face-fossil.html)
 * [You Can’t Escape Lice, Even 6,500 Feet Below the Ocean](https://www.nytimes.com/2020/08/26/science/lice-elephant-seals.html)
-* [Confronting a Powerful Democrat, Ocasio-Cortez Supports Morse](https://www.nytimes.com/2020/08/25/us/politics/alex-morse-richard-neal-aoc.html)
-* [Linda Manz, Young Star of ‘Days of Heaven,’ Dies at 58](https://www.nytimes.com/2020/08/28/movies/linda-manz-dead.html)
+* [Tracking Kyle Rittenhouse in the Fatal Kenosha Shootings](https://www.nytimes.com/2020/08/27/us/kyle-rittenhouse-kenosha-shooting-video.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
-* [Ministério da Saúde anuncia R$ 260 milhões para conter aumento na mortalidade materna provocada pela Covid-19](https://oglobo.globo.com/sociedade/ministerio-da-saude-anuncia-260-milhoes-para-conter-aumento-na-mortalidade-materna-provocada-pela-covid-19-24612453)
-* [Salles rebate Mourão e diz que bloqueio de verbas só foi revertido após seu protesto](https://oglobo.globo.com/sociedade/salles-rebate-mourao-diz-que-bloqueio-de-verbas-so-foi-revertido-apos-seu-protesto-24612291)
-* [Mourão diz que Salles 'se precipitou' ao anunciar suspensão de combate a desmatamento e queimadas](https://oglobo.globo.com/sociedade/mourao-diz-que-salles-se-precipitou-ao-anunciar-suspensao-de-combate-desmatamento-queimadas-24612225)
 * [Flordelis é afastada da bancada evangélica na Câmara](https://oglobo.globo.com/rio/flordelis-afastada-da-bancada-evangelica-na-camara-24612320)
-* [Guedes defende ‘nova CPMF’ e diz que não aumentará impostos](https://oglobo.globo.com/economia/guedes-defende-nova-cpmf-diz-que-nao-aumentara-impostos-24612169)
+* [Brasil ultrapassa 119 mil mortos e 3,8 milhões de infectados por Covid-19, aponta consórcio de veículos de imprensa no boletim das 20h](https://oglobo.globo.com/sociedade/brasil-ultrapassa-119-mil-mortos-38-milhoes-de-infectados-por-covid-19-aponta-consorcio-de-veiculos-de-imprensa-no-boletim-das-20h-1-24612471)
+* [Veja o que é #FATO ou #FAKE no discurso de Wilson Witzel após o afastamento do cargo pelo STJ](https://oglobo.globo.com/fato-ou-fake/veja-que-fato-ou-fake-no-discurso-de-wilson-witzel-apos-afastamento-do-cargo-pelo-stj-24612283)
+* [Mourão vê "precipitação" de Salles e diz que combate a desmatamento e queimadas vai continuar](https://oglobo.globo.com/sociedade/mourao-ve-precipitacao-de-salles-diz-que-combate-desmatamento-queimadas-vai-continuar-24612225)
+* [Salles rebate Mourão e diz que bloqueio de verbas só foi revertido após seu protesto](https://oglobo.globo.com/sociedade/salles-rebate-mourao-diz-que-bloqueio-de-verbas-so-foi-revertido-apos-seu-protesto-24612291)
+* [Há dois cenários para Witzel, e nenhum é favorável ao governador afastado](https://oglobo.globo.com/analitico/ha-dois-cenarios-para-witzel-nenhum-favoravel-ao-governador-afastado-24612196)
+* [Ministério da Saúde anuncia R$ 260 milhões para conter aumento na mortalidade materna provocada pela Covid-19](https://oglobo.globo.com/sociedade/ministerio-da-saude-anuncia-260-milhoes-para-conter-aumento-na-mortalidade-materna-provocada-pela-covid-19-24612453)
 * [Capitão da polícia chilena é preso por cegar uma mulher durante protestos de 2019](https://oglobo.globo.com/mundo/capitao-da-policia-chilena-preso-por-cegar-uma-mulher-durante-protestos-de-2019-24612080)
 * [Conselho Superior cobra Aras que prorrogue estrutura das forças-tarefas da Lava-Jato do Rio e de Curitiba](https://oglobo.globo.com/brasil/conselho-superior-cobra-aras-que-prorrogue-estrutura-das-forcas-tarefas-da-lava-jato-do-rio-de-curitiba-1-24612178)
-* [Flamengo e Witzel: clube não vê risco ao Maracanã e negocia outra renovação da permissão](https://oglobo.globo.com/esportes/flamengo-witzel-clube-nao-ve-risco-ao-maracana-negocia-outra-renovacao-da-permissao-24612163)
 * [AGU defende no Supremo foro privilegiado para Flávio Bolsonaro](https://oglobo.globo.com/brasil/agu-defende-no-supremo-foro-privilegiado-para-flavio-bolsonaro-24612175)
-* [Entenda por que portaria que obriga médico a avisar polícia sobre aborto legal é retrocesso, segundo especialistas](https://oglobo.globo.com/sociedade/entenda-por-que-portaria-que-obriga-medico-avisar-policia-sobre-aborto-legal-retrocesso-segundo-especialistas-24611885)

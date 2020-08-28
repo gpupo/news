@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 28/08/2020 18:35:26 UTC
+# indexed at 28/08/2020 19:16:25 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Google is apparently taking down all/most fediverse apps from the Play Store](https://qoto.org/@freemo/104765288863293481)
 * [Show HN: Visualize Data Structures in VS Code](https://github.com/hediet/vscode-debug-visualizer/tree/master/extension)
+* [The Magic of Engineered Serendipity](https://www.beondeck.com/post/the-magic-of-engineered-serendipity)
 * [Zoom is now critical infrastructure – that’s a concern](https://www.brookings.edu/blog/techtank/2020/08/27/zoom-is-now-critical-infrastructure-thats-a-concern/)
+* [Show HN: Read The Count of Monte Cristo and others in installments in your email](https://www.serialliterature.com/)
 * [Boeing yanks eight 787s from service over structural issue](https://theaircurrent.com/aviation-safety/boeing-pulls-eight-787s-from-service-over-structural-issue/)
 * [Show HN: 3D first person game rendered in CSS/HTML](https://pantel.is/projects/css3d/)
 * [Ham radio is not dying, it's evolving](http://k0lwc.com/ham-radio-is-dying-no-its-not-its-evolving/)
 * [Firefox 80 and my confusion over its hardware accelerated video on Linux](https://utcc.utoronto.ca/~cks/space/blog/web/Firefox80VideoAccelConfusion)
-* [The Magic of Engineered Serendipity](https://www.beondeck.com/post/the-magic-of-engineered-serendipity)
-* [Robots that can walk are now striding to market](https://www.economist.com/science-and-technology/2020/08/25/robots-that-can-walk-are-now-striding-to-market)
-* [Redis Labs Raises $100M](https://redislabs.com/press/redis-labs-raises-100-million-series-f-financing/)
 * [Is Cyberpunk Dead? A Conversation with Bruce Bethke](https://www.markeverglade.com/iscyberpunkdead)
-* [Show HN: Read The Count of Monte Cristo and others in installments in your email](https://www.serialliterature.com/)
+* [Redis Labs Raises $100M](https://redislabs.com/press/redis-labs-raises-100-million-series-f-financing/)
 * [Launch HN: SuperTokens (YC S20) – Securely manage session tokens](https://news.ycombinator.com/item?id=24306572)
 * [Investigating the Milk, MIT's Historic Dairy Product (2015)](https://alum.mit.edu/slice/investigating-milk-mits-historic-dairy-product)
+* [Robots that can walk are now striding to market](https://www.economist.com/science-and-technology/2020/08/25/robots-that-can-walk-are-now-striding-to-market)
+* [JS8Call – weak signal communication on HF with a keyboard-to-keyboard interface](http://js8call.com)
 * [Surprising new feature in AMD Ryzen 3000](https://www.agner.org/forum/viewtopic.php?t=41)
-* [OCaml Workshop 2020 Online Conference is live now](https://discuss.ocaml.org/t/ocaml-workshop-2020-online-conference-is-live-now/6287/9?u=mseri)
 * [RFC8890: The Internet Is for End Users](https://www.mnot.net/blog/2020/08/28/for_the_users)
-* [Babylonian Mathematics (2003) [pdf]](https://www.math.tamu.edu/~dallen/masters/egypt_babylon/babylon.pdf)
-* [Bcrypt Step-by-Step](https://qvault.io/2020/08/24/bcrypt-step-by-step/)
-* [Pluto.jl – a reactive, lightweight, simple notebook](https://github.com/fonsp/Pluto.jl)
-* [Dots don't matter in Gmail addresses](https://support.google.com/mail/answer/7436150?hl=en)
 * [Powell’s says it won’t sell books on Amazon anymore](https://www.oregonlive.com/silicon-forest/2020/08/powells-says-it-wont-sell-books-on-amazon-anymore-we-must-take-a-stand.html)
-* [Tarpn: Terrestrial Amateur Radio Packet Network](http://tarpn.net/t/packet_radio_networking.html)
+* [Dots don't matter in Gmail addresses](https://support.google.com/mail/answer/7436150?hl=en)
+* [OCaml Workshop 2020 Online Conference is live now](https://discuss.ocaml.org/t/ocaml-workshop-2020-online-conference-is-live-now/6287/9?u=mseri)
+* [Pluto.jl – a reactive, lightweight, simple notebook](https://github.com/fonsp/Pluto.jl)
+* [Bcrypt Step-by-Step](https://qvault.io/2020/08/24/bcrypt-step-by-step/)
 * [Using Microsoft Word with Git](https://blog.martinfenner.org/2014/08/25/using-microsoft-word-with-git/)
+* [Babylonian Mathematics (2003) [pdf]](https://www.math.tamu.edu/~dallen/masters/egypt_babylon/babylon.pdf)
 * [100 years to solve an integral: The history of the Mercator map](https://liorsinai.github.io/mathematics/2020/08/27/secant-mercator.html)
-* [Step-by-Step Centralized Authentication for K8s with Keycloak and Ambassador](https://blog.getambassador.io/centralized-authentication-with-keycloak-and-ambassador-edge-stack-d509ffbc7b6f)
+* [Tarpn: Terrestrial Amateur Radio Packet Network](http://tarpn.net/t/packet_radio_networking.html)
 * [Painting a better life through side SaaS hustles](https://getmakerlog.com/stories/micah-iverson-founder-and-ceo-of-retrospect)
+* [Step-by-Step Centralized Authentication for K8s with Keycloak and Ambassador](https://blog.getambassador.io/centralized-authentication-with-keycloak-and-ambassador-edge-stack-d509ffbc7b6f)
 * [One Year with ThinkPad and Linux (From MacBook Pro)](https://drikerf.com/one-year-with-thinkpad-and-linux-from-macbook-pro/)
 * [Fox Two: The Story of the Aim-9 Sidewinder (2014)](http://www.donhollway.com/foxtwo/)
-* [Testing Database Transactions in Go](https://marvinblum.de/blog/testing-database-transactions-in-go-jEaOGXravM)
 ## nytimes.com
 
 
@@ -61,7 +61,7 @@ layout: default
 * [Republican Convention: Best and Worst Moments From Trump’s Big Night](https://www.nytimes.com/2020/08/28/opinion/rnc-best-worst-trump-night-4.html)
 * [Kenosha Tells Us More About Where the Right Is Headed Than the R.N.C. Did](https://www.nytimes.com/2020/08/28/opinion/kenosha-kyle-rittenhouse-trump.html)
 * [America’s Coronavirus Reopening Choice: Schools, Bars or Disney World?](https://www.nytimes.com/2020/08/28/opinion/coronavirus-schools-tradeoffs.html)
-* [The N.B.A. Finds That Social Justice Is a Team Sport](https://www.nytimes.com/2020/08/28/opinion/NBA-boycott-history.html)
+* [Athletes Are Finished Playing America’s Rigged Game](https://www.nytimes.com/2020/08/28/opinion/NBA-boycott-history.html)
 * [Trump's R.N.C. Speech Leaned on Political Golden Oldies](https://www.nytimes.com/2020/08/28/opinion/rnc-trump-speech.html)
 * [Is There Nothing Trump Won’t Say?](https://www.nytimes.com/2020/08/28/opinion/trump-rnc-speech.html)
 * [The Brain Implants That Could Change Humanity](https://www.nytimes.com/2020/08/28/opinion/brain-machine-artificial-intelligence.html)
@@ -94,22 +94,22 @@ layout: default
 * [Reopened Schools Find Health Risks in Water After Covid-19 Lockdowns](https://www.nytimes.com/2020/08/27/health/covid-schools-legionnaires-disease.html)
 * [Fossil Reveals ‘One of the Cutest Dinosaurs’ Ever Found](https://www.nytimes.com/2020/08/27/science/dinosaur-face-fossil.html)
 * [You Can’t Escape Lice, Even 6,500 Feet Below the Ocean](https://www.nytimes.com/2020/08/26/science/lice-elephant-seals.html)
-* [Naomi Osaka Returns After Protest Prompts Tournament’s Pause](https://www.nytimes.com/2020/08/28/sports/tennis/naomi-osaka.html)
-* [Will More Data Make Us Healthier?](https://www.nytimes.com/2020/08/28/technology/health-tracking-technology.html)
-* [Here are 3 key moments from the final night of the Republican convention.](https://www.nytimes.com/2020/08/28/us/elections/here-are-3-key-moments-from-the-final-night-of-the-republican-convention.html)
+* [How to Choose the Right Pediatrician](https://www.nytimes.com/article/choosing-a-pediatrician-children.html)
+* [‘A Family Business:’ Graft Investigation Threatens Brazil’s Bolsonaro](https://www.nytimes.com/2020/08/28/world/americas/brazil-bosonaro-corruption.html)
+* [N.B.A. and Players’ Union Agree to Resume Playoffs](https://www.nytimes.com/2020/08/28/sports/basketball/nba-playoffs-resume.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
-* [Auxílio emergencial: Bolsonaro afirma que benefício não é 'aposentadoria'](https://oglobo.globo.com/economia/auxilio-emergencial-bolsonaro-afirma-que-beneficio-nao-aposentadoria-24611637)
+* [Pastor Everaldo e outros seis presos pela Polícia Federal são transferidos para o sistema prisional](https://oglobo.globo.com/rio/pastor-everaldo-outros-seis-presos-pela-policia-federal-sao-transferidos-para-sistema-prisional-1-24611732)
+* [Ex-coronel admite torturas e execuções na ditadura do Uruguai, mostram documentos](https://oglobo.globo.com/mundo/ex-coronel-admite-torturas-execucoes-na-ditadura-do-uruguai-mostram-documentos-24611729)
+* [Deputadas querem anular portaria que obriga médicos a avisar polícia para fazer aborto de vítimas de estupro](https://oglobo.globo.com/sociedade/deputadas-querem-anular-portaria-que-obriga-medicos-avisar-policia-para-fazer-aborto-de-vitimas-de-estupro-1-24611726)
+* [Covid-19: indicadores ainda impedem avanço ao nível Amarelo 1 em Niterói](https://oglobo.globo.com/rio/bairros/covid-19-indicadores-ainda-impedem-avanco-ao-nivel-amarelo-1-em-niteroi-24611176)
 * [Pré-Vestibular Social adapta conteúdo para quem não tem computador e o libera a não matriculados](https://oglobo.globo.com/rio/pre-vestibular-social-adapta-conteudo-para-quem-nao-tem-computador-o-libera-nao-matriculados-24611695)
-* [Guedes: quem define 'timing' de auxílio emergencial e Renda Brasil é a política](https://oglobo.globo.com/economia/guedes-quem-define-timing-de-auxilio-emergencial-renda-brasil-a-politica-24611605)
+* [Criança protegida por mãe morta no São Carlos ainda não sabe o que aconteceu com ela e a chama de super-heroína](https://oglobo.globo.com/rio/crianca-protegida-por-mae-morta-no-sao-carlos-ainda-nao-sabe-que-aconteceu-com-ela-a-chama-de-super-heroina-1-24611716)
+* [Em 99,8% dos municípios, restaurantes e bares deveriam ser um dos últimos a reabrir, mostra pesquisa](https://oglobo.globo.com/economia/em-998-dos-municipios-restaurantes-bares-deveriam-ser-um-dos-ultimos-reabrir-mostra-pesquisa-24611717)
 * [Rombo nas contas do governo já passa de R$ 500 bi em 2020](https://oglobo.globo.com/economia/rombo-nas-contas-do-governo-ja-passa-de-500-bi-em-2020-24611651)
-* [Human Rights Watch acusa governo venezuelano de usar medidas contra a Covid-19 para reprimir críticos](https://oglobo.globo.com/mundo/human-rights-watch-acusa-governo-venezuelano-de-usar-medidas-contra-covid-19-para-reprimir-criticos-24611636)
-* [Suplente de Flávio Bolsonaro foi alvo de buscas sob suspeita de corrupção em esquema do governo Witzel](https://oglobo.globo.com/rio/suplente-de-flavio-bolsonaro-foi-alvo-de-buscas-sob-suspeita-de-corrupcao-em-esquema-do-governo-witzel-1-24611647)
 * [Auxílio emergencial: parcelas extras devem ser de R$ 300](https://oglobo.globo.com/economia/auxilio-emergencial-parcelas-extras-devem-ser-de-300-24611693)
-* [NBA: Após boicote de jogadores, playoffs retornam no sábado](https://oglobo.globo.com/esportes/nba-apos-boicote-de-jogadores-playoffs-retornam-no-sabado-1-24611590)
-* [Crédito para pequena empresa: BNDES ganha mais R$ 5 bi para programa emergencial](https://oglobo.globo.com/economia/credito-para-pequena-empresa-bndes-ganha-mais-5-bi-para-programa-emergencial-24611532)
-* [Lei garante a aluno opção de se manter no ensino remoto após retomada de aulas presenciais no estado](https://oglobo.globo.com/rio/lei-garante-aluno-opcao-de-se-manter-no-ensino-remoto-apos-retomada-de-aulas-presenciais-no-estado-24611604)
+* [Vice dos sonhos de Eduardo Paes](https://epoca.globo.com/guilherme-amado/vice-dos-sonhos-de-eduardo-paes-24609704)

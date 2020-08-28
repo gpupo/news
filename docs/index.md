@@ -2,12 +2,13 @@
 layout: default
 ---
 
-# indexed at 28/08/2020 08:19:47 UTC
+# indexed at 28/08/2020 08:35:06 UTC
 
 
 ## news.ycombinator.com
 
 
+* [C++ Lightweight, cross-platform, HTML rendering engine for desktop apps](https://github.com/ultralight-ux/Ultralight)
 * [Zoom still don't understand GDPR](https://www.threatspike.com/blog/zoom_cookies.html)
 * [Does Facebook pay Apple 30% of revenue derived from ads made within its iOS app?](https://twitter.com/SpencerDailey/status/1299063704483438593)
 * [Who needs a case? The 3D Printed Mil-Plastic is here](https://back7.co/home/back7co-mil-plastic)
@@ -23,21 +24,20 @@ layout: default
 * [Substack (YC W18) Is Hiring to Build a Better Business Model for Writing](https://substack.com/jobs)
 * [When Asbestos Was a Gift Fit for a King](https://daily.jstor.org/when-asbestos-was-a-gift-fit-for-a-king/)
 * [The Lounge – Modern web IRC client designed for self-hosting](https://github.com/thelounge/thelounge)
-* [Architecture Playbook](https://nocomplexity.com/documents/arplaybook/introduction.html)
 * [Computer scientists attempt to corner the Collatz conjecture](https://www.quantamagazine.org/can-computers-solve-the-collatz-conjecture-20200826/)
+* [Architecture Playbook](https://nocomplexity.com/documents/arplaybook/introduction.html)
 * [TSMC and Graphcore Prepare for AI Acceleration on 3nm](https://www.anandtech.com/show/16040/tsmc-and-graphcore-prepare-for-ai-acceleration-on-3nm)
 * [Scrollbar Blindness](https://svenkadak.com/blog/scrollbar-blindness)
 * [Editor Overload](https://blog.iansinnott.com/editor-overload/)
 * [The time it takes to run a paid newsletter](https://simonowens.substack.com/p/the-exact-time-commitment-it-takes)
-* [Not the 'Beowulf' You Think You Know](https://www.npr.org/2020/08/27/906423831/bro-this-is-not-the-beowulf-you-think-you-know)
 * [In Ashgabat](https://www.lrb.co.uk/the-paper/v42/n15/james-lomax/diary)
+* [Not the 'Beowulf' You Think You Know](https://www.npr.org/2020/08/27/906423831/bro-this-is-not-the-beowulf-you-think-you-know)
 * [Powell’s says it won’t sell books on Amazon anymore: ‘We must take a stand’](https://www.oregonlive.com/silicon-forest/2020/08/powells-says-it-wont-sell-books-on-amazon-anymore-we-must-take-a-stand.html)
-* [Apple blocks Facebook update that called out 30-percent App Store ‘tax’](https://www.theverge.com/2020/8/28/21405140/apple-rejects-facebook-update-30-percent-cut)
 * [Rare plants that ‘bleed’ nickel](https://www.bbc.com/future/article/20200825-indonesia-the-plants-that-mine-poisonous-metals)
+* [Apple blocks Facebook update that called out 30-percent App Store ‘tax’](https://www.theverge.com/2020/8/28/21405140/apple-rejects-facebook-update-30-percent-cut)
 * [Discovery of scholar's notes shine light on race to decipher Rosetta Stone](https://www.theguardian.com/culture/2020/aug/25/discovery-of-scholars-notes-shine-light-on-race-to-decipher-rosetta-stone)
 * [Confessions of an ID Theft Kingpin, Part II](https://krebsonsecurity.com/2020/08/confessions-of-an-id-theft-kingpin-part-ii/)
 * [Constant Time LFU](https://arpitbhayani.me/blogs/lfu)
-* [Anime-to-Real Clothing: Cosplay Costume Generation](https://arxiv.org/abs/2008.11479)
 ## nytimes.com
 
 
@@ -79,10 +79,10 @@ layout: default
 * [In Britain, an Idea to Reduce Racial Inequality Gains Momentum](https://www.nytimes.com/2020/08/26/business/britain-pay-gaps-racial-inequality.html)
 * [U.S. Open Draw Lacks Some Stars, but Not Story Lines](https://www.nytimes.com/2020/08/27/sports/tennis/us-open-draw-serena-williams.html)
 * [Printer Jam: Serious Supply Issues Disrupt the Book Industry’s Fall Season](https://www.nytimes.com/2020/08/27/books/printing-companies-backlog-book-publishing.html)
+* [Play these Old School Games](https://www.nytimes.com/2020/08/22/at-home/sharpen-a-pencil-and-challenge-an-opponent.html)
 * [The Lesson We’re Learning From TikTok? It’s All About Our Data](https://www.nytimes.com/2020/08/26/technology/personaltech/tiktok-data-apps.html)
 * [How to Set Pandemic Boundaries for Relatives](https://www.nytimes.com/2020/08/22/well/family/boundaries-pandemic-family-relationships.html)
 * [The 2020 Back-to-School List for Teens’ Emotional Well-Being](https://www.nytimes.com/2020/08/25/well/family/teens-mental-health-needs.html)
-* [Play these Old School Games](https://www.nytimes.com/2020/08/22/at-home/sharpen-a-pencil-and-challenge-an-opponent.html)
 * [The British Museum Reopens to a World That Has Changed](https://www.nytimes.com/2020/08/27/arts/design/british-museum-reopening.html)
 * [A Cozy Cottage on an Island Northeast of Stockholm](https://www.nytimes.com/2020/08/26/t-magazine/cottage-stockholm-home-design.html)
 * [Charles Cook, Ground Zero Volunteer for Months, Dies at 79](https://www.nytimes.com/2020/08/27/nyregion/charles-cook-ground-zero-volunteer-for-months-dies-at-79.html)
@@ -91,7 +91,6 @@ layout: default
 * [Why Does the Coronavirus Hit Men Harder? A New Clue](https://www.nytimes.com/2020/08/26/health/coronavirus-men-immune.html)
 * [First Documented Coronavirus Reinfection Reported in Hong Kong](https://www.nytimes.com/2020/08/24/health/coronavirus-reinfection.html)
 * [Why Some Tropical Fish Are Gettin’ Squiggly With It](https://www.nytimes.com/2020/08/22/science/angelfish-paracentropyge-hybrid-genetics.html)
-* [New Video Shows Largest Hydrogen Bomb Ever Exploded](https://www.nytimes.com/2020/08/25/science/tsar-bomba-nuclear-test.html)
 * [Tracking Kyle Rittenhouse in the Fatal Kenosha Shootings](https://www.nytimes.com/2020/08/27/us/kyle-rittenhouse-kenosha-shooting-video.html)
 * [This Zucchini Tian Is Nonna-Inspired Cooking at Restaurant Speed](https://www.nytimes.com/2020/08/26/magazine/this-zucchini-tian-is-nonna-inspired-cooking-at-restaurant-speed.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)

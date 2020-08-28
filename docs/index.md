@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 28/08/2020 10:17:40 UTC
+# indexed at 28/08/2020 10:35:04 UTC
 
 
 ## news.ycombinator.com
 
 
-* [C++ Lightweight, cross-platform, HTML rendering engine for desktop apps](https://github.com/ultralight-ux/Ultralight)
 * [RFC8890: The Internet Is for End Users](https://www.mnot.net/blog/2020/08/28/for_the_users)
-* [Zoom still don't understand GDPR](https://www.threatspike.com/blog/zoom_cookies.html)
+* [C++ Lightweight, cross-platform, HTML rendering engine for desktop apps](https://github.com/ultralight-ux/Ultralight)
 * [Hartree-Fock on a superconducting qubit quantum computer](https://science.sciencemag.org/content/369/6507/1084)
+* [Using Microsoft Word with Git](https://blog.martinfenner.org/2014/08/25/using-microsoft-word-with-git/)
+* [Zoom still don't understand GDPR](https://www.threatspike.com/blog/zoom_cookies.html)
+* [OCaml Workshop 2020 Online Conference is live now](https://discuss.ocaml.org/t/ocaml-workshop-2020-online-conference-is-live-now/6287/9?u=mseri)
 * [Does Facebook pay Apple 30% of revenue derived from ads made within its iOS app?](https://twitter.com/SpencerDailey/status/1299063704483438593)
 * [tilde.town: A social network over SSH](https://tilde.town/)
 * [Svxlink: Advanced repeater controller and Echolink software for Linux](https://github.com/sm0svx/svxlink)
-* [Lego IKEA Bygglek – First Look](http://www.brickfinder.net/2020/07/11/lego-ikea-bygglek-first-look/)
-* [Who needs a case? The 3D Printed Mil-Plastic is here](https://back7.co/home/back7co-mil-plastic)
-* [A prickly patriot: Palantir’s prospectus reveals losses, promise](https://www.economist.com/business/2020/08/29/palantirs-stockmarket-prospectus-reveals-both-losses-and-promise)
 * [Prime Minister Abe Shinzo Intends to Step Down](https://www3.nhk.or.jp/nhkworld/en/news/20200828_28/)
+* [Lego IKEA Bygglek – First Look](http://www.brickfinder.net/2020/07/11/lego-ikea-bygglek-first-look/)
+* [A prickly patriot: Palantir’s prospectus reveals losses, promise](https://www.economist.com/business/2020/08/29/palantirs-stockmarket-prospectus-reveals-both-losses-and-promise)
+* [Who needs a case? The 3D Printed Mil-Plastic is here](https://back7.co/home/back7co-mil-plastic)
 * [ReMarkable 2.0 – A digital notebook that feels like paper](https://remarkable.com/#What_Is_New)
 * [Amazon: A New Kind of Antitrust Risk](https://diff.substack.com/p/amazon-a-new-kind-of-antitrust-risk)
-* [Using Microsoft Word with Git](https://blog.martinfenner.org/2014/08/25/using-microsoft-word-with-git/)
-* [Bill Gates' nuclear venture plans reactor to complement solar, wind power boom](https://www.reuters.com/article/us-usa-nuclearpower-terrapower/bill-gates-nuclear-venture-plans-reactor-to-complement-solar-wind-power-boom-idUSKBN25N2U8)
 * [(Visualization)What caused 1 Million U.S. wildfires over the last 30 years?](http://wildfire.kyrixdemo.live/)
-* [Waymo Tests Autonomous Trucks in Texas](https://www.ttnews.com/articles/waymo-tests-autonomous-trucks-texas)
+* [Bill Gates' nuclear venture plans reactor to complement solar, wind power boom](https://www.reuters.com/article/us-usa-nuclearpower-terrapower/bill-gates-nuclear-venture-plans-reactor-to-complement-solar-wind-power-boom-idUSKBN25N2U8)
+* [Openbot: Turning Smartphones into Robots](https://www.openbot.org/)
 * [The Rapier Physics Engine](https://www.dimforge.com/blog/2020/08/25/announcing-the-rapier-physics-engine/)
+* [Is your chart a detective story or a police report?](https://www.wired.com/story/is-your-chart-a-detective-story-or-a-police-report/)
+* [Waymo Tests Autonomous Trucks in Texas](https://www.ttnews.com/articles/waymo-tests-autonomous-trucks-texas)
 * [When Asbestos Was a Gift Fit for a King](https://daily.jstor.org/when-asbestos-was-a-gift-fit-for-a-king/)
 * [Safari adopts the Chrome/Firefox extension model](https://developer.apple.com/news/?id=kuswih5l)
 * [Powell’s says it won’t sell books on Amazon anymore: ‘We must take a stand’](https://www.oregonlive.com/silicon-forest/2020/08/powells-says-it-wont-sell-books-on-amazon-anymore-we-must-take-a-stand.html)
-* [Is your chart a detective story or a police report?](https://www.wired.com/story/is-your-chart-a-detective-story-or-a-police-report/)
 * [The Lounge – Modern web IRC client designed for self-hosting](https://github.com/thelounge/thelounge)
+* [Editor Overload](https://blog.iansinnott.com/editor-overload/)
 * [Computer scientists attempt to corner the Collatz conjecture](https://www.quantamagazine.org/can-computers-solve-the-collatz-conjecture-20200826/)
 * [Architecture Playbook](https://nocomplexity.com/documents/arplaybook/introduction.html)
-* [TSMC and Graphcore Prepare for AI Acceleration on 3nm](https://www.anandtech.com/show/16040/tsmc-and-graphcore-prepare-for-ai-acceleration-on-3nm)
-* [Editor Overload](https://blog.iansinnott.com/editor-overload/)
 * [Substack (YC W18) Is Hiring to Build a Better Business Model for Writing](https://substack.com/jobs)
-* [Scrollbar Blindness](https://svenkadak.com/blog/scrollbar-blindness)
-* [The time it takes to run a paid newsletter](https://simonowens.substack.com/p/the-exact-time-commitment-it-takes)
+* [TSMC and Graphcore Prepare for AI Acceleration on 3nm](https://www.anandtech.com/show/16040/tsmc-and-graphcore-prepare-for-ai-acceleration-on-3nm)
 ## nytimes.com
 
 
@@ -52,6 +52,7 @@ layout: default
 * [One N.B.A. Team Walked Out. A Generation of Athletes Followed.](https://www.nytimes.com/2020/08/27/sports/basketball/nba-resume.html)
 * [Covid-19 News: Live Updates](https://www.nytimes.com/2020/08/28/world/covid-19-coronavirus.html)
 * [Why New Jersey’s Plan for In-Person Schooling Is Falling Apart](https://www.nytimes.com/2020/08/28/nyregion/nj-coronavirus-schools-reopening.html)
+* [What Is Trump’s Strategy?](https://www.nytimes.com/2020/08/28/briefing/donald-trump-shinzo-abe-kenosha-your-friday-briefing.html)
 * [Why Trash Is Piling Up at N.Y.C. Parks](https://www.nytimes.com/2020/08/28/nyregion/nyc-parks-trash.html)
 * [Donald Trump Jr.’s Journey to Republican Stardom](https://www.nytimes.com/2020/08/28/podcasts/the-daily/donald-trump-junior-campaign.html)
 * [The Life of a Brilliant, Suffering Scientist](https://www.nytimes.com/2020/08/21/books/review/podcast-Dominant-Character-Samanth-Subramanian-Book-of-Eels-Patrik-Svensson.html)
@@ -79,9 +80,9 @@ layout: default
 * [Unsealed Archives Give Fresh Clues to Pope Pius XII’s Response to the Holocaust](https://www.nytimes.com/2020/08/28/world/europe/pope-pius-xii-jews-vatican-archives.html)
 * [The Met Is Reopening, and the 'Hot Dog King' Is Back](https://www.nytimes.com/2020/08/28/nyregion/met-museum-hotdog.html)
 * [Play these Old School Games](https://www.nytimes.com/2020/08/22/at-home/sharpen-a-pencil-and-challenge-an-opponent.html)
-* [The Lesson We’re Learning From TikTok? It’s All About Our Data](https://www.nytimes.com/2020/08/26/technology/personaltech/tiktok-data-apps.html)
 * [How to Set Pandemic Boundaries for Relatives](https://www.nytimes.com/2020/08/22/well/family/boundaries-pandemic-family-relationships.html)
 * [The 2020 Back-to-School List for Teens’ Emotional Well-Being](https://www.nytimes.com/2020/08/25/well/family/teens-mental-health-needs.html)
+* [The Lesson We’re Learning From TikTok? It’s All About Our Data](https://www.nytimes.com/2020/08/26/technology/personaltech/tiktok-data-apps.html)
 * [College Is Everywhere Now](https://www.nytimes.com/2020/08/28/style/dormpods-college-collab-houses-coronavirus.html)
 * [Album Review: Katy Perry's 'Smile'](https://www.nytimes.com/2020/08/27/arts/music/katy-perry-smile-review.html)
 * [The Poundcake of Your Dreams](https://www.nytimes.com/2020/08/21/dining/poundcake-recipe.html)
@@ -100,9 +101,9 @@ layout: default
 ## globo.com
 
 
-* [Esquema de Witzel foi dividido em eixos comandados por Pastor Everaldo, Mário Peixoto e reitor de universidade, apontam investigações](https://oglobo.globo.com/rio/esquema-de-witzel-foi-dividido-em-eixos-comandados-por-pastor-everaldo-mario-peixoto-reitor-de-universidade-apontam-investigacoes-1-24610789)
-* [Saiba quem é Cláudio Castro, que assume do governo do Estado do Rio](https://oglobo.globo.com/rio/saiba-quem-claudio-castro-que-assume-do-governo-do-estado-do-rio-24610796)
-* [Como Wilson Witzel criou as condições para sua própria queda](https://oglobo.globo.com/analitico/como-wilson-witzel-criou-as-condicoes-para-sua-propria-queda-24610526)
+* [Presidente da Assembleia Legislativa do Rio é alvo de busca de apreensão](https://oglobo.globo.com/rio/presidente-da-assembleia-legislativa-do-rio-alvo-de-busca-de-apreensao-24610833)
+* [Saiba quem é Cláudio Castro, que assume o governo do Estado do Rio](https://oglobo.globo.com/rio/saiba-quem-claudio-castro-que-assume-governo-do-estado-do-rio-24610796)
+* [PGR denuncia Witzel e primeira-dama sob acusação de 'caixinha de propina' abastecida com desvios na saúde](https://oglobo.globo.com/rio/pgr-denuncia-witzel-primeira-dama-sob-acusacao-de-caixinha-de-propina-abastecida-com-desvios-na-saude-24610809)
 * [O futebol pré-Covid de Flávio Bolsonaro e mais 30](https://epoca.globo.com/guilherme-amado/o-futebol-pre-covid-de-flavio-bolsonaro-mais-30-24609703)
 * [Esquema da 'rachadinha' afeta pouco a imagem do presidente, afirma especialista](https://epoca.globo.com/brasil/esquema-da-rachadinha-afeta-pouco-imagem-do-presidente-afirma-especialista-24609564)
 * ['Vacina deve ser encarada como plano B', diz vice-presidente da Fiocruz](https://oglobo.globo.com/sociedade/vacina-deve-ser-encarada-como-plano-diz-vice-presidente-da-fiocruz-24610641)

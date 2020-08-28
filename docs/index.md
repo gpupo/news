@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 28/08/2020 12:25:20 UTC
+# indexed at 28/08/2020 12:37:10 UTC
 
 
 ## news.ycombinator.com
@@ -10,12 +10,13 @@ layout: default
 
 * [OCaml Workshop 2020 Online Conference is live now](https://discuss.ocaml.org/t/ocaml-workshop-2020-online-conference-is-live-now/6287/9?u=mseri)
 * [RFC8890: The Internet Is for End Users](https://www.mnot.net/blog/2020/08/28/for_the_users)
+* [China Built a Vast New Infrastructure to Imprison Uighurs](https://www.buzzfeednews.com/article/meghara/china-new-internment-camps-xinjiang-uighurs-muslims)
 * [Using Microsoft Word with Git](https://blog.martinfenner.org/2014/08/25/using-microsoft-word-with-git/)
 * [Testing Database Transactions in Go](https://marvinblum.de/blog/testing-database-transactions-in-go-jEaOGXravM)
-* [China Built a Vast New Infrastructure to Imprison Uighurs](https://www.buzzfeednews.com/article/meghara/china-new-internment-camps-xinjiang-uighurs-muslims)
 * [C++ Lightweight, cross-platform, HTML rendering engine for desktop apps](https://github.com/ultralight-ux/Ultralight)
 * [Pluto.jl – a reactive, lightweight, simple notebook](https://github.com/fonsp/Pluto.jl)
 * [Zoom still don't understand GDPR](https://www.threatspike.com/blog/zoom_cookies.html)
+* [Ham radio is dying No it’s not, it's evolving – K0LWC](http://k0lwc.com/ham-radio-is-dying-no-its-not-its-evolving/)
 * [Surprising new feature in AMD Ryzen 3000](https://www.agner.org/forum/viewtopic.php?t=41)
 * [Svxlink: Advanced repeater controller and Echolink software for Linux](https://github.com/sm0svx/svxlink)
 * [Lego IKEA Bygglek – First Look](http://www.brickfinder.net/2020/07/11/lego-ikea-bygglek-first-look/)
@@ -26,18 +27,17 @@ layout: default
 * [Amazon: A New Kind of Antitrust Risk](https://diff.substack.com/p/amazon-a-new-kind-of-antitrust-risk)
 * [ReMarkable 2.0 – A digital notebook that feels like paper](https://remarkable.com/#What_Is_New)
 * [Who needs a case? The 3D Printed Mil-Plastic is here](https://back7.co/home/back7co-mil-plastic)
-* [Notes on “Anthropology of Childhood”](https://thewholesky.wordpress.com/2020/08/27/notes-on-anthropology-of-childhood-by-david-lancy/)
 * [Is your chart a detective story or a police report?](https://www.wired.com/story/is-your-chart-a-detective-story-or-a-police-report/)
-* [Prime Minister Abe Shinzo Intends to Step Down](https://www3.nhk.or.jp/nhkworld/en/news/20200828_28/)
+* [Notes on “Anthropology of Childhood”](https://thewholesky.wordpress.com/2020/08/27/notes-on-anthropology-of-childhood-by-david-lancy/)
 * [Waymo Tests Autonomous Trucks in Texas](https://www.ttnews.com/articles/waymo-tests-autonomous-trucks-texas)
-* [The Rapier Physics Engine](https://www.dimforge.com/blog/2020/08/25/announcing-the-rapier-physics-engine/)
 * [Editor Overload](https://blog.iansinnott.com/editor-overload/)
 * [Does Facebook pay Apple 30% of revenue derived from ads made within its iOS app?](https://twitter.com/SpencerDailey/status/1299063704483438593)
+* [Prime Minister Abe Shinzo Intends to Step Down](https://www3.nhk.or.jp/nhkworld/en/news/20200828_28/)
 * [Safari adopts the Chrome/Firefox extension model](https://developer.apple.com/news/?id=kuswih5l)
 * [Powell’s says it won’t sell books on Amazon anymore: ‘We must take a stand’](https://www.oregonlive.com/silicon-forest/2020/08/powells-says-it-wont-sell-books-on-amazon-anymore-we-must-take-a-stand.html)
 * [Computer scientists attempt to corner the Collatz conjecture](https://www.quantamagazine.org/can-computers-solve-the-collatz-conjecture-20200826/)
 * [Scrollbar Blindness](https://svenkadak.com/blog/scrollbar-blindness)
-* [In Ashgabat](https://www.lrb.co.uk/the-paper/v42/n15/james-lomax/diary)
+* [I Self-Published Zero to Sold, a Bestselling Book on Bootstrapping](https://thebootstrappedfounder.com/how-i-self-published-zero-to-sold-a-bestselling-book-on-bootstrapping/)
 ## nytimes.com
 
 
@@ -94,21 +94,21 @@ layout: default
 * [Fossil Reveals ‘One of the Cutest Dinosaurs’ Ever Found](https://www.nytimes.com/2020/08/27/science/dinosaur-face-fossil.html)
 * [You Can’t Escape Lice, Even 6,500 Feet Below the Ocean](https://www.nytimes.com/2020/08/26/science/lice-elephant-seals.html)
 * [In a Pandemic First, 3 American Theaters Will Do Indoor Shows](https://www.nytimes.com/2020/08/25/theater/indoor-theater-union-actors.html)
-* [Archbishop Oscar Cruz, Philippine Critic of Graft and Gambling, Dies at 85](https://www.nytimes.com/2020/08/28/obituaries/oscar-cruz-philippines.html)
 * [Bare Breasts on French Beaches? You Can, Despite Police Warnings](https://www.nytimes.com/2020/08/26/world/europe/france-beach-topless.html)
+* [Women Would Abolish Child Labor (and Other Anti-Suffrage Excuses)](https://www.nytimes.com/2020/08/26/opinion/suffrage-19th-amendment.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [Desalento aumentou quase 20% no segundo trimestre, com mais 913 mil pessoas sem esperança de encontrar emprego](https://oglobo.globo.com/economia/desalento-aumentou-quase-20-no-segundo-trimestre-com-mais-913-mil-pessoas-sem-esperanca-de-encontrar-emprego-24610782)
+* [STJ determina mandado de busca na casa de André Moura no Sergipe](https://oglobo.globo.com/rio/stj-determina-mandado-de-busca-na-casa-de-andre-moura-no-sergipe-24610896)
 * [Novo governador do Rio e alvo da operação, Cláudio Castro está em voo de Brasília para a cidade](https://epoca.globo.com/guilherme-amado/novo-governador-do-rio-alvo-da-operacao-claudio-castro-esta-em-voo-de-brasilia-para-cidade-24610992)
 * [NBA: Michael Jordan foi fundamental na decisão de continuar os playoffs após boicote, diz TV](https://oglobo.globo.com/esportes/nba-michael-jordan-foi-fundamental-na-decisao-de-continuar-os-playoffs-apos-boicote-diz-tv-24610977)
-* [STJ determina mandado de busca na casa de André Moura no Sergipe](https://oglobo.globo.com/rio/stj-determina-mandado-de-busca-na-casa-de-andre-moura-no-sergipe-24610896)
 * [Horário das eleições municipais será ampliado em uma hora](https://oglobo.globo.com/brasil/horario-das-eleicoes-municipais-sera-ampliado-em-uma-hora-24610979)
 * [Sob suspeita de corrupção, Witzel é afastado do governo do Rio por STJ](https://epoca.globo.com/brasil/sob-suspeita-de-corrupcao-witzel-afastado-do-governo-do-rio-por-stj-24610970)
 * [Bolsonaro vai reclamar do Ministério Público desta vez?](https://oglobo.globo.com/analitico/bolsonaro-vai-reclamar-do-ministerio-publico-desta-vez-24610878)
 * [Coronavírus: novela britânica contrata cônjuges de artistas como 'dublês' para cenas íntimas](https://epoca.globo.com/mundo/coronavirus-novela-britanica-contrata-conjuges-de-artistas-como-dubles-para-cenas-intimas-1-24610964)
 * [Lava-Jato: O que une a operação que afastou Witzel e a que prendeu Cabral](https://oglobo.globo.com/rio/lava-jato-que-une-operacao-que-afastou-witzel-a-que-prendeu-cabral-24610937)
 * [Preso, Pastor Everaldo foi quem abençoou Bolsonaro no Rio Jordão](https://epoca.globo.com/guilherme-amado/preso-pastor-everaldo-foi-quem-abencoou-bolsonaro-no-rio-jordao-24610947)
-* [Guedes, os ‘innovators’ e os ‘preservers’ do Ministério da Economia](https://epoca.globo.com/guilherme-amado/guedes-os-innovators-os-preservers-do-ministerio-da-economia-24609702)

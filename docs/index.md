@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 28/08/2020 02:19:31 UTC
+# indexed at 28/08/2020 02:35:12 UTC
 
 
 ## news.ycombinator.com
@@ -12,14 +12,15 @@ layout: default
 * [ReMarkable 2.0 – A digital notebook that feels like paper](https://remarkable.com/#What_Is_New)
 * [Does Facebook pay Apple 30% of revenue derived from ads made within its iOS app?](https://twitter.com/SpencerDailey/status/1299063704483438593)
 * [Clearly Zoom still don't understand GDPR](https://www.threatspike.com/blog/zoom_cookies.html)
+* [Safari adopts the Chrome/Firefox extension model](https://developer.apple.com/news/?id=kuswih5l)
 * [Waymo Tests Autonomous Trucks in Texas](https://www.ttnews.com/articles/waymo-tests-autonomous-trucks-texas)
 * [Scrollbar Blindness](https://svenkadak.com/blog/scrollbar-blindness)
 * [Lego IKEA Bygglek – First Look](http://www.brickfinder.net/2020/07/11/lego-ikea-bygglek-first-look/)
 * [When Asbestos Was a Gift Fit for a King](https://daily.jstor.org/when-asbestos-was-a-gift-fit-for-a-king/)
-* [The Lounge – Modern web IRC client designed for self-hosting](https://github.com/thelounge/thelounge)
 * [A Short Guide to Minimal Web Development (2018)](https://meiert.com/en/blog/minimal-web-development/)
-* [Band-Limiting Procedural Textures](https://iquilezles.org/www/articles/bandlimiting/bandlimiting.htm)
+* [The Lounge – Modern web IRC client designed for self-hosting](https://github.com/thelounge/thelounge)
 * [The time it takes to run a paid newsletter](https://simonowens.substack.com/p/the-exact-time-commitment-it-takes)
+* [Band-Limiting Procedural Textures](https://iquilezles.org/www/articles/bandlimiting/bandlimiting.htm)
 * [Show HN: Muse – Tool for Thought on iPad](https://launch-preview.museapp.com/)
 * [Architecture Playbook](https://nocomplexity.com/documents/arplaybook/introduction.html)
 * [Ask HN: How does onlyfans.com work around the “no porn” Stripe rule?](https://news.ycombinator.com/item?id=24291790)
@@ -27,17 +28,16 @@ layout: default
 * [Hard work vs. Long work (2011)](https://seths.blog/2011/05/hard-work-vs-long-work/)
 * [Nitrokey](https://www.nitrokey.com/)
 * [Apple to start requiring written consent for third party API usage in apps](https://9to5mac.com/2020/08/27/apple-rejects-watch-for-tesla-app-as-it-starts-requiring-written-consent-for-third-party-api-use/)
+* [In Ashgabat](https://www.lrb.co.uk/the-paper/v42/n15/james-lomax/diary)
 * [Hunting the Nearly-Invisible Personal Website](https://cheapskatesguide.org/articles/personal-website-hunting.html)
 * [Anime-to-Real Clothing: Cosplay Costume Generation](https://arxiv.org/abs/2008.11479)
 * [Constant Time LFU](https://arpitbhayani.me/blogs/lfu)
-* [In Ashgabat](https://www.lrb.co.uk/the-paper/v42/n15/james-lomax/diary)
 * [Antibiotics nearly double risk of developing IBD, doctors warn](https://www.studyfinds.org/antibiotics-double-ibd-risk/)
 * [Confessions of an ID Theft Kingpin, Part II](https://krebsonsecurity.com/2020/08/confessions-of-an-id-theft-kingpin-part-ii/)
 * [Discovery of scholar's notes shine light on race to decipher Rosetta Stone](https://www.theguardian.com/culture/2020/aug/25/discovery-of-scholars-notes-shine-light-on-race-to-decipher-rosetta-stone)
 * [Rare plants that ‘bleed’ nickel](https://www.bbc.com/future/article/20200825-indonesia-the-plants-that-mine-poisonous-metals)
-* [The magic of ion channels in the neurons](https://i-kh.net/2020/08/26/the-magic-of-ion-channels/)
 * [Show HN: Olaf – Acoustic Fingerprinting on the ESP32 and in the Browser](https://0110.be/posts/Olaf_-_Acoustic_fingerprinting_on_the_ESP32_and_in_the_Browser)
-* [Interview with Zig language creator Andrew Kelley [video]](https://www.youtube.com/watch?v=ZvskDoP09Ao&feature=emb_logo)
+* [The magic of ion channels in the neurons](https://i-kh.net/2020/08/26/the-magic-of-ion-channels/)
 ## nytimes.com
 
 
@@ -81,8 +81,8 @@ layout: default
 * [In Pandemic, More Are Paying for Direct Access to Their Doctors](https://www.nytimes.com/2020/08/21/your-money/concierge-personal-medical-care-coronavirus.html)
 * [U.S. Open Draw Lacks Some Stars, but Not Story Lines](https://www.nytimes.com/2020/08/27/sports/tennis/us-open-draw-serena-williams.html)
 * [Printer Jam: Serious Supply Issues Disrupt the Book Industry’s Fall Season](https://www.nytimes.com/2020/08/27/books/printing-companies-backlog-book-publishing.html)
-* [The Lesson We’re Learning From TikTok? It’s All About Our Data](https://www.nytimes.com/2020/08/26/technology/personaltech/tiktok-data-apps.html)
 * [How to Set Pandemic Boundaries for Relatives](https://www.nytimes.com/2020/08/22/well/family/boundaries-pandemic-family-relationships.html)
+* [The Lesson We’re Learning From TikTok? It’s All About Our Data](https://www.nytimes.com/2020/08/26/technology/personaltech/tiktok-data-apps.html)
 * [Play these Old School Games](https://www.nytimes.com/2020/08/22/at-home/sharpen-a-pencil-and-challenge-an-opponent.html)
 * [The 2020 Back-to-School List for Teens’ Emotional Well-Being](https://www.nytimes.com/2020/08/25/well/family/teens-mental-health-needs.html)
 * [The British Museum Reopens to a World That Has Changed](https://www.nytimes.com/2020/08/27/arts/design/british-museum-reopening.html)

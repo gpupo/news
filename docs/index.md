@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 28/08/2020 01:36:24 UTC
+# indexed at 28/08/2020 02:19:31 UTC
 
 
 ## news.ycombinator.com
@@ -11,33 +11,33 @@ layout: default
 * [New Economic Challenges and the Fed's Monetary Policy Review](https://www.federalreserve.gov/newsevents/speech/powell20200827a.htm)
 * [ReMarkable 2.0 – A digital notebook that feels like paper](https://remarkable.com/#What_Is_New)
 * [Does Facebook pay Apple 30% of revenue derived from ads made within its iOS app?](https://twitter.com/SpencerDailey/status/1299063704483438593)
-* [Scrollbar Blindness](https://svenkadak.com/blog/scrollbar-blindness)
 * [Clearly Zoom still don't understand GDPR](https://www.threatspike.com/blog/zoom_cookies.html)
+* [Waymo Tests Autonomous Trucks in Texas](https://www.ttnews.com/articles/waymo-tests-autonomous-trucks-texas)
+* [Scrollbar Blindness](https://svenkadak.com/blog/scrollbar-blindness)
 * [Lego IKEA Bygglek – First Look](http://www.brickfinder.net/2020/07/11/lego-ikea-bygglek-first-look/)
 * [When Asbestos Was a Gift Fit for a King](https://daily.jstor.org/when-asbestos-was-a-gift-fit-for-a-king/)
 * [The Lounge – Modern web IRC client designed for self-hosting](https://github.com/thelounge/thelounge)
 * [A Short Guide to Minimal Web Development (2018)](https://meiert.com/en/blog/minimal-web-development/)
-* [The time it takes to run a paid newsletter](https://simonowens.substack.com/p/the-exact-time-commitment-it-takes)
 * [Band-Limiting Procedural Textures](https://iquilezles.org/www/articles/bandlimiting/bandlimiting.htm)
+* [The time it takes to run a paid newsletter](https://simonowens.substack.com/p/the-exact-time-commitment-it-takes)
 * [Show HN: Muse – Tool for Thought on iPad](https://launch-preview.museapp.com/)
 * [Architecture Playbook](https://nocomplexity.com/documents/arplaybook/introduction.html)
-* [An Archive of a Different Type](http://blog.archive.org/2020/08/26/an-archive-of-a-different-type/)
-* [Nitrokey](https://www.nitrokey.com/)
-* [Hard work vs. Long work (2011)](https://seths.blog/2011/05/hard-work-vs-long-work/)
-* [Constant Time LFU](https://arpitbhayani.me/blogs/lfu)
 * [Ask HN: How does onlyfans.com work around the “no porn” Stripe rule?](https://news.ycombinator.com/item?id=24291790)
+* [An Archive of a Different Type](http://blog.archive.org/2020/08/26/an-archive-of-a-different-type/)
+* [Hard work vs. Long work (2011)](https://seths.blog/2011/05/hard-work-vs-long-work/)
+* [Nitrokey](https://www.nitrokey.com/)
+* [Apple to start requiring written consent for third party API usage in apps](https://9to5mac.com/2020/08/27/apple-rejects-watch-for-tesla-app-as-it-starts-requiring-written-consent-for-third-party-api-use/)
 * [Hunting the Nearly-Invisible Personal Website](https://cheapskatesguide.org/articles/personal-website-hunting.html)
 * [Anime-to-Real Clothing: Cosplay Costume Generation](https://arxiv.org/abs/2008.11479)
-* [Discovery of scholar's notes shine light on race to decipher Rosetta Stone](https://www.theguardian.com/culture/2020/aug/25/discovery-of-scholars-notes-shine-light-on-race-to-decipher-rosetta-stone)
-* [Rare plants that ‘bleed’ nickel](https://www.bbc.com/future/article/20200825-indonesia-the-plants-that-mine-poisonous-metals)
+* [Constant Time LFU](https://arpitbhayani.me/blogs/lfu)
+* [In Ashgabat](https://www.lrb.co.uk/the-paper/v42/n15/james-lomax/diary)
 * [Antibiotics nearly double risk of developing IBD, doctors warn](https://www.studyfinds.org/antibiotics-double-ibd-risk/)
 * [Confessions of an ID Theft Kingpin, Part II](https://krebsonsecurity.com/2020/08/confessions-of-an-id-theft-kingpin-part-ii/)
-* [In Ashgabat](https://www.lrb.co.uk/the-paper/v42/n15/james-lomax/diary)
-* [Rust 1.46](https://blog.rust-lang.org/2020/08/27/Rust-1.46.0.html)
+* [Discovery of scholar's notes shine light on race to decipher Rosetta Stone](https://www.theguardian.com/culture/2020/aug/25/discovery-of-scholars-notes-shine-light-on-race-to-decipher-rosetta-stone)
+* [Rare plants that ‘bleed’ nickel](https://www.bbc.com/future/article/20200825-indonesia-the-plants-that-mine-poisonous-metals)
+* [The magic of ion channels in the neurons](https://i-kh.net/2020/08/26/the-magic-of-ion-channels/)
 * [Show HN: Olaf – Acoustic Fingerprinting on the ESP32 and in the Browser](https://0110.be/posts/Olaf_-_Acoustic_fingerprinting_on_the_ESP32_and_in_the_Browser)
 * [Interview with Zig language creator Andrew Kelley [video]](https://www.youtube.com/watch?v=ZvskDoP09Ao&feature=emb_logo)
-* [Circle Medical (YC S15) Is Hiring a Senior Front End Engineer in Montréal](https://jobs.lever.co/circlemedical/46d8485b-0092-48a5-8a26-96262438353d)
-* [Blanked-out spots on China's maps helped us uncover Xinjiang's camps](https://www.buzzfeednews.com/article/alison_killing/satellite-images-investigation-xinjiang-detention-camps)
 ## nytimes.com
 
 
@@ -50,7 +50,7 @@ layout: default
 * [Hurricane Laura Live News and Updates](https://www.nytimes.com/2020/08/27/us/hurricane-laura-update.html)
 * [One N.B.A. Team Walked Out. A Generation of Athletes Followed.](https://www.nytimes.com/2020/08/27/sports/basketball/nba-resume.html)
 * [Kenosha Shooting: NBA Cancels Thursday's Games](https://www.nytimes.com/2020/08/27/us/kenosha-shooting-protests.html)
-* [Suspect in Kenosha Killings Ardently Promoted Blue Lives Matter](https://www.nytimes.com/2020/08/27/us/kyle-rittenhouse-kenosha.html)
+* [Suspect in Kenosha Killings Lionized the Police](https://www.nytimes.com/2020/08/27/us/kyle-rittenhouse-kenosha.html)
 * [Covid-19 Live Updates](https://www.nytimes.com/2020/08/27/world/covid-19-coronavirus.html)
 * [Can You Get a Flu Shot Now? Yes, and Doctors Say You Should](https://www.nytimes.com/2020/08/25/health/flu-vaccine-coronavirus.html)
 * [Fed Chair Sets Stage for Longer Periods of Lower Rates](https://www.nytimes.com/2020/08/27/business/economy/federal-reserve-inflation-jerome-powell.html)
@@ -94,21 +94,22 @@ layout: default
 * [First Documented Coronavirus Reinfection Reported in Hong Kong](https://www.nytimes.com/2020/08/24/health/coronavirus-reinfection.html)
 * [Why Some Tropical Fish Are Gettin’ Squiggly With It](https://www.nytimes.com/2020/08/22/science/angelfish-paracentropyge-hybrid-genetics.html)
 * [New Video Shows Largest Hydrogen Bomb Ever Exploded](https://www.nytimes.com/2020/08/25/science/tsar-bomba-nuclear-test.html)
-* [Bayern Munich 1, P.S.G. 0: A Champions League Win for Tradition and Team](https://www.nytimes.com/2020/08/23/sports/soccer/psg-bayern-live-score.html)
-* [College Reopening: The Outlook for In-Person Classes](https://www.nytimes.com/2020/08/24/us/college-university-reopening-coronavirus.html)
+* [Tracking Kyle Rittenhouse in the Fatal Kenosha Shootings](https://www.nytimes.com/2020/08/27/us/kyle-rittenhouse-kenosha-shooting-video.html)
+* [‘I Fear That We Are Witnessing the End of American Democracy’](https://www.nytimes.com/2020/08/26/opinion/trump-republican-convention-racism.html)
+* [This Zucchini Tian Is Nonna-Inspired Cooking at Restaurant Speed](https://www.nytimes.com/2020/08/26/magazine/this-zucchini-tian-is-nonna-inspired-cooking-at-restaurant-speed.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
-* [Incêndios em Alter do Chão: Polícia Federal conclui que não é possível apontar culpados pelas queimadas](https://oglobo.globo.com/sociedade/incendios-em-alter-do-chao-policia-federal-conclui-que-nao-possivel-apontar-culpados-pelas-queimadas-1-24609770)
-* ['Temos que enfrentar a erotização de crianças no Brasil', diz Damares ao comentar caso de estupro de menina de 10 anos](https://oglobo.globo.com/sociedade/temos-que-enfrentar-erotizacao-de-criancas-no-brasil-diz-damares-ao-comentar-caso-de-estupro-de-menina-de-10-anos-24610415)
 * [Em resposta ao STF, Banco Central diz que nota de R$ 200 é 'imprescindível'](https://oglobo.globo.com/economia/em-resposta-ao-stf-banco-central-diz-que-nota-de-200-imprescindivel-1-24610403)
+* [O recado dos jogadores da NBA contra o racismo para o mundo](https://oglobo.globo.com/podcast/o-recado-dos-jogadores-da-nba-contra-racismo-para-mundo-24610508)
+* ['Temos que enfrentar a erotização de crianças no Brasil', diz Damares ao comentar caso de estupro de menina de 10 anos](https://oglobo.globo.com/sociedade/temos-que-enfrentar-erotizacao-de-criancas-no-brasil-diz-damares-ao-comentar-caso-de-estupro-de-menina-de-10-anos-24610415)
+* [Incêndios em Alter do Chão: Polícia Federal conclui que não é possível apontar culpados pelas queimadas](https://oglobo.globo.com/sociedade/incendios-em-alter-do-chao-policia-federal-conclui-que-nao-possivel-apontar-culpados-pelas-queimadas-1-24609770)
 * [Ao lado de Bolsonaro, Damares se diz indignada com Flordelis: 'ela enganou todo o Brasil'](https://oglobo.globo.com/rio/ao-lado-de-bolsonaro-damares-se-diz-indignada-com-flordelis-ela-enganou-todo-brasil-1-24609938)
 * [Média móvel de mortes por Covid-19 cai para 900, a menor em 97 dias](https://oglobo.globo.com/sociedade/media-movel-de-mortes-por-covid-19-cai-para-900-menor-em-97-dias-24609886)
 * [A LGPD garante que tudo o que for coletado sobre nós, por qualquer plataforma, é nosso, não deles](https://oglobo.globo.com/economia/a-lgpd-garante-que-tudo-que-for-coletado-sobre-nos-por-qualquer-plataforma-nosso-nao-deles-24609935)
 * [Operação na área central do Rio termina com 16 prisões, quatro mortos e quatro feridos](https://oglobo.globo.com/rio/operacao-na-area-central-do-rio-termina-com-16-prisoes-quatro-mortos-quatro-feridos-24609930)
 * [Covid-19: Rio registra 159 mortes e 2.523 casos nas últimas 24 horas](https://oglobo.globo.com/rio/covid-19-rio-registra-159-mortes-2523-casos-nas-ultimas-24-horas-24609944)
 * [Secretário de Fazenda critica Conselho que acompanha ajuste fiscal do RJ](https://oglobo.globo.com/rio/secretario-de-fazenda-critica-conselho-que-acompanha-ajuste-fiscal-do-rj-24609813)
-* [Palavras cruzadas do site do GLOBO têm edição temática sobre o Rio nesta sexta-feira](https://oglobo.globo.com/brasil/palavras-cruzadas-do-site-do-globo-tem-edicao-tematica-sobre-rio-nesta-sexta-feira-24609850)

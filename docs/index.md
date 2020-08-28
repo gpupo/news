@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 28/08/2020 04:18:41 UTC
+# indexed at 28/08/2020 04:34:58 UTC
 
 
 ## news.ycombinator.com
@@ -12,10 +12,11 @@ layout: default
 * [ReMarkable 2.0 – A digital notebook that feels like paper](https://remarkable.com/#What_Is_New)
 * [Zoom still don't understand GDPR](https://www.threatspike.com/blog/zoom_cookies.html)
 * [Does Facebook pay Apple 30% of revenue derived from ads made within its iOS app?](https://twitter.com/SpencerDailey/status/1299063704483438593)
-* [Has to Be a Joke, Because If It’s Not](https://alhambrapartners.com/2020/08/27/this-has-to-be-a-joke-because-if-its-not/)
 * [Lego IKEA Bygglek – First Look](http://www.brickfinder.net/2020/07/11/lego-ikea-bygglek-first-look/)
-* [Waymo Tests Autonomous Trucks in Texas](https://www.ttnews.com/articles/waymo-tests-autonomous-trucks-texas)
 * [Scrollbar Blindness](https://svenkadak.com/blog/scrollbar-blindness)
+* [Waymo Tests Autonomous Trucks in Texas](https://www.ttnews.com/articles/waymo-tests-autonomous-trucks-texas)
+* [Who needs a case? The 3D Printed Mil-Plastic is here](https://back7.co/home/back7co-mil-plastic)
+* [Has to Be a Joke, Because If It’s Not](https://alhambrapartners.com/2020/08/27/this-has-to-be-a-joke-because-if-its-not/)
 * [New Economic Challenges and the Fed's Monetary Policy Review](https://www.federalreserve.gov/newsevents/speech/powell20200827a.htm)
 * [When Asbestos Was a Gift Fit for a King](https://daily.jstor.org/when-asbestos-was-a-gift-fit-for-a-king/)
 * [A Short Guide to Minimal Web Development (2018)](https://meiert.com/en/blog/minimal-web-development/)
@@ -23,20 +24,19 @@ layout: default
 * [The Rapier Physics Engine](https://www.dimforge.com/blog/2020/08/25/announcing-the-rapier-physics-engine/)
 * [Band-Limiting Procedural Textures](https://iquilezles.org/www/articles/bandlimiting/bandlimiting.htm)
 * [Architecture Playbook](https://nocomplexity.com/documents/arplaybook/introduction.html)
+* [In Ashgabat](https://www.lrb.co.uk/the-paper/v42/n15/james-lomax/diary)
 * [The time it takes to run a paid newsletter](https://simonowens.substack.com/p/the-exact-time-commitment-it-takes)
 * [Show HN: Muse – Tool for Thought on iPad](https://launch-preview.museapp.com/)
-* [Computer scientists attempt to corner the Collatz conjecture](https://www.quantamagazine.org/can-computers-solve-the-collatz-conjecture-20200826/)
-* [In Ashgabat](https://www.lrb.co.uk/the-paper/v42/n15/james-lomax/diary)
 * [Bill Gates' nuclear venture plans reactor to complement solar, wind power boom](https://www.reuters.com/article/us-usa-nuclearpower-terrapower/bill-gates-nuclear-venture-plans-reactor-to-complement-solar-wind-power-boom-idUSKBN25N2U8)
+* [Computer scientists attempt to corner the Collatz conjecture](https://www.quantamagazine.org/can-computers-solve-the-collatz-conjecture-20200826/)
 * [Hard work vs. Long work (2011)](https://seths.blog/2011/05/hard-work-vs-long-work/)
 * [An Archive of a Different Type](http://blog.archive.org/2020/08/26/an-archive-of-a-different-type/)
 * [Nitrokey](https://www.nitrokey.com/)
 * [Antibiotics nearly double risk of developing IBD, doctors warn](https://www.studyfinds.org/antibiotics-double-ibd-risk/)
+* [Discovery of scholar's notes shine light on race to decipher Rosetta Stone](https://www.theguardian.com/culture/2020/aug/25/discovery-of-scholars-notes-shine-light-on-race-to-decipher-rosetta-stone)
 * [Constant Time LFU](https://arpitbhayani.me/blogs/lfu)
 * [Rare plants that ‘bleed’ nickel](https://www.bbc.com/future/article/20200825-indonesia-the-plants-that-mine-poisonous-metals)
 * [Anime-to-Real Clothing: Cosplay Costume Generation](https://arxiv.org/abs/2008.11479)
-* [Discovery of scholar's notes shine light on race to decipher Rosetta Stone](https://www.theguardian.com/culture/2020/aug/25/discovery-of-scholars-notes-shine-light-on-race-to-decipher-rosetta-stone)
-* [Apple to start requiring written consent for third party API usage in apps](https://9to5mac.com/2020/08/27/apple-rejects-watch-for-tesla-app-as-it-starts-requiring-written-consent-for-third-party-api-use/)
 * [Confessions of an ID Theft Kingpin, Part II](https://krebsonsecurity.com/2020/08/confessions-of-an-id-theft-kingpin-part-ii/)
 ## nytimes.com
 
@@ -53,7 +53,6 @@ layout: default
 * [Covid-19 Live Updates](https://www.nytimes.com/2020/08/27/world/covid-19-coronavirus.html)
 * [Can You Get a Flu Shot Now? Yes, and Doctors Say You Should](https://www.nytimes.com/2020/08/25/health/flu-vaccine-coronavirus.html)
 * [Fed Chair Sets Stage for Longer Periods of Lower Rates](https://www.nytimes.com/2020/08/27/business/economy/federal-reserve-inflation-jerome-powell.html)
-* [Hurricane Laura, President Trump, Baby Dinosaurs: Your Thursday Evening Briefing](https://www.nytimes.com/2020/08/27/briefing/hurricane-laura-president-trump-baby-dinosaurs.html)
 * [On the Ground in Kenosha](https://www.nytimes.com/2020/08/27/podcasts/the-daily/kenosha-wisconsin-protests.html)
 * [The Life of a Brilliant, Suffering Scientist](https://www.nytimes.com/2020/08/21/books/review/podcast-Dominant-Character-Samanth-Subramanian-Book-of-Eels-Patrik-Svensson.html)
 * [Can the Republicans Sell a Whole New Trump?](https://www.nytimes.com/2020/08/27/opinion/the-argument-republican-convention-trump.html)
@@ -79,10 +78,10 @@ layout: default
 * [In Pandemic, More Are Paying for Direct Access to Their Doctors](https://www.nytimes.com/2020/08/21/your-money/concierge-personal-medical-care-coronavirus.html)
 * [U.S. Open Draw Lacks Some Stars, but Not Story Lines](https://www.nytimes.com/2020/08/27/sports/tennis/us-open-draw-serena-williams.html)
 * [Printer Jam: Serious Supply Issues Disrupt the Book Industry’s Fall Season](https://www.nytimes.com/2020/08/27/books/printing-companies-backlog-book-publishing.html)
-* [How to Set Pandemic Boundaries for Relatives](https://www.nytimes.com/2020/08/22/well/family/boundaries-pandemic-family-relationships.html)
-* [The 2020 Back-to-School List for Teens’ Emotional Well-Being](https://www.nytimes.com/2020/08/25/well/family/teens-mental-health-needs.html)
 * [Play these Old School Games](https://www.nytimes.com/2020/08/22/at-home/sharpen-a-pencil-and-challenge-an-opponent.html)
 * [The Lesson We’re Learning From TikTok? It’s All About Our Data](https://www.nytimes.com/2020/08/26/technology/personaltech/tiktok-data-apps.html)
+* [How to Set Pandemic Boundaries for Relatives](https://www.nytimes.com/2020/08/22/well/family/boundaries-pandemic-family-relationships.html)
+* [The 2020 Back-to-School List for Teens’ Emotional Well-Being](https://www.nytimes.com/2020/08/25/well/family/teens-mental-health-needs.html)
 * [The British Museum Reopens to a World That Has Changed](https://www.nytimes.com/2020/08/27/arts/design/british-museum-reopening.html)
 * [A Cozy Cottage on an Island Northeast of Stockholm](https://www.nytimes.com/2020/08/26/t-magazine/cottage-stockholm-home-design.html)
 * [Charles Cook, Ground Zero Volunteer for Months, Dies at 79](https://www.nytimes.com/2020/08/27/nyregion/charles-cook-ground-zero-volunteer-for-months-dies-at-79.html)
@@ -93,8 +92,7 @@ layout: default
 * [Why Some Tropical Fish Are Gettin’ Squiggly With It](https://www.nytimes.com/2020/08/22/science/angelfish-paracentropyge-hybrid-genetics.html)
 * [New Video Shows Largest Hydrogen Bomb Ever Exploded](https://www.nytimes.com/2020/08/25/science/tsar-bomba-nuclear-test.html)
 * [Tracking Kyle Rittenhouse in the Fatal Kenosha Shootings](https://www.nytimes.com/2020/08/27/us/kyle-rittenhouse-kenosha-shooting-video.html)
-* [This Zucchini Tian Is Nonna-Inspired Cooking at Restaurant Speed](https://www.nytimes.com/2020/08/26/magazine/this-zucchini-tian-is-nonna-inspired-cooking-at-restaurant-speed.html)
-* [Hotels Tout Cleaning, But Guests Say, ‘My Room Was Dirty’](https://www.nytimes.com/2020/08/26/travel/virus-hotels-cleaning.html)
+* [Stephen Colbert Refuses to Watch Night 3 of the R.N.C.](https://www.nytimes.com/2020/08/27/arts/television/stephen-colbert-republican-convention.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)

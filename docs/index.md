@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 28/08/2020 11:16:22 UTC
+# indexed at 28/08/2020 11:35:06 UTC
 
 
 ## news.ycombinator.com
 
 
 * [OCaml Workshop 2020 Online Conference is live now](https://discuss.ocaml.org/t/ocaml-workshop-2020-online-conference-is-live-now/6287/9?u=mseri)
-* [RFC8890: The Internet Is for End Users](https://www.mnot.net/blog/2020/08/28/for_the_users)
 * [Testing Database Transactions in Go](https://marvinblum.de/blog/testing-database-transactions-in-go-jEaOGXravM)
 * [Using Microsoft Word with Git](https://blog.martinfenner.org/2014/08/25/using-microsoft-word-with-git/)
+* [RFC8890: The Internet Is for End Users](https://www.mnot.net/blog/2020/08/28/for_the_users)
 * [C++ Lightweight, cross-platform, HTML rendering engine for desktop apps](https://github.com/ultralight-ux/Ultralight)
+* [China Built a Vast New Infrastructure to Imprison Uighurs](https://www.buzzfeednews.com/article/meghara/china-new-internment-camps-xinjiang-uighurs-muslims)
 * [Zoom still don't understand GDPR](https://www.threatspike.com/blog/zoom_cookies.html)
 * [Hartree-Fock on a superconducting qubit quantum computer](https://science.sciencemag.org/content/369/6507/1084)
-* [Lego IKEA Bygglek – First Look](http://www.brickfinder.net/2020/07/11/lego-ikea-bygglek-first-look/)
-* [Prime Minister Abe Shinzo Intends to Step Down](https://www3.nhk.or.jp/nhkworld/en/news/20200828_28/)
 * [Svxlink: Advanced repeater controller and Echolink software for Linux](https://github.com/sm0svx/svxlink)
-* [A prickly patriot: Palantir’s prospectus reveals losses, promise](https://www.economist.com/business/2020/08/29/palantirs-stockmarket-prospectus-reveals-both-losses-and-promise)
 * [tilde.town: A social network over SSH](https://tilde.town/)
+* [Lego IKEA Bygglek – First Look](http://www.brickfinder.net/2020/07/11/lego-ikea-bygglek-first-look/)
+* [A prickly patriot: Palantir’s prospectus reveals losses, promise](https://www.economist.com/business/2020/08/29/palantirs-stockmarket-prospectus-reveals-both-losses-and-promise)
+* [Prime Minister Abe Shinzo Intends to Step Down](https://www3.nhk.or.jp/nhkworld/en/news/20200828_28/)
 * [Amazon: A New Kind of Antitrust Risk](https://diff.substack.com/p/amazon-a-new-kind-of-antitrust-risk)
-* [ReMarkable 2.0 – A digital notebook that feels like paper](https://remarkable.com/#What_Is_New)
 * [Who needs a case? The 3D Printed Mil-Plastic is here](https://back7.co/home/back7co-mil-plastic)
+* [ReMarkable 2.0 – A digital notebook that feels like paper](https://remarkable.com/#What_Is_New)
 * [Openbot: Turning Smartphones into Robots](https://www.openbot.org/)
 * [Is your chart a detective story or a police report?](https://www.wired.com/story/is-your-chart-a-detective-story-or-a-police-report/)
-* [The Rapier Physics Engine](https://www.dimforge.com/blog/2020/08/25/announcing-the-rapier-physics-engine/)
+* [Pluto.jl – a reactive, lightweight, simple notebook](https://github.com/fonsp/Pluto.jl)
 * [(Visualization)What caused 1 Million U.S. wildfires over the last 30 years?](http://wildfire.kyrixdemo.live/)
-* [When Asbestos Was a Gift Fit for a King](https://daily.jstor.org/when-asbestos-was-a-gift-fit-for-a-king/)
-* [Does Facebook pay Apple 30% of revenue derived from ads made within its iOS app?](https://twitter.com/SpencerDailey/status/1299063704483438593)
 * [Waymo Tests Autonomous Trucks in Texas](https://www.ttnews.com/articles/waymo-tests-autonomous-trucks-texas)
-* [Powell’s says it won’t sell books on Amazon anymore: ‘We must take a stand’](https://www.oregonlive.com/silicon-forest/2020/08/powells-says-it-wont-sell-books-on-amazon-anymore-we-must-take-a-stand.html)
-* [Safari adopts the Chrome/Firefox extension model](https://developer.apple.com/news/?id=kuswih5l)
+* [The Rapier Physics Engine](https://www.dimforge.com/blog/2020/08/25/announcing-the-rapier-physics-engine/)
+* [Does Facebook pay Apple 30% of revenue derived from ads made within its iOS app?](https://twitter.com/SpencerDailey/status/1299063704483438593)
 * [Editor Overload](https://blog.iansinnott.com/editor-overload/)
+* [Safari adopts the Chrome/Firefox extension model](https://developer.apple.com/news/?id=kuswih5l)
+* [Powell’s says it won’t sell books on Amazon anymore: ‘We must take a stand’](https://www.oregonlive.com/silicon-forest/2020/08/powells-says-it-wont-sell-books-on-amazon-anymore-we-must-take-a-stand.html)
 * [Computer scientists attempt to corner the Collatz conjecture](https://www.quantamagazine.org/can-computers-solve-the-collatz-conjecture-20200826/)
-* [Architecture Playbook](https://nocomplexity.com/documents/arplaybook/introduction.html)
-* [China Built a Vast New Infrastructure to Imprison Uighurs](https://www.buzzfeednews.com/article/meghara/china-new-internment-camps-xinjiang-uighurs-muslims)
 * [Scrollbar Blindness](https://svenkadak.com/blog/scrollbar-blindness)
-* [Substack (YC W18) Is Hiring to Build a Better Business Model for Writing](https://substack.com/jobs)
+* [In Ashgabat](https://www.lrb.co.uk/the-paper/v42/n15/james-lomax/diary)
+* [The time it takes to run a paid newsletter](https://simonowens.substack.com/p/the-exact-time-commitment-it-takes)
 ## nytimes.com
 
 
@@ -47,6 +47,7 @@ layout: default
 * [Trump Stomps on the Rules, but the Pandemic Isn’t as Easily Trampled](https://www.nytimes.com/2020/08/28/us/politics/trump-convention-speech-white-house.html)
 * [No Bushes, Reagans, Cheneys or McCains: Who Is Missing at Trump’s R.N.C.](https://www.nytimes.com/2020/08/27/us/politics/trump-rnc-missing-former-presidents.html)
 * [Shinzo Abe, Japan’s Longest-Serving Leader, Resigns Because of Illness](https://www.nytimes.com/2020/08/28/world/asia/shinzo-abe-resign-japan.html)
+* [Who Is Shinzo Abe, Japan's Departing Prime Minister?](https://www.nytimes.com/2020/08/28/world/asia/who-is-shinzo-abe.html)
 * [Black Lives Matter Grows as Movement While Facing New Challenges](https://www.nytimes.com/2020/08/28/us/black-lives-matter-protest.html)
 * [Suspect in Kenosha Killings Lionized the Police](https://www.nytimes.com/2020/08/27/us/kyle-rittenhouse-kenosha.html)
 * [One N.B.A. Team Walked Out. A Generation of Athletes Followed.](https://www.nytimes.com/2020/08/27/sports/basketball/nba-resume.html)
@@ -80,9 +81,9 @@ layout: default
 * [Unsealed Archives Give Fresh Clues to Pope Pius XII’s Response to the Holocaust](https://www.nytimes.com/2020/08/28/world/europe/pope-pius-xii-jews-vatican-archives.html)
 * [The Met Is Reopening, and the 'Hot Dog King' Is Back](https://www.nytimes.com/2020/08/28/nyregion/met-museum-hotdog.html)
 * [The Lesson We’re Learning From TikTok? It’s All About Our Data](https://www.nytimes.com/2020/08/26/technology/personaltech/tiktok-data-apps.html)
-* [Play these Old School Games](https://www.nytimes.com/2020/08/22/at-home/sharpen-a-pencil-and-challenge-an-opponent.html)
 * [How to Set Pandemic Boundaries for Relatives](https://www.nytimes.com/2020/08/22/well/family/boundaries-pandemic-family-relationships.html)
 * [The 2020 Back-to-School List for Teens’ Emotional Well-Being](https://www.nytimes.com/2020/08/25/well/family/teens-mental-health-needs.html)
+* [Play these Old School Games](https://www.nytimes.com/2020/08/22/at-home/sharpen-a-pencil-and-challenge-an-opponent.html)
 * [College Is Everywhere Now](https://www.nytimes.com/2020/08/28/style/dormpods-college-collab-houses-coronavirus.html)
 * [Album Review: Katy Perry's 'Smile'](https://www.nytimes.com/2020/08/27/arts/music/katy-perry-smile-review.html)
 * [The Poundcake of Your Dreams](https://www.nytimes.com/2020/08/21/dining/poundcake-recipe.html)
@@ -92,7 +93,8 @@ layout: default
 * [Reopened Schools Find Health Risks in Water After Covid-19 Lockdowns](https://www.nytimes.com/2020/08/27/health/covid-schools-legionnaires-disease.html)
 * [Fossil Reveals ‘One of the Cutest Dinosaurs’ Ever Found](https://www.nytimes.com/2020/08/27/science/dinosaur-face-fossil.html)
 * [You Can’t Escape Lice, Even 6,500 Feet Below the Ocean](https://www.nytimes.com/2020/08/26/science/lice-elephant-seals.html)
-* [Bayern Munich 1, P.S.G. 0: A Champions League Win for Tradition and Team](https://www.nytimes.com/2020/08/23/sports/soccer/psg-bayern-live-score.html)
+* [Tracking Kyle Rittenhouse in the Fatal Kenosha Shootings](https://www.nytimes.com/2020/08/27/us/kyle-rittenhouse-kenosha-shooting-video.html)
+* [Republican Convention: Best and Worst Moments From Mike Pence Night](https://www.nytimes.com/2020/08/27/opinion/rnc-best-worst-night-3.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)

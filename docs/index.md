@@ -2,55 +2,55 @@
 layout: default
 ---
 
-# indexed at 28/08/2020 21:16:45 UTC
+# indexed at 28/08/2020 21:35:07 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Ethereum Is a Dark Forest: A Horror Story](https://medium.com/@danrobinson/ethereum-is-a-dark-forest-ecc5f0505dff)
-* [Google is apparently taking down all/most fediverse apps from the Play Store](https://qoto.org/@freemo/104765288863293481)
+* [Google is apparently taking down all/most Fediverse apps from the Play Store](https://qoto.org/@freemo/104765288863293481)
 * [Riot Games: Game Design Curriculum Guide](https://www.riotgames.com/en/urf-academy/curriculum-guide)
-* [GoodRx S-1](https://www.sec.gov/Archives/edgar/data/1809519/000119312520234662/d949310ds1.htm)
+* [Apple Removes Epic Games Account from App Store](https://nintendosmash.com/apple-removes-epic-games-account-from-app-store-will-not-affect-unreal-engine-support/)
 * [Why I’m Willing to Pay a Premium for Security, Privacy, and Peace of Mind](https://tirania.org/blog/archive/2020/Aug-28.html)
+* [GoodRx S-1](https://www.sec.gov/Archives/edgar/data/1809519/000119312520234662/d949310ds1.htm)
 * [Impact of Go AI on the professional Go world](https://medium.com/@hajinlee/impact-of-go-ai-on-the-professional-go-world-f14cf201c7c2)
+* [Objective-Rust](https://belkadan.com/blog/2020/08/Objective-Rust/)
 * [Show HN: Visualize Data Structures in VS Code](https://github.com/hediet/vscode-debug-visualizer/tree/master/extension)
 * [Show HN: Read The Count of Monte Cristo and others in installments in your email](https://www.serialliterature.com/)
+* [Intel's “cripple AMD” function (2019)](https://www.agner.org/forum/viewtopic.php?f=1&t=6)
 * [Show HN: 3D first person game rendered in CSS/HTML](https://pantel.is/projects/css3d/)
 * [Zoom is now critical infrastructure – that’s a concern](https://www.brookings.edu/blog/techtank/2020/08/27/zoom-is-now-critical-infrastructure-thats-a-concern/)
-* [Intel's “cripple AMD” function (2019)](https://www.agner.org/forum/viewtopic.php?f=1&t=6)
+* [Show HN: Healthcare Is Dumb](https://healthcareisdumb.com/)
+* [Expert overclockers successfully push DOOM Eternal past 1k frames per second](https://slayersclub.bethesda.net/en/article/48xD6yVj0VsulONXKAnr7n/doom-eternal-overclocked-at-1000-fps)
+* [Graphtage: A New Semantic Diffing Tool](https://blog.trailofbits.com/2020/08/28/graphtage/)
 * [Ham radio is not dying, it's evolving](http://k0lwc.com/ham-radio-is-dying-no-its-not-its-evolving/)
-* [The Magic of Engineered Serendipity](https://www.beondeck.com/post/the-magic-of-engineered-serendipity)
-* [Boeing yanks eight 787s from service over structural issue](https://theaircurrent.com/aviation-safety/boeing-pulls-eight-787s-from-service-over-structural-issue/)
 * [Squad Wealth](https://otherinter.net/squad-wealth/)
 * [Firefox 80 and my confusion over its hardware accelerated video on Linux](https://utcc.utoronto.ca/~cks/space/blog/web/Firefox80VideoAccelConfusion)
-* [Expert overclockers successfully push DOOM Eternal past 1k frames per second](https://slayersclub.bethesda.net/en/article/48xD6yVj0VsulONXKAnr7n/doom-eternal-overclocked-at-1000-fps)
-* [Show HN: Healthcare Is Dumb](https://healthcareisdumb.com/)
-* [Objective-Rust](https://belkadan.com/blog/2020/08/Objective-Rust/)
+* [The Magic of Engineered Serendipity](https://www.beondeck.com/post/the-magic-of-engineered-serendipity)
+* [Boeing yanks eight 787s from service over structural issue](https://theaircurrent.com/aviation-safety/boeing-pulls-eight-787s-from-service-over-structural-issue/)
+* [Pure and Applied Chess](https://theelectricagora.com/2020/08/28/pure-and-applied-chess/)
 * [Is Cyberpunk Dead? A Conversation with Bruce Bethke](https://www.markeverglade.com/iscyberpunkdead)
 * [Powell’s says it won’t sell books on Amazon anymore](https://www.oregonlive.com/silicon-forest/2020/08/powells-says-it-wont-sell-books-on-amazon-anymore-we-must-take-a-stand.html)
+* [Speaking Knots](https://soender.blog/Speaking-Knots/)
 * [Redis Labs Raises $100M](https://redislabs.com/press/redis-labs-raises-100-million-series-f-financing/)
 * [Surprising new feature in AMD Ryzen 3000](https://www.agner.org/forum/viewtopic.php?t=41)
 * [RFC8890: The Internet Is for End Users](https://www.mnot.net/blog/2020/08/28/for_the_users)
 * [Dots don't matter in Gmail addresses](https://support.google.com/mail/answer/7436150?hl=en)
-* [Speaking Knots](https://soender.blog/Speaking-Knots/)
-* [Investigating the Milk, MIT's Historic Dairy Product (2015)](https://alum.mit.edu/slice/investigating-milk-mits-historic-dairy-product)
-* [Pluto.jl – a reactive, lightweight, simple notebook](https://github.com/fonsp/Pluto.jl)
-* [Launch HN: SuperTokens (YC S20) – Securely manage session tokens](https://news.ycombinator.com/item?id=24306572)
-* [Babylonian Mathematics (2003) [pdf]](https://www.math.tamu.edu/~dallen/masters/egypt_babylon/babylon.pdf)
+* [Shelley: macOS menu bar app that runs shell scripts upon authorized HTTP request](https://tyler.io/shelley/)
 ## nytimes.com
 
 
 * [Covid-19 News: Live Updates](https://www.nytimes.com/2020/08/28/world/covid-19-coronavirus.html)
 * [Spotting $62 Million in Alleged P.P.P. Fraud Was the Easy Part](https://www.nytimes.com/2020/08/28/business/ppp-small-business-fraud-coronavirus.html)
+* [Live Updates: Jacob Blake Will No Longer Be Shackled to Bed, Lawyer Says](https://www.nytimes.com/2020/08/28/us/kenosha-shooting-protests.html)
+* [March on Washington 2020: Protesters Gathered to Demand Racial Justice](https://www.nytimes.com/2020/08/28/us/march-on-washington-2020.html)
+* [Black Lives Matter Grows as Movement While Facing New Challenges](https://www.nytimes.com/2020/08/28/us/black-lives-matter-protest.html)
 * [Election Updates: Woman Who Praised Trump at R.N.C. Gets Full Pardon](https://www.nytimes.com/live/2020/08/28/us/trump-vs-biden)
 * [For Trump, G.O.P. Created an Alternative America Beyond Covid-19](https://www.nytimes.com/2020/08/28/us/politics/trump-coronavirus-fact-check.html)
 * [Crucial Battle to Keep Senate Control Gets Little Notice at Republican Convention](https://www.nytimes.com/2020/08/28/us/senate-control-republican-convention-trump.html)
 * [What if Facebook Is the Real ‘Silent Majority’?](https://www.nytimes.com/2020/08/27/technology/what-if-facebook-is-the-real-silent-majority.html)
 * [A Gen-X Adviser to Biden Argues Equality Is Good for Growth](https://www.nytimes.com/2020/08/28/business/heather-boushey-biden-economic-inequality.html)
-* [Live Updates: Jacob Blake Will No Longer Be Shackled to Bed, Lawyer Says](https://www.nytimes.com/2020/08/28/us/kenosha-shooting-protests.html)
-* [March on Washington 2020: Protesters Gathered to Demand Racial Justice](https://www.nytimes.com/2020/08/28/us/march-on-washington-2020.html)
-* [Black Lives Matter Grows as Movement While Facing New Challenges](https://www.nytimes.com/2020/08/28/us/black-lives-matter-protest.html)
 * [A Perk for N.Y.’s Richest Areas: First Dibs on Top Public Schools](https://www.nytimes.com/2020/08/27/nyregion/nyc-public-high-school-admissions.html)
 * [College Housing: Some Students Are Living Way Off-Campus](https://www.nytimes.com/2020/08/28/us/coronavirus-college-housing-legionella.html)
 * [Why New Jersey’s Plan for In-Person Schooling Is Falling Apart](https://www.nytimes.com/2020/08/28/nyregion/nj-coronavirus-schools-reopening.html)
@@ -81,10 +81,10 @@ layout: default
 * [Who Is Shinzo Abe, Japan's Departing Prime Minister?](https://www.nytimes.com/2020/08/28/world/asia/who-is-shinzo-abe.html)
 * [Why Does Walmart Want to Buy TikTok?](https://www.nytimes.com/2020/08/28/technology/tiktok-walmart-ecommerce.html)
 * [Walter Lure, Guitarist for the Heartbreakers, Dies at 71](https://www.nytimes.com/2020/08/27/arts/music/walter-lure-dead.html)
+* [The Lesson We’re Learning From TikTok? It’s All About Our Data](https://www.nytimes.com/2020/08/26/technology/personaltech/tiktok-data-apps.html)
 * [Move Over, Sustainable Travel. Regenerative Travel Has Arrived.](https://www.nytimes.com/2020/08/27/travel/travel-future-coronavirus-sustainable.html)
 * [How to Set Pandemic Boundaries for Relatives](https://www.nytimes.com/2020/08/22/well/family/boundaries-pandemic-family-relationships.html)
 * [Are You an American Voting From Abroad? Here’s How to Do It](https://www.nytimes.com/2020/08/28/smarter-living/american-vote-from-abroad.html)
-* [The Lesson We’re Learning From TikTok? It’s All About Our Data](https://www.nytimes.com/2020/08/26/technology/personaltech/tiktok-data-apps.html)
 * [What’s That on the Met’s Roof Garden? A Big, Beautiful Wall](https://www.nytimes.com/2020/08/27/arts/design/met-roof-hector-zamora-wall.html)
 * [Former Milwaukee Bucks Player John Henson Talks Profiling and Protests](https://www.nytimes.com/2020/08/27/sports/basketball/bucks-john-henson.html)
 * [About Melania Trump's Lime Green Dress and Ivanka Trump in Black](https://www.nytimes.com/2020/08/28/style/melania-trump-ivanka-trump-donald-trump-rnc.html)
@@ -102,11 +102,11 @@ layout: default
 ## globo.com
 
 
+* [Deputados e aliados acreditam que afastamento minou chances de Witzel resistir ao processo de impeachment](https://oglobo.globo.com/rio/deputados-aliados-acreditam-que-afastamento-minou-chances-de-witzel-resistir-ao-processo-de-impeachment-24612007)
+* [Hospital diz que Zambelli não teve Covid-19 e detecta doença inflamatória](https://epoca.globo.com/brasil/hospital-diz-que-zambelli-nao-teve-covid-19-detecta-doenca-inflamatoria-24612039)
 * [Após falar em 'crime contra o país', Guedes diz que não quis ofender senadores: 'Foi um desabafo'](https://oglobo.globo.com/economia/apos-falar-em-crime-contra-pais-guedes-diz-que-nao-quis-ofender-senadores-foi-um-desabafo-24612065)
 * [Ministério do Meio Ambiente anuncia que vai suspender ações de combate a desmatamento e queimadas a partir de segunda](https://oglobo.globo.com/sociedade/ministerio-do-meio-ambiente-anuncia-que-vai-suspender-acoes-de-combate-desmatamento-queimadas-partir-de-segunda-1-24611943)
-* [Hospital diz que Zambelli não teve Covid-19 e detecta doença inflamatória](https://epoca.globo.com/brasil/hospital-diz-que-zambelli-nao-teve-covid-19-detecta-doenca-inflamatoria-24612039)
 * [‘Nos próximos dias deve sair a prorrogação do auxílio emergencial ou já o lançamento do Renda Brasil’, diz Guedes](https://oglobo.globo.com/economia/nos-proximos-dias-deve-sair-prorrogacao-do-auxilio-emergencial-ou-ja-lancamento-do-renda-brasil-diz-guedes-1-24612001)
-* [Deputados e aliados acreditam que afastamento minou chances de Witzel resistir ao processo de impeachment](https://oglobo.globo.com/rio/deputados-aliados-acreditam-que-afastamento-minou-chances-de-witzel-resistir-ao-processo-de-impeachment-24612007)
 * [Greta Thunberg e Sonia Guajajara apelam por pressão global a favor dos povos indígenas e da Amazônia](https://oglobo.globo.com/sociedade/greta-thunberg-sonia-guajajara-apelam-por-pressao-global-favor-dos-povos-indigenas-da-amazonia-24611986)
 * [Após crítica pública de Bolsonaro a Renda Brasil, Guedes brinca: 'Isso aí é carrinho, entrada perigosa'](https://oglobo.globo.com/economia/apos-critica-publica-de-bolsonaro-renda-brasil-guedes-brinca-isso-ai-carrinho-entrada-perigosa-24611941)
 * [Maioria do Supremo vota pela cobrança de contribuição previdenciária sobre terço de férias](https://oglobo.globo.com/economia/maioria-do-supremo-vota-pela-cobranca-de-contribuicao-previdenciaria-sobre-terco-de-ferias-24611983)

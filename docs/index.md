@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 28/08/2020 05:16:37 UTC
+# indexed at 28/08/2020 05:35:03 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Safari adopts the Chrome/Firefox extension model](https://developer.apple.com/news/?id=kuswih5l)
 * [ReMarkable 2.0 – A digital notebook that feels like paper](https://remarkable.com/#What_Is_New)
-* [Zoom still don't understand GDPR](https://www.threatspike.com/blog/zoom_cookies.html)
 * [Does Facebook pay Apple 30% of revenue derived from ads made within its iOS app?](https://twitter.com/SpencerDailey/status/1299063704483438593)
+* [Zoom still don't understand GDPR](https://www.threatspike.com/blog/zoom_cookies.html)
 * [Who needs a case? The 3D Printed Mil-Plastic is here](https://back7.co/home/back7co-mil-plastic)
 * [Lego IKEA Bygglek – First Look](http://www.brickfinder.net/2020/07/11/lego-ikea-bygglek-first-look/)
-* [Scrollbar Blindness](https://svenkadak.com/blog/scrollbar-blindness)
+* [Convicted of Sex Crimes, but with No Victims](https://www.nytimes.com/2020/08/26/magazine/sex-offender-operation-net-nanny.html)
 * [Waymo Tests Autonomous Trucks in Texas](https://www.ttnews.com/articles/waymo-tests-autonomous-trucks-texas)
-* [New Economic Challenges and the Fed's Monetary Policy Review](https://www.federalreserve.gov/newsevents/speech/powell20200827a.htm)
+* [Apple blocks Facebook update that called out 30-percent App Store ‘tax’](https://www.theverge.com/2020/8/28/21405140/apple-rejects-facebook-update-30-percent-cut)
 * [When Asbestos Was a Gift Fit for a King](https://daily.jstor.org/when-asbestos-was-a-gift-fit-for-a-king/)
+* [New Economic Challenges and the Fed's Monetary Policy Review](https://www.federalreserve.gov/newsevents/speech/powell20200827a.htm)
 * [A Short Guide to Minimal Web Development (2018)](https://meiert.com/en/blog/minimal-web-development/)
 * [The Lounge – Modern web IRC client designed for self-hosting](https://github.com/thelounge/thelounge)
-* [Architecture Playbook](https://nocomplexity.com/documents/arplaybook/introduction.html)
-* [The Rapier Physics Engine](https://www.dimforge.com/blog/2020/08/25/announcing-the-rapier-physics-engine/)
 * [Bill Gates' nuclear venture plans reactor to complement solar, wind power boom](https://www.reuters.com/article/us-usa-nuclearpower-terrapower/bill-gates-nuclear-venture-plans-reactor-to-complement-solar-wind-power-boom-idUSKBN25N2U8)
-* [Band-Limiting Procedural Textures](https://iquilezles.org/www/articles/bandlimiting/bandlimiting.htm)
+* [The Rapier Physics Engine](https://www.dimforge.com/blog/2020/08/25/announcing-the-rapier-physics-engine/)
 * [TSMC and Graphcore Prepare for AI Acceleration on 3nm](https://www.anandtech.com/show/16040/tsmc-and-graphcore-prepare-for-ai-acceleration-on-3nm)
+* [Architecture Playbook](https://nocomplexity.com/documents/arplaybook/introduction.html)
+* [Scrollbar Blindness](https://svenkadak.com/blog/scrollbar-blindness)
 * [In Ashgabat](https://www.lrb.co.uk/the-paper/v42/n15/james-lomax/diary)
-* [Show HN: Muse – Tool for Thought on iPad](https://launch-preview.museapp.com/)
 * [The time it takes to run a paid newsletter](https://simonowens.substack.com/p/the-exact-time-commitment-it-takes)
-* [Amazon: A New Kind of Antitrust Risk](https://diff.substack.com/p/amazon-a-new-kind-of-antitrust-risk)
-* [Computer scientists attempt to corner the Collatz conjecture](https://www.quantamagazine.org/can-computers-solve-the-collatz-conjecture-20200826/)
+* [Bro, This Is Not the 'Beowulf' You Think You Know](https://www.npr.org/2020/08/27/906423831/bro-this-is-not-the-beowulf-you-think-you-know)
+* [Show HN: Muse – Tool for Thought on iPad](https://launch-preview.museapp.com/)
 * [An Archive of a Different Type](http://blog.archive.org/2020/08/26/an-archive-of-a-different-type/)
 * [Hard work vs. Long work (2011)](https://seths.blog/2011/05/hard-work-vs-long-work/)
+* [Computer scientists attempt to corner the Collatz conjecture](https://www.quantamagazine.org/can-computers-solve-the-collatz-conjecture-20200826/)
 * [Nitrokey](https://www.nitrokey.com/)
 * [Antibiotics nearly double risk of developing IBD, doctors warn](https://www.studyfinds.org/antibiotics-double-ibd-risk/)
+* [Amazon: A New Kind of Antitrust Risk](https://diff.substack.com/p/amazon-a-new-kind-of-antitrust-risk)
 * [Discovery of scholar's notes shine light on race to decipher Rosetta Stone](https://www.theguardian.com/culture/2020/aug/25/discovery-of-scholars-notes-shine-light-on-race-to-decipher-rosetta-stone)
 * [Constant Time LFU](https://arpitbhayani.me/blogs/lfu)
-* [Rare plants that ‘bleed’ nickel](https://www.bbc.com/future/article/20200825-indonesia-the-plants-that-mine-poisonous-metals)
-* [Bro, This Is Not the 'Beowulf' You Think You Know](https://www.npr.org/2020/08/27/906423831/bro-this-is-not-the-beowulf-you-think-you-know)
 ## nytimes.com
 
 
@@ -92,18 +92,17 @@ layout: default
 * [First Documented Coronavirus Reinfection Reported in Hong Kong](https://www.nytimes.com/2020/08/24/health/coronavirus-reinfection.html)
 * [Why Some Tropical Fish Are Gettin’ Squiggly With It](https://www.nytimes.com/2020/08/22/science/angelfish-paracentropyge-hybrid-genetics.html)
 * [New Video Shows Largest Hydrogen Bomb Ever Exploded](https://www.nytimes.com/2020/08/25/science/tsar-bomba-nuclear-test.html)
-* [In his speech, Joe Biden will preview a fall campaign strategy against Trump.](https://www.nytimes.com/2020/08/20/us/elections/in-his-speech-joe-biden-will-preview-a-fall-campaign-strategy-against-trump.html)
-* [Stephen Colbert Refuses to Watch Night 3 of the R.N.C.](https://www.nytimes.com/2020/08/27/arts/television/stephen-colbert-republican-convention.html)
-* [The R.N.C.’s Not-So-Subtle Undertones](https://www.nytimes.com/2020/08/25/us/politics/the-rncs-not-so-subtle-undertones.html)
-* [Extra $300 Stimulus Unemployment Payment: Who Will Get It and When?](https://www.nytimes.com/article/stimulus-unemployment-payment-benefit.html)
+* [Tracking Kyle Rittenhouse in the Fatal Kenosha Shootings](https://www.nytimes.com/2020/08/27/us/kyle-rittenhouse-kenosha-shooting-video.html)
+* [This Zucchini Tian Is Nonna-Inspired Cooking at Restaurant Speed](https://www.nytimes.com/2020/08/26/magazine/this-zucchini-tian-is-nonna-inspired-cooking-at-restaurant-speed.html)
+* [Hotels Tout Cleaning, But Guests Say, ‘My Room Was Dirty’](https://www.nytimes.com/2020/08/26/travel/virus-hotels-cleaning.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [Primeiro-ministro do Japão irá renunciar por motivos de saúde](https://oglobo.globo.com/mundo/primeiro-ministro-do-japao-ira-renunciar-por-motivos-de-saude-24610716)
 * [Ao aceitar candidatura, Trump ataca 'socialista' Biden e se vangloria de ser outsider que derrotou a velha política](https://oglobo.globo.com/mundo/ao-aceitar-candidatura-trump-ataca-socialista-biden-se-vangloria-de-ser-outsider-que-derrotou-velha-politica-24610601)
-* [Em resposta ao STF, Banco Central diz que nota de R$ 200 é 'imprescindível'](https://oglobo.globo.com/economia/em-resposta-ao-stf-banco-central-diz-que-nota-de-200-imprescindivel-1-24610403)
 * [O bundão (‘Asinus magnum’)](https://oglobo.globo.com/opiniao/o-bundao-asinus-magnum-24610559)
 * [A arte me representa](https://oglobo.globo.com/opiniao/a-arte-me-representa-24610548)
 * [Revés na política de segurança](https://oglobo.globo.com/opiniao/reves-na-politica-de-seguranca-24610514)

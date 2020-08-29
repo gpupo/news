@@ -2,15 +2,15 @@
 layout: default
 ---
 
-# indexed at 29/08/2020 08:34:34 UTC
+# indexed at 29/08/2020 09:07:32 UTC
 
 
 ## news.ycombinator.com
 
 
 * [American Academy of Sleep Medicine calls for elimination of daylight saving time](https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/)
-* [Apple Terminates Epic Games' Developer Account](https://www.macrumors.com/2020/08/28/apple-terminates-epic-games-developer-account/)
 * [Remote Code Execution in Slack desktop apps](https://hackerone.com/reports/783877)
+* [Apple Terminates Epic Games' Developer Account](https://www.macrumors.com/2020/08/28/apple-terminates-epic-games-developer-account/)
 * [Malloc Geiger Counter](https://github.com/laserallan/malloc_geiger)
 * [Life Is Short (2016)](http://paulgraham.com/vb.html)
 * [Netflix is now doing per-shot encoding for UHD content](https://netflixtechblog.com/optimized-shot-based-encodes-for-4k-now-streaming-47b516b10bbb)
@@ -18,24 +18,24 @@ layout: default
 * [GH Archive](https://www.gharchive.org/)
 * [How to Fix Gimbal Lock in N-Dimensions](https://medium.com/swlh/how-to-fix-gimbal-lock-in-n-dimensions-f2f7baec2b5e)
 * [A broken algorithm that poisoned American transportation](https://www.vice.com/en_us/article/v7gxy9/the-broken-algorithm-that-poisoned-american-transportation-v27n3)
-* [Game Design Curriculum](https://www.riotgames.com/en/urf-academy/curriculum-guide)
 * [Hazel: A live functional programming environment featuring typed holes](http://hazel.org/)
+* [Game Design Curriculum](https://www.riotgames.com/en/urf-academy/curriculum-guide)
 * [Intel's “cripple AMD” function (2019)](https://www.agner.org/forum/viewtopic.php?f=1&t=6)
 * [The coming collision between autonomous vehicles and the liability system (2012) [pdf]](https://pdfs.semanticscholar.org/88c1/11a1d16a44ff3adc681e966926e101067ae1.pdf)
-* [The Ekranoplan Is Stranded Off a Beach](https://www.popularmechanics.com/military/aviation/a33808381/russia-ekranoplan-plane-boat-wrecked/)
-* [The Joy of Cryptography](http://web.engr.oregonstate.edu/~rosulekm/crypto/)
-* [Objective-Rust](https://belkadan.com/blog/2020/08/Objective-Rust/)
 * [Babylonian Multiplication in the shower (2016)](https://www.iquilezles.org/blog/?p=4582)
+* [Objective-Rust](https://belkadan.com/blog/2020/08/Objective-Rust/)
+* [The Joy of Cryptography](http://web.engr.oregonstate.edu/~rosulekm/crypto/)
 * [Scientists build army of a million microrobots that fit inside hypodermic needle](https://www.cnet.com/news/scientists-build-army-of-1-million-microrobots-that-can-fit-inside-a-hypodermic-needle/)
 * [Graphtage: A New Semantic Diffing Tool](https://blog.trailofbits.com/2020/08/28/graphtage/)
+* [The Ekranoplan Is Stranded Off a Beach](https://www.popularmechanics.com/military/aviation/a33808381/russia-ekranoplan-plane-boat-wrecked/)
 * [GoodRx S-1](https://www.sec.gov/Archives/edgar/data/1809519/000119312520234662/d949310ds1.htm)
+* [Pinterest cancels office lease in unbuilt project, citing work-from-home shift](https://www.sfchronicle.com/business/article/Pinterest-cancels-huge-SF-office-lease-in-unbuilt-15523170.php)
 * [Show HN: Read The Count of Monte Cristo and others in installments in your email](https://www.serialliterature.com/)
 * [Tell HN: Check medium's localstorage if you use adblock](https://news.ycombinator.com/item?id=24310778)
 * [Ethereum Is a Dark Forest](https://medium.com/@danrobinson/ethereum-is-a-dark-forest-ecc5f0505dff)
 * [Show HN: Healthcare Is Dumb](https://healthcareisdumb.com/)
 * [Launch HN: SuperTokens (YC S20) – Securely manage session tokens](https://news.ycombinator.com/item?id=24306572)
 * [Neuralink Progress Update [video]](https://www.youtube.com/watch?v=DVvmgjBL74w&hn=1)
-* [The Jellyfish Problem](https://www.historytoday.com/archive/natural-histories/jellyfish-problem)
 * [Retrobatch – flexible batch image processing for Mac](https://flyingmeat.com/retrobatch/)
 * [Squad Wealth](https://otherinter.net/squad-wealth/)
 ## nytimes.com
@@ -80,10 +80,11 @@ layout: default
 * [Movies Are Returning to Theaters. Will Audiences Follow?](https://www.nytimes.com/2020/08/28/business/media/coronavirus-movie-theaters-new-mutants.html)
 * [Trump Says Crime Is Rampant in N.Y.C. Here Are the Facts.](https://www.nytimes.com/2020/08/28/nyregion/trump-rnc-urban-crime.html)
 * [7 Takeaways From ‘Melania and Me,’ by the First Lady’s Former Friend](https://www.nytimes.com/2020/08/28/books/review/melania-and-me-stephanie-winston-wolkoff.html)
-* [Are You an American Voting From Abroad? Here’s How to Do It](https://www.nytimes.com/2020/08/28/smarter-living/american-vote-from-abroad.html)
-* [Can You Hear Yourself Think?](https://www.nytimes.com/2020/08/25/realestate/house-noise-solutions.html)
-* [Move Over, Sustainable Travel. Regenerative Travel Has Arrived.](https://www.nytimes.com/2020/08/27/travel/travel-future-coronavirus-sustainable.html)
-* [How to Choose the Right Pediatrician](https://www.nytimes.com/article/choosing-a-pediatrician-children.html)
+* [The Monotony of Family Meals Can Trigger Past Disordered Eating](https://www.nytimes.com/2020/08/19/parenting/eating-disorders-coronavirus.html)
+* [How to Handle Anxiety Over Back-to-School Decisions](https://www.nytimes.com/2020/07/29/parenting/schools-reopening-parents-decision-kids.html)
+* [Learning Pods During Coronavirus Explained](https://www.nytimes.com/article/learning-pods-coronavirus.html)
+* [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
+* [I Was a Screen–Time Expert. Then the Coronavirus Happened.](https://www.nytimes.com/2020/07/27/parenting/children-screen-time-games-phones.html)
 * [How Summer Festivals Persevered in the Pandemic](https://www.nytimes.com/2020/08/28/travel/summer-festivals-coronavirus.html)
 * [Emmys 2020: Ted Danson Made D’Arcy Carden a Better Not-a-Robot](https://www.nytimes.com/2020/08/28/arts/television/emmys-ted-danson-darcy-carden.html)
 * [A Doctor Asks: Is Covid Scaring Us Away From Our Humanity?](https://www.nytimes.com/2020/08/28/world/australia/melbourne-covid-doctor.html)
@@ -93,9 +94,7 @@ layout: default
 * [Reopened Schools Find Health Risks in Water After Covid-19 Lockdowns](https://www.nytimes.com/2020/08/27/health/covid-schools-legionnaires-disease.html)
 * [Fossil Reveals ‘One of the Cutest Dinosaurs’ Ever Found](https://www.nytimes.com/2020/08/27/science/dinosaur-face-fossil.html)
 * [You Can’t Escape Lice, Even 6,500 Feet Below the Ocean](https://www.nytimes.com/2020/08/26/science/lice-elephant-seals.html)
-* [N.B.A. Protest Shows Who Calls the Shots in a Superstar Economy](https://www.nytimes.com/2020/08/29/business/economy/nba-players-strike-labor.html)
-* [Shinzo Abe’s Resignation Prompts Speculation About His Successor](https://www.nytimes.com/2020/08/29/world/asia/japan-abe-successor.html)
-* [On Trump, Merkel's Face Does the Talking](https://www.nytimes.com/2020/08/28/world/europe/merkel-trump-grenell.html)
+* [You’re Beginning to Look Dull](https://www.nytimes.com/2020/08/27/style/youre-beginning-to-look-dull.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)

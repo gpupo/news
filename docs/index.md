@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 29/08/2020 10:11:18 UTC
+# indexed at 29/08/2020 10:34:32 UTC
 
 
 ## news.ycombinator.com
@@ -15,29 +15,29 @@ layout: default
 * [Life Is Short (2016)](http://paulgraham.com/vb.html)
 * [Netflix is now doing per-shot encoding for UHD content](https://netflixtechblog.com/optimized-shot-based-encodes-for-4k-now-streaming-47b516b10bbb)
 * [The Dark Core of Personality](https://blogs.scientificamerican.com/beautiful-minds/the-dark-core-of-personality/)
-* [A broken algorithm that poisoned American transportation](https://www.vice.com/en_us/article/v7gxy9/the-broken-algorithm-that-poisoned-american-transportation-v27n3)
 * [GH Archive](https://www.gharchive.org/)
+* [A broken algorithm that poisoned American transportation](https://www.vice.com/en_us/article/v7gxy9/the-broken-algorithm-that-poisoned-american-transportation-v27n3)
 * [How to Fix Gimbal Lock in N-Dimensions](https://medium.com/swlh/how-to-fix-gimbal-lock-in-n-dimensions-f2f7baec2b5e)
 * [Intel's “cripple AMD” function (2019)](https://www.agner.org/forum/viewtopic.php?f=1&t=6)
 * [Game Design Curriculum](https://www.riotgames.com/en/urf-academy/curriculum-guide)
 * [Hazel: A live functional programming environment featuring typed holes](http://hazel.org/)
+* [WebAssembly Is Not a Stack Machine (2019)](http://troubles.md/wasm-is-not-a-stack-machine/)
 * [Pinterest cancels office lease in unbuilt project, citing work-from-home shift](https://www.sfchronicle.com/business/article/Pinterest-cancels-huge-SF-office-lease-in-unbuilt-15523170.php)
 * [The coming collision between autonomous vehicles and the liability system (2012) [pdf]](https://pdfs.semanticscholar.org/88c1/11a1d16a44ff3adc681e966926e101067ae1.pdf)
-* [WebAssembly Is Not a Stack Machine (2019)](http://troubles.md/wasm-is-not-a-stack-machine/)
 * [Babylonian Multiplication in the shower (2016)](https://www.iquilezles.org/blog/?p=4582)
 * [Objective-Rust](https://belkadan.com/blog/2020/08/Objective-Rust/)
-* [The Ekranoplan Is Stranded Off a Beach](https://www.popularmechanics.com/military/aviation/a33808381/russia-ekranoplan-plane-boat-wrecked/)
 * [Graphtage: A New Semantic Diffing Tool](https://blog.trailofbits.com/2020/08/28/graphtage/)
 * [Scientists build army of a million microrobots that fit inside hypodermic needle](https://www.cnet.com/news/scientists-build-army-of-1-million-microrobots-that-can-fit-inside-a-hypodermic-needle/)
-* [GoodRx S-1](https://www.sec.gov/Archives/edgar/data/1809519/000119312520234662/d949310ds1.htm)
 * [The Joy of Cryptography](http://web.engr.oregonstate.edu/~rosulekm/crypto/)
+* [GoodRx S-1](https://www.sec.gov/Archives/edgar/data/1809519/000119312520234662/d949310ds1.htm)
+* [The Ekranoplan Is Stranded Off a Beach](https://www.popularmechanics.com/military/aviation/a33808381/russia-ekranoplan-plane-boat-wrecked/)
 * [Show HN: Read The Count of Monte Cristo and others in installments in your email](https://www.serialliterature.com/)
 * [Tell HN: Check medium's localstorage if you use adblock](https://news.ycombinator.com/item?id=24310778)
 * [Ethereum Is a Dark Forest](https://medium.com/@danrobinson/ethereum-is-a-dark-forest-ecc5f0505dff)
-* [Show HN: Healthcare Is Dumb](https://healthcareisdumb.com/)
 * [Squad Wealth](https://otherinter.net/squad-wealth/)
-* [Neuralink Progress Update [video]](https://www.youtube.com/watch?v=DVvmgjBL74w&hn=1)
+* [Show HN: Healthcare Is Dumb](https://healthcareisdumb.com/)
 * [Retrobatch – flexible batch image processing for Mac](https://flyingmeat.com/retrobatch/)
+* [Neuralink Progress Update [video]](https://www.youtube.com/watch?v=DVvmgjBL74w&hn=1)
 ## nytimes.com
 
 
@@ -82,10 +82,9 @@ layout: default
 * [TV Ratings for Biden and Trump Signal an Increasingly Polarized Nation](https://www.nytimes.com/2020/08/28/business/media/trump-biden-convention-ratings.html)
 * [Why Does the W.N.B.A. #SayHerName? Ask Angel McCoughtry](https://www.nytimes.com/2020/08/29/sports/basketball/Angel-McCoughtry-breonna-taylor.html)
 * [5 Simple Ways to Improve Your Wi-Fi](https://www.nytimes.com/2020/08/24/smarter-living/home-wifi-upgrade.html)
-* [How to Add More Play to Your Grown-Up Life, Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
+* [Interest Rates Are Low, but Loans Are Harder to Get. Here’s Why.](https://www.nytimes.com/2020/08/04/your-money/mortgage-loans-credit-cards-coronavirus.html)
 * [Can You Hear Yourself Think?](https://www.nytimes.com/2020/08/25/realestate/house-noise-solutions.html)
-* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
-* [The Monotony of Family Meals Can Trigger Past Disordered Eating](https://www.nytimes.com/2020/08/19/parenting/eating-disorders-coronavirus.html)
+* [How to Add More Play to Your Grown-Up Life, Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
 * [How Summer Festivals Persevered in the Pandemic](https://www.nytimes.com/2020/08/28/travel/summer-festivals-coronavirus.html)
 * [Emmys 2020: Ted Danson Made D’Arcy Carden a Better Not-a-Robot](https://www.nytimes.com/2020/08/28/arts/television/emmys-ted-danson-darcy-carden.html)
 * [A Doctor Asks: Is Covid Scaring Us Away From Our Humanity?](https://www.nytimes.com/2020/08/28/world/australia/melbourne-covid-doctor.html)
@@ -105,10 +104,10 @@ layout: default
 
 * [Vacina da Covid-19: o 'jogo sujo' e os atalhos na corrida para criar fórmula](https://epoca.globo.com/mundo/vacina-da-covid-19-jogo-sujo-os-atalhos-na-corrida-para-criar-formula-24613513)
 * [FHC diz que apoiará em 2022 candidato para derrotar Bolsonaro, mesmo que não seja tucano](https://epoca.globo.com/guilherme-amado/fhc-diz-que-apoiara-em-2022-candidato-para-derrotar-bolsonaro-mesmo-que-nao-seja-tucano-24613420)
-* [A proposta da escola de R$ 10 mil para resolver demanda de pais na pandemia](https://epoca.globo.com/guilherme-amado/a-proposta-da-escola-de-10-mil-para-resolver-demanda-de-pais-na-pandemia-24609705)
+* [Pré-candidatos e prefeito e vice do Rio são citados em delação de ex-secretário da Saúde do Rio](https://epoca.globo.com/guilherme-amado/pre-candidatos-prefeito-vice-do-rio-sao-citados-em-delacao-de-ex-secretario-da-saude-do-rio-24613404)
 * [Amiga de Isabele deve ser denunciada por homicídio doloso, diz promotor](https://epoca.globo.com/brasil/amiga-de-isabele-deve-ser-denunciada-por-homicidio-doloso-diz-promotor-24612110)
+* [Artigo | Witzel desmoralizou a ingenuidade do Grajaú](https://epoca.globo.com/colunistas/artigo-witzel-desmoralizou-ingenuidade-do-grajau-24613164)
 * [Impacto do isolamento social no Brasil pode afetar 'potencial produtivo de uma geração', diz agência da ONU](https://oglobo.globo.com/sociedade/educacao/impacto-do-isolamento-social-no-brasil-pode-afetar-potencial-produtivo-de-uma-geracao-diz-agencia-da-onu-24603564)
-* [Esquema de Witzel pretendia lucrar R$ 400 mi por meio de organizações sociais, diz PGR](https://epoca.globo.com/brasil/esquema-de-witzel-pretendia-lucrar-400-mi-por-meio-de-organizacoes-sociais-diz-pgr-24612146)
 * [Ações prometem melhorar condições ambientais das lagoas da Região Oceânica de Niterói](https://oglobo.globo.com/rio/bairros/acoes-prometem-melhorar-condicoes-ambientais-das-lagoas-da-regiao-oceanica-de-niteroi-24612193)
 * [Circuito Água na Boca: A partir de hoje, combos promocionais por R$ 29, R$ 49 ou R$ 69](https://oglobo.globo.com/rio/bairros/circuito-agua-na-boca-partir-de-hoje-combos-promocionais-por-29-49-ou-69-24610453)
 * [Temendo aglomerações, bar Cachambeer segue só com delivery](https://oglobo.globo.com/rio/bairros/temendo-aglomeracoes-bar-cachambeer-segue-so-com-delivery-24607251)

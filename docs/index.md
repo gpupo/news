@@ -2,40 +2,40 @@
 layout: default
 ---
 
-# indexed at 29/08/2020 03:12:44 UTC
+# indexed at 29/08/2020 03:34:31 UTC
 
 
 ## news.ycombinator.com
 
 
-* [American Academy of Sleep Medicine: Eliminate daylight saving time](https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/)
+* [American Academy of Sleep Medicine calls for elimination of daylight saving time](https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/)
 * [Apple Terminates Epic Games' Developer Account](https://www.macrumors.com/2020/08/28/apple-terminates-epic-games-developer-account/)
+* [Facebook Says Apple Blocked It from Informing About App Store 30% Fee](https://www.nasdaq.com/articles/facebook-says-apple-blocked-it-from-informing-about-app-store-30-fee-2020-08-28#:~:text=Facebook%20Says%20Apple%20Blocked%20It%20From%20Informing%20About%20App%20Store%2030%25%20Fee,-Contributor&text=Facebook%20(NASDAQ%3A%20FB)%20is,to%20impart%20to%20its%20users.&text=According%20to%20Facebook%2C%20it%20asked,Image%20source%3A%20Getty%20Images.)
 * [Netflix is now doing per-shot encoding for UHD content](https://netflixtechblog.com/optimized-shot-based-encodes-for-4k-now-streaming-47b516b10bbb)
 * [Game Design Curriculum](https://www.riotgames.com/en/urf-academy/curriculum-guide)
 * [Intel's “cripple AMD” function (2019)](https://www.agner.org/forum/viewtopic.php?f=1&t=6)
+* [Hazel: A live functional programming environment featuring typed holes](http://hazel.org/)
 * [The Joy of Cryptography](http://web.engr.oregonstate.edu/~rosulekm/crypto/)
 * [Objective-Rust](https://belkadan.com/blog/2020/08/Objective-Rust/)
 * [GoodRx S-1](https://www.sec.gov/Archives/edgar/data/1809519/000119312520234662/d949310ds1.htm)
-* [Hazel: A live functional programming environment featuring typed holes](http://hazel.org/)
 * [Show HN: Visualize Data Structures in VS Code](https://github.com/hediet/vscode-debug-visualizer/tree/master/extension)
 * [Impact of Go AI on the professional Go world](https://medium.com/@hajinlee/impact-of-go-ai-on-the-professional-go-world-f14cf201c7c2)
+* [Google is apparently taking down all/most Fediverse apps from the Play Store](https://qoto.org/@freemo/104765288863293481)
 * [The World of Legacy IT Systems](https://spectrum.ieee.org/computing/it/inside-hidden-world-legacy-it-systems)
 * [Flexport is hiring employees all over the world](https://www.flexport.com/careers)
 * [Ethereum Is a Dark Forest](https://medium.com/@danrobinson/ethereum-is-a-dark-forest-ecc5f0505dff)
-* [Google is apparently taking down all/most Fediverse apps from the Play Store](https://qoto.org/@freemo/104765288863293481)
 * [Scientists build army of a million microrobots that fit inside hypodermic needle](https://www.cnet.com/news/scientists-build-army-of-1-million-microrobots-that-can-fit-inside-a-hypodermic-needle/)
-* [Show HN: Read The Count of Monte Cristo and others in installments in your email](https://www.serialliterature.com/)
 * [Neuralink Progress Update [video]](https://www.youtube.com/watch?v=DVvmgjBL74w&hn=1)
-* [Ham radio is not dying, it's evolving](http://k0lwc.com/ham-radio-is-dying-no-its-not-its-evolving/)
-* [Expert overclockers successfully push DOOM Eternal past 1k frames per second](https://slayersclub.bethesda.net/en/article/48xD6yVj0VsulONXKAnr7n/doom-eternal-overclocked-at-1000-fps)
+* [Show HN: Read The Count of Monte Cristo and others in installments in your email](https://www.serialliterature.com/)
 * [Show HN: 3D first person game rendered in CSS/HTML](https://pantel.is/projects/css3d/)
+* [Expert overclockers successfully push DOOM Eternal past 1k frames per second](https://slayersclub.bethesda.net/en/article/48xD6yVj0VsulONXKAnr7n/doom-eternal-overclocked-at-1000-fps)
 * [Show HN: Healthcare Is Dumb](https://healthcareisdumb.com/)
 * [Pure and Applied Chess](https://theelectricagora.com/2020/08/28/pure-and-applied-chess/)
 * [Squad Wealth](https://otherinter.net/squad-wealth/)
-* [In Defense of the IPO, and How to Improve It](https://a16z.com/2020/08/28/in-defense-of-the-ipo/)
+* [In defense of the IPO, and how to improve it](https://a16z.com/2020/08/28/in-defense-of-the-ipo/)
 * [Retrobatch – flexible batch image processing for Mac](https://flyingmeat.com/retrobatch/)
-* [Show HN: GoFlip – Convert videos into Flip-Book-like versions of themselves](https://github.com/Kadle11/GoFlip)
 * [Zoom is now critical infrastructure – that’s a concern](https://www.brookings.edu/blog/techtank/2020/08/27/zoom-is-now-critical-infrastructure-thats-a-concern/)
+* [Show HN: GoFlip – Convert videos into Flip-Book-like versions of themselves](https://github.com/Kadle11/GoFlip)
 * [Firefox 80 and my confusion over its hardware accelerated video on Linux](https://utcc.utoronto.ca/~cks/space/blog/web/Firefox80VideoAccelConfusion)
 * [Is Cyberpunk Dead? A Conversation with Bruce Bethke](https://www.markeverglade.com/iscyberpunkdead)
 ## nytimes.com
@@ -73,7 +73,7 @@ layout: default
 * [‘WAP’ Is Good, Raunchy Fun. On TikTok, It’s at Home.](https://www.nytimes.com/2020/08/28/arts/music/wap-cardi-b-megan-thee-stallion-ppcocaine.html)
 * [Remembering Odetta, Whose Powerful Voice Met a Profound Moment](https://www.nytimes.com/2020/08/24/books/review-odetta-biography-ian-zack-one-grain-of-sand-matthew-frye-jacobson.html)
 * [Sarah Palin’s Suit Against New York Times Will Go to Trial, Judge Rules](https://www.nytimes.com/2020/08/28/business/media/sarah-palin-defamation-new-york-times.html)
-* [Election Updates: Trump Rails Against Biden at New Hampshire Rally](https://www.nytimes.com/live/2020/08/28/us/trump-vs-biden)
+* [Djokovic and Top Men’s Players Are Creating a Players Association](https://www.nytimes.com/2020/08/28/sports/tennis/tennis-union-men-djokovic.html)
 * [House Panel Moves to Hold Pompeo in Contempt of Congress](https://www.nytimes.com/2020/08/28/us/politics/house-pompeo-contempt-of-congress.html)
 * [2 TikTok Stars Who Threw Big Parties Face Charges, Prosecutors Say](https://www.nytimes.com/2020/08/28/style/2-tiktok-stars-who-threw-big-parties-face-charges-prosecutors-say.html)
 * [Keith Raniere, Nxivm ‘Sex Cult’ Leader, Should Get Life in Prison, Prosecutors Say](https://www.nytimes.com/2020/08/28/nyregion/nxivm-keith-raniere-sentence.html)
@@ -81,10 +81,10 @@ layout: default
 * [Movies Are Returning to Theaters. Will Audiences Follow?](https://www.nytimes.com/2020/08/28/business/media/coronavirus-movie-theaters-new-mutants.html)
 * [Trump Says Crime Is Rampant in N.Y.C. Here Are the Facts.](https://www.nytimes.com/2020/08/28/nyregion/trump-rnc-urban-crime.html)
 * [7 Takeaways From ‘Melania and Me,’ by the First Lady’s Former Friend](https://www.nytimes.com/2020/08/28/books/review/melania-and-me-stephanie-winston-wolkoff.html)
-* [Move Over, Sustainable Travel. Regenerative Travel Has Arrived.](https://www.nytimes.com/2020/08/27/travel/travel-future-coronavirus-sustainable.html)
-* [How to Choose the Right Pediatrician](https://www.nytimes.com/article/choosing-a-pediatrician-children.html)
+* [5 Simple Ways to Improve Your Wi-Fi](https://www.nytimes.com/2020/08/24/smarter-living/home-wifi-upgrade.html)
+* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [Can You Hear Yourself Think?](https://www.nytimes.com/2020/08/25/realestate/house-noise-solutions.html)
-* [Are You an American Voting From Abroad? Here’s How to Do It](https://www.nytimes.com/2020/08/28/smarter-living/american-vote-from-abroad.html)
+* [The Monotony of Family Meals Can Trigger Past Disordered Eating](https://www.nytimes.com/2020/08/19/parenting/eating-disorders-coronavirus.html)
 * [How Summer Festivals Persevered in the Pandemic](https://www.nytimes.com/2020/08/28/travel/summer-festivals-coronavirus.html)
 * [Emmys 2020: Ted Danson Made D’Arcy Carden a Better Not-a-Robot](https://www.nytimes.com/2020/08/28/arts/television/emmys-ted-danson-darcy-carden.html)
 * [A Doctor Asks: Is Covid Scaring Us Away From Our Humanity?](https://www.nytimes.com/2020/08/28/world/australia/melbourne-covid-doctor.html)
@@ -94,14 +94,16 @@ layout: default
 * [Reopened Schools Find Health Risks in Water After Covid-19 Lockdowns](https://www.nytimes.com/2020/08/27/health/covid-schools-legionnaires-disease.html)
 * [Fossil Reveals ‘One of the Cutest Dinosaurs’ Ever Found](https://www.nytimes.com/2020/08/27/science/dinosaur-face-fossil.html)
 * [You Can’t Escape Lice, Even 6,500 Feet Below the Ocean](https://www.nytimes.com/2020/08/26/science/lice-elephant-seals.html)
-* [Tracking Kyle Rittenhouse in the Fatal Kenosha Shootings](https://www.nytimes.com/2020/08/27/us/kyle-rittenhouse-kenosha-shooting-video.html)
+* [Frank Cullotta, Mobster Turned Memoirist and YouTuber, Dies at 81](https://www.nytimes.com/2020/08/24/obituaries/frank-cullotta-dead-coronavirus.html)
+* [The Fine Line Between Choice and Confusion in Health Care](https://www.nytimes.com/2020/08/24/upshot/health-care-choice-freedom-confusion.html)
+* [On Trump, Merkel's Face Does the Talking](https://www.nytimes.com/2020/08/28/world/europe/merkel-trump-grenell.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
-* [Chadwick Boseman, de 'Pantera Negra', morre aos 42 anos](https://oglobo.globo.com/cultura/chadwick-boseman-de-pantera-negra-morre-aos-42-anos-24613254)
+* [Chadwick Boseman, de 'Pantera Negra', morre aos 42 anos](https://oglobo.globo.com/cultura/chadwick-boseman-de-pantera-negra-morre-aos-42-anos-1-24613254)
 * [Após dois anos preso, deputado opositor a Maduro vai cumprir pena domiciliar](https://oglobo.globo.com/mundo/apos-dois-anos-preso-deputado-opositor-maduro-vai-cumprir-pena-domiciliar-24613293)
 * [TJ de SP revoga prisão domiciliar e Abdelmassih voltará para a cadeia](https://oglobo.globo.com/sociedade/tj-de-sp-revoga-prisao-domiciliar-abdelmassih-voltara-para-cadeia-24612889)
 * [Governo da Argentina libera reuniões ao ar livre e bares e restaurantes em Buenos Aires](https://oglobo.globo.com/mundo/governo-da-argentina-libera-reunioes-ao-ar-livre-bares-restaurantes-em-buenos-aires-1-24612952)

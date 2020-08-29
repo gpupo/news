@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 29/08/2020 07:34:24 UTC
+# indexed at 29/08/2020 08:14:04 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [American Academy of Sleep Medicine calls for elimination of daylight saving time](https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/)
 * [Apple Terminates Epic Games' Developer Account](https://www.macrumors.com/2020/08/28/apple-terminates-epic-games-developer-account/)
+* [Remote Code Execution in Slack desktop apps](https://hackerone.com/reports/783877)
 * [Malloc Geiger Counter](https://github.com/laserallan/malloc_geiger)
 * [Life Is Short (2016)](http://paulgraham.com/vb.html)
-* [Remote Code Execution in Slack desktop apps](https://hackerone.com/reports/783877)
 * [The Dark Core of Personality](https://blogs.scientificamerican.com/beautiful-minds/the-dark-core-of-personality/)
 * [Netflix is now doing per-shot encoding for UHD content](https://netflixtechblog.com/optimized-shot-based-encodes-for-4k-now-streaming-47b516b10bbb)
+* [GH Archive](https://www.gharchive.org/)
 * [How to Fix Gimbal Lock in N-Dimensions](https://medium.com/swlh/how-to-fix-gimbal-lock-in-n-dimensions-f2f7baec2b5e)
 * [A broken algorithm that poisoned American transportation](https://www.vice.com/en_us/article/v7gxy9/the-broken-algorithm-that-poisoned-american-transportation-v27n3)
-* [GH Archive](https://www.gharchive.org/)
-* [The coming collision between autonomous vehicles and the liability system (2012) [pdf]](https://pdfs.semanticscholar.org/88c1/11a1d16a44ff3adc681e966926e101067ae1.pdf)
-* [Hazel: A live functional programming environment featuring typed holes](http://hazel.org/)
 * [Game Design Curriculum](https://www.riotgames.com/en/urf-academy/curriculum-guide)
+* [Hazel: A live functional programming environment featuring typed holes](http://hazel.org/)
 * [Intel's “cripple AMD” function (2019)](https://www.agner.org/forum/viewtopic.php?f=1&t=6)
-* [Graphtage: A New Semantic Diffing Tool](https://blog.trailofbits.com/2020/08/28/graphtage/)
+* [The coming collision between autonomous vehicles and the liability system (2012) [pdf]](https://pdfs.semanticscholar.org/88c1/11a1d16a44ff3adc681e966926e101067ae1.pdf)
 * [The Joy of Cryptography](http://web.engr.oregonstate.edu/~rosulekm/crypto/)
-* [Scientists build army of a million microrobots that fit inside hypodermic needle](https://www.cnet.com/news/scientists-build-army-of-1-million-microrobots-that-can-fit-inside-a-hypodermic-needle/)
+* [Graphtage: A New Semantic Diffing Tool](https://blog.trailofbits.com/2020/08/28/graphtage/)
 * [Objective-Rust](https://belkadan.com/blog/2020/08/Objective-Rust/)
+* [Scientists build army of a million microrobots that fit inside hypodermic needle](https://www.cnet.com/news/scientists-build-army-of-1-million-microrobots-that-can-fit-inside-a-hypodermic-needle/)
+* [The Ekranoplan Is Stranded Off a Beach](https://www.popularmechanics.com/military/aviation/a33808381/russia-ekranoplan-plane-boat-wrecked/)
+* [Babylonian Multiplication in the shower (2016)](https://www.iquilezles.org/blog/?p=4582)
 * [GoodRx S-1](https://www.sec.gov/Archives/edgar/data/1809519/000119312520234662/d949310ds1.htm)
 * [Show HN: Read The Count of Monte Cristo and others in installments in your email](https://www.serialliterature.com/)
-* [Babylonian Multiplication in the shower (2016)](https://www.iquilezles.org/blog/?p=4582)
 * [Tell HN: Check medium's localstorage if you use adblock](https://news.ycombinator.com/item?id=24310778)
 * [Ethereum Is a Dark Forest](https://medium.com/@danrobinson/ethereum-is-a-dark-forest-ecc5f0505dff)
-* [The Jellyfish Problem](https://www.historytoday.com/archive/natural-histories/jellyfish-problem)
 * [Neuralink Progress Update [video]](https://www.youtube.com/watch?v=DVvmgjBL74w&hn=1)
 * [Launch HN: SuperTokens (YC S20) – Securely manage session tokens](https://news.ycombinator.com/item?id=24306572)
+* [The Jellyfish Problem](https://www.historytoday.com/archive/natural-histories/jellyfish-problem)
 * [Show HN: Healthcare Is Dumb](https://healthcareisdumb.com/)
 * [Retrobatch – flexible batch image processing for Mac](https://flyingmeat.com/retrobatch/)
 * [Squad Wealth](https://otherinter.net/squad-wealth/)
-* [The World of Legacy IT Systems](https://spectrum.ieee.org/computing/it/inside-hidden-world-legacy-it-systems)
 ## nytimes.com
 
 
@@ -72,7 +72,7 @@ layout: default
 * [‘WAP’ Is Good, Raunchy Fun. On TikTok, It’s at Home.](https://www.nytimes.com/2020/08/28/arts/music/wap-cardi-b-megan-thee-stallion-ppcocaine.html)
 * [Remembering Odetta, Whose Powerful Voice Met a Profound Moment](https://www.nytimes.com/2020/08/24/books/review-odetta-biography-ian-zack-one-grain-of-sand-matthew-frye-jacobson.html)
 * [Sarah Palin’s Suit Against New York Times Will Go to Trial, Judge Rules](https://www.nytimes.com/2020/08/28/business/media/sarah-palin-defamation-new-york-times.html)
-* [Djokovic and Top Men’s Players Are Creating a Players Association](https://www.nytimes.com/2020/08/28/sports/tennis/tennis-union-men-djokovic.html)
+* [Djokovic and Other Top Men Are Creating a Players’ Association](https://www.nytimes.com/2020/08/28/sports/tennis/tennis-union-men-djokovic.html)
 * [House Panel Moves to Hold Pompeo in Contempt of Congress](https://www.nytimes.com/2020/08/28/us/politics/house-pompeo-contempt-of-congress.html)
 * [2 TikTok Stars Who Threw Big Parties Face Charges, Prosecutors Say](https://www.nytimes.com/2020/08/28/style/2-tiktok-stars-who-threw-big-parties-face-charges-prosecutors-say.html)
 * [Keith Raniere, Nxivm ‘Sex Cult’ Leader, Should Get Life in Prison, Prosecutors Say](https://www.nytimes.com/2020/08/28/nyregion/nxivm-keith-raniere-sentence.html)
@@ -93,22 +93,22 @@ layout: default
 * [Reopened Schools Find Health Risks in Water After Covid-19 Lockdowns](https://www.nytimes.com/2020/08/27/health/covid-schools-legionnaires-disease.html)
 * [Fossil Reveals ‘One of the Cutest Dinosaurs’ Ever Found](https://www.nytimes.com/2020/08/27/science/dinosaur-face-fossil.html)
 * [You Can’t Escape Lice, Even 6,500 Feet Below the Ocean](https://www.nytimes.com/2020/08/26/science/lice-elephant-seals.html)
-* [What to Watch for on Day 2 of the Republican National Convention](https://www.nytimes.com/2020/08/25/us/politics/republican-national-convention-guide.html)
 * [On Trump, Merkel's Face Does the Talking](https://www.nytimes.com/2020/08/28/world/europe/merkel-trump-grenell.html)
 * [National Conventions: The Impeachment Battle Rematch That Wasn’t](https://www.nytimes.com/2020/08/25/us/politics/trump-impeachment-convention.html)
+* [The 5 Best Ways to Prevent Mosquito Bites](https://www.nytimes.com/2020/08/28/realestate/prevent-mosquito-bites.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
-* [Mitsubishi L200 Triton Sport nacional ganha frente futurista e câmbio de seis marchas](https://oglobo.globo.com/economia/carros/mitsubishi-l200-triton-sport-nacional-ganha-frente-futurista-cambio-de-seis-marchas-24613445)
-* [Produção do Nissan March será encerrada em setembro](https://oglobo.globo.com/economia/carros/producao-do-nissan-march-sera-encerrada-em-setembro-24613415)
-* [PGR vê indícios de lavagem de dinheiro nas atividades financeiras de Witzel](https://oglobo.globo.com/rio/pgr-ve-indicios-de-lavagem-de-dinheiro-nas-atividades-financeiras-de-witzel-24612759)
-* [Fluminense x Vasco: Confira o raio-x dos gols dos artilheiros Nenê e Cano](https://oglobo.globo.com/esportes/fluminense-vasco-confira-raio-dos-gols-dos-artilheiros-nene-cano-1-24612663)
-* [Os Paralamas do Sucesso fazem primeira live: 'Queremos dar uma injeção de ânimo'](https://oglobo.globo.com/cultura/os-paralamas-do-sucesso-fazem-primeira-live-queremos-dar-uma-injecao-de-animo-24611681)
+* [A nova polarização: como viagens durante a pandemia viram motivos de briga](https://oglobo.globo.com/boa-viagem/a-nova-polarizacao-como-viagens-durante-pandemia-viram-motivos-de-briga-24613376)
+* [Bolsonaro negocia com Republicanos, PTB e PSL, e impõe condições para se filiar](https://oglobo.globo.com/brasil/bolsonaro-negocia-com-republicanos-ptb-psl-impoe-condicoes-para-se-filiar-1-24612981)
+* [Escritório da primeira-dama seria lavanderia, diz MPF](https://oglobo.globo.com/rio/escritorio-da-primeira-dama-seria-lavanderia-diz-mpf-24613175)
+* ['Não dá para ser antirracista só para ganhar like', diz cantora Bia Ferreira](https://oglobo.globo.com/cultura/nao-da-para-ser-antirracista-so-para-ganhar-like-diz-cantora-bia-ferreira-24611632)
+* [Coronavírus em apartamento abandonado na China pode indicar que Sars-CoV-2 se espalha pelo encanamento](https://oglobo.globo.com/sociedade/coronavirus-em-apartamento-abandonado-na-china-pode-indicar-que-sars-cov-2-se-espalha-pelo-encanamento-24610974)
+* [Em 'A débil mental', argentina Ariana Harwicz cria narrativa sobre mãe e filha longe do verniz civilizatório](https://oglobo.globo.com/cultura/em-debil-mental-argentina-ariana-harwicz-cria-narrativa-sobre-mae-filha-longe-do-verniz-civilizatorio-24612891)
+* [Botafogo tem, contra o Inter, último desafio de uma série difícil](https://oglobo.globo.com/esportes/botafogo-tem-contra-inter-ultimo-desafio-de-uma-serie-dificil-24612909)
+* [Martín Fernandez: sai muito barato ser racista no Brasil](https://oglobo.globo.com/esportes/martin-fernandez-sai-muito-barato-ser-racista-no-brasil-24612892)
 * [Ações prometem melhorar condições ambientais das lagoas da Região Oceânica de Niterói](https://oglobo.globo.com/rio/bairros/acoes-prometem-melhorar-condicoes-ambientais-das-lagoas-da-regiao-oceanica-de-niteroi-24612193)
-* [A voz do Rio](https://oglobo.globo.com/opiniao/a-voz-do-rio-24612123)
-* [Observando baleias](https://oglobo.globo.com/cultura/observando-baleias-24612109)
-* [Lucro social e financeiro](https://oglobo.globo.com/opiniao/lucro-social-financeiro-24612092)
-* [Nossa gente na floresta](https://oglobo.globo.com/opiniao/nossa-gente-na-floresta-24612070)
+* [Teatros de São Paulo transmitem mais de 70 peças](https://oglobo.globo.com/rioshow/teatros-de-sao-paulo-transmitem-mais-de-70-pecas-24611937)

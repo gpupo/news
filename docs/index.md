@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 29/08/2020 22:12:27 UTC
+# indexed at 29/08/2020 22:34:19 UTC
 
 
 ## news.ycombinator.com
@@ -21,23 +21,23 @@ layout: default
 * [DearPyGui](https://github.com/hoffstadt/DearPyGui)
 * [Monarch: Google’s Planet-Scale In-Memory Time Series Database [pdf]](http://www.vldb.org/pvldb/vol13/p3181-adams.pdf)
 * [We Chose a Distributed SQL Database to Complement MySQL](https://pingcap.com/case-studies/why-we-chose-a-distributed-sql-database-to-complement-mysql)
-* [Guide to Rustc Development](https://rustc-dev-guide.rust-lang.org/)
+* [Asciimatics – create full-screen text UIs on any platform](https://github.com/peterbrittain/asciimatics)
+* [A 189 Year Old Limitation on Inductor Size Has Been Broken](https://medium.com/starts-with-a-bang/the-last-barrier-to-ultra-miniaturized-electronics-is-broken-thanks-to-a-new-type-of-inductor-eb5c1a2c7460)
 * [Japan’s Entry in Flying-Car Race Takes to the Air](https://www.wsj.com/articles/japans-entry-in-flying-car-race-takes-to-the-air-11598691548)
 * [American Academy of Sleep Medicine calls for elimination of daylight saving time](https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/)
-* [A 189 Year Old Limitation on Inductor Size Has Been Broken](https://medium.com/starts-with-a-bang/the-last-barrier-to-ultra-miniaturized-electronics-is-broken-thanks-to-a-new-type-of-inductor-eb5c1a2c7460)
+* [Guide to Rustc Development](https://rustc-dev-guide.rust-lang.org/)
 * [Building storage-first serverless apps with HTTP APIs service integrations](https://aws.amazon.com/blogs/compute/building-storage-first-applications-with-http-apis-service-integrations/)
-* [How close are computers to automating mathematical reasoning?](https://www.quantamagazine.org/how-close-are-computers-to-automating-mathematical-reasoning-20200827/)
 * [Don't trust default timeouts](https://robertovitillo.com/default-timeouts/)
 * [Babylonian Multiplication in the shower (2016)](https://www.iquilezles.org/blog/?p=4582)
-* [Asciimatics – create full-screen text UIs on any platform](https://github.com/peterbrittain/asciimatics)
 * [ArangoDB 3.7 – a big step forward for multi-model](https://www.arangodb.com/2020/08/arangodb-3-7-a-big-step-forward-for-multi-model/)
 * [Design Tip: Never Use Black (2012)](https://ianstormtaylor.com/design-tip-never-use-black/)
-* [What can 6,000 electric vehicles tell us about EV battery health?](https://www.geotab.com/blog/ev-battery-health/)
+* [How close are computers to automating mathematical reasoning?](https://www.quantamagazine.org/how-close-are-computers-to-automating-mathematical-reasoning-20200827/)
 * [Super Tux Kart – Linux racing game](https://supertuxkart.net/)
+* [What can 6,000 electric vehicles tell us about EV battery health?](https://www.geotab.com/blog/ev-battery-health/)
 * [Facebook’s ties to India’s ruling party complicate its fight against hate speech](https://time.com/5883993/india-facebook-hate-speech-bjp/)
-* [The mysterious Cold War case of unidentified aircraft descending on Loring AFB](https://www.thedrive.com/the-war-zone/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base)
 * [Writing math papers in pre-LaTeX era (2010)](https://mathoverflow.net/questions/19930/writing-papers-in-pre-latex-era)
-* [She’s Got Game](https://restofworld.org/2020/you-just-got-pwned-habibi/)
+* [The mysterious Cold War case of unidentified aircraft descending on Loring AFB](https://www.thedrive.com/the-war-zone/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base)
+* [Remote Code Execution in Slack desktop apps](https://hackerone.com/reports/783877)
 ## nytimes.com
 
 
@@ -57,7 +57,7 @@ layout: default
 * [11 of Our Best Weekend Reads](https://www.nytimes.com/2020/08/28/briefing/best-weekend-reads.html)
 * [Donald Trump Jr.’s Journey to Republican Stardom](https://www.nytimes.com/2020/08/28/podcasts/the-daily/donald-trump-junior-campaign.html)
 * [Kurt Andersen on ‘Evil Geniuses’](https://www.nytimes.com/2020/08/28/books/review/podcast-evil-geniuses-kurt-andersen-fallout-hiroshima-lesley-m-m-blume.html)
-* [Can the Republicans Sell a Whole New Trump?](https://www.nytimes.com/2020/08/27/opinion/the-argument-republican-convention-trump.html)
+* [Episode One: The Book of Statuses](https://www.nytimes.com/2020/07/30/podcasts/nice-white-parents-serial.html)
 * [Stephen Miller’s Dystopian America](https://www.nytimes.com/2020/08/28/opinion/stephen-millers-dystopian-america.html)
 * [America’s Coronavirus Reopening Choice: Schools, Bars or Disney World?](https://www.nytimes.com/2020/08/28/opinion/coronavirus-schools-tradeoffs.html)
 * [Don’t Let Eviction Become a Superspreader](https://www.nytimes.com/2020/08/29/opinion/sunday/coronavirus-evictions-superspreader.html)
@@ -81,10 +81,10 @@ layout: default
 * [When Retirement Comes Too Early](https://www.nytimes.com/2020/08/28/health/coronavirus-retirement-recession.html)
 * [Denying Alex Rodriguez, Mets Avoid a Risky Presence in the Owner’s Box](https://www.nytimes.com/2020/08/29/sports/baseball/mets-alex-rodriguez-steve-cohen.html)
 * [Bison Are On the Run After 125 Escape a Nebraska Feedlot](https://www.nytimes.com/2020/08/29/us/bison-escape-nebraska.html)
-* [How to Choose the Right Pediatrician](https://www.nytimes.com/article/choosing-a-pediatrician-children.html)
 * [Can You Hear Yourself Think?](https://www.nytimes.com/2020/08/25/realestate/house-noise-solutions.html)
 * [Move Over, Sustainable Travel. Regenerative Travel Has Arrived.](https://www.nytimes.com/2020/08/27/travel/travel-future-coronavirus-sustainable.html)
 * [Are You an American Voting From Abroad? Here’s How to Do It](https://www.nytimes.com/2020/08/28/smarter-living/american-vote-from-abroad.html)
+* [How to Choose the Right Pediatrician](https://www.nytimes.com/article/choosing-a-pediatrician-children.html)
 * [What Is Waacking, and Why Is It All Over TikTok?](https://www.nytimes.com/2020/08/29/nyregion/waacking-nyc-club-dance.html)
 * [Kehinde Wiley on Protests’ Results: ‘I’m Not Impressed Yet’](https://www.nytimes.com/2020/08/28/arts/design/kehinde-wiley-monument.html)
 * [After a Long Lull, Protesting Is Taking Hold Across Baseball](https://www.nytimes.com/2020/08/28/sports/baseball/mlb-protest-canceled-games.html)
@@ -95,21 +95,21 @@ layout: default
 * [Exercise May Boost Your Vaccine Response](https://www.nytimes.com/2020/08/26/well/move/exercise-may-boost-your-vaccine-response.html)
 * [Young Adults’ Pandemic Mental Health Risks](https://www.nytimes.com/2020/08/24/well/family/young-adults-mental-health-pandemic.html)
 * [7 Takeaways From ‘Melania and Me,’ by the First Lady’s Former Friend](https://www.nytimes.com/2020/08/28/books/review/melania-and-me-stephanie-winston-wolkoff.html)
-* [What to Watch for on Day 2 of the Republican National Convention](https://www.nytimes.com/2020/08/25/us/politics/republican-national-convention-guide.html)
-* [On Trump, Merkel's Face Does the Talking](https://www.nytimes.com/2020/08/28/world/europe/merkel-trump-grenell.html)
+* [Sarah Palin’s Suit Against New York Times Will Go to Trial, Judge Rules](https://www.nytimes.com/2020/08/28/business/media/sarah-palin-defamation-new-york-times.html)
+* [‘The Personal History of David Copperfield’ Review: A Boy’s Story](https://www.nytimes.com/2020/08/27/movies/the-personal-history-of-david-copperfield-review.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [Playoffs da NBA retornam com jogadores ajoelhados no hino e homenagem a Chadwick Boseman](https://oglobo.globo.com/esportes/playoffs-da-nba-retornam-com-jogadores-ajoelhados-no-hino-homenagem-chadwick-boseman-24613883)
+* [Botafogo perde para o Inter em jogo com VAR polêmico](https://oglobo.globo.com/esportes/botafogo-perde-para-inter-em-jogo-com-var-polemico-24614053)
+* [Número de focos de incêndio no Amazonas em agosto já é o maior em 22 anos](https://oglobo.globo.com/sociedade/numero-de-focos-de-incendio-no-amazonas-em-agosto-ja-o-maior-em-22-anos-24614032)
+* [Animal de estimação é deixado em clínica para banho e tosa e some em Campos](https://oglobo.globo.com/rio/animal-de-estimacao-deixado-em-clinica-para-banho-tosa-some-em-campos-24614043)
 * [Um dia após afastamento, Wilson Witzel passa mal e trata infecção em hospital](https://oglobo.globo.com/rio/um-dia-apos-afastamento-wilson-witzel-passa-mal-trata-infeccao-em-hospital-24614005)
-* [Número de focos de incêndio no Amazonas em agosto já o maior em 22 anos](https://oglobo.globo.com/sociedade/numero-de-focos-de-incendio-no-amazonas-em-agosto-ja-maior-em-22-anos-24614032)
 * [Queimadas no Pantanal também atingem vegetação do subsolo](https://oglobo.globo.com/sociedade/queimadas-no-pantanal-tambem-atingem-vegetacao-do-subsolo-24614001)
 * [Entidade diz que coordenador da Funai quer visitar região de povos isolados, contrariando protocolos da Covid-19](https://oglobo.globo.com/brasil/entidade-diz-que-coordenador-da-funai-quer-visitar-regiao-de-povos-isolados-contrariando-protocolos-da-covid-19-24614012)
 * [Tênis: Djokovic vira sobre Raonic e conquista Masters 1000 de Cincinnati](https://oglobo.globo.com/esportes/tenis-djokovic-vira-sobre-raonic-conquista-masters-1000-de-cincinnati-24614003)
-* [Playoffs da NBA retornam com jogadores ajoelhados no hino e homenagem a Chadwick Boseman](https://oglobo.globo.com/esportes/playoffs-da-nba-retornam-com-jogadores-ajoelhados-no-hino-homenagem-chadwick-boseman-24613883)
-* [Artigo: O direito ao aborto no caso de estupro: da comoção à ameaça](https://oglobo.globo.com/sociedade/celina/artigo-direito-ao-aborto-no-caso-de-estupro-da-comocao-ameaca-24613924)
 * [Cinco meses após rompimento, Caiado se desdiz e elogia Bolsonaro: 'Simples e corajoso'](https://epoca.globo.com/guilherme-amado/cinco-meses-apos-rompimento-caiado-se-desdiz-elogia-bolsonaro-simples-corajoso-24613938)
-* [Marcelo Barreto: a história de Jackie Robinson, um pioneiro no beisebol](https://oglobo.globo.com/esportes/marcelo-barreto-historia-de-jackie-robinson-um-pioneiro-no-beisebol-24613931)
 * [Supremo rejeita pedido de partidos para flexibilizar regras de prestação de contas](https://oglobo.globo.com/brasil/supremo-rejeita-pedido-de-partidos-para-flexibilizar-regras-de-prestacao-de-contas-24613935)

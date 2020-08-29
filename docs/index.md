@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 29/08/2020 15:09:36 UTC
+# indexed at 29/08/2020 15:34:36 UTC
 
 
 ## news.ycombinator.com
@@ -11,39 +11,39 @@ layout: default
 * [Tesla’s former CTO is building a giant lithium-ion battery recycling operation](https://www.wsj.com/articles/one-of-the-brains-behind-tesla-found-a-new-way-to-make-electric-cars-cheaper-11598673630)
 * [American Academy of Sleep Medicine calls for elimination of daylight saving time](https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/)
 * [Remote Code Execution in Slack desktop apps](https://hackerone.com/reports/783877)
-* [What can 6,000 electric vehicles tell us about EV battery health?](https://www.geotab.com/blog/ev-battery-health/)
 * [The Mysterious Cold War Case of Unidentified Aircraft Descending on Loring AFB](https://www.thedrive.com/the-war-zone/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base)
-* [Lithium ranked the highest performance web application platform](https://www.techempower.com/benchmarks/#section=test&runid=57b25c85-082a-4013-b572-b0939006eaff&hw=ph&test=composite&a=2)
 * [ArangoDB 3.7 – a big step forward for multi-model](https://www.arangodb.com/2020/08/arangodb-3-7-a-big-step-forward-for-multi-model/)
-* [Malloc Geiger Counter](https://github.com/laserallan/malloc_geiger)
-* [Life Is Short (2016)](http://paulgraham.com/vb.html)
-* [Design Tip: Never Use Black (2012)](https://ianstormtaylor.com/design-tip-never-use-black/)
-* [Don't trust default timeouts](https://robertovitillo.com/default-timeouts/)
-* [Pinterest cancels office lease in unbuilt project, citing work-from-home shift](https://www.sfchronicle.com/business/article/Pinterest-cancels-huge-SF-office-lease-in-unbuilt-15523170.php)
 * [How close are computers to automating mathematical reasoning?](https://www.quantamagazine.org/how-close-are-computers-to-automating-mathematical-reasoning-20200827/)
+* [What can 6,000 electric vehicles tell us about EV battery health?](https://www.geotab.com/blog/ev-battery-health/)
+* [Malloc Geiger Counter](https://github.com/laserallan/malloc_geiger)
+* [Lithium ranked the highest performance web application platform](https://www.techempower.com/benchmarks/#section=test&runid=57b25c85-082a-4013-b572-b0939006eaff&hw=ph&test=composite&a=2)
+* [Don't trust default timeouts](https://robertovitillo.com/default-timeouts/)
+* [Life Is Short (2016)](http://paulgraham.com/vb.html)
+* [Pinterest cancels office lease in unbuilt project, citing work-from-home shift](https://www.sfchronicle.com/business/article/Pinterest-cancels-huge-SF-office-lease-in-unbuilt-15523170.php)
 * [Apple Terminates Epic Games' Developer Account](https://www.macrumors.com/2020/08/28/apple-terminates-epic-games-developer-account/)
 * [Now you C me, now you don't](https://securitylab.github.com/research/now-you-c-me)
+* [Design Tip: Never Use Black (2012)](https://ianstormtaylor.com/design-tip-never-use-black/)
 * [Using machine learning to detect deficient coverage in colonoscopy screenings](https://ai.googleblog.com/2020/08/using-machine-learning-to-detect.html)
+* [Google offers to help others with the tricky ethics of AI](https://arstechnica.com/tech-policy/2020/08/google-offers-to-help-others-with-the-tricky-ethics-of-ai/)
 * [WebAssembly Is Not a Stack Machine (2019)](http://troubles.md/wasm-is-not-a-stack-machine/)
 * [GH Archive](https://www.gharchive.org/)
+* [Zuckerberg Denounces Apple's Monopolistic “Stranglehold” on Your iPhone](https://www.buzzfeednews.com/article/pranavdixit/zuckerberg-apple-monopoly)
+* [A broken algorithm that poisoned American transportation](https://www.vice.com/en_us/article/v7gxy9/the-broken-algorithm-that-poisoned-american-transportation-v27n3)
 * [The Dark Core of Personality (2018)](https://blogs.scientificamerican.com/beautiful-minds/the-dark-core-of-personality/)
 * [Hazel: A live functional programming environment featuring typed holes](http://hazel.org/)
-* [A broken algorithm that poisoned American transportation](https://www.vice.com/en_us/article/v7gxy9/the-broken-algorithm-that-poisoned-american-transportation-v27n3)
 * [The coming collision between autonomous vehicles and the liability system (2012) [pdf]](https://pdfs.semanticscholar.org/88c1/11a1d16a44ff3adc681e966926e101067ae1.pdf)
 * [The Ekranoplan Is Stranded Off a Beach](https://www.popularmechanics.com/military/aviation/a33808381/russia-ekranoplan-plane-boat-wrecked/)
 * [How to Fix Gimbal Lock in N-Dimensions](https://medium.com/swlh/how-to-fix-gimbal-lock-in-n-dimensions-f2f7baec2b5e)
 * [Graphtage: A New Semantic Diffing Tool](https://blog.trailofbits.com/2020/08/28/graphtage/)
 * [Netflix is now doing per-shot encoding for UHD content](https://netflixtechblog.com/optimized-shot-based-encodes-for-4k-now-streaming-47b516b10bbb)
 * [Tell HN: Check medium's localstorage if you use adblock](https://news.ycombinator.com/item?id=24310778)
-* [Facebook’s Ties to India’s Ruling Party Complicate Its Fight Against Hate Speech](https://time.com/5883993/india-facebook-hate-speech-bjp/)
-* [Intel's “cripple AMD” function (2019)](https://www.agner.org/forum/viewtopic.php?f=1&t=6)
-* [Babylonian Multiplication in the shower (2016)](https://www.iquilezles.org/blog/?p=4582)
+* [Why Understanding Beats Knowledge](https://swizec.com/blog/why-understanding-beats-knowledge/)
 ## nytimes.com
 
 
 * [Trump Program to Cover Uninsured Covid-19 Patients Falls Short of Promise](https://www.nytimes.com/2020/08/29/health/Covid-obamacare-uninsured.html)
 * [As Coronavirus Reappears in Italy, Migrants Become a Target for Politicians](https://www.nytimes.com/2020/08/28/world/europe/coronavirus-italy-migrants.html)
-* [Covid-19 Live Updates: World Cases Near 25 Million](https://www.nytimes.com/2020/08/29/world/covid-19-coronavirus.html)
+* [Covid-19 Live Updates: Tracking the Pandemic Globally](https://www.nytimes.com/2020/08/29/world/covid-19-coronavirus.html)
 * [‘That Same Feeling’: Painful Memories in Kenosha Come Rushing Back](https://www.nytimes.com/2020/08/29/us/kenosha-wisconsin.html)
 * [N.B.A. Protest Shows Who Calls the Shots in a Superstar Economy](https://www.nytimes.com/2020/08/29/business/economy/nba-players-strike-labor.html)
 * [‘Black Panther’ Star Chadwick Boseman Dies of Cancer at 43](https://www.nytimes.com/2020/08/28/movies/chadwick-boseman-dead.html)
@@ -80,9 +80,9 @@ layout: default
 * [In Japan, Shinzo Abe's Replacement Faces Daunting Challenges](https://www.nytimes.com/2020/08/29/world/asia/japan-new-prime-minister.html)
 * [C.I.A. Uncensors Memoir of F.B.I. Agent Who Protested Torture of Terrorists](https://www.nytimes.com/2020/08/29/us/politics/ali-soufan-memoir-cia-torture.html)
 * [Why Does the W.N.B.A. #SayHerName? Ask Angel McCoughtry](https://www.nytimes.com/2020/08/29/sports/basketball/Angel-McCoughtry-breonna-taylor.html)
-* [Can You Hear Yourself Think?](https://www.nytimes.com/2020/08/25/realestate/house-noise-solutions.html)
-* [How to Choose the Right Pediatrician](https://www.nytimes.com/article/choosing-a-pediatrician-children.html)
 * [Move Over, Sustainable Travel. Regenerative Travel Has Arrived.](https://www.nytimes.com/2020/08/27/travel/travel-future-coronavirus-sustainable.html)
+* [How to Choose the Right Pediatrician](https://www.nytimes.com/article/choosing-a-pediatrician-children.html)
+* [Can You Hear Yourself Think?](https://www.nytimes.com/2020/08/25/realestate/house-noise-solutions.html)
 * [Are You an American Voting From Abroad? Here’s How to Do It](https://www.nytimes.com/2020/08/28/smarter-living/american-vote-from-abroad.html)
 * [What Is Waacking, and Why Is It All Over TikTok?](https://www.nytimes.com/2020/08/29/nyregion/waacking-nyc-club-dance.html)
 * [Kehinde Wiley on Protests’ Results: ‘I’m Not Impressed Yet’](https://www.nytimes.com/2020/08/28/arts/design/kehinde-wiley-monument.html)
@@ -93,15 +93,16 @@ layout: default
 * [Coronavirus Superspreader Event in Boston Led to Thousands of Infections](https://www.nytimes.com/2020/08/26/health/covid-19-superspreaders-boston.html)
 * [Exercise May Boost Your Vaccine Response](https://www.nytimes.com/2020/08/26/well/move/exercise-may-boost-your-vaccine-response.html)
 * [Young Adults’ Pandemic Mental Health Risks](https://www.nytimes.com/2020/08/24/well/family/young-adults-mental-health-pandemic.html)
+* [Things To Do At Home](https://www.nytimes.com/2020/08/29/at-home/what-to-do-this-week.html)
 * [7 Takeaways From ‘Melania and Me,’ by the First Lady’s Former Friend](https://www.nytimes.com/2020/08/28/books/review/melania-and-me-stephanie-winston-wolkoff.html)
-* [On Trump, Merkel's Face Does the Talking](https://www.nytimes.com/2020/08/28/world/europe/merkel-trump-grenell.html)
-* [Sweden Raises Alarm over Russian Military Exercises](https://www.nytimes.com/2020/08/26/world/europe/sweden-russia-NATO-Baltic-Sea.html)
+* [Deciding Who Gets to Live in the Family Home During a Divorce](https://www.nytimes.com/2020/08/29/realestate/divorce-keeping-the-house.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [Coluna | Livros da quarentena: Não ao imposto](https://epoca.globo.com/colunistas/coluna-livros-da-quarentena-nao-ao-imposto-1-24613145)
 * [O verdadeiro custo da declaração de independência de Lionel Messi](https://oglobo.globo.com/esportes/o-verdadeiro-custo-da-declaracao-de-independencia-de-lionel-messi-24613633)
 * [Formula 1: Com recorde, Hamilton assume a pole no GP da Bélgica e homenageia ator de 'Pantera Negra'](https://oglobo.globo.com/esportes/formula-1-com-recorde-hamilton-assume-pole-no-gp-da-belgica-homenageia-ator-de-pantera-negra-24613656)
 * [Tombense, o clube que mais empresta jogadores, sonha com primeiro título](https://oglobo.globo.com/esportes/tombense-clube-que-mais-empresta-jogadores-sonha-com-primeiro-titulo-24613652)
@@ -110,5 +111,4 @@ layout: default
 * [MPF aponta que desembargador do TRT/RJ lidera esquema de corrupção desde 2018](https://epoca.globo.com/brasil/mpf-aponta-que-desembargador-do-trtrj-lidera-esquema-de-corrupcao-desde-2018-24613591)
 * [Tiroteio intenso no Morro dos Prazeres assusta moradores. Veja vídeo](https://oglobo.globo.com/rio/tiroteio-intenso-no-morro-dos-prazeres-assusta-moradores-veja-video-24613629)
 * [Guedes, os ‘innovators’ e os ‘preservers’ do Ministério da Economia](https://epoca.globo.com/guilherme-amado/guedes-os-innovators-os-preservers-do-ministerio-da-economia-24609702)
-* [Coluna | Livros da quarentena: Não ao imposto](https://epoca.globo.com/colunistas/coluna-livros-da-quarentena-nao-ao-imposto-24613145)
 * [Vasco aposta em jovens para reserva de Fernando Miguel](https://oglobo.globo.com/esportes/vasco-aposta-em-jovens-para-reserva-de-fernando-miguel-24612894)

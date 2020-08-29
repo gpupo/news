@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 29/08/2020 07:07:43 UTC
+# indexed at 29/08/2020 07:34:24 UTC
 
 
 ## news.ycombinator.com
@@ -12,32 +12,32 @@ layout: default
 * [Apple Terminates Epic Games' Developer Account](https://www.macrumors.com/2020/08/28/apple-terminates-epic-games-developer-account/)
 * [Malloc Geiger Counter](https://github.com/laserallan/malloc_geiger)
 * [Life Is Short (2016)](http://paulgraham.com/vb.html)
+* [Remote Code Execution in Slack desktop apps](https://hackerone.com/reports/783877)
 * [The Dark Core of Personality](https://blogs.scientificamerican.com/beautiful-minds/the-dark-core-of-personality/)
-* [How to Fix Gimbal Lock in N-Dimensions](https://medium.com/swlh/how-to-fix-gimbal-lock-in-n-dimensions-f2f7baec2b5e)
 * [Netflix is now doing per-shot encoding for UHD content](https://netflixtechblog.com/optimized-shot-based-encodes-for-4k-now-streaming-47b516b10bbb)
+* [How to Fix Gimbal Lock in N-Dimensions](https://medium.com/swlh/how-to-fix-gimbal-lock-in-n-dimensions-f2f7baec2b5e)
 * [A broken algorithm that poisoned American transportation](https://www.vice.com/en_us/article/v7gxy9/the-broken-algorithm-that-poisoned-american-transportation-v27n3)
 * [GH Archive](https://www.gharchive.org/)
+* [The coming collision between autonomous vehicles and the liability system (2012) [pdf]](https://pdfs.semanticscholar.org/88c1/11a1d16a44ff3adc681e966926e101067ae1.pdf)
+* [Hazel: A live functional programming environment featuring typed holes](http://hazel.org/)
 * [Game Design Curriculum](https://www.riotgames.com/en/urf-academy/curriculum-guide)
 * [Intel's “cripple AMD” function (2019)](https://www.agner.org/forum/viewtopic.php?f=1&t=6)
-* [Hazel: A live functional programming environment featuring typed holes](http://hazel.org/)
 * [Graphtage: A New Semantic Diffing Tool](https://blog.trailofbits.com/2020/08/28/graphtage/)
+* [The Joy of Cryptography](http://web.engr.oregonstate.edu/~rosulekm/crypto/)
 * [Scientists build army of a million microrobots that fit inside hypodermic needle](https://www.cnet.com/news/scientists-build-army-of-1-million-microrobots-that-can-fit-inside-a-hypodermic-needle/)
 * [Objective-Rust](https://belkadan.com/blog/2020/08/Objective-Rust/)
-* [The Joy of Cryptography](http://web.engr.oregonstate.edu/~rosulekm/crypto/)
 * [GoodRx S-1](https://www.sec.gov/Archives/edgar/data/1809519/000119312520234662/d949310ds1.htm)
-* [The coming collision between autonomous vehicles and the liability system (2012) [pdf]](https://pdfs.semanticscholar.org/88c1/11a1d16a44ff3adc681e966926e101067ae1.pdf)
-* [Tell HN: Check medium's localstorage if you use adblock](https://news.ycombinator.com/item?id=24310778)
 * [Show HN: Read The Count of Monte Cristo and others in installments in your email](https://www.serialliterature.com/)
-* [Ethereum Is a Dark Forest](https://medium.com/@danrobinson/ethereum-is-a-dark-forest-ecc5f0505dff)
 * [Babylonian Multiplication in the shower (2016)](https://www.iquilezles.org/blog/?p=4582)
-* [Neuralink Progress Update [video]](https://www.youtube.com/watch?v=DVvmgjBL74w&hn=1)
+* [Tell HN: Check medium's localstorage if you use adblock](https://news.ycombinator.com/item?id=24310778)
+* [Ethereum Is a Dark Forest](https://medium.com/@danrobinson/ethereum-is-a-dark-forest-ecc5f0505dff)
 * [The Jellyfish Problem](https://www.historytoday.com/archive/natural-histories/jellyfish-problem)
+* [Neuralink Progress Update [video]](https://www.youtube.com/watch?v=DVvmgjBL74w&hn=1)
 * [Launch HN: SuperTokens (YC S20) – Securely manage session tokens](https://news.ycombinator.com/item?id=24306572)
-* [Retrobatch – flexible batch image processing for Mac](https://flyingmeat.com/retrobatch/)
 * [Show HN: Healthcare Is Dumb](https://healthcareisdumb.com/)
+* [Retrobatch – flexible batch image processing for Mac](https://flyingmeat.com/retrobatch/)
 * [Squad Wealth](https://otherinter.net/squad-wealth/)
-* [Speaking Knots](https://soender.blog/Speaking-Knots/)
-* [In defense of the IPO, and how to improve it](https://a16z.com/2020/08/28/in-defense-of-the-ipo/)
+* [The World of Legacy IT Systems](https://spectrum.ieee.org/computing/it/inside-hidden-world-legacy-it-systems)
 ## nytimes.com
 
 
@@ -80,10 +80,10 @@ layout: default
 * [Movies Are Returning to Theaters. Will Audiences Follow?](https://www.nytimes.com/2020/08/28/business/media/coronavirus-movie-theaters-new-mutants.html)
 * [Trump Says Crime Is Rampant in N.Y.C. Here Are the Facts.](https://www.nytimes.com/2020/08/28/nyregion/trump-rnc-urban-crime.html)
 * [7 Takeaways From ‘Melania and Me,’ by the First Lady’s Former Friend](https://www.nytimes.com/2020/08/28/books/review/melania-and-me-stephanie-winston-wolkoff.html)
-* [Move Over, Sustainable Travel. Regenerative Travel Has Arrived.](https://www.nytimes.com/2020/08/27/travel/travel-future-coronavirus-sustainable.html)
+* [Are You an American Voting From Abroad? Here’s How to Do It](https://www.nytimes.com/2020/08/28/smarter-living/american-vote-from-abroad.html)
 * [Can You Hear Yourself Think?](https://www.nytimes.com/2020/08/25/realestate/house-noise-solutions.html)
 * [How to Choose the Right Pediatrician](https://www.nytimes.com/article/choosing-a-pediatrician-children.html)
-* [Are You an American Voting From Abroad? Here’s How to Do It](https://www.nytimes.com/2020/08/28/smarter-living/american-vote-from-abroad.html)
+* [Move Over, Sustainable Travel. Regenerative Travel Has Arrived.](https://www.nytimes.com/2020/08/27/travel/travel-future-coronavirus-sustainable.html)
 * [How Summer Festivals Persevered in the Pandemic](https://www.nytimes.com/2020/08/28/travel/summer-festivals-coronavirus.html)
 * [Emmys 2020: Ted Danson Made D’Arcy Carden a Better Not-a-Robot](https://www.nytimes.com/2020/08/28/arts/television/emmys-ted-danson-darcy-carden.html)
 * [A Doctor Asks: Is Covid Scaring Us Away From Our Humanity?](https://www.nytimes.com/2020/08/28/world/australia/melbourne-covid-doctor.html)
@@ -94,8 +94,8 @@ layout: default
 * [Fossil Reveals ‘One of the Cutest Dinosaurs’ Ever Found](https://www.nytimes.com/2020/08/27/science/dinosaur-face-fossil.html)
 * [You Can’t Escape Lice, Even 6,500 Feet Below the Ocean](https://www.nytimes.com/2020/08/26/science/lice-elephant-seals.html)
 * [What to Watch for on Day 2 of the Republican National Convention](https://www.nytimes.com/2020/08/25/us/politics/republican-national-convention-guide.html)
-* [Bayern Munich 1, P.S.G. 0: A Champions League Win for Tradition and Team](https://www.nytimes.com/2020/08/23/sports/soccer/psg-bayern-live-score.html)
-* [Why Trump’s Approval Ratings on the Economy Remain Durable](https://www.nytimes.com/2020/08/24/us/politics/trump-economy.html)
+* [On Trump, Merkel's Face Does the Talking](https://www.nytimes.com/2020/08/28/world/europe/merkel-trump-grenell.html)
+* [National Conventions: The Impeachment Battle Rematch That Wasn’t](https://www.nytimes.com/2020/08/25/us/politics/trump-impeachment-convention.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
@@ -109,6 +109,6 @@ layout: default
 * [Os Paralamas do Sucesso fazem primeira live: 'Queremos dar uma injeção de ânimo'](https://oglobo.globo.com/cultura/os-paralamas-do-sucesso-fazem-primeira-live-queremos-dar-uma-injecao-de-animo-24611681)
 * [Ações prometem melhorar condições ambientais das lagoas da Região Oceânica de Niterói](https://oglobo.globo.com/rio/bairros/acoes-prometem-melhorar-condicoes-ambientais-das-lagoas-da-regiao-oceanica-de-niteroi-24612193)
 * [A voz do Rio](https://oglobo.globo.com/opiniao/a-voz-do-rio-24612123)
+* [Observando baleias](https://oglobo.globo.com/cultura/observando-baleias-24612109)
 * [Lucro social e financeiro](https://oglobo.globo.com/opiniao/lucro-social-financeiro-24612092)
 * [Nossa gente na floresta](https://oglobo.globo.com/opiniao/nossa-gente-na-floresta-24612070)
-* [Dia 29 é dia de comer nhoque: receitas e versões que vão de ricota a banana-da-terra](https://oglobo.globo.com/rioshow/dia-29-dia-de-comer-nhoque-receitas-versoes-que-vao-de-ricota-banana-da-terra-24609067)

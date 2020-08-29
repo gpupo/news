@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 29/08/2020 17:08:53 UTC
+# indexed at 29/08/2020 17:34:40 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [I Thought I Would Have Accomplished a Lot More Today and Also Before I Was 35](https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five)
 * [Tesla’s former CTO is building a giant lithium-ion battery recycling operation](https://www.wsj.com/articles/one-of-the-brains-behind-tesla-found-a-new-way-to-make-electric-cars-cheaper-11598673630)
-* [She’s Got Game](https://restofworld.org/2020/you-just-got-pwned-habibi/)
-* [Remote Code Execution in Slack desktop apps](https://hackerone.com/reports/783877)
 * [Super Tux Kart – Linux racing game](https://supertuxkart.net/)
+* [Remote Code Execution in Slack desktop apps](https://hackerone.com/reports/783877)
+* [I Compiled NASA‘s Workmanship Standards into a Single PDF](https://archive.org/details/nasa-workmanship-standards)
+* [She’s Got Game](https://restofworld.org/2020/you-just-got-pwned-habibi/)
+* [Apple blocked Facebook's attempt to tell users about 30% App Store 'tax'](https://www.cnet.com/news/apple-blocked-facebooks-attempt-to-tell-users-about-30-app-store-tax/)
+* [DearPyGui](https://github.com/hoffstadt/DearPyGui)
 * [American Academy of Sleep Medicine calls for elimination of daylight saving time](https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/)
-* [How close are computers to automating mathematical reasoning?](https://www.quantamagazine.org/how-close-are-computers-to-automating-mathematical-reasoning-20200827/)
 * [Don't trust default timeouts](https://robertovitillo.com/default-timeouts/)
 * [ArangoDB 3.7 – a big step forward for multi-model](https://www.arangodb.com/2020/08/arangodb-3-7-a-big-step-forward-for-multi-model/)
 * [The Mysterious Cold War Case of Unidentified Aircraft Descending on Loring AFB](https://www.thedrive.com/the-war-zone/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base)
-* [Apple blocked Facebook's attempt to tell users about 30% App Store 'tax'](https://www.cnet.com/news/apple-blocked-facebooks-attempt-to-tell-users-about-30-app-store-tax/)
-* [What can 6,000 electric vehicles tell us about EV battery health?](https://www.geotab.com/blog/ev-battery-health/)
-* [Lithium ranked the highest performance web application platform](https://www.techempower.com/benchmarks/#section=test&runid=57b25c85-082a-4013-b572-b0939006eaff&hw=ph&test=composite&a=2)
-* [I Compiled NASA‘s Workmanship Standards into a Single PDF](https://archive.org/details/nasa-workmanship-standards)
 * [Malloc Geiger Counter](https://github.com/laserallan/malloc_geiger)
+* [Lithium ranked the highest performance web application platform](https://www.techempower.com/benchmarks/#section=test&runid=57b25c85-082a-4013-b572-b0939006eaff&hw=ph&test=composite&a=2)
 * [Life Is Short (2016)](http://paulgraham.com/vb.html)
+* [How close are computers to automating mathematical reasoning?](https://www.quantamagazine.org/how-close-are-computers-to-automating-mathematical-reasoning-20200827/)
 * [Pinterest cancels office lease in unbuilt project, citing work-from-home shift](https://www.sfchronicle.com/business/article/Pinterest-cancels-huge-SF-office-lease-in-unbuilt-15523170.php)
+* [What can 6,000 electric vehicles tell us about EV battery health?](https://www.geotab.com/blog/ev-battery-health/)
 * [Top Biofuel Crops](https://auto.howstuffworks.com/fuel-efficiency/biofuels/10-biofuel-crops.htm)
 * [Apple Terminates Epic Games' Developer Account](https://www.macrumors.com/2020/08/28/apple-terminates-epic-games-developer-account/)
 * [Now you C me, now you don't](https://securitylab.github.com/research/now-you-c-me)
+* [Emoji simulator – a tool to make cellular automata, with emoji](https://ncase.me/sim/)
 * [Google offers to help others with the tricky ethics of AI](https://arstechnica.com/tech-policy/2020/08/google-offers-to-help-others-with-the-tricky-ethics-of-ai/)
-* [Why Understanding Beats Knowledge](https://swizec.com/blog/why-understanding-beats-knowledge/)
 * [Using machine learning to detect deficient coverage in colonoscopy screenings](https://ai.googleblog.com/2020/08/using-machine-learning-to-detect.html)
 * [WebAssembly Is Not a Stack Machine (2019)](http://troubles.md/wasm-is-not-a-stack-machine/)
+* [Why Understanding Beats Knowledge](https://swizec.com/blog/why-understanding-beats-knowledge/)
 * [GH Archive](https://www.gharchive.org/)
 * [Design Tip: Never Use Black (2012)](https://ianstormtaylor.com/design-tip-never-use-black/)
 * [A broken algorithm that poisoned American transportation](https://www.vice.com/en_us/article/v7gxy9/the-broken-algorithm-that-poisoned-american-transportation-v27n3)
-* [The US is going into hyperinflation](https://seekingalpha.com/article/4371490-united-states-is-going-hyperinflation)
 * [The Dark Core of Personality (2018)](https://blogs.scientificamerican.com/beautiful-minds/the-dark-core-of-personality/)
-* [The Ekranoplan Is Stranded Off a Beach](https://www.popularmechanics.com/military/aviation/a33808381/russia-ekranoplan-plane-boat-wrecked/)
 ## nytimes.com
 
 
@@ -83,9 +83,9 @@ layout: default
 * [C.I.A. Uncensors Memoir of F.B.I. Agent Who Protested Torture of Terrorists](https://www.nytimes.com/2020/08/29/us/politics/ali-soufan-memoir-cia-torture.html)
 * [When Retirement Comes Too Early](https://www.nytimes.com/2020/08/28/health/coronavirus-retirement-recession.html)
 * [Move Over, Sustainable Travel. Regenerative Travel Has Arrived.](https://www.nytimes.com/2020/08/27/travel/travel-future-coronavirus-sustainable.html)
-* [Can You Hear Yourself Think?](https://www.nytimes.com/2020/08/25/realestate/house-noise-solutions.html)
 * [How to Choose the Right Pediatrician](https://www.nytimes.com/article/choosing-a-pediatrician-children.html)
 * [Are You an American Voting From Abroad? Here’s How to Do It](https://www.nytimes.com/2020/08/28/smarter-living/american-vote-from-abroad.html)
+* [Can You Hear Yourself Think?](https://www.nytimes.com/2020/08/25/realestate/house-noise-solutions.html)
 * [What Is Waacking, and Why Is It All Over TikTok?](https://www.nytimes.com/2020/08/29/nyregion/waacking-nyc-club-dance.html)
 * [Kehinde Wiley on Protests’ Results: ‘I’m Not Impressed Yet’](https://www.nytimes.com/2020/08/28/arts/design/kehinde-wiley-monument.html)
 * [After a Long Lull, Protesting Is Taking Hold Across Baseball](https://www.nytimes.com/2020/08/28/sports/baseball/mlb-protest-canceled-games.html)
@@ -96,22 +96,21 @@ layout: default
 * [Exercise May Boost Your Vaccine Response](https://www.nytimes.com/2020/08/26/well/move/exercise-may-boost-your-vaccine-response.html)
 * [Young Adults’ Pandemic Mental Health Risks](https://www.nytimes.com/2020/08/24/well/family/young-adults-mental-health-pandemic.html)
 * [7 Takeaways From ‘Melania and Me,’ by the First Lady’s Former Friend](https://www.nytimes.com/2020/08/28/books/review/melania-and-me-stephanie-winston-wolkoff.html)
-* [Humans Take a Step Closer to ‘Flying Cars’](https://www.nytimes.com/2020/08/29/us/japan-flying-car.html)
-* [Eric Trump Testimony Is Sought by N.Y. A.G. in Investigation of Trump Finances](https://www.nytimes.com/2020/08/24/nyregion/letitia-james-trump-projects-investigation.html)
 * [On Trump, Merkel's Face Does the Talking](https://www.nytimes.com/2020/08/28/world/europe/merkel-trump-grenell.html)
+* [How to Keep a Journal](https://www.nytimes.com/2020/08/29/at-home/now-is-the-time-to-start-keeping-a-journal.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [Bielorrússia retira credenciais de jornalistas que cobriam protestos para a mídia estrangeira](https://oglobo.globo.com/mundo/bielorrussia-retira-credenciais-de-jornalistas-que-cobriam-protestos-para-midia-estrangeira-24613787)
+* [Messi não se reapresentará para os treinos no Barcelona](https://oglobo.globo.com/esportes/messi-nao-se-reapresentara-para-os-treinos-no-barcelona-24613803)
+* [Witzel se reúne com profissionais da área da Saúde no Palácio das Laranjeiras](https://oglobo.globo.com/rio/witzel-se-reune-com-profissionais-da-area-da-saude-no-palacio-das-laranjeiras-24613806)
+* [Deputados indicavam porteiros, faxineiros e seguranças de unidades de saúde em troca de apoio na Alerj](https://oglobo.globo.com/rio/deputados-indicavam-porteiros-faxineiros-segurancas-de-unidades-de-saude-em-troca-de-apoio-na-alerj-24613786)
+* [Bolsonaro sobre auxílio emergencial: 'Pouco para quem recebe e muito para quem paga'](https://oglobo.globo.com/economia/bolsonaro-sobre-auxilio-emergencial-pouco-para-quem-recebe-muito-para-quem-paga-24613715)
 * [Gesto de 'Pantera Negra' é reproduzido por nomes como Maju Coutinho e Lewis Hamilton](https://oglobo.globo.com/cultura/gesto-de-pantera-negra-reproduzido-por-nomes-como-maju-coutinho-lewis-hamilton-1-24613742)
 * [Ex-secretário de Witzel guardava em casa documento do escritório de primeira-dama](https://oglobo.globo.com/rio/ex-secretario-de-witzel-guardava-em-casa-documento-do-escritorio-de-primeira-dama-24613738)
-* [Guedes, os ‘innovators’ e os ‘preservers’ do Ministério da Economia](https://epoca.globo.com/guilherme-amado/guedes-os-innovators-os-preservers-do-ministerio-da-economia-24609702)
 * [Edifício A Noite: prestes a ser leiloado no Rio, 1º arranha-céu da América do Sul marcou a história do Brasil](https://epoca.globo.com/sociedade/edificio-noite-prestes-ser-leiloado-no-rio-1-arranha-ceu-da-america-do-sul-marcou-historia-do-brasil-24613719)
-* [Fórmula 1: Com recorde, Hamilton assume a pole no GP da Bélgica e homenageia ator de 'Pantera Negra'](https://oglobo.globo.com/esportes/formula-1-com-recorde-hamilton-assume-pole-no-gp-da-belgica-homenageia-ator-de-pantera-negra-24613656)
-* [Sem máscara e com aglomeração, Bolsonaro inaugura usina em Goiás](https://oglobo.globo.com/brasil/sem-mascara-com-aglomeracao-bolsonaro-inaugura-usina-em-goias-24613676)
-* ['Pouco para quem recebe e muito para quem paga', diz Bolsonaro sobre o auxílio emergencial](https://oglobo.globo.com/economia/pouco-para-quem-recebe-muito-para-quem-paga-diz-bolsonaro-sobre-auxilio-emergencial-24613715)
 * [Criança de 8 anos é baleada na Baixada Fluminense](https://oglobo.globo.com/rio/crianca-de-8-anos-baleada-na-baixada-fluminense-24613681)
 * [Chadwick Boseman deixou filme inédito com Viola Davis](https://oglobo.globo.com/cultura/chadwick-boseman-deixou-filme-inedito-com-viola-davis-24613673)
-* [Vasco aposta em jovens para reserva de Fernando Miguel](https://oglobo.globo.com/esportes/vasco-aposta-em-jovens-para-reserva-de-fernando-miguel-24612894)

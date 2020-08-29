@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 29/08/2020 06:12:47 UTC
+# indexed at 29/08/2020 06:34:22 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [American Academy of Sleep Medicine calls for elimination of daylight saving time](https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/)
 * [Apple Terminates Epic Games' Developer Account](https://www.macrumors.com/2020/08/28/apple-terminates-epic-games-developer-account/)
+* [Malloc Geiger Counter](https://github.com/laserallan/malloc_geiger)
 * [Life Is Short (2016)](http://paulgraham.com/vb.html)
 * [How to Fix Gimbal Lock in N-Dimensions](https://medium.com/swlh/how-to-fix-gimbal-lock-in-n-dimensions-f2f7baec2b5e)
-* [Malloc Geiger Counter](https://github.com/laserallan/malloc_geiger)
 * [Netflix is now doing per-shot encoding for UHD content](https://netflixtechblog.com/optimized-shot-based-encodes-for-4k-now-streaming-47b516b10bbb)
+* [GH Archive](https://www.gharchive.org/)
+* [The Dark Core of Personality](https://blogs.scientificamerican.com/beautiful-minds/the-dark-core-of-personality/)
 * [Game Design Curriculum](https://www.riotgames.com/en/urf-academy/curriculum-guide)
 * [Intel's “cripple AMD” function (2019)](https://www.agner.org/forum/viewtopic.php?f=1&t=6)
 * [Hazel: A live functional programming environment featuring typed holes](http://hazel.org/)
-* [GH Archive](https://www.gharchive.org/)
 * [Objective-Rust](https://belkadan.com/blog/2020/08/Objective-Rust/)
 * [The Joy of Cryptography](http://web.engr.oregonstate.edu/~rosulekm/crypto/)
 * [GoodRx S-1](https://www.sec.gov/Archives/edgar/data/1809519/000119312520234662/d949310ds1.htm)
 * [Scientists build army of a million microrobots that fit inside hypodermic needle](https://www.cnet.com/news/scientists-build-army-of-1-million-microrobots-that-can-fit-inside-a-hypodermic-needle/)
+* [Graphtage: A New Semantic Diffing Tool](https://blog.trailofbits.com/2020/08/28/graphtage/)
 * [Tell HN: Check medium's localstorage if you use adblock](https://news.ycombinator.com/item?id=24310778)
 * [Show HN: Read The Count of Monte Cristo and others in installments in your email](https://www.serialliterature.com/)
-* [Graphtage: A New Semantic Diffing Tool](https://blog.trailofbits.com/2020/08/28/graphtage/)
-* [Lynn Conway's Career Retrospective](https://ai.eecs.umich.edu/people/conway/RetrospectiveT.html)
+* [A broken algorithm that poisoned American transportation](https://www.vice.com/en_us/article/v7gxy9/the-broken-algorithm-that-poisoned-american-transportation-v27n3)
+* [Babylonian Multiplication in the shower (2016)](https://www.iquilezles.org/blog/?p=4582)
 * [Ethereum Is a Dark Forest](https://medium.com/@danrobinson/ethereum-is-a-dark-forest-ecc5f0505dff)
 * [The Jellyfish Problem](https://www.historytoday.com/archive/natural-histories/jellyfish-problem)
-* [The World of Legacy IT Systems](https://spectrum.ieee.org/computing/it/inside-hidden-world-legacy-it-systems)
-* [Show HN: 3D first person game rendered in CSS/HTML](https://pantel.is/projects/css3d/)
 * [Neuralink Progress Update [video]](https://www.youtube.com/watch?v=DVvmgjBL74w&hn=1)
 * [Launch HN: SuperTokens (YC S20) – Securely manage session tokens](https://news.ycombinator.com/item?id=24306572)
-* [Babylonian Multiplication in the shower (2016)](https://www.iquilezles.org/blog/?p=4582)
 * [Speaking Knots](https://soender.blog/Speaking-Knots/)
 * [In defense of the IPO, and how to improve it](https://a16z.com/2020/08/28/in-defense-of-the-ipo/)
-* [Show HN: Healthcare Is Dumb](https://healthcareisdumb.com/)
-* [Retrobatch – flexible batch image processing for Mac](https://flyingmeat.com/retrobatch/)
 * [Squad Wealth](https://otherinter.net/squad-wealth/)
+* [Retrobatch – flexible batch image processing for Mac](https://flyingmeat.com/retrobatch/)
+* [Show HN: Healthcare Is Dumb](https://healthcareisdumb.com/)
+* [The World of Legacy IT Systems](https://spectrum.ieee.org/computing/it/inside-hidden-world-legacy-it-systems)
 ## nytimes.com
 
 
@@ -93,9 +93,8 @@ layout: default
 * [Reopened Schools Find Health Risks in Water After Covid-19 Lockdowns](https://www.nytimes.com/2020/08/27/health/covid-schools-legionnaires-disease.html)
 * [Fossil Reveals ‘One of the Cutest Dinosaurs’ Ever Found](https://www.nytimes.com/2020/08/27/science/dinosaur-face-fossil.html)
 * [You Can’t Escape Lice, Even 6,500 Feet Below the Ocean](https://www.nytimes.com/2020/08/26/science/lice-elephant-seals.html)
-* [Talking About Racism With The Times’s Youngest Readers](https://www.nytimes.com/2020/08/28/insider/times-for-kids-race-issue.html)
-* [On Trump, Merkel's Face Does the Talking](https://www.nytimes.com/2020/08/28/world/europe/merkel-trump-grenell.html)
-* [The 5 Best Ways to Prevent Mosquito Bites](https://www.nytimes.com/2020/08/28/realestate/prevent-mosquito-bites.html)
+* [You’re Beginning to Look Dull](https://www.nytimes.com/2020/08/27/style/youre-beginning-to-look-dull.html)
+* [What to Cook This Weekend](https://www.nytimes.com/2020/08/28/dining/what-to-cook-this-weekend.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)

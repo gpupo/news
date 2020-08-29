@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 29/08/2020 04:14:11 UTC
+# indexed at 29/08/2020 04:34:16 UTC
 
 
 ## news.ycombinator.com
 
 
 * [American Academy of Sleep Medicine calls for elimination of daylight saving time](https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/)
-* [Facebook Says Apple Blocked It from Informing About App Store 30% Fee](https://www.nasdaq.com/articles/facebook-says-apple-blocked-it-from-informing-about-app-store-30-fee-2020-08-28#:~:text=Facebook%20Says%20Apple%20Blocked%20It%20From%20Informing%20About%20App%20Store%2030%25%20Fee,-Contributor&text=Facebook%20(NASDAQ%3A%20FB)%20is,to%20impart%20to%20its%20users.&text=According%20to%20Facebook%2C%20it%20asked,Image%20source%3A%20Getty%20Images.)
 * [Apple Terminates Epic Games' Developer Account](https://www.macrumors.com/2020/08/28/apple-terminates-epic-games-developer-account/)
+* [Facebook says Apple blocked it from informing about App Store 30% fee](https://www.nasdaq.com/articles/facebook-says-apple-blocked-it-from-informing-about-app-store-30-fee-2020-08-28#:~:text=Facebook%20Says%20Apple%20Blocked%20It%20From%20Informing%20About%20App%20Store%2030%25%20Fee,-Contributor&text=Facebook%20(NASDAQ%3A%20FB)%20is,to%20impart%20to%20its%20users.&text=According%20to%20Facebook%2C%20it%20asked,Image%20source%3A%20Getty%20Images.)
 * [Life Is Short](http://paulgraham.com/vb.html)
 * [Netflix is now doing per-shot encoding for UHD content](https://netflixtechblog.com/optimized-shot-based-encodes-for-4k-now-streaming-47b516b10bbb)
-* [Chadwick Boseman Is Dead](https://www.bbc.com/news/world-us-canada-53955912)
 * [Game Design Curriculum](https://www.riotgames.com/en/urf-academy/curriculum-guide)
 * [Hazel: A live functional programming environment featuring typed holes](http://hazel.org/)
 * [Intel's “cripple AMD” function (2019)](https://www.agner.org/forum/viewtopic.php?f=1&t=6)
-* [Show HN: Visualize Data Structures in VS Code](https://github.com/hediet/vscode-debug-visualizer/tree/master/extension)
-* [Objective-Rust](https://belkadan.com/blog/2020/08/Objective-Rust/)
-* [GoodRx S-1](https://www.sec.gov/Archives/edgar/data/1809519/000119312520234662/d949310ds1.htm)
-* [The Joy of Cryptography](http://web.engr.oregonstate.edu/~rosulekm/crypto/)
-* [Impact of Go AI on the professional Go world](https://medium.com/@hajinlee/impact-of-go-ai-on-the-professional-go-world-f14cf201c7c2)
-* [Google is apparently taking down all/most Fediverse apps from the Play Store](https://qoto.org/@freemo/104765288863293481)
 * [Tell HN: Check medium's localstorage if you use adblock](https://news.ycombinator.com/item?id=24310778)
+* [Show HN: Visualize Data Structures in VS Code](https://github.com/hediet/vscode-debug-visualizer/tree/master/extension)
+* [The Joy of Cryptography](http://web.engr.oregonstate.edu/~rosulekm/crypto/)
+* [GoodRx S-1](https://www.sec.gov/Archives/edgar/data/1809519/000119312520234662/d949310ds1.htm)
+* [Objective-Rust](https://belkadan.com/blog/2020/08/Objective-Rust/)
+* [Scientists build army of a million microrobots that fit inside hypodermic needle](https://www.cnet.com/news/scientists-build-army-of-1-million-microrobots-that-can-fit-inside-a-hypodermic-needle/)
 * [The World of Legacy IT Systems](https://spectrum.ieee.org/computing/it/inside-hidden-world-legacy-it-systems)
 * [Ethereum Is a Dark Forest](https://medium.com/@danrobinson/ethereum-is-a-dark-forest-ecc5f0505dff)
-* [Scientists build army of a million microrobots that fit inside hypodermic needle](https://www.cnet.com/news/scientists-build-army-of-1-million-microrobots-that-can-fit-inside-a-hypodermic-needle/)
-* [Flexport is hiring employees all over the world](https://www.flexport.com/careers)
+* [The Jellyfish Problem](https://www.historytoday.com/archive/natural-histories/jellyfish-problem)
 * [Show HN: Read The Count of Monte Cristo and others in installments in your email](https://www.serialliterature.com/)
-* [Speaking Knots](https://soender.blog/Speaking-Knots/)
 * [Launch HN: SuperTokens (YC S20) – Securely manage session tokens](https://news.ycombinator.com/item?id=24306572)
 * [Neuralink Progress Update [video]](https://www.youtube.com/watch?v=DVvmgjBL74w&hn=1)
-* [Expert overclockers successfully push DOOM Eternal past 1k frames per second](https://slayersclub.bethesda.net/en/article/48xD6yVj0VsulONXKAnr7n/doom-eternal-overclocked-at-1000-fps)
-* [Show HN: 3D first person game rendered in CSS/HTML](https://pantel.is/projects/css3d/)
-* [Lynn Conway, transgender pioneer of VLSI design methodology](https://ai.eecs.umich.edu/people/conway/RetrospectiveT.html)
+* [Speaking Knots](https://soender.blog/Speaking-Knots/)
 * [In defense of the IPO, and how to improve it](https://a16z.com/2020/08/28/in-defense-of-the-ipo/)
+* [Flexport is hiring employees all over the world](https://www.flexport.com/careers)
+* [Show HN: 3D first person game rendered in CSS/HTML](https://pantel.is/projects/css3d/)
+* [Graphtage: A New Semantic Diffing Tool](https://blog.trailofbits.com/2020/08/28/graphtage/)
 * [Show HN: Healthcare Is Dumb](https://healthcareisdumb.com/)
+* [Retrobatch – flexible batch image processing for Mac](https://flyingmeat.com/retrobatch/)
 * [Pure and Applied Chess](https://theelectricagora.com/2020/08/28/pure-and-applied-chess/)
+* [Lynn Conway, transgender pioneer of VLSI design methodology](https://ai.eecs.umich.edu/people/conway/RetrospectiveT.html)
+* [Squad Wealth](https://otherinter.net/squad-wealth/)
 ## nytimes.com
 
 
@@ -80,10 +80,10 @@ layout: default
 * [Movies Are Returning to Theaters. Will Audiences Follow?](https://www.nytimes.com/2020/08/28/business/media/coronavirus-movie-theaters-new-mutants.html)
 * [Trump Says Crime Is Rampant in N.Y.C. Here Are the Facts.](https://www.nytimes.com/2020/08/28/nyregion/trump-rnc-urban-crime.html)
 * [7 Takeaways From ‘Melania and Me,’ by the First Lady’s Former Friend](https://www.nytimes.com/2020/08/28/books/review/melania-and-me-stephanie-winston-wolkoff.html)
-* [Are You an American Voting From Abroad? Here’s How to Do It](https://www.nytimes.com/2020/08/28/smarter-living/american-vote-from-abroad.html)
-* [Move Over, Sustainable Travel. Regenerative Travel Has Arrived.](https://www.nytimes.com/2020/08/27/travel/travel-future-coronavirus-sustainable.html)
 * [How to Choose the Right Pediatrician](https://www.nytimes.com/article/choosing-a-pediatrician-children.html)
+* [Move Over, Sustainable Travel. Regenerative Travel Has Arrived.](https://www.nytimes.com/2020/08/27/travel/travel-future-coronavirus-sustainable.html)
 * [Can You Hear Yourself Think?](https://www.nytimes.com/2020/08/25/realestate/house-noise-solutions.html)
+* [Are You an American Voting From Abroad? Here’s How to Do It](https://www.nytimes.com/2020/08/28/smarter-living/american-vote-from-abroad.html)
 * [How Summer Festivals Persevered in the Pandemic](https://www.nytimes.com/2020/08/28/travel/summer-festivals-coronavirus.html)
 * [Emmys 2020: Ted Danson Made D’Arcy Carden a Better Not-a-Robot](https://www.nytimes.com/2020/08/28/arts/television/emmys-ted-danson-darcy-carden.html)
 * [A Doctor Asks: Is Covid Scaring Us Away From Our Humanity?](https://www.nytimes.com/2020/08/28/world/australia/melbourne-covid-doctor.html)
@@ -93,7 +93,9 @@ layout: default
 * [Reopened Schools Find Health Risks in Water After Covid-19 Lockdowns](https://www.nytimes.com/2020/08/27/health/covid-schools-legionnaires-disease.html)
 * [Fossil Reveals ‘One of the Cutest Dinosaurs’ Ever Found](https://www.nytimes.com/2020/08/27/science/dinosaur-face-fossil.html)
 * [You Can’t Escape Lice, Even 6,500 Feet Below the Ocean](https://www.nytimes.com/2020/08/26/science/lice-elephant-seals.html)
-* [You’re Beginning to Look Dull](https://www.nytimes.com/2020/08/27/style/youre-beginning-to-look-dull.html)
+* [Over 100 Ex-Staff Members for John McCain Endorse Joe Biden](https://www.nytimes.com/2020/08/27/us/politics/john-mccain-biden-trump.html)
+* [German Town Fears Ruin by U.S. Effort to Stop Russian Pipeline](https://www.nytimes.com/2020/08/25/world/europe/nord-stream-2-germany-us-russia.html)
+* [A Reminder to Enfold Yourself in Small Comforts](https://www.nytimes.com/2020/08/24/opinion/coronavirus-anxiety-coping.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 29/08/2020 11:34:28 UTC
+# indexed at 29/08/2020 12:15:19 UTC
 
 
 ## news.ycombinator.com
@@ -11,33 +11,33 @@ layout: default
 * [American Academy of Sleep Medicine calls for elimination of daylight saving time](https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/)
 * [Remote Code Execution in Slack desktop apps](https://hackerone.com/reports/783877)
 * [Apple Terminates Epic Games' Developer Account](https://www.macrumors.com/2020/08/28/apple-terminates-epic-games-developer-account/)
-* [Malloc Geiger Counter](https://github.com/laserallan/malloc_geiger)
-* [Life Is Short (2016)](http://paulgraham.com/vb.html)
 * [Lithium is now the fastest web framework](https://www.techempower.com/benchmarks/#section=test&runid=57b25c85-082a-4013-b572-b0939006eaff&hw=ph&test=composite&a=2)
 * [The Mysterious Cold War Case of Unidentified Aircraft Descending on Loring AFB](https://www.thedrive.com/the-war-zone/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base)
+* [Malloc Geiger Counter](https://github.com/laserallan/malloc_geiger)
+* [Life Is Short (2016)](http://paulgraham.com/vb.html)
 * [Netflix is now doing per-shot encoding for UHD content](https://netflixtechblog.com/optimized-shot-based-encodes-for-4k-now-streaming-47b516b10bbb)
-* [The Dark Core of Personality](https://blogs.scientificamerican.com/beautiful-minds/the-dark-core-of-personality/)
 * [WebAssembly Is Not a Stack Machine (2019)](http://troubles.md/wasm-is-not-a-stack-machine/)
-* [GH Archive](https://www.gharchive.org/)
-* [Intel's “cripple AMD” function (2019)](https://www.agner.org/forum/viewtopic.php?f=1&t=6)
-* [Pinterest cancels office lease in unbuilt project, citing work-from-home shift](https://www.sfchronicle.com/business/article/Pinterest-cancels-huge-SF-office-lease-in-unbuilt-15523170.php)
-* [A broken algorithm that poisoned American transportation](https://www.vice.com/en_us/article/v7gxy9/the-broken-algorithm-that-poisoned-american-transportation-v27n3)
-* [Game Design Curriculum](https://www.riotgames.com/en/urf-academy/curriculum-guide)
-* [How to Fix Gimbal Lock in N-Dimensions](https://medium.com/swlh/how-to-fix-gimbal-lock-in-n-dimensions-f2f7baec2b5e)
+* [The Dark Core of Personality](https://blogs.scientificamerican.com/beautiful-minds/the-dark-core-of-personality/)
 * [Design Tip: Never Use Black (2012)](https://ianstormtaylor.com/design-tip-never-use-black/)
+* [Pinterest cancels office lease in unbuilt project, citing work-from-home shift](https://www.sfchronicle.com/business/article/Pinterest-cancels-huge-SF-office-lease-in-unbuilt-15523170.php)
+* [GH Archive](https://www.gharchive.org/)
+* [Using machine learning to detect deficient coverage in colonoscopy screenings](https://ai.googleblog.com/2020/08/using-machine-learning-to-detect.html)
+* [Game Design Curriculum](https://www.riotgames.com/en/urf-academy/curriculum-guide)
+* [A broken algorithm that poisoned American transportation](https://www.vice.com/en_us/article/v7gxy9/the-broken-algorithm-that-poisoned-american-transportation-v27n3)
+* [How to Fix Gimbal Lock in N-Dimensions](https://medium.com/swlh/how-to-fix-gimbal-lock-in-n-dimensions-f2f7baec2b5e)
 * [Hazel: A live functional programming environment featuring typed holes](http://hazel.org/)
 * [Objective-Rust](https://belkadan.com/blog/2020/08/Objective-Rust/)
-* [Babylonian Multiplication in the shower (2016)](https://www.iquilezles.org/blog/?p=4582)
-* [The coming collision between autonomous vehicles and the liability system (2012) [pdf]](https://pdfs.semanticscholar.org/88c1/11a1d16a44ff3adc681e966926e101067ae1.pdf)
 * [The Joy of Cryptography](http://web.engr.oregonstate.edu/~rosulekm/crypto/)
+* [Graphtage: A New Semantic Diffing Tool](https://blog.trailofbits.com/2020/08/28/graphtage/)
 * [Scientists build army of a million microrobots that fit inside hypodermic needle](https://www.cnet.com/news/scientists-build-army-of-1-million-microrobots-that-can-fit-inside-a-hypodermic-needle/)
 * [The Ekranoplan Is Stranded Off a Beach](https://www.popularmechanics.com/military/aviation/a33808381/russia-ekranoplan-plane-boat-wrecked/)
-* [Graphtage: A New Semantic Diffing Tool](https://blog.trailofbits.com/2020/08/28/graphtage/)
 * [Show HN: Read The Count of Monte Cristo and others in installments in your email](https://www.serialliterature.com/)
+* [The coming collision between autonomous vehicles and the liability system (2012) [pdf]](https://pdfs.semanticscholar.org/88c1/11a1d16a44ff3adc681e966926e101067ae1.pdf)
 * [GoodRx S-1](https://www.sec.gov/Archives/edgar/data/1809519/000119312520234662/d949310ds1.htm)
 * [Tell HN: Check medium's localstorage if you use adblock](https://news.ycombinator.com/item?id=24310778)
 * [Ethereum Is a Dark Forest](https://medium.com/@danrobinson/ethereum-is-a-dark-forest-ecc5f0505dff)
 * [Squad Wealth](https://otherinter.net/squad-wealth/)
+* [Show HN: Healthcare Is Dumb](https://healthcareisdumb.com/)
 ## nytimes.com
 
 
@@ -81,10 +81,11 @@ layout: default
 * [France Prohibits a Bird Hunting Technique, 41 Years After an E.U. Ban](https://www.nytimes.com/2020/08/28/world/europe/france-glue-traps-birds.html)
 * [TV Ratings for Biden and Trump Signal an Increasingly Polarized Nation](https://www.nytimes.com/2020/08/28/business/media/trump-biden-convention-ratings.html)
 * [Why Does the W.N.B.A. #SayHerName? Ask Angel McCoughtry](https://www.nytimes.com/2020/08/29/sports/basketball/Angel-McCoughtry-breonna-taylor.html)
-* [Are You an American Voting From Abroad? Here’s How to Do It](https://www.nytimes.com/2020/08/28/smarter-living/american-vote-from-abroad.html)
+* [5 Simple Ways to Improve Your Wi-Fi](https://www.nytimes.com/2020/08/24/smarter-living/home-wifi-upgrade.html)
 * [Can You Hear Yourself Think?](https://www.nytimes.com/2020/08/25/realestate/house-noise-solutions.html)
-* [Move Over, Sustainable Travel. Regenerative Travel Has Arrived.](https://www.nytimes.com/2020/08/27/travel/travel-future-coronavirus-sustainable.html)
-* [How to Choose the Right Pediatrician](https://www.nytimes.com/article/choosing-a-pediatrician-children.html)
+* [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
+* [How to Keep Your Collections From Looking Like Clutter](https://www.nytimes.com/2020/08/18/realestate/how-to-keep-your-collections-from-looking-like-clutter.html)
+* [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
 * [What Is Waacking, and Why Is It All Over TikTok?](https://www.nytimes.com/2020/08/29/nyregion/waacking-nyc-club-dance.html)
 * [Kehinde Wiley on Protests’ Results: ‘I’m Not Impressed Yet’](https://www.nytimes.com/2020/08/28/arts/design/kehinde-wiley-monument.html)
 * [After a Long Lull, Protesting Is Taking Hold Across Baseball](https://www.nytimes.com/2020/08/28/sports/baseball/mlb-protest-canceled-games.html)
@@ -95,7 +96,7 @@ layout: default
 * [Exercise May Boost Your Vaccine Response](https://www.nytimes.com/2020/08/26/well/move/exercise-may-boost-your-vaccine-response.html)
 * [Young Adults’ Pandemic Mental Health Risks](https://www.nytimes.com/2020/08/24/well/family/young-adults-mental-health-pandemic.html)
 * [7 Takeaways From ‘Melania and Me,’ by the First Lady’s Former Friend](https://www.nytimes.com/2020/08/28/books/review/melania-and-me-stephanie-winston-wolkoff.html)
-* [Black Homeowners Face Discrimination in Appraisals](https://www.nytimes.com/2020/08/25/realestate/blacks-minorities-appraisals-discrimination.html)
+* [Justice Dept. Executes Lezmond Mitchell, a Native American Man Convicted of Murder](https://www.nytimes.com/2020/08/26/us/politics/lezmond-mitchell-executed.html)
 * [On Trump, Merkel's Face Does the Talking](https://www.nytimes.com/2020/08/28/world/europe/merkel-trump-grenell.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
@@ -103,13 +104,13 @@ layout: default
 ## globo.com
 
 
+* [Dia da visibilidade lésbica: cantora lança clipe com a companheira para falar de empoderamento](https://oglobo.globo.com/cultura/dia-da-visibilidade-lesbica-cantora-lanca-clipe-com-companheira-para-falar-de-empoderamento-24613371)
+* [Witzel é afastado por seis meses pelo STJ e vê Supremo validar processo de impeachment](https://oglobo.globo.com/rio/witzel-afastado-por-seis-meses-pelo-stj-ve-supremo-validar-processo-de-impeachment-24613568)
 * [Manifestantes voltam a protestar em Berlim contra medidas restritivas da pandemia](https://oglobo.globo.com/mundo/manifestantes-voltam-protestar-em-berlim-contra-medidas-restritivas-da-pandemia-24613536)
 * [Chadwick Boseman: as homenagens feitas ao ator de Pantera Negra, que morreu de câncer aos 43 anos](https://epoca.globo.com/mundo/chadwick-boseman-as-homenagens-feitas-ao-ator-de-pantera-negra-que-morreu-de-cancer-aos-43-anos-1-24613545)
 * ['Clube do Charuto' no Palácio das Laranjeiras era ponto de encontro de grupo de Witzel](https://oglobo.globo.com/rio/clube-do-charuto-no-palacio-das-laranjeiras-era-ponto-de-encontro-de-grupo-de-witzel-24612520)
 * [Pré-candidatos e prefeito e vice do Rio são citados em delação de ex-secretário da Saúde do Rio](https://epoca.globo.com/guilherme-amado/pre-candidatos-prefeito-vice-do-rio-sao-citados-em-delacao-de-ex-secretario-da-saude-do-rio-24613404)
 * [Amiga de Isabele deve ser denunciada por homicídio doloso, diz promotor](https://epoca.globo.com/brasil/amiga-de-isabele-deve-ser-denunciada-por-homicidio-doloso-diz-promotor-24612110)
 * [Artigo | Witzel desmoralizou a ingenuidade do Grajaú](https://epoca.globo.com/colunistas/artigo-witzel-desmoralizou-ingenuidade-do-grajau-24613164)
-* [Impacto do isolamento social no Brasil pode afetar 'potencial produtivo de uma geração', diz agência da ONU](https://oglobo.globo.com/sociedade/educacao/impacto-do-isolamento-social-no-brasil-pode-afetar-potencial-produtivo-de-uma-geracao-diz-agencia-da-onu-24603564)
+* [Coluna | 'Rede de ódio' (2020), de Jan Komasa, e a representação da nova direita](https://epoca.globo.com/thiago-b-mendonca/coluna-rede-de-odio-2020-de-jan-komasa-a-representacao-da-nova-direita-24612644)
 * [Coluna | Casamento gay: uma pauta conservadora](https://epoca.globo.com/colunistas/coluna-casamento-gay-uma-pauta-conservadora-24611809)
-* [Temendo aglomerações, bar Cachambeer segue só com delivery](https://oglobo.globo.com/rio/bairros/temendo-aglomeracoes-bar-cachambeer-segue-so-com-delivery-24607251)
-* [De comida japonesa a pratos italianos, o sucesso dos kits para preparar pratos em casa](https://oglobo.globo.com/rio/bairros/de-comida-japonesa-pratos-italianos-sucesso-dos-kits-para-preparar-pratos-em-casa-24609838)

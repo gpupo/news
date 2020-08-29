@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 29/08/2020 09:07:32 UTC
+# indexed at 29/08/2020 09:34:28 UTC
 
 
 ## news.ycombinator.com
@@ -16,28 +16,28 @@ layout: default
 * [Netflix is now doing per-shot encoding for UHD content](https://netflixtechblog.com/optimized-shot-based-encodes-for-4k-now-streaming-47b516b10bbb)
 * [The Dark Core of Personality](https://blogs.scientificamerican.com/beautiful-minds/the-dark-core-of-personality/)
 * [GH Archive](https://www.gharchive.org/)
-* [How to Fix Gimbal Lock in N-Dimensions](https://medium.com/swlh/how-to-fix-gimbal-lock-in-n-dimensions-f2f7baec2b5e)
 * [A broken algorithm that poisoned American transportation](https://www.vice.com/en_us/article/v7gxy9/the-broken-algorithm-that-poisoned-american-transportation-v27n3)
-* [Hazel: A live functional programming environment featuring typed holes](http://hazel.org/)
+* [How to Fix Gimbal Lock in N-Dimensions](https://medium.com/swlh/how-to-fix-gimbal-lock-in-n-dimensions-f2f7baec2b5e)
 * [Game Design Curriculum](https://www.riotgames.com/en/urf-academy/curriculum-guide)
 * [Intel's “cripple AMD” function (2019)](https://www.agner.org/forum/viewtopic.php?f=1&t=6)
-* [The coming collision between autonomous vehicles and the liability system (2012) [pdf]](https://pdfs.semanticscholar.org/88c1/11a1d16a44ff3adc681e966926e101067ae1.pdf)
+* [Hazel: A live functional programming environment featuring typed holes](http://hazel.org/)
 * [Babylonian Multiplication in the shower (2016)](https://www.iquilezles.org/blog/?p=4582)
+* [The coming collision between autonomous vehicles and the liability system (2012) [pdf]](https://pdfs.semanticscholar.org/88c1/11a1d16a44ff3adc681e966926e101067ae1.pdf)
+* [Pinterest cancels office lease in unbuilt project, citing work-from-home shift](https://www.sfchronicle.com/business/article/Pinterest-cancels-huge-SF-office-lease-in-unbuilt-15523170.php)
 * [Objective-Rust](https://belkadan.com/blog/2020/08/Objective-Rust/)
+* [The Ekranoplan Is Stranded Off a Beach](https://www.popularmechanics.com/military/aviation/a33808381/russia-ekranoplan-plane-boat-wrecked/)
 * [The Joy of Cryptography](http://web.engr.oregonstate.edu/~rosulekm/crypto/)
 * [Scientists build army of a million microrobots that fit inside hypodermic needle](https://www.cnet.com/news/scientists-build-army-of-1-million-microrobots-that-can-fit-inside-a-hypodermic-needle/)
 * [Graphtage: A New Semantic Diffing Tool](https://blog.trailofbits.com/2020/08/28/graphtage/)
-* [The Ekranoplan Is Stranded Off a Beach](https://www.popularmechanics.com/military/aviation/a33808381/russia-ekranoplan-plane-boat-wrecked/)
 * [GoodRx S-1](https://www.sec.gov/Archives/edgar/data/1809519/000119312520234662/d949310ds1.htm)
-* [Pinterest cancels office lease in unbuilt project, citing work-from-home shift](https://www.sfchronicle.com/business/article/Pinterest-cancels-huge-SF-office-lease-in-unbuilt-15523170.php)
 * [Show HN: Read The Count of Monte Cristo and others in installments in your email](https://www.serialliterature.com/)
 * [Tell HN: Check medium's localstorage if you use adblock](https://news.ycombinator.com/item?id=24310778)
 * [Ethereum Is a Dark Forest](https://medium.com/@danrobinson/ethereum-is-a-dark-forest-ecc5f0505dff)
 * [Show HN: Healthcare Is Dumb](https://healthcareisdumb.com/)
-* [Launch HN: SuperTokens (YC S20) – Securely manage session tokens](https://news.ycombinator.com/item?id=24306572)
-* [Neuralink Progress Update [video]](https://www.youtube.com/watch?v=DVvmgjBL74w&hn=1)
-* [Retrobatch – flexible batch image processing for Mac](https://flyingmeat.com/retrobatch/)
 * [Squad Wealth](https://otherinter.net/squad-wealth/)
+* [Neuralink Progress Update [video]](https://www.youtube.com/watch?v=DVvmgjBL74w&hn=1)
+* [Launch HN: SuperTokens (YC S20) – Securely manage session tokens](https://news.ycombinator.com/item?id=24306572)
+* [Retrobatch – flexible batch image processing for Mac](https://flyingmeat.com/retrobatch/)
 ## nytimes.com
 
 
@@ -80,11 +80,10 @@ layout: default
 * [Movies Are Returning to Theaters. Will Audiences Follow?](https://www.nytimes.com/2020/08/28/business/media/coronavirus-movie-theaters-new-mutants.html)
 * [Trump Says Crime Is Rampant in N.Y.C. Here Are the Facts.](https://www.nytimes.com/2020/08/28/nyregion/trump-rnc-urban-crime.html)
 * [7 Takeaways From ‘Melania and Me,’ by the First Lady’s Former Friend](https://www.nytimes.com/2020/08/28/books/review/melania-and-me-stephanie-winston-wolkoff.html)
-* [The Monotony of Family Meals Can Trigger Past Disordered Eating](https://www.nytimes.com/2020/08/19/parenting/eating-disorders-coronavirus.html)
-* [How to Handle Anxiety Over Back-to-School Decisions](https://www.nytimes.com/2020/07/29/parenting/schools-reopening-parents-decision-kids.html)
-* [Learning Pods During Coronavirus Explained](https://www.nytimes.com/article/learning-pods-coronavirus.html)
-* [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
-* [I Was a Screen–Time Expert. Then the Coronavirus Happened.](https://www.nytimes.com/2020/07/27/parenting/children-screen-time-games-phones.html)
+* [Move Over, Sustainable Travel. Regenerative Travel Has Arrived.](https://www.nytimes.com/2020/08/27/travel/travel-future-coronavirus-sustainable.html)
+* [Can You Hear Yourself Think?](https://www.nytimes.com/2020/08/25/realestate/house-noise-solutions.html)
+* [How to Choose the Right Pediatrician](https://www.nytimes.com/article/choosing-a-pediatrician-children.html)
+* [Are You an American Voting From Abroad? Here’s How to Do It](https://www.nytimes.com/2020/08/28/smarter-living/american-vote-from-abroad.html)
 * [How Summer Festivals Persevered in the Pandemic](https://www.nytimes.com/2020/08/28/travel/summer-festivals-coronavirus.html)
 * [Emmys 2020: Ted Danson Made D’Arcy Carden a Better Not-a-Robot](https://www.nytimes.com/2020/08/28/arts/television/emmys-ted-danson-darcy-carden.html)
 * [A Doctor Asks: Is Covid Scaring Us Away From Our Humanity?](https://www.nytimes.com/2020/08/28/world/australia/melbourne-covid-doctor.html)
@@ -101,13 +100,13 @@ layout: default
 ## globo.com
 
 
-* [A nova polarização: como viagens durante a pandemia viram motivos de briga](https://oglobo.globo.com/boa-viagem/a-nova-polarizacao-como-viagens-durante-pandemia-viram-motivos-de-briga-24613376)
-* [Bolsonaro negocia com Republicanos, PTB e PSL, e impõe condições para se filiar](https://oglobo.globo.com/brasil/bolsonaro-negocia-com-republicanos-ptb-psl-impoe-condicoes-para-se-filiar-1-24612981)
+* [Novo governador do Rio se reúne hoje com cúpula da Saúde](https://epoca.globo.com/guilherme-amado/novo-governador-do-rio-se-reune-hoje-com-cupula-da-saude-24613389)
+* [A proposta da escola de R$ 10 mil para resolver demanda de pais na pandemia](https://epoca.globo.com/guilherme-amado/a-proposta-da-escola-de-10-mil-para-resolver-demanda-de-pais-na-pandemia-24609705)
+* [Padre celebridade gastou R$ 367 milhões para comprar 106 propriedades rurais](https://epoca.globo.com/brasil/padre-celebridade-gastou-367-milhoes-para-comprar-106-propriedades-rurais-1-24612268)
 * [Deputados e governos estaduais brigam por verba contra Covid](https://oglobo.globo.com/brasil/deputados-governos-estaduais-brigam-por-verba-contra-covid-24613017)
 * [Não culpe o eleitor](https://oglobo.globo.com/brasil/nao-culpe-eleitor-24612975)
 * [Convenções virtuais viram novo normal pré-eleitoral](https://oglobo.globo.com/brasil/convencoes-virtuais-viram-novo-normal-pre-eleitoral-24612903)
-* [Em 'A débil mental', argentina Ariana Harwicz cria narrativa sobre mãe e filha longe do verniz civilizatório](https://oglobo.globo.com/cultura/em-debil-mental-argentina-ariana-harwicz-cria-narrativa-sobre-mae-filha-longe-do-verniz-civilizatorio-24612891)
-* [Botafogo tem, contra o Inter, último desafio de uma série difícil](https://oglobo.globo.com/esportes/botafogo-tem-contra-inter-ultimo-desafio-de-uma-serie-dificil-24612909)
-* [Martín Fernandez: sai muito barato ser racista no Brasil](https://oglobo.globo.com/esportes/martin-fernandez-sai-muito-barato-ser-racista-no-brasil-24612892)
+* ['A Fiocruz não está presa a uma data', diz coordenador do ensaio clínico da vacina chinesa testada em Niterói](https://oglobo.globo.com/rio/a-fiocruz-nao-esta-presa-uma-data-diz-coordenador-do-ensaio-clinico-da-vacina-chinesa-testada-em-niteroi-24612460)
+* [Esquema de Witzel pretendia lucrar R$ 400 mi por meio de organizações sociais, diz PGR](https://epoca.globo.com/brasil/esquema-de-witzel-pretendia-lucrar-400-mi-por-meio-de-organizacoes-sociais-diz-pgr-24612146)
 * [Ações prometem melhorar condições ambientais das lagoas da Região Oceânica de Niterói](https://oglobo.globo.com/rio/bairros/acoes-prometem-melhorar-condicoes-ambientais-das-lagoas-da-regiao-oceanica-de-niteroi-24612193)
-* [Teatros de São Paulo transmitem mais de 70 peças](https://oglobo.globo.com/rioshow/teatros-de-sao-paulo-transmitem-mais-de-70-pecas-24611937)
+* [Dia da Visibilidade Lésbica: estudo mostra que posts com a palavra 'sapatão' são derrubados e páginas de ativistas são atacadas nas redes sociais](https://oglobo.globo.com/celina/dia-da-visibilidade-lesbicaestudo-mostra-que-posts-com-palavra-sapatao-sao-derrubados-paginas-de-ativistas-sao-atacadas-nas-redes-sociais-24607635)

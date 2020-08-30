@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 30/08/2020 01:34:25 UTC
+# indexed at 30/08/2020 02:14:39 UTC
 
 
 ## news.ycombinator.com
@@ -13,31 +13,31 @@ layout: default
 * [First complete dinosaur skeleton ever found has finally been studied in detail](https://phys.org/news/2020-08-dinosaur-skeleton-ready-closeup.html)
 * [Tesla’s former CTO is building a giant lithium-ion battery recycling operation](https://www.wsj.com/articles/one-of-the-brains-behind-tesla-found-a-new-way-to-make-electric-cars-cheaper-11598673630)
 * [Sendgrid under siege from hacked accounts](https://krebsonsecurity.com/2020/08/sendgrid-under-siege-from-hacked-accounts/)
-* [Metcalf Sniper Attack](https://en.wikipedia.org/wiki/Metcalf_sniper_attack)
 * [Deep Dive into PHP 8's JIT](https://thephp.website/en/issue/php-8-jit/)
+* [Metcalf Sniper Attack](https://en.wikipedia.org/wiki/Metcalf_sniper_attack)
 * [I Compiled NASA‘s Workmanship Standards into a Single PDF](https://archive.org/details/nasa-workmanship-standards)
+* [How to Pick a Quack: Data](https://www.overcomingbias.com/2020/08/how-to-pick-a-quack.html)
 * [SC-IM – An ncurses spreadsheet program for the terminal](https://github.com/andmarti1424/sc-im)
 * [The Node Is Nonsense: Better ways to measure progress than Moore's law [pdf]](https://www.gwern.net/docs/cs/2020-moore.pdf)
-* [Asciimatics – create full-screen text UIs on any platform](https://github.com/peterbrittain/asciimatics)
 * [Why does the government let a company like Herbalife stay in business?](https://www.latimes.com/business/story/2020-08-28/herbalife-lawbreaking-companies)
-* [How to Pick a Quack: Data](https://www.overcomingbias.com/2020/08/how-to-pick-a-quack.html)
+* [Asciimatics – create full-screen text UIs on any platform](https://github.com/peterbrittain/asciimatics)
+* [A 189 Year Old Limitation on Inductor Size Has Been Broken](https://medium.com/starts-with-a-bang/the-last-barrier-to-ultra-miniaturized-electronics-is-broken-thanks-to-a-new-type-of-inductor-eb5c1a2c7460)
 * [Monarch: Google’s Planet-Scale In-Memory Time Series Database [pdf]](http://www.vldb.org/pvldb/vol13/p3181-adams.pdf)
 * [DearPyGui](https://github.com/hoffstadt/DearPyGui)
-* [Emoji simulator – a tool to make cellular automata, with emoji](https://ncase.me/sim/)
-* [A 189 Year Old Limitation on Inductor Size Has Been Broken](https://medium.com/starts-with-a-bang/the-last-barrier-to-ultra-miniaturized-electronics-is-broken-thanks-to-a-new-type-of-inductor-eb5c1a2c7460)
+* [TiDB: A Raft-based HTAP Database [pdf]](http://www.vldb.org/pvldb/vol13/p3072-huang.pdf)
+* [A Command Line vs. GUI Meeting](https://gravitational.com/blog/command-line-vs-gui/)
 * [American Academy of Sleep Medicine calls for elimination of daylight saving time](https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/)
-* [Inventing Monads](https://stopa.io/post/247)
 * [The tyranny of chairs: why we need better design](https://www.theguardian.com/artanddesign/2020/aug/25/the-tyranny-of-chairs)
+* [Emoji simulator – a tool to make cellular automata, with emoji](https://ncase.me/sim/)
 * [Apple doesn't let you disclose their 30% IAP fee to your customers](https://twitter.com/getify/status/1299569045348454401)
+* [Inventing Monads](https://stopa.io/post/247)
+* [Open Source Thinkpad T420 Battery Design](https://github.com/iam4722202468/ThinkpadBattery)
 * [We Chose a Distributed SQL Database to Complement MySQL](https://pingcap.com/case-studies/why-we-chose-a-distributed-sql-database-to-complement-mysql)
-* [The Evolution of Psychiatry](https://worksinprogress.co/issue/the-evolution-of-psychiatry/)
 * [Japan’s Entry in Flying-Car Race Takes to the Air](https://www.wsj.com/articles/japans-entry-in-flying-car-race-takes-to-the-air-11598691548)
 * [Engineer admits he wiped 456 Cisco WebEx VMs from AWS after leaving](https://www.theregister.com/2020/08/26/former_cisco_engineer_aws_webex_teams/)
-* [Facebook’s ties to India’s ruling party complicate its fight against hate speech](https://time.com/5883993/india-facebook-hate-speech-bjp/)
-* [Don't trust default timeouts](https://robertovitillo.com/default-timeouts/)
-* [Guide to Rustc Development](https://rustc-dev-guide.rust-lang.org/)
 * [Building storage-first serverless apps with HTTP APIs service integrations](https://aws.amazon.com/blogs/compute/building-storage-first-applications-with-http-apis-service-integrations/)
-* [Babylonian Multiplication in the shower (2016)](https://www.iquilezles.org/blog/?p=4582)
+* [Don't trust default timeouts](https://robertovitillo.com/default-timeouts/)
+* [Facebook’s ties to India’s ruling party complicate its fight against hate speech](https://time.com/5883993/india-facebook-hate-speech-bjp/)
 ## nytimes.com
 
 
@@ -56,7 +56,7 @@ layout: default
 * [Kurt Andersen on ‘Evil Geniuses’](https://www.nytimes.com/2020/08/28/books/review/podcast-evil-geniuses-kurt-andersen-fallout-hiroshima-lesley-m-m-blume.html)
 * [Episode One: The Book of Statuses](https://www.nytimes.com/2020/07/30/podcasts/nice-white-parents-serial.html)
 * [The Lawbreakers Trump Loves](https://www.nytimes.com/2020/08/29/opinion/sunday/trump-protests-law.html)
-* [Don’t Let Eviction Become a Superspreader](https://www.nytimes.com/2020/08/29/opinion/sunday/coronavirus-evictions-superspreader.html)
+* [When the Threat of Eviction Meets the Threat of Coronavirus](https://www.nytimes.com/2020/08/29/opinion/sunday/coronavirus-evictions-superspreader.html)
 * [Stephen Miller’s Dystopian America](https://www.nytimes.com/2020/08/28/opinion/stephen-millers-dystopian-america.html)
 * [America’s Coronavirus Reopening Choice: Schools, Bars or Disney World?](https://www.nytimes.com/2020/08/28/opinion/coronavirus-schools-tradeoffs.html)
 * [Dying in Your Mother’s Arms](https://www.nytimes.com/video/opinion/100000007249913/dying-in-your-mothers-arms.html)
@@ -90,10 +90,10 @@ layout: default
 * [Coronavirus Superspreader Event in Boston Led to Thousands of Infections](https://www.nytimes.com/2020/08/26/health/covid-19-superspreaders-boston.html)
 * [Exercise May Boost Your Vaccine Response](https://www.nytimes.com/2020/08/26/well/move/exercise-may-boost-your-vaccine-response.html)
 * [Young Adults’ Pandemic Mental Health Risks](https://www.nytimes.com/2020/08/24/well/family/young-adults-mental-health-pandemic.html)
-* [Bayern Munich 1, P.S.G. 0: A Champions League Win for Tradition and Team](https://www.nytimes.com/2020/08/23/sports/soccer/psg-bayern-live-score.html)
 * [7 Takeaways From ‘Melania and Me,’ by the First Lady’s Former Friend](https://www.nytimes.com/2020/08/28/books/review/melania-and-me-stephanie-winston-wolkoff.html)
-* [Where Is the Republican Party Heading?](https://www.nytimes.com/2020/08/25/opinion/trump-republican-party.html)
-* [Russia Rejects Calls for Navalny Poisoning Investigation](https://www.nytimes.com/2020/08/25/world/europe/russia-navalny-poisoning.html)
+* [What to Watch for on Day 2 of the Republican National Convention](https://www.nytimes.com/2020/08/25/us/politics/republican-national-convention-guide.html)
+* [Outdoor Dining Is a Hit, but N.Y.C. Restaurants Face 'Apocalyptic' Times](https://www.nytimes.com/2020/08/23/nyregion/outdoor-dining-new-york.html)
+* [On Trump, Merkel's Face Does the Talking](https://www.nytimes.com/2020/08/28/world/europe/merkel-trump-grenell.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)

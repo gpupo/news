@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 30/08/2020 22:12:11 UTC
+# indexed at 30/08/2020 22:34:27 UTC
 
 
 ## news.ycombinator.com
@@ -13,31 +13,31 @@ layout: default
 * [Show HN: Learn how WebRTC actually works. A book on the protocols, not just APIs](https://webrtcforthecurious.com/)
 * [The Legend of GayBlade](https://blog.archive.org/2020/08/28/the-legend-of-gayblade/)
 * [A terminal-based presentation tool with colors and effects](https://github.com/vinayak-mehta/present)
-* [Show HN: Vimac – Productive macOS keyboard-driven navigation](http://vimacapp.com)
-* [Essentials of Programming Languages](http://eopl3.com/)
-* [After 48 years, Democrats endorse nuclear energy in platform](https://www.forbes.com/sites/robertbryce/2020/08/23/after-48-years-democrats-endorse-nuclear-energy-in-platform/#3c7687df5829)
 * [Chrome is not the new IE](https://threadreaderapp.com/thread/1299136717027336192)
-* [How to Read a Log Scale](https://blog.datawrapper.de/weeklychart-logscale/)
+* [Essentials of Programming Languages](http://eopl3.com/)
+* [Show HN: Vimac – Productive macOS keyboard-driven navigation](http://vimacapp.com)
+* [After 48 years, Democrats endorse nuclear energy in platform](https://www.forbes.com/sites/robertbryce/2020/08/23/after-48-years-democrats-endorse-nuclear-energy-in-platform/#3c7687df5829)
 * [The Recursive Universe](http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/)
-* [All Circuits Are Busy Now: The 1990 AT&T Long Distance Network Collapse (1995)](https://users.csc.calpoly.edu/~jdalbey/SWE/Papers/att_collapse)
+* [How to Read a Log Scale](https://blog.datawrapper.de/weeklychart-logscale/)
 * [How to Write Unmaintainable Code](https://github.com/Droogans/unmaintainable-code/blob/master/README.md)
+* [All Circuits Are Busy Now: The 1990 AT&T Long Distance Network Collapse (1995)](https://users.csc.calpoly.edu/~jdalbey/SWE/Papers/att_collapse)
 * [Low-level details of the Zen 2 microarchitecture [pdf]](https://www.agner.org/optimize/microarchitecture.pdf)
-* [Multi-Tenant Architectures](https://blog.codonomics.com/2020/08/multi-tenant-architectures.html)
 * [The Unexpected Elegance of Irrigation Systems from Above](https://www.atlasobscura.com/articles/why-do-farms-look-like-circles-from-planes)
+* [Multi-Tenant Architectures](https://blog.codonomics.com/2020/08/multi-tenant-architectures.html)
 * [The “menu engineers” who optimize restaurant revenue](https://thehustle.co/meet-the-menu-engineers-helping-restaurants-retool-during-the-pandemic/)
-* [Physicists found a new quantum paradox that casts doubt on a pillar of reality](https://www.sciencealert.com/a-new-quantum-paradox-throws-the-foundations-of-observed-reality-into-question)
 * [Ask HN: Has anyone built a SaaS for local municipalities?](https://news.ycombinator.com/item?id=24314274)
+* [Physicists found a new quantum paradox that casts doubt on a pillar of reality](https://www.sciencealert.com/a-new-quantum-paradox-throws-the-foundations-of-observed-reality-into-question)
 * [Facebook isn’t happy about Apple’s upcoming ad tracking restrictions](https://techcrunch.com/2020/08/27/facebook-vs-apple-ad-tracking/)
-* [An interesting mistake with Go's context package](https://utcc.utoronto.ca/~cks/space/blog/programming/GoContextValueMistake)
-* [Using the Linux kernel's Case-insensitive feature in Ext4](https://www.collabora.com/news-and-blog/blog/2020/08/27/using-the-linux-kernel-case-insensitive-feature-in-ext4/)
 * [Tech my dad banned in our house when I was a kid](https://gizmodo.com/the-tech-my-dad-banned-from-our-house-1844777825)
-* [Horcrux Encrypted Messaging](https://www.notion.so/Horcrux-Encrypted-Messaging-78af0a3f326244ebb0aedff7c298953d)
-* [Literate DevOps](http://www.howardism.org/Technical/Emacs/literate-devops.html)
+* [Using the Linux kernel's Case-insensitive feature in Ext4](https://www.collabora.com/news-and-blog/blog/2020/08/27/using-the-linux-kernel-case-insensitive-feature-in-ext4/)
+* [The Crazy-Tiny Next Generation of Computers (2015)](https://medium.com/backchannel/the-crazy-tiny-next-generation-of-computers-17e89e472839)
+* [Evangelicals are looking for answers online. They’re finding QAnon instead](https://www.technologyreview.com/2020/08/26/1007611/how-qanon-is-targeting-evangelicals/)
 * [Ask HN: How many of you are employed, self-taught SWEs?](https://news.ycombinator.com/item?id=24325548)
 * [We Know How to Prevent Megafires](https://www.propublica.org/article/they-know-how-to-prevent-megafires-why-wont-anybody-listen/)
-* [The Crazy-Tiny Next Generation of Computers (2015)](https://medium.com/backchannel/the-crazy-tiny-next-generation-of-computers-17e89e472839)
+* [Horcrux Encrypted Messaging](https://www.notion.so/Horcrux-Encrypted-Messaging-78af0a3f326244ebb0aedff7c298953d)
+* [An interesting mistake with Go's context package](https://utcc.utoronto.ca/~cks/space/blog/programming/GoContextValueMistake)
 * [Frank Ramsey: A more human philosophy](https://www.the-tls.co.uk/articles/frank-ramsey-a-more-human-philosophy/)
-* [Evangelicals are looking for answers online. They’re finding QAnon instead](https://www.technologyreview.com/2020/08/26/1007611/how-qanon-is-targeting-evangelicals/)
+* [Photoreal Roman Emperor Project](https://medium.com/@voshart/photoreal-roman-emperor-project-236be7f06c8f)
 ## nytimes.com
 
 
@@ -73,8 +73,8 @@ layout: default
 * [Justice Dept. Never Fully Examined Trump’s Ties to Russia, Ex-Officials Say](https://www.nytimes.com/2020/08/30/us/politics/trump-russia-justice-department.html)
 * [Banksy-Funded Rescue Vessel Evacuated After Distress Call](https://www.nytimes.com/2020/08/30/world/europe/banksy-rescue-boat-louise-michel.html)
 * [French Magazine Sparks Outrage Over Racist Depiction of Black Lawmaker](https://www.nytimes.com/2020/08/30/world/europe/french-magazine-racist-daniele-obono.html)
-* [Phoenix Settles With Black Family After Police Drew Guns Over Reported Doll Theft](https://www.nytimes.com/2020/08/29/us/phoenix-police-settlement.html)
-* [Archbishop Oscar Cruz, Philippine Critic of Graft and Gambling, Dies at 85](https://www.nytimes.com/2020/08/28/obituaries/oscar-cruz-dead-coronavirus.html)
+* [Taliban Violated Afghan Deal With Shelling of American Bases, U.S. Officials Say](https://www.nytimes.com/2020/08/30/world/asia/taliban-afghanistan-peace-us-attacks.html)
+* [Belarus President Hunkers Down as Crowds Demand He Leave](https://www.nytimes.com/2020/08/30/world/europe/belarus-lukashenko-protests.html)
 * [Snapped Poles, Shredded Roofs: A Long Road to Recovery After Laura](https://www.nytimes.com/2020/08/30/us/hurricane-laura-damage.html)
 * [What to Know About Colon Cancer](https://www.nytimes.com/2020/08/29/health/colon-cancer-chadwick-boseman.html)
 * [Athletes' Rest and Recovery in Pandemic Enhances Performance](https://www.nytimes.com/2020/08/30/sports/olympics/pandemic-olympics-training.html)
@@ -92,20 +92,23 @@ layout: default
 * [Did Something Burp? It Was an Earthquake](https://www.nytimes.com/2020/08/29/science/earthquakes-carbon-dioxide.html)
 * [A Woman May Have Been Cured of H.I.V. Without Medical Treatment](https://www.nytimes.com/2020/08/26/health/hiv-cure.html)
 * [A Rip in the Fabric of Interstellar Dreams](https://www.nytimes.com/2020/08/21/science/space-telescope-puerto-rico-arecibo.html)
+* [What to Watch for on Day 2 of the Republican National Convention](https://www.nytimes.com/2020/08/25/us/politics/republican-national-convention-guide.html)
 * [7 Takeaways From ‘Melania and Me,’ by the First Lady’s Former Friend](https://www.nytimes.com/2020/08/28/books/review/melania-and-me-stephanie-winston-wolkoff.html)
+* [The Incestuous Relationship Between Donald Trump and Fox News](https://www.nytimes.com/2020/08/23/books/review/brian-stelter-hoax.html)
+* [Trump Takes Night Off From Anti-Immigrant Talk to Swear In U.S. Citizens](https://www.nytimes.com/2020/08/26/us/politics/trump-naturalization-ceremony-rnc.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
-* [Com domingo de sol, pessoas ignoram as regras do uso de máscaras e praias ficam cheias no Rio](https://oglobo.globo.com/rio/com-domingo-de-sol-pessoas-ignoram-as-regras-do-uso-de-mascaras-praias-ficam-cheias-no-rio-24614709)
+* [Israel negocia em segredo normalização das relações com países árabes, diz Netanyahu](https://oglobo.globo.com/mundo/israel-negocia-em-segredo-normalizacao-das-relacoes-com-paises-arabes-diz-netanyahu-24614785)
+* [Comissão de Direitos Humanos da OAB vai analisar denúncia de estupro feita por produtora cultural](https://oglobo.globo.com/rio/comissao-de-direitos-humanos-da-oab-vai-analisar-denuncia-de-estupro-feita-por-produtora-cultural-24614869)
 * [Rio segue com aumento na média móvel de mortes por novo coronavírus pelo nono dia seguido](https://oglobo.globo.com/rio/rio-segue-com-aumento-na-media-movel-de-mortes-por-novo-coronavirus-pelo-nono-dia-seguido-24614827)
 * [Mulher sofre tentativa de feminicídio na Baixada](https://oglobo.globo.com/rio/mulher-sofre-tentativa-de-feminicidio-na-baixada-24614823)
 * [Warren Buffett faz 90 anos e recomenda 'técnica de Matusalém' para virar bilionário](https://oglobo.globo.com/economia/warren-buffett-faz-90-anos-recomenda-tecnica-de-matusalem-para-virar-bilionario-24614726)
 * [Fiscais da prefeitura encerram quatro eventos com aglomerações e outras irregularidades neste fim de semana](https://oglobo.globo.com/rio/fiscais-da-prefeitura-encerram-quatro-eventos-com-aglomeracoes-outras-irregularidades-neste-fim-de-semana-24614789)
 * [Champions: Lyon mantém hegemonia no futebol feminino e conquista a Europa pela quinta vez consecutiva](https://oglobo.globo.com/esportes/champions-lyon-mantem-hegemonia-no-futebol-feminino-conquista-europa-pela-quinta-vez-consecutiva-24614747)
 * [Flamengo muda estilo, aposta nos contra-ataques e vence o Santos em plena Vila Belmiro](https://oglobo.globo.com/esportes/flamengo-muda-estilo-aposta-nos-contra-ataques-vence-santos-em-plena-vila-belmiro-1-24614790)
-* [Israel negocia em segredo normalização das relações com países árabes](https://oglobo.globo.com/mundo/israel-negocia-em-segredo-normalizacao-das-relacoes-com-paises-arabes-24614785)
 * [CIDH pede 'diálogo institucional respeitoso' com secretário-geral da OEA após decisão de não renovar mandato de brasileiro](https://oglobo.globo.com/mundo/cidh-pede-dialogo-institucional-respeitoso-com-secretario-geral-da-oea-apos-decisao-de-nao-renovar-mandato-de-brasileiro-24614721)
 * [Menino de 8 anos é baleado na cabeça enquanto brincava de pique-esconde na Baixada](https://oglobo.globo.com/rio/menino-de-8-anos-baleado-na-cabeca-enquanto-brincava-de-pique-esconde-na-baixada-24614737)

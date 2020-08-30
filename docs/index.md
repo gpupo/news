@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 30/08/2020 21:08:48 UTC
+# indexed at 30/08/2020 21:34:26 UTC
 
 
 ## news.ycombinator.com
@@ -12,32 +12,32 @@ layout: default
 * [Players are fixing Microsoft Flight Simulator’s monuments with Google Maps](https://www.rockpapershotgun.com/2020/08/28/players-are-fixing-microsoft-flight-simulators-missing-monuments-with-google-maps/)
 * [Show HN: Learn how WebRTC actually works. A book on the protocols, not just APIs](https://webrtcforthecurious.com/)
 * [A terminal-based presentation tool with colors and effects](https://github.com/vinayak-mehta/present)
-* [Essentials of Programming Languages](http://eopl3.com/)
 * [The Legend of GayBlade](https://blog.archive.org/2020/08/28/the-legend-of-gayblade/)
+* [Essentials of Programming Languages](http://eopl3.com/)
 * [Show HN: Vimac – Productive macOS keyboard-driven navigation](http://vimacapp.com)
 * [After 48 years, Democrats endorse nuclear energy in platform](https://www.forbes.com/sites/robertbryce/2020/08/23/after-48-years-democrats-endorse-nuclear-energy-in-platform/#3c7687df5829)
 * [How to Read a Log Scale](https://blog.datawrapper.de/weeklychart-logscale/)
 * [The Recursive Universe](http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/)
-* [Multi-Tenant Architectures](https://blog.codonomics.com/2020/08/multi-tenant-architectures.html)
-* [Yml Coding](https://cloud.google.com/workflows/docs/reference/syntax)
 * [All Circuits Are Busy Now: The 1990 AT&T Long Distance Network Collapse (1995)](https://users.csc.calpoly.edu/~jdalbey/SWE/Papers/att_collapse)
 * [Low-level details of the Zen 2 microarchitecture [pdf]](https://www.agner.org/optimize/microarchitecture.pdf)
 * [The Unexpected Elegance of Irrigation Systems from Above](https://www.atlasobscura.com/articles/why-do-farms-look-like-circles-from-planes)
+* [Yml Coding](https://cloud.google.com/workflows/docs/reference/syntax)
 * [Facebook isn’t happy about Apple’s upcoming ad tracking restrictions](https://techcrunch.com/2020/08/27/facebook-vs-apple-ad-tracking/)
 * [The “menu engineers” who optimize restaurant revenue](https://thehustle.co/meet-the-menu-engineers-helping-restaurants-retool-during-the-pandemic/)
+* [Multi-Tenant Architectures](https://blog.codonomics.com/2020/08/multi-tenant-architectures.html)
 * [Physicists found a new quantum paradox that casts doubt on a pillar of reality](https://www.sciencealert.com/a-new-quantum-paradox-throws-the-foundations-of-observed-reality-into-question)
 * [Ask HN: Has anyone built a SaaS for local municipalities?](https://news.ycombinator.com/item?id=24314274)
+* [An interesting mistake with Go's context package](https://utcc.utoronto.ca/~cks/space/blog/programming/GoContextValueMistake)
 * [Albanian Civil War](https://en.wikipedia.org/wiki/Albanian_Civil_War)
+* [Ask HN: How many of you are employed, self-taught SWEs?](https://news.ycombinator.com/item?id=24325548)
+* [Using the Linux kernel's Case-insensitive feature in Ext4](https://www.collabora.com/news-and-blog/blog/2020/08/27/using-the-linux-kernel-case-insensitive-feature-in-ext4/)
 * [The Crazy-Tiny Next Generation of Computers (2015)](https://medium.com/backchannel/the-crazy-tiny-next-generation-of-computers-17e89e472839)
+* [We Know How to Prevent Megafires](https://www.propublica.org/article/they-know-how-to-prevent-megafires-why-wont-anybody-listen/)
+* [Horcrux Encrypted Messaging](https://www.notion.so/Horcrux-Encrypted-Messaging-78af0a3f326244ebb0aedff7c298953d)
+* [Tech my dad banned in our house when I was a kid](https://gizmodo.com/the-tech-my-dad-banned-from-our-house-1844777825)
 * [Literate DevOps](http://www.howardism.org/Technical/Emacs/literate-devops.html)
 * [The rise and fall of the industrial R&D lab](https://worksinprogress.co/issue/the-rise-and-fall-of-the-american-rd-lab/)
-* [Frank Ramsey: A more human philosophy](https://www.the-tls.co.uk/articles/frank-ramsey-a-more-human-philosophy/)
 * [TSMC Builds a Dedicated 28nm Fab for Sony Orders](http://image-sensors-world.blogspot.com/2020/07/tsmc-builds-dedicated-28nm-fab-for-sony.html?m=1)
-* [Photoreal Roman Emperor Project](https://medium.com/@voshart/photoreal-roman-emperor-project-236be7f06c8f)
-* [I Was a U.S. Diplomat. Customs and Border Protection Only Cared That I Was Black](https://www.politico.com/news/magazine/2020/08/30/black-us-diplomat-customs-border-protection-cbp-detained-harassed-325676)
-* [Ask HN: How does your data science or machine learning team handle DevOps?](https://news.ycombinator.com/item?id=24323778)
-* [WebBundles are built for content-addressable networks](https://adlrocha.substack.com/p/adlrocha-webbundles-are-built-for)
-* [The Door Problem (2014)](http://www.lizengland.com/blog/2014/04/the-door-problem/)
 ## nytimes.com
 
 
@@ -94,19 +94,22 @@ layout: default
 * [A Woman May Have Been Cured of H.I.V. Without Medical Treatment](https://www.nytimes.com/2020/08/26/health/hiv-cure.html)
 * [A Rip in the Fabric of Interstellar Dreams](https://www.nytimes.com/2020/08/21/science/space-telescope-puerto-rico-arecibo.html)
 * [7 Takeaways From ‘Melania and Me,’ by the First Lady’s Former Friend](https://www.nytimes.com/2020/08/28/books/review/melania-and-me-stephanie-winston-wolkoff.html)
+* [The F.D.A. Commissioner’s Fuzzy Math](https://www.nytimes.com/2020/08/25/opinion/fda-plasma-coronavirus.html)
+* [For Refusing a Drink, a Chinese Worker Was Slapped in the Face](https://www.nytimes.com/2020/08/25/world/asia/china-slap-drinking-work.html)
+* [On Trump, Merkel's Face Does the Talking](https://www.nytimes.com/2020/08/28/world/europe/merkel-trump-grenell.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [Champions: Lyon mantém hegemonia no futebol feminino e conquista a Europa pela quinta vez consecutiva](https://oglobo.globo.com/esportes/champions-lyon-mantem-hegemonia-no-futebol-feminino-conquista-europa-pela-quinta-vez-consecutiva-24614747)
+* [Fiscais da prefeitura encerram quatro eventos com aglomerações e outras irregularidades neste fim de semana](https://oglobo.globo.com/rio/fiscais-da-prefeitura-encerram-quatro-eventos-com-aglomeracoes-outras-irregularidades-neste-fim-de-semana-24614789)
+* [Flamengo muda estilo, aposta nos contra-ataques e vence o Santos em plena Vila Belmiro](https://oglobo.globo.com/esportes/flamengo-muda-estilo-aposta-nos-contra-ataques-vence-santos-em-plena-vila-belmiro-1-24614790)
 * [Israel negocia em segredo normalização das relações com países árabes](https://oglobo.globo.com/mundo/israel-negocia-em-segredo-normalizacao-das-relacoes-com-paises-arabes-24614785)
 * [Warren Buffett faz 90 anos e recomenda 'técnica de Matusalém' para virar bilionário](https://oglobo.globo.com/economia/warren-buffett-faz-90-anos-recomenda-tecnica-de-matusalem-para-virar-bilionario-24614726)
 * [CIDH pede 'diálogo institucional respeitoso' com secretário-geral da OEA após decisão de não renovar mandato de brasileiro](https://oglobo.globo.com/mundo/cidh-pede-dialogo-institucional-respeitoso-com-secretario-geral-da-oea-apos-decisao-de-nao-renovar-mandato-de-brasileiro-24614721)
 * [Alemães criticam radicalização de movimento antimáscara](https://oglobo.globo.com/mundo/alemaes-criticam-radicalizacao-de-movimento-antimascara-24614668)
-* [Champions: Lyon mantém hegemonia no futebol feminino e conquista a Europa pela quinta vez consecutiva](https://oglobo.globo.com/esportes/champions-lyon-mantem-hegemonia-no-futebol-feminino-conquista-europa-pela-quinta-vez-consecutiva-24614747)
 * [Menino de 8 anos é baleado na cabeça enquanto brincava de pique-esconde na Baixada](https://oglobo.globo.com/rio/menino-de-8-anos-baleado-na-cabeca-enquanto-brincava-de-pique-esconde-na-baixada-24614737)
 * [Com domingo de sol, pessoas ignoram as regras do uso de máscaras e praias ficam cheias no Rio](https://oglobo.globo.com/rio/com-domingo-de-sol-pessoas-ignoram-as-regras-do-uso-de-mascaras-praias-ficam-cheias-no-rio-24614709)
 * [Venda do Tik Tok precisará de aval do governo chinês](https://oglobo.globo.com/economia/venda-do-tik-tok-precisara-de-aval-do-governo-chines-1-24614682)
-* [Policiais encontram rave 'ilegal' no meio da floresta, no Reino Unido](https://oglobo.globo.com/mundo/policiais-encontram-rave-ilegal-no-meio-da-floresta-no-reino-unido-24614657)
-* [Israel admite que negocia em segredo com países árabes para normalizar relações](https://epoca.globo.com/mundo/israel-admite-que-negocia-em-segredo-com-paises-arabes-para-normalizar-relacoes-24614638)

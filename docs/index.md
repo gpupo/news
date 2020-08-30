@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 30/08/2020 20:08:58 UTC
+# indexed at 30/08/2020 20:34:35 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Level 3 Global Outage](https://puck.nether.net/pipermail/outages/2020-August/013187.html)
-* [Show HN: Learn how WebRTC actually works. A book on the protocols, not just APIs](https://webrtcforthecurious.com/)
 * [Players Are Fixing Microsoft Flight Simulator’s Monuments with Google Maps](https://www.rockpapershotgun.com/2020/08/28/players-are-fixing-microsoft-flight-simulators-missing-monuments-with-google-maps/)
+* [Show HN: Learn how WebRTC actually works. A book on the protocols, not just APIs](https://webrtcforthecurious.com/)
 * [A terminal-based presentation tool with colors and effects](https://github.com/vinayak-mehta/present)
 * [Essentials of Programming Languages](http://eopl3.com/)
 * [Show HN: Vimac – Productive macOS keyboard-driven navigation](http://vimacapp.com)
-* [The Recursive Universe](http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/)
 * [How to Read a Log Scale](https://blog.datawrapper.de/weeklychart-logscale/)
-* [The Unexpected Elegance of Irrigation Systems from Above](https://www.atlasobscura.com/articles/why-do-farms-look-like-circles-from-planes)
-* [Low-level details of the Zen 2 microarchitecture [pdf]](https://www.agner.org/optimize/microarchitecture.pdf)
+* [The Recursive Universe](http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/)
 * [After 48 years, Democrats endorse nuclear energy in platform](https://www.forbes.com/sites/robertbryce/2020/08/23/after-48-years-democrats-endorse-nuclear-energy-in-platform/#3c7687df5829)
 * [Multi-Tenant Architectures](https://blog.codonomics.com/2020/08/multi-tenant-architectures.html)
-* [The Legend of GayBlade](https://blog.archive.org/2020/08/28/the-legend-of-gayblade/)
+* [Low-level details of the Zen 2 microarchitecture [pdf]](https://www.agner.org/optimize/microarchitecture.pdf)
+* [The Unexpected Elegance of Irrigation Systems from Above](https://www.atlasobscura.com/articles/why-do-farms-look-like-circles-from-planes)
+* [All Circuits Are Busy Now: The 1990 AT&T Long Distance Network Collapse (1995)](https://users.csc.calpoly.edu/~jdalbey/SWE/Papers/att_collapse)
 * [Yml Coding](https://cloud.google.com/workflows/docs/reference/syntax)
 * [Albanian Civil War](https://en.wikipedia.org/wiki/Albanian_Civil_War)
-* [The “menu engineers” who optimize restaurant revenue](https://thehustle.co/meet-the-menu-engineers-helping-restaurants-retool-during-the-pandemic/)
-* [All Circuits Are Busy Now: The 1990 AT&T Long Distance Network Collapse (1995)](https://users.csc.calpoly.edu/~jdalbey/SWE/Papers/att_collapse)
-* [Physicists found a new quantum paradox that casts doubt on a pillar of reality](https://www.sciencealert.com/a-new-quantum-paradox-throws-the-foundations-of-observed-reality-into-question)
-* [Ask HN: Has anyone built a SaaS for local municipalities?](https://news.ycombinator.com/item?id=24314274)
+* [The Legend of GayBlade](https://blog.archive.org/2020/08/28/the-legend-of-gayblade/)
 * [Facebook isn’t happy about Apple’s upcoming ad tracking restrictions](https://techcrunch.com/2020/08/27/facebook-vs-apple-ad-tracking/)
+* [The “menu engineers” who optimize restaurant revenue](https://thehustle.co/meet-the-menu-engineers-helping-restaurants-retool-during-the-pandemic/)
+* [Ask HN: Has anyone built a SaaS for local municipalities?](https://news.ycombinator.com/item?id=24314274)
+* [Physicists found a new quantum paradox that casts doubt on a pillar of reality](https://www.sciencealert.com/a-new-quantum-paradox-throws-the-foundations-of-observed-reality-into-question)
 * [Literate DevOps](http://www.howardism.org/Technical/Emacs/literate-devops.html)
-* [Airbnb Has a Hidden-Camera Problem (2019)](https://www.theatlantic.com/technology/archive/2019/03/what-happens-when-you-find-cameras-your-airbnb/585007/)
 * [The rise and fall of the industrial R&D lab](https://worksinprogress.co/issue/the-rise-and-fall-of-the-american-rd-lab/)
+* [Frank Ramsey: A more human philosophy](https://www.the-tls.co.uk/articles/frank-ramsey-a-more-human-philosophy/)
 * [TSMC Builds a Dedicated 28nm Fab for Sony Orders](http://image-sensors-world.blogspot.com/2020/07/tsmc-builds-dedicated-28nm-fab-for-sony.html?m=1)
 * [Photoreal Roman Emperor Project](https://medium.com/@voshart/photoreal-roman-emperor-project-236be7f06c8f)
-* [Frank Ramsey: A more human philosophy](https://www.the-tls.co.uk/articles/frank-ramsey-a-more-human-philosophy/)
-* [An interesting mistake with Go's context package that I made](https://utcc.utoronto.ca/~cks/space/blog/programming/GoContextValueMistake)
-* [WebBundles are built for content-addressable networks](https://adlrocha.substack.com/p/adlrocha-webbundles-are-built-for)
 * [Ask HN: How does your data science or machine learning team handle DevOps?](https://news.ycombinator.com/item?id=24323778)
+* [WebBundles are built for content-addressable networks](https://adlrocha.substack.com/p/adlrocha-webbundles-are-built-for)
 * [The Door Problem (2014)](http://www.lizengland.com/blog/2014/04/the-door-problem/)
+* [I thought I would have accomplished a lot more today and also before I was 35](https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five)
+* [Ranger: A console file manager with VI key bindings](https://github.com/ranger/ranger)
 ## nytimes.com
 
 
@@ -99,13 +99,13 @@ layout: default
 ## globo.com
 
 
-* [Warren Buffett: aos 90 anos, a personificação da frase 'tempo é dinheiro'](https://oglobo.globo.com/economia/warren-buffett-aos-90-anos-personificacao-da-frase-tempo-dinheiro-24614726)
-* [Champions: Lyon mantém hegemonia no futebol feminino e conquista a Europa pela quinta vez consecutiva](https://oglobo.globo.com/esportes/champions-lyon-mantem-hegemonia-no-futebol-feminino-conquista-europa-pela-quinta-vez-consecutiva-24614747)
 * [Alemães criticam radicalização de movimento antimáscara](https://oglobo.globo.com/mundo/alemaes-criticam-radicalizacao-de-movimento-antimascara-24614668)
+* [CIDH pede 'diálogo institucional respeitoso' com secretário-geral da OEA após decisão de não renovar mandato de brasileiro](https://oglobo.globo.com/mundo/cidh-pede-dialogo-institucional-respeitoso-com-secretario-geral-da-oea-apos-decisao-de-nao-renovar-mandato-de-brasileiro-24614721)
+* [Warren Buffett: aos 90 anos, a personificação da frase 'tempo é dinheiro'](https://oglobo.globo.com/economia/warren-buffett-aos-90-anos-personificacao-da-frase-tempo-dinheiro-1-24614726)
+* [Champions: Lyon mantém hegemonia no futebol feminino e conquista a Europa pela quinta vez consecutiva](https://oglobo.globo.com/esportes/champions-lyon-mantem-hegemonia-no-futebol-feminino-conquista-europa-pela-quinta-vez-consecutiva-24614747)
 * [Menino de 8 anos é baleado na cabeça enquanto brincava de pique-esconde na Baixada](https://oglobo.globo.com/rio/menino-de-8-anos-baleado-na-cabeca-enquanto-brincava-de-pique-esconde-na-baixada-24614737)
 * [Com domingo de sol, pessoas ignoram as regras do uso de máscaras e praias ficam cheias no Rio](https://oglobo.globo.com/rio/com-domingo-de-sol-pessoas-ignoram-as-regras-do-uso-de-mascaras-praias-ficam-cheias-no-rio-24614709)
 * [Em missa, governador em exercício no Rio, Cláudio Castro, cantou em Igreja na Barra; veja vídeo](https://oglobo.globo.com/rio/em-missa-governador-em-exercicio-no-rio-claudio-castro-cantou-em-igreja-na-barra-veja-video-24614578)
 * [Venda do Tik Tok precisará de aval do governo chinês](https://oglobo.globo.com/economia/venda-do-tik-tok-precisara-de-aval-do-governo-chines-1-24614682)
 * [Policiais encontram rave 'ilegal' no meio da floresta, no Reino Unido](https://oglobo.globo.com/mundo/policiais-encontram-rave-ilegal-no-meio-da-floresta-no-reino-unido-24614657)
 * [Israel admite que negocia em segredo com países árabes para normalizar relações](https://epoca.globo.com/mundo/israel-admite-que-negocia-em-segredo-com-paises-arabes-para-normalizar-relacoes-24614638)
-* [Fórmula 1: Lewis Hamilton vence o GP da Bélgica e fica mais perto do recorde de Schumacher](https://oglobo.globo.com/esportes/formula-1-lewis-hamilton-vence-gp-da-belgica-fica-mais-perto-do-recorde-de-schumacher-24614597)

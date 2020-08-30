@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 30/08/2020 02:14:39 UTC
+# indexed at 30/08/2020 02:34:25 UTC
 
 
 ## news.ycombinator.com
 
 
-* [I thought I would have accomplished a lot more today and also before I was 35](https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five)
 * [Tower Defense with a twist: all towers must be positioned with CSS Flexbox](http://www.flexboxdefense.com/)
+* [I thought I would have accomplished a lot more today and also before I was 35](https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five)
+* [New 50-metre deep crater opens up in Arctic tundra](http://siberiantimes.com/other/others/news/giant-new-50-metre-deep-crater-opens-up-in-arctic-tundra/)
 * [First complete dinosaur skeleton ever found has finally been studied in detail](https://phys.org/news/2020-08-dinosaur-skeleton-ready-closeup.html)
 * [Tesla’s former CTO is building a giant lithium-ion battery recycling operation](https://www.wsj.com/articles/one-of-the-brains-behind-tesla-found-a-new-way-to-make-electric-cars-cheaper-11598673630)
-* [Sendgrid under siege from hacked accounts](https://krebsonsecurity.com/2020/08/sendgrid-under-siege-from-hacked-accounts/)
 * [Deep Dive into PHP 8's JIT](https://thephp.website/en/issue/php-8-jit/)
 * [Metcalf Sniper Attack](https://en.wikipedia.org/wiki/Metcalf_sniper_attack)
+* [Sendgrid under siege from hacked accounts](https://krebsonsecurity.com/2020/08/sendgrid-under-siege-from-hacked-accounts/)
 * [I Compiled NASA‘s Workmanship Standards into a Single PDF](https://archive.org/details/nasa-workmanship-standards)
-* [How to Pick a Quack: Data](https://www.overcomingbias.com/2020/08/how-to-pick-a-quack.html)
 * [SC-IM – An ncurses spreadsheet program for the terminal](https://github.com/andmarti1424/sc-im)
 * [The Node Is Nonsense: Better ways to measure progress than Moore's law [pdf]](https://www.gwern.net/docs/cs/2020-moore.pdf)
-* [Why does the government let a company like Herbalife stay in business?](https://www.latimes.com/business/story/2020-08-28/herbalife-lawbreaking-companies)
+* [TiDB: A Raft-based HTAP Database [pdf]](http://www.vldb.org/pvldb/vol13/p3072-huang.pdf)
 * [Asciimatics – create full-screen text UIs on any platform](https://github.com/peterbrittain/asciimatics)
 * [A 189 Year Old Limitation on Inductor Size Has Been Broken](https://medium.com/starts-with-a-bang/the-last-barrier-to-ultra-miniaturized-electronics-is-broken-thanks-to-a-new-type-of-inductor-eb5c1a2c7460)
 * [Monarch: Google’s Planet-Scale In-Memory Time Series Database [pdf]](http://www.vldb.org/pvldb/vol13/p3181-adams.pdf)
-* [DearPyGui](https://github.com/hoffstadt/DearPyGui)
-* [TiDB: A Raft-based HTAP Database [pdf]](http://www.vldb.org/pvldb/vol13/p3072-huang.pdf)
-* [A Command Line vs. GUI Meeting](https://gravitational.com/blog/command-line-vs-gui/)
-* [American Academy of Sleep Medicine calls for elimination of daylight saving time](https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/)
-* [The tyranny of chairs: why we need better design](https://www.theguardian.com/artanddesign/2020/aug/25/the-tyranny-of-chairs)
-* [Emoji simulator – a tool to make cellular automata, with emoji](https://ncase.me/sim/)
-* [Apple doesn't let you disclose their 30% IAP fee to your customers](https://twitter.com/getify/status/1299569045348454401)
-* [Inventing Monads](https://stopa.io/post/247)
 * [Open Source Thinkpad T420 Battery Design](https://github.com/iam4722202468/ThinkpadBattery)
+* [DearPyGui](https://github.com/hoffstadt/DearPyGui)
+* [American Academy of Sleep Medicine calls for elimination of daylight saving time](https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/)
+* [Apple doesn't let you disclose their 30% IAP fee to your customers](https://twitter.com/getify/status/1299569045348454401)
+* [A Command Line vs. GUI Meeting](https://gravitational.com/blog/command-line-vs-gui/)
+* [The tyranny of chairs: why we need better design](https://www.theguardian.com/artanddesign/2020/aug/25/the-tyranny-of-chairs)
+* [Lord of the Manor: a medieval city builder game](http://www.lordofthemanor.io/)
+* [Emoji simulator – a tool to make cellular automata, with emoji](https://ncase.me/sim/)
+* [Inventing Monads](https://stopa.io/post/247)
 * [We Chose a Distributed SQL Database to Complement MySQL](https://pingcap.com/case-studies/why-we-chose-a-distributed-sql-database-to-complement-mysql)
 * [Japan’s Entry in Flying-Car Race Takes to the Air](https://www.wsj.com/articles/japans-entry-in-flying-car-race-takes-to-the-air-11598691548)
 * [Engineer admits he wiped 456 Cisco WebEx VMs from AWS after leaving](https://www.theregister.com/2020/08/26/former_cisco_engineer_aws_webex_teams/)
 * [Building storage-first serverless apps with HTTP APIs service integrations](https://aws.amazon.com/blogs/compute/building-storage-first-applications-with-http-apis-service-integrations/)
-* [Don't trust default timeouts](https://robertovitillo.com/default-timeouts/)
 * [Facebook’s ties to India’s ruling party complicate its fight against hate speech](https://time.com/5883993/india-facebook-hate-speech-bjp/)
+* [Babylonian Multiplication in the shower (2016)](https://www.iquilezles.org/blog/?p=4582)
 ## nytimes.com
 
 
@@ -90,10 +90,9 @@ layout: default
 * [Coronavirus Superspreader Event in Boston Led to Thousands of Infections](https://www.nytimes.com/2020/08/26/health/covid-19-superspreaders-boston.html)
 * [Exercise May Boost Your Vaccine Response](https://www.nytimes.com/2020/08/26/well/move/exercise-may-boost-your-vaccine-response.html)
 * [Young Adults’ Pandemic Mental Health Risks](https://www.nytimes.com/2020/08/24/well/family/young-adults-mental-health-pandemic.html)
+* [Parenting in Front of a Live Audience of In-laws](https://www.nytimes.com/2020/08/27/parenting/intergenerational-living-marriage-coronavirus.html)
 * [7 Takeaways From ‘Melania and Me,’ by the First Lady’s Former Friend](https://www.nytimes.com/2020/08/28/books/review/melania-and-me-stephanie-winston-wolkoff.html)
-* [What to Watch for on Day 2 of the Republican National Convention](https://www.nytimes.com/2020/08/25/us/politics/republican-national-convention-guide.html)
-* [Outdoor Dining Is a Hit, but N.Y.C. Restaurants Face 'Apocalyptic' Times](https://www.nytimes.com/2020/08/23/nyregion/outdoor-dining-new-york.html)
-* [On Trump, Merkel's Face Does the Talking](https://www.nytimes.com/2020/08/28/world/europe/merkel-trump-grenell.html)
+* [Sarah Palin’s Suit Against New York Times Will Go to Trial, Judge Rules](https://www.nytimes.com/2020/08/28/business/media/sarah-palin-defamation-new-york-times.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)

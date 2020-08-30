@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 30/08/2020 18:34:28 UTC
+# indexed at 30/08/2020 19:13:01 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Level 3 Global Outage](https://puck.nether.net/pipermail/outages/2020-August/013187.html)
-* [A terminal-based presentation tool with colors and effects](https://github.com/vinayak-mehta/present)
 * [Show HN: Learn how WebRTC actually works. A book on the protocols, not just APIs](https://webrtcforthecurious.com/)
+* [A terminal-based presentation tool with colors and effects](https://github.com/vinayak-mehta/present)
+* [The Albanian Civil War in 1997 was sparked by pyramid scheme failures](https://en.wikipedia.org/wiki/Albanian_Civil_War)
 * [Show HN: Vimac – Productive macOS keyboard-driven navigation](http://vimacapp.com)
-* [Nano-diamond battery that "lasts for 28k years" closer to commercialization](https://www.mining.com/nano-diamond-battery-that-lasts-for-28000-years-closer-to-becoming-commercial-product/)
+* [Essentials of Programming Languages](http://eopl3.com/)
 * [The Recursive Universe](http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/)
 * [The Unexpected Elegance of Irrigation Systems from Above](https://www.atlasobscura.com/articles/why-do-farms-look-like-circles-from-planes)
 * [Low-level details of the Zen 2 microarchitecture [pdf]](https://www.agner.org/optimize/microarchitecture.pdf)
+* [Multi-Tenant Architectures](https://blog.codonomics.com/2020/08/multi-tenant-architectures.html)
+* [Yml Coding](https://cloud.google.com/workflows/docs/reference/syntax)
+* [How to Read a Log Scale](https://blog.datawrapper.de/weeklychart-logscale/)
 * [An interesting mistake with Go's context package that I made](https://utcc.utoronto.ca/~cks/space/blog/programming/GoContextValueMistake)
 * [Physicists found a new quantum paradox that casts doubt on a pillar of reality](https://www.sciencealert.com/a-new-quantum-paradox-throws-the-foundations-of-observed-reality-into-question)
 * [The “menu engineers” who optimize restaurant revenue](https://thehustle.co/meet-the-menu-engineers-helping-restaurants-retool-during-the-pandemic/)
-* [Multi-Tenant Architectures](https://blog.codonomics.com/2020/08/multi-tenant-architectures.html)
-* [Literate DevOps](http://www.howardism.org/Technical/Emacs/literate-devops.html)
-* [Photoreal Roman Emperor Project](https://medium.com/@voshart/photoreal-roman-emperor-project-236be7f06c8f)
-* [The rise and fall of the industrial R&D lab](https://worksinprogress.co/issue/the-rise-and-fall-of-the-american-rd-lab/)
-* [We Know How to Prevent Megafires](https://www.propublica.org/article/they-know-how-to-prevent-megafires-why-wont-anybody-listen/)
-* [All Circuits Are Busy Now: The 1990 AT&T Long Distance Network Collapse (1995)](https://users.csc.calpoly.edu/~jdalbey/SWE/Papers/att_collapse)
-* [Ask HN: How does your data science or machine learning team handle DevOps?](https://news.ycombinator.com/item?id=24323778)
-* [TSMC Builds a Dedicated 28nm Fab for Sony Orders](http://image-sensors-world.blogspot.com/2020/07/tsmc-builds-dedicated-28nm-fab-for-sony.html?m=1)
-* [Exploring mullender.c – A deep dive into the first IOCCC winner](https://lainsystems.com/posts/exploring-mullender-dot-c/)
-* [WebBundles are built for content-addressable networks](https://adlrocha.substack.com/p/adlrocha-webbundles-are-built-for)
 * [Ask HN: Has anyone built a SaaS for local municipalities?](https://news.ycombinator.com/item?id=24314274)
+* [Literate DevOps](http://www.howardism.org/Technical/Emacs/literate-devops.html)
+* [All Circuits Are Busy Now: The 1990 AT&T Long Distance Network Collapse (1995)](https://users.csc.calpoly.edu/~jdalbey/SWE/Papers/att_collapse)
+* [The rise and fall of the industrial R&D lab](https://worksinprogress.co/issue/the-rise-and-fall-of-the-american-rd-lab/)
+* [Frank Ramsey: A more human philosophy](https://www.the-tls.co.uk/articles/frank-ramsey-a-more-human-philosophy/)
+* [TSMC Builds a Dedicated 28nm Fab for Sony Orders](http://image-sensors-world.blogspot.com/2020/07/tsmc-builds-dedicated-28nm-fab-for-sony.html?m=1)
 * [Airbnb Has a Hidden-Camera Problem (2019)](https://www.theatlantic.com/technology/archive/2019/03/what-happens-when-you-find-cameras-your-airbnb/585007/)
-* [Ranger: A console file manager with VI key bindings](https://github.com/ranger/ranger)
+* [We Know How to Prevent Megafires](https://www.propublica.org/article/they-know-how-to-prevent-megafires-why-wont-anybody-listen/)
+* [Photoreal Roman Emperor Project](https://medium.com/@voshart/photoreal-roman-emperor-project-236be7f06c8f)
+* [Exploring mullender.c – A deep dive into the first IOCCC winner](https://lainsystems.com/posts/exploring-mullender-dot-c/)
+* [Ask HN: How does your data science or machine learning team handle DevOps?](https://news.ycombinator.com/item?id=24323778)
+* [WebBundles are built for content-addressable networks](https://adlrocha.substack.com/p/adlrocha-webbundles-are-built-for)
+* [The Mega Constellations Are Already Here. The Time for Polite Concern Is Over](https://www.forbes.com/sites/jonathanocallaghan/2020/08/28/the-mega-constellations-are-already-here-the-time-for-polite-concern-is-over/#5ae6bd0d3b87)
 * [The Door Problem (2014)](http://www.lizengland.com/blog/2014/04/the-door-problem/)
-* [I thought I would have accomplished a lot more today and also before I was 35](https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five)
 * [Matplot++ – A Plotting Tool for C++](https://github.com/alandefreitas/matplotplusplus)
-* [American Academy of Sleep Medicine calls for elimination of daylight saving time](https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/)
-* [New 50-metre deep crater opens up in Arctic tundra](http://siberiantimes.com/other/others/news/giant-new-50-metre-deep-crater-opens-up-in-arctic-tundra/)
-* [Barbados introduces plan to allow visitors to work remotely there for a year](https://money.yahoo.com/barbabos-introduces-plan-to-allow-visitors-to-work-remotely-there-for-a-year-192734193.html)
 ## nytimes.com
 
 
@@ -92,14 +92,17 @@ layout: default
 * [A Strange Rash Had Doctors Stumped. Was It an Insect Bite?](https://www.nytimes.com/2020/08/27/magazine/allergic-contact-dermatitis-acd.html)
 * [A Woman May Have Been Cured of H.I.V. Without Medical Treatment](https://www.nytimes.com/2020/08/26/health/hiv-cure.html)
 * [A Rip in the Fabric of Interstellar Dreams](https://www.nytimes.com/2020/08/21/science/space-telescope-puerto-rico-arecibo.html)
+* [Bayern Munich 1, P.S.G. 0: A Champions League Win for Tradition and Team](https://www.nytimes.com/2020/08/23/sports/soccer/psg-bayern-live-score.html)
 * [7 Takeaways From ‘Melania and Me,’ by the First Lady’s Former Friend](https://www.nytimes.com/2020/08/28/books/review/melania-and-me-stephanie-winston-wolkoff.html)
-* [America’s Coronavirus Reopening Choice: Schools, Bars or Disney World?](https://www.nytimes.com/2020/08/28/opinion/coronavirus-schools-tradeoffs.html)
+* [On Trump, Merkel's Face Does the Talking](https://www.nytimes.com/2020/08/28/world/europe/merkel-trump-grenell.html)
+* [For Refusing a Drink, a Chinese Worker Was Slapped in the Face](https://www.nytimes.com/2020/08/25/world/asia/china-slap-drinking-work.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [Alemães criticam radicalização de movimento antimáscara](https://oglobo.globo.com/sociedade/coronavirus/alemaes-criticam-radicalizacao-de-movimento-antimascara-24614668)
 * [Policiais encontram rave 'ilegal' no meio da floresta, no Reino Unido](https://oglobo.globo.com/mundo/policiais-encontram-rave-ilegal-no-meio-da-floresta-no-reino-unido-24614657)
 * [Em missa, governador em exercício no Rio, Cláudio Castro, cantou em Igreja na Barra; veja vídeo](https://oglobo.globo.com/rio/em-missa-governador-em-exercicio-no-rio-claudio-castro-cantou-em-igreja-na-barra-veja-video-24614578)
 * [Israel admite que negocia em segredo com países árabes para normalizar relações](https://epoca.globo.com/mundo/israel-admite-que-negocia-em-segredo-com-paises-arabes-para-normalizar-relacoes-24614638)
@@ -109,4 +112,3 @@ layout: default
 * ['Amor de mãe': diretor artístico revela bastidores de retomada das gravações da novela](https://oglobo.globo.com/cultura/amor-de-mae-diretor-artistico-revela-bastidores-de-retomada-das-gravacoes-da-novela-1-24614593)
 * [Nanda Costa revela que desejo de ser mãe foi adiado pela crise do coronavírus](https://oglobo.globo.com/cultura/nanda-costa-revela-que-desejo-de-ser-mae-foi-adiado-pela-crise-do-coronavirus-24614591)
 * [Partes em conflito assinam acordo de paz no Sudão](https://oglobo.globo.com/mundo/partes-em-conflito-assinam-acordo-de-paz-no-sudao-24614584)
-* [Fritz-Kola: o refrigerante alemão criado por dois jovens ignorados por todos (e que agora compete com Coca e Pepsi)](https://epoca.globo.com/economia/fritz-kola-refrigerante-alemao-criado-por-dois-jovens-ignorados-por-todos-que-agora-compete-com-coca-pepsi-24614559)

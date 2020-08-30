@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 30/08/2020 08:34:30 UTC
+# indexed at 30/08/2020 09:07:20 UTC
 
 
 ## news.ycombinator.com
 
 
+* [The rise and fall of the industrial R&D lab](https://worksinprogress.co/issue/the-rise-and-fall-of-the-american-rd-lab/)
 * [Exploring mullender.c – A deep dive into the first IOCCC winner](https://lainsystems.com/posts/exploring-mullender-dot-c/)
 * [New 50-metre deep crater opens up in Arctic tundra](http://siberiantimes.com/other/others/news/giant-new-50-metre-deep-crater-opens-up-in-arctic-tundra/)
-* [The rise and fall of the industrial R&D lab](https://worksinprogress.co/issue/the-rise-and-fall-of-the-american-rd-lab/)
+* [Literate DevOps](http://www.howardism.org/Technical/Emacs/literate-devops.html)
+* [Barbados introduces plan to allow visitors to work remotely there for a year](https://money.yahoo.com/barbabos-introduces-plan-to-allow-visitors-to-work-remotely-there-for-a-year-192734193.html)
 * [So you want to roll your own crypto?](https://vnhacker.blogspot.com/2020/08/so-you-want-to-roll-your-own-crypto.html?m=1)
 * [Longevity FAQ: A beginner's guide to longevity research](https://www.ldeming.com/longevityfaq)
 * [Tower Defense with a twist: all towers must be positioned with CSS Flexbox](http://www.flexboxdefense.com/)
+* [Ranger: A console file manager with VI key bindings](https://github.com/ranger/ranger)
 * [Matplot++ – A Plotting Tool for C++](https://github.com/alandefreitas/matplotplusplus)
-* [Barbados introduces plan to allow visitors to work remotely there for a year](https://money.yahoo.com/barbabos-introduces-plan-to-allow-visitors-to-work-remotely-there-for-a-year-192734193.html)
 * [First complete dinosaur skeleton ever found has finally been studied in detail](https://phys.org/news/2020-08-dinosaur-skeleton-ready-closeup.html)
 * [I thought I would have accomplished a lot more today and also before I was 35](https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five)
-* [Metcalf Sniper Attack](https://en.wikipedia.org/wiki/Metcalf_sniper_attack)
 * [Open Source Thinkpad T420 Battery Design](https://github.com/iam4722202468/ThinkpadBattery)
-* [Kazuo Ishiguro (1989)](https://bombmagazine.org/articles/kazuo-ishiguro/)
+* [Metcalf Sniper Attack](https://en.wikipedia.org/wiki/Metcalf_sniper_attack)
 * [Lord of the Manor: a medieval city builder game](http://www.lordofthemanor.io/)
-* [Nagara Rimba Nusa: A Take on Indonesia's New Capital City](https://community.simtropolis.com/forums/topic/758733-nagara-rimba-nusa-a-take-on-a-new-capital-city/)
+* [TSMC Builds a Dedicated 28nm Fab for Sony Orders](http://image-sensors-world.blogspot.com/2020/07/tsmc-builds-dedicated-28nm-fab-for-sony.html?m=1)
 * [AI Assistants Have Poor Usability: Study of Alexa, Google Assistant, Siri (2018)](https://www.nngroup.com/articles/intelligent-assistant-usability/)
+* [Kazuo Ishiguro (1989)](https://bombmagazine.org/articles/kazuo-ishiguro/)
 * [Asciimatics – create full-screen text UIs on any platform](https://github.com/peterbrittain/asciimatics)
 * [SC-IM – An ncurses spreadsheet program for the terminal](https://github.com/andmarti1424/sc-im)
-* [A 189 Year Old Limitation on Inductor Size Has Been Broken](https://medium.com/starts-with-a-bang/the-last-barrier-to-ultra-miniaturized-electronics-is-broken-thanks-to-a-new-type-of-inductor-eb5c1a2c7460)
 * [American Academy of Sleep Medicine calls for elimination of daylight saving time](https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/)
-* [Pleroma 2.1](https://pleroma.social/blog/2020/08/28/releasing-pleroma-2-1-0/)
-* [Optical Tweezers](https://en.wikipedia.org/wiki/Optical_tweezers)
+* [Nagara Rimba Nusa: A Take on Indonesia's New Capital City](https://community.simtropolis.com/forums/topic/758733-nagara-rimba-nusa-a-take-on-a-new-capital-city/)
 * [Deep Dive into PHP 8's JIT](https://thephp.website/en/issue/php-8-jit/)
-* [Griffon: a desktop application development platform for the JVM](http://griffon-framework.org/)
 * [Guaranteed Optimization: Proving Nullspace Properties of Compilers (2002)](https://help.luddy.indiana.edu/techreports/TRNNN.cgi?trnum=TR564)
+* [Griffon: a desktop application development platform for the JVM](http://griffon-framework.org/)
 * [Sendgrid under siege from hacked accounts](https://krebsonsecurity.com/2020/08/sendgrid-under-siege-from-hacked-accounts/)
-* [The Node Is Nonsense: Better ways to measure progress than Moore's law [pdf]](https://www.gwern.net/docs/cs/2020-moore.pdf)
+* [Pleroma 2.1](https://pleroma.social/blog/2020/08/28/releasing-pleroma-2-1-0/)
 * [TiDB: A Raft-based HTAP Database [pdf]](http://www.vldb.org/pvldb/vol13/p3072-huang.pdf)
-* [Tesla’s former CTO is building a giant lithium-ion battery recycling operation](https://www.wsj.com/articles/one-of-the-brains-behind-tesla-found-a-new-way-to-make-electric-cars-cheaper-11598673630)
-* [Inventing Monads](https://stopa.io/post/247)
+* [The Node Is Nonsense: Better ways to measure progress than Moore's law [pdf]](https://www.gwern.net/docs/cs/2020-moore.pdf)
+* [Optical Tweezers](https://en.wikipedia.org/wiki/Optical_tweezers)
 ## nytimes.com
 
 
@@ -99,13 +99,13 @@ layout: default
 ## globo.com
 
 
+* [Metropolitan Museum reabre em Nova York com filas na porta e esperança](https://oglobo.globo.com/boa-viagem/metropolitan-museum-reabre-em-nova-york-com-filas-na-porta-esperanca-24614409)
 * [Carta ao Rei T’Challa](https://oglobo.globo.com/cultura/carta-ao-rei-tchalla-24614316)
 * [Comemoração do centenário da UFRJ terá concerto, documentário e debates on-line](https://oglobo.globo.com/sociedade/comemoracao-do-centenario-da-ufrj-tera-concerto-documentario-debates-on-line-24611962)
 * ['A sociedade percebeu a nossa capacidade de resolver problemas', afirma reitora da UFRJ no centenário da instituição](https://oglobo.globo.com/sociedade/a-sociedade-percebeu-nossa-capacidade-de-resolver-problemas-afirma-reitora-da-ufrj-no-centenario-da-instituicao-24609987)
 * [‘É de se esperar que o eleitor retribua’, diz pesquisador sobre auxílios criados por prefeituras na pandemia](https://oglobo.globo.com/brasil/e-de-se-esperar-que-eleitor-retribua-diz-pesquisador-sobre-auxilios-criados-por-prefeituras-na-pandemia-24614252)
 * [Conheça o centro de treinamento do Brasil na pacata Rio Maior, em Portugal](https://oglobo.globo.com/esportes/conheca-centro-de-treinamento-do-brasil-na-pacata-rio-maior-em-portugal-24613889)
 * [Champions: Liderada por Pernille Harder, Wolfsburg tenta destronar o Lyon neste domingo](https://oglobo.globo.com/esportes/champions-liderada-por-pernille-harder-wolfsburg-tenta-destronar-lyon-neste-domingo-24611471)
-* [Com técnicas moderna e antiga, UFRJ tenta criar primeira vacina brasileira contra Covid-19](https://oglobo.globo.com/sociedade/com-tecnicas-moderna-antiga-ufrj-tenta-criar-primeira-vacina-brasileira-contra-covid-19-24613372)
 * [Cientistas da UFRJ replicam proteína do coronavírus para tentar chegar a vacina](https://oglobo.globo.com/sociedade/coronavirus/cientistas-da-ufrj-replicam-proteina-do-coronavirus-para-tentar-chegar-vacina-1-24612300)
 * [Um 'luto eterno': prisão de Uribe dá esperança a vítimas de execuções extrajudiciais na Colômbia](https://oglobo.globo.com/mundo/um-luto-eterno-prisao-de-uribe-da-esperanca-vitimas-de-execucoes-extrajudiciais-na-colombia-24612108)
 * [Museus de São Paulo levam Hélio Oiticica e Antonio Dias para espaço virtual](https://oglobo.globo.com/rioshow/museus-de-sao-paulo-levam-helio-oiticica-antonio-dias-para-espaco-virtual-24612030)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 30/08/2020 08:13:53 UTC
+# indexed at 30/08/2020 08:34:30 UTC
 
 
 ## news.ycombinator.com
@@ -15,29 +15,29 @@ layout: default
 * [Longevity FAQ: A beginner's guide to longevity research](https://www.ldeming.com/longevityfaq)
 * [Tower Defense with a twist: all towers must be positioned with CSS Flexbox](http://www.flexboxdefense.com/)
 * [Matplot++ – A Plotting Tool for C++](https://github.com/alandefreitas/matplotplusplus)
+* [Barbados introduces plan to allow visitors to work remotely there for a year](https://money.yahoo.com/barbabos-introduces-plan-to-allow-visitors-to-work-remotely-there-for-a-year-192734193.html)
 * [First complete dinosaur skeleton ever found has finally been studied in detail](https://phys.org/news/2020-08-dinosaur-skeleton-ready-closeup.html)
 * [I thought I would have accomplished a lot more today and also before I was 35](https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five)
-* [Open Source Thinkpad T420 Battery Design](https://github.com/iam4722202468/ThinkpadBattery)
 * [Metcalf Sniper Attack](https://en.wikipedia.org/wiki/Metcalf_sniper_attack)
-* [Noam Chomsky: 'There's never been a moment in human history' like this one](https://thehill.com/hilltv/rising/514212-noam-chomsky-theres-never-been-a-moment-in-human-history-like-this-one)
+* [Open Source Thinkpad T420 Battery Design](https://github.com/iam4722202468/ThinkpadBattery)
 * [Kazuo Ishiguro (1989)](https://bombmagazine.org/articles/kazuo-ishiguro/)
 * [Lord of the Manor: a medieval city builder game](http://www.lordofthemanor.io/)
-* [Deep Dive into PHP 8's JIT](https://thephp.website/en/issue/php-8-jit/)
-* [AI Assistants Have Poor Usability: Study of Alexa, Google Assistant, Siri (2018)](https://www.nngroup.com/articles/intelligent-assistant-usability/)
 * [Nagara Rimba Nusa: A Take on Indonesia's New Capital City](https://community.simtropolis.com/forums/topic/758733-nagara-rimba-nusa-a-take-on-a-new-capital-city/)
-* [Pleroma 2.1](https://pleroma.social/blog/2020/08/28/releasing-pleroma-2-1-0/)
+* [AI Assistants Have Poor Usability: Study of Alexa, Google Assistant, Siri (2018)](https://www.nngroup.com/articles/intelligent-assistant-usability/)
+* [Asciimatics – create full-screen text UIs on any platform](https://github.com/peterbrittain/asciimatics)
 * [SC-IM – An ncurses spreadsheet program for the terminal](https://github.com/andmarti1424/sc-im)
 * [A 189 Year Old Limitation on Inductor Size Has Been Broken](https://medium.com/starts-with-a-bang/the-last-barrier-to-ultra-miniaturized-electronics-is-broken-thanks-to-a-new-type-of-inductor-eb5c1a2c7460)
-* [Asciimatics – create full-screen text UIs on any platform](https://github.com/peterbrittain/asciimatics)
 * [American Academy of Sleep Medicine calls for elimination of daylight saving time](https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/)
-* [Guaranteed Optimization: Proving Nullspace Properties of Compilers (2002)](https://help.luddy.indiana.edu/techreports/TRNNN.cgi?trnum=TR564)
+* [Pleroma 2.1](https://pleroma.social/blog/2020/08/28/releasing-pleroma-2-1-0/)
+* [Optical Tweezers](https://en.wikipedia.org/wiki/Optical_tweezers)
+* [Deep Dive into PHP 8's JIT](https://thephp.website/en/issue/php-8-jit/)
 * [Griffon: a desktop application development platform for the JVM](http://griffon-framework.org/)
+* [Guaranteed Optimization: Proving Nullspace Properties of Compilers (2002)](https://help.luddy.indiana.edu/techreports/TRNNN.cgi?trnum=TR564)
 * [Sendgrid under siege from hacked accounts](https://krebsonsecurity.com/2020/08/sendgrid-under-siege-from-hacked-accounts/)
 * [The Node Is Nonsense: Better ways to measure progress than Moore's law [pdf]](https://www.gwern.net/docs/cs/2020-moore.pdf)
 * [TiDB: A Raft-based HTAP Database [pdf]](http://www.vldb.org/pvldb/vol13/p3072-huang.pdf)
 * [Tesla’s former CTO is building a giant lithium-ion battery recycling operation](https://www.wsj.com/articles/one-of-the-brains-behind-tesla-found-a-new-way-to-make-electric-cars-cheaper-11598673630)
 * [Inventing Monads](https://stopa.io/post/247)
-* [The tyranny of chairs: why we need better design](https://www.theguardian.com/artanddesign/2020/aug/25/the-tyranny-of-chairs)
 ## nytimes.com
 
 
@@ -91,10 +91,8 @@ layout: default
 * [Coronavirus Superspreader Event in Boston Led to Thousands of Infections](https://www.nytimes.com/2020/08/26/health/covid-19-superspreaders-boston.html)
 * [Exercise May Boost Your Vaccine Response](https://www.nytimes.com/2020/08/26/well/move/exercise-may-boost-your-vaccine-response.html)
 * [Young Adults’ Pandemic Mental Health Risks](https://www.nytimes.com/2020/08/24/well/family/young-adults-mental-health-pandemic.html)
-* [What to Watch for on Day 2 of the Republican National Convention](https://www.nytimes.com/2020/08/25/us/politics/republican-national-convention-guide.html)
-* [Bayern Munich 1, P.S.G. 0: A Champions League Win for Tradition and Team](https://www.nytimes.com/2020/08/23/sports/soccer/psg-bayern-live-score.html)
+* [Here’s How Moving to Work Remotely Could Affect Your Taxes](https://www.nytimes.com/2020/08/25/business/coronavirus-nonresident-state-taxes.html)
 * [7 Takeaways From ‘Melania and Me,’ by the First Lady’s Former Friend](https://www.nytimes.com/2020/08/28/books/review/melania-and-me-stephanie-winston-wolkoff.html)
-* [For Refusing a Drink, a Chinese Worker Was Slapped in the Face](https://www.nytimes.com/2020/08/25/world/asia/china-slap-drinking-work.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)

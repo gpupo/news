@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 30/08/2020 09:07:20 UTC
+# indexed at 30/08/2020 09:34:18 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Literate DevOps](http://www.howardism.org/Technical/Emacs/literate-devops.html)
 * [The rise and fall of the industrial R&D lab](https://worksinprogress.co/issue/the-rise-and-fall-of-the-american-rd-lab/)
 * [Exploring mullender.c – A deep dive into the first IOCCC winner](https://lainsystems.com/posts/exploring-mullender-dot-c/)
 * [New 50-metre deep crater opens up in Arctic tundra](http://siberiantimes.com/other/others/news/giant-new-50-metre-deep-crater-opens-up-in-arctic-tundra/)
-* [Literate DevOps](http://www.howardism.org/Technical/Emacs/literate-devops.html)
 * [Barbados introduces plan to allow visitors to work remotely there for a year](https://money.yahoo.com/barbabos-introduces-plan-to-allow-visitors-to-work-remotely-there-for-a-year-192734193.html)
 * [So you want to roll your own crypto?](https://vnhacker.blogspot.com/2020/08/so-you-want-to-roll-your-own-crypto.html?m=1)
 * [Longevity FAQ: A beginner's guide to longevity research](https://www.ldeming.com/longevityfaq)
 * [Tower Defense with a twist: all towers must be positioned with CSS Flexbox](http://www.flexboxdefense.com/)
-* [Ranger: A console file manager with VI key bindings](https://github.com/ranger/ranger)
 * [Matplot++ – A Plotting Tool for C++](https://github.com/alandefreitas/matplotplusplus)
-* [First complete dinosaur skeleton ever found has finally been studied in detail](https://phys.org/news/2020-08-dinosaur-skeleton-ready-closeup.html)
-* [I thought I would have accomplished a lot more today and also before I was 35](https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five)
-* [Open Source Thinkpad T420 Battery Design](https://github.com/iam4722202468/ThinkpadBattery)
-* [Metcalf Sniper Attack](https://en.wikipedia.org/wiki/Metcalf_sniper_attack)
-* [Lord of the Manor: a medieval city builder game](http://www.lordofthemanor.io/)
+* [Ranger: A console file manager with VI key bindings](https://github.com/ranger/ranger)
 * [TSMC Builds a Dedicated 28nm Fab for Sony Orders](http://image-sensors-world.blogspot.com/2020/07/tsmc-builds-dedicated-28nm-fab-for-sony.html?m=1)
-* [AI Assistants Have Poor Usability: Study of Alexa, Google Assistant, Siri (2018)](https://www.nngroup.com/articles/intelligent-assistant-usability/)
+* [WebBundles are built for content-addressable networks](https://adlrocha.substack.com/p/adlrocha-webbundles-are-built-for)
+* [I thought I would have accomplished a lot more today and also before I was 35](https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five)
+* [First complete dinosaur skeleton ever found has finally been studied in detail](https://phys.org/news/2020-08-dinosaur-skeleton-ready-closeup.html)
+* [Open Source Thinkpad T420 Battery Design](https://github.com/iam4722202468/ThinkpadBattery)
+* [Optical Tweezers](https://en.wikipedia.org/wiki/Optical_tweezers)
+* [Lord of the Manor: a medieval city builder game](http://www.lordofthemanor.io/)
 * [Kazuo Ishiguro (1989)](https://bombmagazine.org/articles/kazuo-ishiguro/)
+* [Red: Improving Audio Quality with Redundancy](https://webrtchacks.com/red-improving-audio-quality-with-redundancy/)
+* [AI Assistants Have Poor Usability: Study of Alexa, Google Assistant, Siri (2018)](https://www.nngroup.com/articles/intelligent-assistant-usability/)
 * [Asciimatics – create full-screen text UIs on any platform](https://github.com/peterbrittain/asciimatics)
-* [SC-IM – An ncurses spreadsheet program for the terminal](https://github.com/andmarti1424/sc-im)
 * [American Academy of Sleep Medicine calls for elimination of daylight saving time](https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/)
-* [Nagara Rimba Nusa: A Take on Indonesia's New Capital City](https://community.simtropolis.com/forums/topic/758733-nagara-rimba-nusa-a-take-on-a-new-capital-city/)
+* [SC-IM – An ncurses spreadsheet program for the terminal](https://github.com/andmarti1424/sc-im)
 * [Deep Dive into PHP 8's JIT](https://thephp.website/en/issue/php-8-jit/)
-* [Guaranteed Optimization: Proving Nullspace Properties of Compilers (2002)](https://help.luddy.indiana.edu/techreports/TRNNN.cgi?trnum=TR564)
-* [Griffon: a desktop application development platform for the JVM](http://griffon-framework.org/)
-* [Sendgrid under siege from hacked accounts](https://krebsonsecurity.com/2020/08/sendgrid-under-siege-from-hacked-accounts/)
+* [Nagara Rimba Nusa: A Take on Indonesia's New Capital City](https://community.simtropolis.com/forums/topic/758733-nagara-rimba-nusa-a-take-on-a-new-capital-city/)
 * [Pleroma 2.1](https://pleroma.social/blog/2020/08/28/releasing-pleroma-2-1-0/)
+* [Griffon: a desktop application development platform for the JVM](http://griffon-framework.org/)
+* [Guaranteed Optimization: Proving Nullspace Properties of Compilers (2002)](https://help.luddy.indiana.edu/techreports/TRNNN.cgi?trnum=TR564)
 * [TiDB: A Raft-based HTAP Database [pdf]](http://www.vldb.org/pvldb/vol13/p3072-huang.pdf)
 * [The Node Is Nonsense: Better ways to measure progress than Moore's law [pdf]](https://www.gwern.net/docs/cs/2020-moore.pdf)
-* [Optical Tweezers](https://en.wikipedia.org/wiki/Optical_tweezers)
 ## nytimes.com
 
 
@@ -91,8 +91,10 @@ layout: default
 * [Coronavirus Superspreader Event in Boston Led to Thousands of Infections](https://www.nytimes.com/2020/08/26/health/covid-19-superspreaders-boston.html)
 * [Exercise May Boost Your Vaccine Response](https://www.nytimes.com/2020/08/26/well/move/exercise-may-boost-your-vaccine-response.html)
 * [Young Adults’ Pandemic Mental Health Risks](https://www.nytimes.com/2020/08/24/well/family/young-adults-mental-health-pandemic.html)
-* [Here’s How Moving to Work Remotely Could Affect Your Taxes](https://www.nytimes.com/2020/08/25/business/coronavirus-nonresident-state-taxes.html)
+* [Bayern Munich 1, P.S.G. 0: A Champions League Win for Tradition and Team](https://www.nytimes.com/2020/08/23/sports/soccer/psg-bayern-live-score.html)
 * [7 Takeaways From ‘Melania and Me,’ by the First Lady’s Former Friend](https://www.nytimes.com/2020/08/28/books/review/melania-and-me-stephanie-winston-wolkoff.html)
+* [On Trump, Merkel's Face Does the Talking](https://www.nytimes.com/2020/08/28/world/europe/merkel-trump-grenell.html)
+* [Jon Meacham on John Lewis, the Legend and the Man](https://www.nytimes.com/2020/08/25/books/review/his-truth-is-marching-on-jon-meacham.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
@@ -100,12 +102,12 @@ layout: default
 
 
 * [Metropolitan Museum reabre em Nova York com filas na porta e esperança](https://oglobo.globo.com/boa-viagem/metropolitan-museum-reabre-em-nova-york-com-filas-na-porta-esperanca-24614409)
-* [Carta ao Rei T’Challa](https://oglobo.globo.com/cultura/carta-ao-rei-tchalla-24614316)
+* [Precisamos falar sobre Dodi: Volante vira peça-chave do Fluminense e comanda boa fase sem holofotes](https://oglobo.globo.com/esportes/fluminense/precisamos-falar-sobre-dodi-volante-vira-peca-chave-do-fluminense-comanda-boa-fase-sem-holofotes-24614383)
 * [Comemoração do centenário da UFRJ terá concerto, documentário e debates on-line](https://oglobo.globo.com/sociedade/comemoracao-do-centenario-da-ufrj-tera-concerto-documentario-debates-on-line-24611962)
-* ['A sociedade percebeu a nossa capacidade de resolver problemas', afirma reitora da UFRJ no centenário da instituição](https://oglobo.globo.com/sociedade/a-sociedade-percebeu-nossa-capacidade-de-resolver-problemas-afirma-reitora-da-ufrj-no-centenario-da-instituicao-24609987)
 * [‘É de se esperar que o eleitor retribua’, diz pesquisador sobre auxílios criados por prefeituras na pandemia](https://oglobo.globo.com/brasil/e-de-se-esperar-que-eleitor-retribua-diz-pesquisador-sobre-auxilios-criados-por-prefeituras-na-pandemia-24614252)
 * [Conheça o centro de treinamento do Brasil na pacata Rio Maior, em Portugal](https://oglobo.globo.com/esportes/conheca-centro-de-treinamento-do-brasil-na-pacata-rio-maior-em-portugal-24613889)
 * [Champions: Liderada por Pernille Harder, Wolfsburg tenta destronar o Lyon neste domingo](https://oglobo.globo.com/esportes/champions-liderada-por-pernille-harder-wolfsburg-tenta-destronar-lyon-neste-domingo-24611471)
-* [Cientistas da UFRJ replicam proteína do coronavírus para tentar chegar a vacina](https://oglobo.globo.com/sociedade/coronavirus/cientistas-da-ufrj-replicam-proteina-do-coronavirus-para-tentar-chegar-vacina-1-24612300)
-* [Um 'luto eterno': prisão de Uribe dá esperança a vítimas de execuções extrajudiciais na Colômbia](https://oglobo.globo.com/mundo/um-luto-eterno-prisao-de-uribe-da-esperanca-vitimas-de-execucoes-extrajudiciais-na-colombia-24612108)
+* [Senador peticiona no STF para Alexandre ser declarado suspeito a julgar reeleição de Maia e Alcolumbre](https://epoca.globo.com/guilherme-amado/senador-peticiona-no-stf-para-alexandre-ser-declarado-suspeito-julgar-reeleicao-de-maia-alcolumbre-24613440)
+* [Claude Troisgros faz sucesso ensinando suas receitas em lives no Instagram](https://oglobo.globo.com/rio/bairros/claude-troisgros-faz-sucesso-ensinando-suas-receitas-em-lives-no-instagram-24612933)
 * [Museus de São Paulo levam Hélio Oiticica e Antonio Dias para espaço virtual](https://oglobo.globo.com/rioshow/museus-de-sao-paulo-levam-helio-oiticica-antonio-dias-para-espaco-virtual-24612030)
+* [Quem são as joias de Fla e São Paulo que bateram recorde de Neymar e Rodrygo](https://epoca.globo.com/esportes/quem-sao-as-joias-de-fla-sao-paulo-que-bateram-recorde-de-neymar-rodrygo-24611187)

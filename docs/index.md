@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 30/08/2020 04:34:37 UTC
+# indexed at 30/08/2020 05:12:07 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [New 50-metre deep crater opens up in Arctic tundra](http://siberiantimes.com/other/others/news/giant-new-50-metre-deep-crater-opens-up-in-arctic-tundra/)
 * [I thought I would have accomplished a lot more today and also before I was 35](https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five)
-* [Longevity FAQ: A beginner's guide to longevity research](https://www.ldeming.com/longevityfaq)
-* [Tower Defense with a twist: all towers must be positioned with CSS Flexbox](http://www.flexboxdefense.com/)
 * [So you want to roll your own crypto?](https://vnhacker.blogspot.com/2020/08/so-you-want-to-roll-your-own-crypto.html?m=1)
-* [Tesla’s former CTO is building a giant lithium-ion battery recycling operation](https://www.wsj.com/articles/one-of-the-brains-behind-tesla-found-a-new-way-to-make-electric-cars-cheaper-11598673630)
+* [Tower Defense with a twist: all towers must be positioned with CSS Flexbox](http://www.flexboxdefense.com/)
+* [Exploring mullender.c – A deep dive into the first IOCCC winner](https://lainsystems.com/posts/exploring-mullender-dot-c/)
 * [First complete dinosaur skeleton ever found has finally been studied in detail](https://phys.org/news/2020-08-dinosaur-skeleton-ready-closeup.html)
 * [Deep Dive into PHP 8's JIT](https://thephp.website/en/issue/php-8-jit/)
 * [Metcalf Sniper Attack](https://en.wikipedia.org/wiki/Metcalf_sniper_attack)
-* [I Compiled NASA‘s Workmanship Standards into a Single PDF](https://archive.org/details/nasa-workmanship-standards)
 * [Lord of the Manor: a medieval city builder game](http://www.lordofthemanor.io/)
+* [I Compiled NASA‘s Workmanship Standards into a Single PDF](https://archive.org/details/nasa-workmanship-standards)
 * [Nagara Rimba Nusa: A Take on Indonesia's New Capital City](https://community.simtropolis.com/forums/topic/758733-nagara-rimba-nusa-a-take-on-a-new-capital-city/)
-* [Sendgrid under siege from hacked accounts](https://krebsonsecurity.com/2020/08/sendgrid-under-siege-from-hacked-accounts/)
-* [SC-IM – An ncurses spreadsheet program for the terminal](https://github.com/andmarti1424/sc-im)
 * [Open Source Thinkpad T420 Battery Design](https://github.com/iam4722202468/ThinkpadBattery)
+* [SC-IM – An ncurses spreadsheet program for the terminal](https://github.com/andmarti1424/sc-im)
+* [Sendgrid under siege from hacked accounts](https://krebsonsecurity.com/2020/08/sendgrid-under-siege-from-hacked-accounts/)
+* [TiDB: A Raft-based HTAP Database [pdf]](http://www.vldb.org/pvldb/vol13/p3072-huang.pdf)
 * [The Node Is Nonsense: Better ways to measure progress than Moore's law [pdf]](https://www.gwern.net/docs/cs/2020-moore.pdf)
-* [Asciimatics – create full-screen text UIs on any platform](https://github.com/peterbrittain/asciimatics)
 * [A 189 Year Old Limitation on Inductor Size Has Been Broken](https://medium.com/starts-with-a-bang/the-last-barrier-to-ultra-miniaturized-electronics-is-broken-thanks-to-a-new-type-of-inductor-eb5c1a2c7460)
-* [Griffon: a desktop application development platform for the JVM](http://griffon-framework.org/)
-* [Monarch: Google’s Planet-Scale In-Memory Time Series Database [pdf]](http://www.vldb.org/pvldb/vol13/p3181-adams.pdf)
+* [Colorblind travelers can take in fall's true colors with special new lenses](https://www.washingtonpost.com/travel/2020/08/28/colorblind-travelers-can-take-true-colors-fall-thanks-these-viewfinders/)
+* [Asciimatics – create full-screen text UIs on any platform](https://github.com/peterbrittain/asciimatics)
 * [American Academy of Sleep Medicine calls for elimination of daylight saving time](https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/)
+* [Monarch: Google’s Planet-Scale In-Memory Time Series Database [pdf]](http://www.vldb.org/pvldb/vol13/p3181-adams.pdf)
+* [Griffon: a desktop application development platform for the JVM](http://griffon-framework.org/)
 * [DearPyGui](https://github.com/hoffstadt/DearPyGui)
+* [Tesla’s former CTO is building a giant lithium-ion battery recycling operation](https://www.wsj.com/articles/one-of-the-brains-behind-tesla-found-a-new-way-to-make-electric-cars-cheaper-11598673630)
+* [Longevity FAQ: A beginner's guide to longevity research](https://www.ldeming.com/longevityfaq)
 * [Emoji simulator – a tool to make cellular automata, with emoji](https://ncase.me/sim/)
+* [Releasing Pleroma 2.1.0](https://pleroma.social/blog/2020/08/28/releasing-pleroma-2-1-0/)
 * [The tyranny of chairs: why we need better design](https://www.theguardian.com/artanddesign/2020/aug/25/the-tyranny-of-chairs)
 * [Inventing Monads](https://stopa.io/post/247)
-* [TiDB: A Raft-based HTAP Database [pdf]](http://www.vldb.org/pvldb/vol13/p3072-huang.pdf)
 * [Japan’s Entry in Flying-Car Race Takes to the Air](https://www.wsj.com/articles/japans-entry-in-flying-car-race-takes-to-the-air-11598691548)
-* [A Command Line vs. GUI Meeting](https://gravitational.com/blog/command-line-vs-gui/)
-* [Engineer admits he wiped 456 Cisco WebEx VMs from AWS after leaving](https://www.theregister.com/2020/08/26/former_cisco_engineer_aws_webex_teams/)
-* [We Chose a Distributed SQL Database to Complement MySQL](https://pingcap.com/case-studies/why-we-chose-a-distributed-sql-database-to-complement-mysql)
 ## nytimes.com
 
 
@@ -69,7 +69,7 @@ layout: default
 * [Roaming Through Lanzarote’s Otherworldly Vineyards](https://www.nytimes.com/2020/08/24/travel/lanzarote-canary-islands.html)
 * [This Zucchini Tian Is Nonna-Inspired Cooking at Restaurant Speed](https://www.nytimes.com/2020/08/26/magazine/this-zucchini-tian-is-nonna-inspired-cooking-at-restaurant-speed.html)
 * [The Racial Anxiety Lurking Behind Reaction Videos](https://www.nytimes.com/2020/08/27/magazine/the-racial-anxiety-lurking-behind-reaction-videos.html)
-* [Trump Visits Storm-Ravaged Lake Charles, a Louisiana City Still Without Power](https://www.nytimes.com/2020/08/29/us/louisiana-lake-charles-trump-power-generators.html)
+* [India’s Covid Outbreak Is Now the World’s Fastest-Growing](https://www.nytimes.com/2020/08/28/world/asia/india-coronavirus.html)
 * [Death Toll Rises to 29 in North China Restaurant Collapse](https://www.nytimes.com/aponline/2020/08/29/world/asia/ap-as-china-building-collapse.html)
 * [Phoenix Settles With Black Family After Police Drew Guns Over Reported Doll Theft](https://www.nytimes.com/2020/08/29/us/phoenix-police-settlement.html)
 * [16 Injured in Bus Accident Near Port Authority](https://www.nytimes.com/2020/08/29/nyregion/bus-accident-nyc-port-authority.html)
@@ -90,10 +90,10 @@ layout: default
 * [Coronavirus Superspreader Event in Boston Led to Thousands of Infections](https://www.nytimes.com/2020/08/26/health/covid-19-superspreaders-boston.html)
 * [Exercise May Boost Your Vaccine Response](https://www.nytimes.com/2020/08/26/well/move/exercise-may-boost-your-vaccine-response.html)
 * [Young Adults’ Pandemic Mental Health Risks](https://www.nytimes.com/2020/08/24/well/family/young-adults-mental-health-pandemic.html)
+* [Here’s How Moving to Work Remotely Could Affect Your Taxes](https://www.nytimes.com/2020/08/25/business/coronavirus-nonresident-state-taxes.html)
 * [7 Takeaways From ‘Melania and Me,’ by the First Lady’s Former Friend](https://www.nytimes.com/2020/08/28/books/review/melania-and-me-stephanie-winston-wolkoff.html)
-* [Bayern Munich 1, P.S.G. 0: A Champions League Win for Tradition and Team](https://www.nytimes.com/2020/08/23/sports/soccer/psg-bayern-live-score.html)
-* [How the U.K. Restarted Its Restaurant Industry: Paying Half the Bill](https://www.nytimes.com/2020/08/25/business/britain-restaurants-eat-out-to-help-out.html)
-* [Neymar Finally Grows Up](https://www.nytimes.com/2020/08/23/sports/soccer/neymar-psg-.html)
+* [Trump Can’t Avoid Reality Forever](https://www.nytimes.com/2020/08/28/opinion/trump-convention.html)
+* [‘The Personal History of David Copperfield’ Review: A Boy’s Story](https://www.nytimes.com/2020/08/27/movies/the-personal-history-of-david-copperfield-review.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)

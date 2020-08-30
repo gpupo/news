@@ -2,56 +2,56 @@
 layout: default
 ---
 
-# indexed at 30/08/2020 17:34:23 UTC
+# indexed at 30/08/2020 18:14:49 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Level 3 Global Outage](https://puck.nether.net/pipermail/outages/2020-August/013187.html)
-* [Show HN: Vimac – Productive macOS keyboard-driven navigation](http://vimacapp.com)
 * [Show HN: Learn how WebRTC actually works. A book on the protocols, not just APIs](https://webrtcforthecurious.com/)
+* [Show HN: Vimac – Productive macOS keyboard-driven navigation](http://vimacapp.com)
+* [A terminal-based presentation tool with colors and effects](https://github.com/vinayak-mehta/present)
 * [The Recursive Universe](http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/)
 * [Low-level details of the Zen 2 microarchitecture [pdf]](https://www.agner.org/optimize/microarchitecture.pdf)
-* [Tech my dad banned in our house when I was a kid](https://gizmodo.com/the-tech-my-dad-banned-from-our-house-1844777825)
 * [The Unexpected Elegance of Irrigation Systems from Above](https://www.atlasobscura.com/articles/why-do-farms-look-like-circles-from-planes)
-* [Most common mistakes during interviews](https://aitorvs.github.io/post/most_common_mistakes_during_interviews/)
-* [Physicists found a new quantum paradox that casts doubt on a pillar of reality](https://www.sciencealert.com/a-new-quantum-paradox-throws-the-foundations-of-observed-reality-into-question)
 * [An interesting mistake with Go's context package that I made](https://utcc.utoronto.ca/~cks/space/blog/programming/GoContextValueMistake)
+* [Physicists found a new quantum paradox that casts doubt on a pillar of reality](https://www.sciencealert.com/a-new-quantum-paradox-throws-the-foundations-of-observed-reality-into-question)
 * [The “menu engineers” who optimize restaurant revenue](https://thehustle.co/meet-the-menu-engineers-helping-restaurants-retool-during-the-pandemic/)
 * [Literate DevOps](http://www.howardism.org/Technical/Emacs/literate-devops.html)
-* [Ask HN: How does your data science or machine learning team handle DevOps?](https://news.ycombinator.com/item?id=24323778)
 * [Photoreal Roman Emperor Project](https://medium.com/@voshart/photoreal-roman-emperor-project-236be7f06c8f)
-* [The rise and fall of the industrial R&D lab](https://worksinprogress.co/issue/the-rise-and-fall-of-the-american-rd-lab/)
+* [Multi-Tenant Architectures](https://blog.codonomics.com/2020/08/multi-tenant-architectures.html)
 * [We Know How to Prevent Megafires](https://www.propublica.org/article/they-know-how-to-prevent-megafires-why-wont-anybody-listen/)
-* [Longevity FAQ: A beginner's guide to longevity research](https://www.ldeming.com/longevityfaq)
-* [Using the Linux kernel's Case-insensitive feature in Ext4](https://www.collabora.com/news-and-blog/blog/2020/08/27/using-the-linux-kernel-case-insensitive-feature-in-ext4/)
-* [Exploring mullender.c – A deep dive into the first IOCCC winner](https://lainsystems.com/posts/exploring-mullender-dot-c/)
+* [The rise and fall of the industrial R&D lab](https://worksinprogress.co/issue/the-rise-and-fall-of-the-american-rd-lab/)
+* [Ask HN: How does your data science or machine learning team handle DevOps?](https://news.ycombinator.com/item?id=24323778)
+* [Ask HN: Has anyone built a SaaS for local municipalities?](https://news.ycombinator.com/item?id=24314274)
 * [WebBundles are built for content-addressable networks](https://adlrocha.substack.com/p/adlrocha-webbundles-are-built-for)
+* [Exploring mullender.c – A deep dive into the first IOCCC winner](https://lainsystems.com/posts/exploring-mullender-dot-c/)
 * [TSMC Builds a Dedicated 28nm Fab for Sony Orders](http://image-sensors-world.blogspot.com/2020/07/tsmc-builds-dedicated-28nm-fab-for-sony.html?m=1)
 * [So you want to roll your own crypto?](https://vnhacker.blogspot.com/2020/08/so-you-want-to-roll-your-own-crypto.html?m=1)
 * [Ranger: A console file manager with VI key bindings](https://github.com/ranger/ranger)
-* [Barbados introduces plan to allow visitors to work remotely there for a year](https://money.yahoo.com/barbabos-introduces-plan-to-allow-visitors-to-work-remotely-there-for-a-year-192734193.html)
+* [Most common mistakes during interviews](https://aitorvs.github.io/post/most_common_mistakes_during_interviews/)
 * [I thought I would have accomplished a lot more today and also before I was 35](https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five)
 * [The Door Problem (2014)](http://www.lizengland.com/blog/2014/04/the-door-problem/)
-* [Former Cisco engineer pleads guilty to causing Webex account chaos](https://www.zdnet.com/article/former-cisco-engineer-pleads-guilty-to-network-damage-wiping-16000-webex-teams-accounts/)
 * [Matplot++ – A Plotting Tool for C++](https://github.com/alandefreitas/matplotplusplus)
-* [New 50-metre deep crater opens up in Arctic tundra](http://siberiantimes.com/other/others/news/giant-new-50-metre-deep-crater-opens-up-in-arctic-tundra/)
+* [Barbados introduces plan to allow visitors to work remotely there for a year](https://money.yahoo.com/barbabos-introduces-plan-to-allow-visitors-to-work-remotely-there-for-a-year-192734193.html)
+* [Airbnb Has a Hidden-Camera Problem (2019)](https://www.theatlantic.com/technology/archive/2019/03/what-happens-when-you-find-cameras-your-airbnb/585007/)
 * [American Academy of Sleep Medicine calls for elimination of daylight saving time](https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/)
+* [All Circuits Are Busy Now: The 1990 AT&T Long Distance Network Collapse (1995)](https://users.csc.calpoly.edu/~jdalbey/SWE/Papers/att_collapse)
 ## nytimes.com
 
 
 * [One Person Dead in Portland After Clashes Between Trump Supporters and Protesters](https://www.nytimes.com/2020/08/30/us/portland-trump-rally-shooting.html)
 * [What Happened in the Portland Shooting](https://www.nytimes.com/2020/08/30/us/portland-shooting-explained.html)
+* [Trump Embraces Fringe Theories on Protests and the Coronavirus](https://www.nytimes.com/2020/08/30/us/politics/trump-protests-violence-coronavirus.html)
 * [Breonna Taylor’s Life Was Changing. Then the Police Came to Her Door.](https://www.nytimes.com/2020/08/30/us/breonna-taylor-police-killing.html)
-* [Looking to Reopen, Colleges Become Labs for Coronavirus Tests and Tracking Apps](https://www.nytimes.com/2020/08/30/us/colleges-coronavirus-research.html)
 * [New Yorkers Are Fleeing to the Suburbs: ‘The Demand Is Insane’](https://www.nytimes.com/2020/08/30/nyregion/nyc-suburbs-housing-demand.html)
 * [Covid-19 News: Live Updates](https://www.nytimes.com/2020/08/30/world/coronavirus-covid.html)
+* [U.S. Will Revive Global Virus-Hunting Effort Ended Last Year](https://www.nytimes.com/2020/08/30/health/predict-pandemic-usaid.html)
 * [Steven Mnuchin Tried to Save the Economy. Not Even His Family Is Happy.](https://www.nytimes.com/2020/08/30/business/steven-mnuchin-trump-economy.html)
 * [Conventions Can Boost the Incumbent. Did It Work This Time?](https://www.nytimes.com/2020/08/28/upshot/republican-convention-trump-strategy.html)
 * [Big Oil Is in Trouble. Its Plan: Flood Africa With Plastic.](https://www.nytimes.com/2020/08/30/climate/oil-kenya-africa-plastics-trade.html)
 * [‘A Hail Mary’: Psychedelic Therapy Draws Veterans to Jungle Retreats](https://www.nytimes.com/2020/08/30/world/americas/psychedelics-therapy-war-stress.html)
-* [11 of Our Best Weekend Reads](https://www.nytimes.com/2020/08/28/briefing/best-weekend-reads.html)
 * [Presidential Race, Chadwick Boseman, September Books: Your Weekend Briefing](https://www.nytimes.com/2020/08/30/briefing/presidential-race-chadwick-boseman-september-books-your-weekend-briefing.html)
 * [The Sunday Read: ‘In the Line of Fire’](https://www.nytimes.com/2020/08/30/podcasts/the-daily/california-wildfires-prisoners.html)
 * [Kurt Andersen on ‘Evil Geniuses’](https://www.nytimes.com/2020/08/28/books/review/podcast-evil-geniuses-kurt-andersen-fallout-hiroshima-lesley-m-m-blume.html)
@@ -93,13 +93,16 @@ layout: default
 * [A Woman May Have Been Cured of H.I.V. Without Medical Treatment](https://www.nytimes.com/2020/08/26/health/hiv-cure.html)
 * [A Rip in the Fabric of Interstellar Dreams](https://www.nytimes.com/2020/08/21/science/space-telescope-puerto-rico-arecibo.html)
 * [7 Takeaways From ‘Melania and Me,’ by the First Lady’s Former Friend](https://www.nytimes.com/2020/08/28/books/review/melania-and-me-stephanie-winston-wolkoff.html)
-* [America’s Coronavirus Reopening Choice: Schools, Bars or Disney World?](https://www.nytimes.com/2020/08/28/opinion/coronavirus-schools-tradeoffs.html)
+* [In His Own Words: Jacob Lawrence at the Met and MoMA](https://www.nytimes.com/2020/08/27/arts/design/jacob-lawrence-metropolitan-museum.html)
+* [Unsealed Archives Give Fresh Clues to Pope Pius XII’s Response to the Holocaust](https://www.nytimes.com/2020/08/28/world/europe/pope-pius-xii-jews-vatican-archives.html)
+* [On Trump, Merkel's Face Does the Talking](https://www.nytimes.com/2020/08/28/world/europe/merkel-trump-grenell.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [Policiais encontram rave 'ilegal' em Norfolk, no Reino Unido](https://oglobo.globo.com/mundo/policiais-encontram-rave-ilegal-em-norfolk-no-reino-unido-24614657)
 * [Em missa, governador em exercício no Rio, Cláudio Castro, cantou em Igreja na Barra; veja vídeo](https://oglobo.globo.com/rio/em-missa-governador-em-exercicio-no-rio-claudio-castro-cantou-em-igreja-na-barra-veja-video-24614578)
 * [Israel admite que negocia em segredo com países árabes para normalizar relações](https://epoca.globo.com/mundo/israel-admite-que-negocia-em-segredo-com-paises-arabes-para-normalizar-relacoes-24614638)
 * [Bahia registra terremoto de 4,6 de magnitude](https://oglobo.globo.com/brasil/bahia-registra-terremoto-de-46-de-magnitude-1-24614579)
@@ -109,4 +112,3 @@ layout: default
 * [Nanda Costa revela que desejo de ser mãe foi adiado pela crise do coronavírus](https://oglobo.globo.com/cultura/nanda-costa-revela-que-desejo-de-ser-mae-foi-adiado-pela-crise-do-coronavirus-24614591)
 * [Partes em conflito assinam acordo de paz no Sudão](https://oglobo.globo.com/mundo/partes-em-conflito-assinam-acordo-de-paz-no-sudao-24614584)
 * [Fritz-Kola: o refrigerante alemão criado por dois jovens ignorados por todos (e que agora compete com Coca e Pepsi)](https://epoca.globo.com/economia/fritz-kola-refrigerante-alemao-criado-por-dois-jovens-ignorados-por-todos-que-agora-compete-com-coca-pepsi-24614559)
-* [Contas de condomínio: porta para gastos supérfluos e fraudes na administração](https://oglobo.globo.com/economia/contas-de-condominio-porta-para-gastos-superfluos-fraudes-na-administracao-24614404)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 30/08/2020 16:08:52 UTC
+# indexed at 30/08/2020 16:34:47 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Level 3 Global Outage](https://puck.nether.net/pipermail/outages/2020-August/013187.html)
 * [The Recursive Universe](http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/)
+* [Show HN: Vimac – Productive macOS keyboard-driven navigation](http://vimacapp.com)
 * [Low-level details of the Zen 2 microarchitecture [pdf]](https://www.agner.org/optimize/microarchitecture.pdf)
+* [Most common mistakes during interviews](https://aitorvs.github.io/post/most_common_mistakes_during_interviews/)
+* [Photoreal Roman Emperor Project](https://medium.com/@voshart/photoreal-roman-emperor-project-236be7f06c8f)
 * [An interesting mistake with Go's context package that I made](https://utcc.utoronto.ca/~cks/space/blog/programming/GoContextValueMistake)
+* [The Unexpected Elegance of Irrigation Systems from Above](https://www.atlasobscura.com/articles/why-do-farms-look-like-circles-from-planes)
 * [Physicists found a new quantum paradox that casts doubt on a pillar of reality](https://www.sciencealert.com/a-new-quantum-paradox-throws-the-foundations-of-observed-reality-into-question)
 * [New 50-metre deep crater opens up in Arctic tundra](http://siberiantimes.com/other/others/news/giant-new-50-metre-deep-crater-opens-up-in-arctic-tundra/)
 * [Literate DevOps](http://www.howardism.org/Technical/Emacs/literate-devops.html)
 * [We Know How to Prevent Megafires](https://www.propublica.org/article/they-know-how-to-prevent-megafires-why-wont-anybody-listen/)
+* [The “menu engineers” who optimize restaurant revenue](https://thehustle.co/meet-the-menu-engineers-helping-restaurants-retool-during-the-pandemic/)
 * [The rise and fall of the industrial R&D lab](https://worksinprogress.co/issue/the-rise-and-fall-of-the-american-rd-lab/)
 * [Longevity FAQ: A beginner's guide to longevity research](https://www.ldeming.com/longevityfaq)
-* [Photoreal Roman Emperor Project](https://medium.com/@voshart/photoreal-roman-emperor-project-236be7f06c8f)
 * [WebBundles are built for content-addressable networks](https://adlrocha.substack.com/p/adlrocha-webbundles-are-built-for)
-* [So you want to roll your own crypto?](https://vnhacker.blogspot.com/2020/08/so-you-want-to-roll-your-own-crypto.html?m=1)
 * [Exploring mullender.c – A deep dive into the first IOCCC winner](https://lainsystems.com/posts/exploring-mullender-dot-c/)
+* [So you want to roll your own crypto?](https://vnhacker.blogspot.com/2020/08/so-you-want-to-roll-your-own-crypto.html?m=1)
 * [Using the Linux kernel's Case-insensitive feature in Ext4](https://www.collabora.com/news-and-blog/blog/2020/08/27/using-the-linux-kernel-case-insensitive-feature-in-ext4/)
 * [TSMC Builds a Dedicated 28nm Fab for Sony Orders](http://image-sensors-world.blogspot.com/2020/07/tsmc-builds-dedicated-28nm-fab-for-sony.html?m=1)
+* [Former Cisco engineer pleads guilty to causing Webex account chaos](https://www.zdnet.com/article/former-cisco-engineer-pleads-guilty-to-network-damage-wiping-16000-webex-teams-accounts/)
 * [Ranger: A console file manager with VI key bindings](https://github.com/ranger/ranger)
 * [Barbados introduces plan to allow visitors to work remotely there for a year](https://money.yahoo.com/barbabos-introduces-plan-to-allow-visitors-to-work-remotely-there-for-a-year-192734193.html)
+* [The Door Problem (2014)](http://www.lizengland.com/blog/2014/04/the-door-problem/)
 * [Matplot++ – A Plotting Tool for C++](https://github.com/alandefreitas/matplotplusplus)
 * [I thought I would have accomplished a lot more today and also before I was 35](https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five)
-* [The Door Problem (2014)](http://www.lizengland.com/blog/2014/04/the-door-problem/)
-* [The “menu engineers” who optimize restaurant revenue](https://thehustle.co/meet-the-menu-engineers-helping-restaurants-retool-during-the-pandemic/)
-* [Originality is not the only way](https://leveragethoughts.substack.com/p/originality-is-not-the-only-way-it)
 * [Horcrux Encrypted Messaging](https://www.notion.so/Horcrux-Encrypted-Messaging-78af0a3f326244ebb0aedff7c298953d)
 * [American Academy of Sleep Medicine calls for elimination of daylight saving time](https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/)
-* [Tower Defense with a twist: all towers must be positioned with CSS Flexbox](http://www.flexboxdefense.com/)
-* [Lord of the Manor: a medieval city builder game](http://www.lordofthemanor.io/)
+* [Originality is not the only way](https://leveragethoughts.substack.com/p/originality-is-not-the-only-way-it)
 * [Nascar: The Science of Racing Safely](https://physicsworld.com/a/nascar-the-science-of-racing-safely/)
-* [Optical Tweezers](https://en.wikipedia.org/wiki/Optical_tweezers)
-* [Mercedes Barcha, 1932-2020](https://www.ft.com/content/4f9872c5-2132-4db3-b81c-b60da01655ce)
 ## nytimes.com
 
 
@@ -79,11 +79,10 @@ layout: default
 * [What It’s Like to Be an R.A. Now](https://www.nytimes.com/2020/08/29/style/what-its-like-to-be-an-ra-now.html)
 * [‘Something Broke Inside Belarusians.’ Why an Apolitical People Rose Up](https://www.nytimes.com/2020/08/29/world/europe/belarus-protest.html)
 * [With a Wary Eye on China, Taiwan Moves to Revamp Its Military](https://www.nytimes.com/2020/08/30/world/asia/taiwan-china-military.html)
-* [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
-* [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
-* [How to Save Seeds for Next Year's Garden](https://www.nytimes.com/2020/08/05/realestate/garden-vegetables-save-seeds-build-supply.html)
-* [Learning Pods During Coronavirus Explained](https://www.nytimes.com/article/learning-pods-coronavirus.html)
-* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
+* [Are You an American Voting From Abroad? Here’s How to Do It](https://www.nytimes.com/2020/08/28/smarter-living/american-vote-from-abroad.html)
+* [Can You Hear Yourself Think?](https://www.nytimes.com/2020/08/25/realestate/house-noise-solutions.html)
+* [Move Over, Sustainable Travel. Regenerative Travel Has Arrived.](https://www.nytimes.com/2020/08/27/travel/travel-future-coronavirus-sustainable.html)
+* [How to Choose the Right Pediatrician](https://www.nytimes.com/article/choosing-a-pediatrician-children.html)
 * [You, Me and 53 Dogs](https://www.nytimes.com/2020/08/28/fashion/weddings/Musher-Matthew-Failor-marries-Liz-Raines-Alaska.html)
 * [How a Veterinarian Spends Her Sundays](https://www.nytimes.com/2020/08/28/nyregion/coronavirus-veterinarians-nyc.html)
 * [When a Film Festival Goes Virtual, What Do We Lose? Or Gain?](https://www.nytimes.com/2020/08/28/movies/virtual-film-festivals.html)
@@ -93,19 +92,19 @@ layout: default
 * [A Strange Rash Had Doctors Stumped. Was It an Insect Bite?](https://www.nytimes.com/2020/08/27/magazine/allergic-contact-dermatitis-acd.html)
 * [A Woman May Have Been Cured of H.I.V. Without Medical Treatment](https://www.nytimes.com/2020/08/26/health/hiv-cure.html)
 * [A Rip in the Fabric of Interstellar Dreams](https://www.nytimes.com/2020/08/21/science/space-telescope-puerto-rico-arecibo.html)
+* [7 Takeaways From ‘Melania and Me,’ by the First Lady’s Former Friend](https://www.nytimes.com/2020/08/28/books/review/melania-and-me-stephanie-winston-wolkoff.html)
+* [America’s Coronavirus Reopening Choice: Schools, Bars or Disney World?](https://www.nytimes.com/2020/08/28/opinion/coronavirus-schools-tradeoffs.html)
 * [Sarah Palin’s Suit Against New York Times Will Go to Trial, Judge Rules](https://www.nytimes.com/2020/08/28/business/media/sarah-palin-defamation-new-york-times.html)
-* [When Retirement Comes Too Early](https://www.nytimes.com/2020/08/28/health/coronavirus-retirement-recession.html)
-* [An American Disaster Foretold](https://www.nytimes.com/2020/08/28/opinion/donald-trump-europe-china.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [Bahia registra terremoto de 4,6 de magnitude](https://oglobo.globo.com/brasil/bahia-registra-terremoto-de-46-de-magnitude-1-24614579)
 * [Pelo menos 125 pessoas foram detidas em mais um domingo protestos na Bielorrússia](https://oglobo.globo.com/mundo/pelo-menos-125-pessoas-foram-detidas-em-mais-um-domingo-protestos-na-bielorrussia-24614589)
 * [Em missa, governador em exercício no Rio, Cláudio Castro, canta em Igreja na Barra; veja vídeo](https://oglobo.globo.com/rio/em-missa-governador-em-exercicio-no-rio-claudio-castro-canta-em-igreja-na-barra-veja-video-24614578)
 * [Fórmula 1: Lewis Hamilton vence o GP da Bélgica e fica mais perto do recorde de Schumacher](https://oglobo.globo.com/esportes/formula-1-lewis-hamilton-vence-gp-da-belgica-fica-mais-perto-do-recorde-de-schumacher-24614597)
-* [Bahia registra terremoto de 4,6 de magnitude](https://oglobo.globo.com/brasil/bahia-registra-terremoto-de-46-de-magnitude-24614579)
 * ['Amor de mãe': diretor artístico revela bastidores de retomada das gravações da novela](https://oglobo.globo.com/cultura/amor-de-mae-diretor-artistico-revela-bastidores-de-retomada-das-gravacoes-da-novela-1-24614593)
 * [Nanda Costa revela que desejo de ser mãe foi adiado pela crise do coronavírus](https://oglobo.globo.com/cultura/nanda-costa-revela-que-desejo-de-ser-mae-foi-adiado-pela-crise-do-coronavirus-24614591)
 * [Partes em conflito assinam acordo de paz no Sudão](https://oglobo.globo.com/mundo/partes-em-conflito-assinam-acordo-de-paz-no-sudao-24614584)

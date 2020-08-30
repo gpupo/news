@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 30/08/2020 02:34:25 UTC
+# indexed at 30/08/2020 03:08:13 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Tower Defense with a twist: all towers must be positioned with CSS Flexbox](http://www.flexboxdefense.com/)
 * [I thought I would have accomplished a lot more today and also before I was 35](https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five)
+* [Tower Defense with a twist: all towers must be positioned with CSS Flexbox](http://www.flexboxdefense.com/)
+* [Longevity FAQ: A beginner's guide to longevity research](https://www.ldeming.com/longevityfaq)
 * [New 50-metre deep crater opens up in Arctic tundra](http://siberiantimes.com/other/others/news/giant-new-50-metre-deep-crater-opens-up-in-arctic-tundra/)
-* [First complete dinosaur skeleton ever found has finally been studied in detail](https://phys.org/news/2020-08-dinosaur-skeleton-ready-closeup.html)
 * [Tesla’s former CTO is building a giant lithium-ion battery recycling operation](https://www.wsj.com/articles/one-of-the-brains-behind-tesla-found-a-new-way-to-make-electric-cars-cheaper-11598673630)
+* [First complete dinosaur skeleton ever found has finally been studied in detail](https://phys.org/news/2020-08-dinosaur-skeleton-ready-closeup.html)
 * [Deep Dive into PHP 8's JIT](https://thephp.website/en/issue/php-8-jit/)
 * [Metcalf Sniper Attack](https://en.wikipedia.org/wiki/Metcalf_sniper_attack)
 * [Sendgrid under siege from hacked accounts](https://krebsonsecurity.com/2020/08/sendgrid-under-siege-from-hacked-accounts/)
 * [I Compiled NASA‘s Workmanship Standards into a Single PDF](https://archive.org/details/nasa-workmanship-standards)
+* [Lord of the Manor: a medieval city builder game](http://www.lordofthemanor.io/)
 * [SC-IM – An ncurses spreadsheet program for the terminal](https://github.com/andmarti1424/sc-im)
+* [Asciimatics – create full-screen text UIs on any platform](https://github.com/peterbrittain/asciimatics)
 * [The Node Is Nonsense: Better ways to measure progress than Moore's law [pdf]](https://www.gwern.net/docs/cs/2020-moore.pdf)
 * [TiDB: A Raft-based HTAP Database [pdf]](http://www.vldb.org/pvldb/vol13/p3072-huang.pdf)
-* [Asciimatics – create full-screen text UIs on any platform](https://github.com/peterbrittain/asciimatics)
-* [A 189 Year Old Limitation on Inductor Size Has Been Broken](https://medium.com/starts-with-a-bang/the-last-barrier-to-ultra-miniaturized-electronics-is-broken-thanks-to-a-new-type-of-inductor-eb5c1a2c7460)
+* [Griffon: a desktop application development platform for the JVM](http://griffon-framework.org/)
 * [Monarch: Google’s Planet-Scale In-Memory Time Series Database [pdf]](http://www.vldb.org/pvldb/vol13/p3181-adams.pdf)
+* [A 189 Year Old Limitation on Inductor Size Has Been Broken](https://medium.com/starts-with-a-bang/the-last-barrier-to-ultra-miniaturized-electronics-is-broken-thanks-to-a-new-type-of-inductor-eb5c1a2c7460)
+* [Apple doesn't let you disclose their 30% IAP fee to your customers](https://twitter.com/getify/status/1299569045348454401)
+* [American Academy of Sleep Medicine calls for elimination of daylight saving time](https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/)
 * [Open Source Thinkpad T420 Battery Design](https://github.com/iam4722202468/ThinkpadBattery)
 * [DearPyGui](https://github.com/hoffstadt/DearPyGui)
-* [American Academy of Sleep Medicine calls for elimination of daylight saving time](https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/)
-* [Apple doesn't let you disclose their 30% IAP fee to your customers](https://twitter.com/getify/status/1299569045348454401)
-* [A Command Line vs. GUI Meeting](https://gravitational.com/blog/command-line-vs-gui/)
-* [The tyranny of chairs: why we need better design](https://www.theguardian.com/artanddesign/2020/aug/25/the-tyranny-of-chairs)
-* [Lord of the Manor: a medieval city builder game](http://www.lordofthemanor.io/)
-* [Emoji simulator – a tool to make cellular automata, with emoji](https://ncase.me/sim/)
 * [Inventing Monads](https://stopa.io/post/247)
-* [We Chose a Distributed SQL Database to Complement MySQL](https://pingcap.com/case-studies/why-we-chose-a-distributed-sql-database-to-complement-mysql)
+* [The tyranny of chairs: why we need better design](https://www.theguardian.com/artanddesign/2020/aug/25/the-tyranny-of-chairs)
+* [Emoji simulator – a tool to make cellular automata, with emoji](https://ncase.me/sim/)
+* [A Command Line vs. GUI Meeting](https://gravitational.com/blog/command-line-vs-gui/)
 * [Japan’s Entry in Flying-Car Race Takes to the Air](https://www.wsj.com/articles/japans-entry-in-flying-car-race-takes-to-the-air-11598691548)
+* [We Chose a Distributed SQL Database to Complement MySQL](https://pingcap.com/case-studies/why-we-chose-a-distributed-sql-database-to-complement-mysql)
 * [Engineer admits he wiped 456 Cisco WebEx VMs from AWS after leaving](https://www.theregister.com/2020/08/26/former_cisco_engineer_aws_webex_teams/)
 * [Building storage-first serverless apps with HTTP APIs service integrations](https://aws.amazon.com/blogs/compute/building-storage-first-applications-with-http-apis-service-integrations/)
-* [Facebook’s ties to India’s ruling party complicate its fight against hate speech](https://time.com/5883993/india-facebook-hate-speech-bjp/)
-* [Babylonian Multiplication in the shower (2016)](https://www.iquilezles.org/blog/?p=4582)
 ## nytimes.com
 
 
@@ -92,7 +92,6 @@ layout: default
 * [Young Adults’ Pandemic Mental Health Risks](https://www.nytimes.com/2020/08/24/well/family/young-adults-mental-health-pandemic.html)
 * [Parenting in Front of a Live Audience of In-laws](https://www.nytimes.com/2020/08/27/parenting/intergenerational-living-marriage-coronavirus.html)
 * [7 Takeaways From ‘Melania and Me,’ by the First Lady’s Former Friend](https://www.nytimes.com/2020/08/28/books/review/melania-and-me-stephanie-winston-wolkoff.html)
-* [Sarah Palin’s Suit Against New York Times Will Go to Trial, Judge Rules](https://www.nytimes.com/2020/08/28/business/media/sarah-palin-defamation-new-york-times.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
@@ -105,7 +104,7 @@ layout: default
 * [Trump reduz cota de importação de aço brasileiro em quase 83% no quarto trimestre](https://oglobo.globo.com/economia/trump-reduz-cota-de-importacao-de-aco-brasileiro-em-quase-83-no-quarto-trimestre-1-24614113)
 * [Botafogo perde para o Inter em jogo com VAR polêmico](https://oglobo.globo.com/esportes/botafogo-perde-para-inter-em-jogo-com-var-polemico-24614053)
 * [Autoridades de Wuhan anunciam retorno das aulas presenciais a partir de terça-feira](https://oglobo.globo.com/mundo/autoridades-de-wuhan-anunciam-retorno-das-aulas-presenciais-partir-de-terca-feira-24614110)
-* [Entidade diz que coordenador da Funai quer visitar região de povos isolados, contrariando protocolos da Covid-19](https://oglobo.globo.com/brasil/entidade-diz-que-coordenador-da-funai-quer-visitar-regiao-de-povos-isolados-contrariando-protocolos-da-covid-19-24614012)
 * [Número de focos de incêndio no Amazonas em agosto já é o maior em 22 anos](https://oglobo.globo.com/sociedade/numero-de-focos-de-incendio-no-amazonas-em-agosto-ja-o-maior-em-22-anos-24614032)
 * [Animal de estimação é deixado em clínica para banho e tosa e some em Campos](https://oglobo.globo.com/rio/animal-de-estimacao-deixado-em-clinica-para-banho-tosa-some-em-campos-24614043)
-* [Um dia após afastamento, Wilson Witzel passa mal e trata infecção em hospital](https://oglobo.globo.com/rio/um-dia-apos-afastamento-wilson-witzel-passa-mal-trata-infeccao-em-hospital-24614005)
+* [Queda de homicídios não reduz tragédia da violência no país](https://oglobo.globo.com/opiniao/queda-de-homicidios-nao-reduz-tragedia-da-violencia-no-pais-1-24612103)
+* [Estados e municípios precisam ser ágeis para socorrer a cultura](https://oglobo.globo.com/opiniao/estados-municipios-precisam-ser-ageis-para-socorrer-cultura-24612133)

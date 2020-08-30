@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 30/08/2020 04:14:01 UTC
+# indexed at 30/08/2020 04:34:37 UTC
 
 
 ## news.ycombinator.com
@@ -19,25 +19,25 @@ layout: default
 * [Metcalf Sniper Attack](https://en.wikipedia.org/wiki/Metcalf_sniper_attack)
 * [I Compiled NASA‘s Workmanship Standards into a Single PDF](https://archive.org/details/nasa-workmanship-standards)
 * [Lord of the Manor: a medieval city builder game](http://www.lordofthemanor.io/)
-* [Sendgrid under siege from hacked accounts](https://krebsonsecurity.com/2020/08/sendgrid-under-siege-from-hacked-accounts/)
-* [Open Source Thinkpad T420 Battery Design](https://github.com/iam4722202468/ThinkpadBattery)
-* [SC-IM – An ncurses spreadsheet program for the terminal](https://github.com/andmarti1424/sc-im)
-* [Asciimatics – create full-screen text UIs on any platform](https://github.com/peterbrittain/asciimatics)
-* [The Node Is Nonsense: Better ways to measure progress than Moore's law [pdf]](https://www.gwern.net/docs/cs/2020-moore.pdf)
-* [Griffon: a desktop application development platform for the JVM](http://griffon-framework.org/)
-* [Apple doesn't let you disclose their 30% IAP fee to your customers](https://twitter.com/getify/status/1299569045348454401)
 * [Nagara Rimba Nusa: A Take on Indonesia's New Capital City](https://community.simtropolis.com/forums/topic/758733-nagara-rimba-nusa-a-take-on-a-new-capital-city/)
-* [Monarch: Google’s Planet-Scale In-Memory Time Series Database [pdf]](http://www.vldb.org/pvldb/vol13/p3181-adams.pdf)
+* [Sendgrid under siege from hacked accounts](https://krebsonsecurity.com/2020/08/sendgrid-under-siege-from-hacked-accounts/)
+* [SC-IM – An ncurses spreadsheet program for the terminal](https://github.com/andmarti1424/sc-im)
+* [Open Source Thinkpad T420 Battery Design](https://github.com/iam4722202468/ThinkpadBattery)
+* [The Node Is Nonsense: Better ways to measure progress than Moore's law [pdf]](https://www.gwern.net/docs/cs/2020-moore.pdf)
+* [Asciimatics – create full-screen text UIs on any platform](https://github.com/peterbrittain/asciimatics)
 * [A 189 Year Old Limitation on Inductor Size Has Been Broken](https://medium.com/starts-with-a-bang/the-last-barrier-to-ultra-miniaturized-electronics-is-broken-thanks-to-a-new-type-of-inductor-eb5c1a2c7460)
+* [Griffon: a desktop application development platform for the JVM](http://griffon-framework.org/)
+* [Monarch: Google’s Planet-Scale In-Memory Time Series Database [pdf]](http://www.vldb.org/pvldb/vol13/p3181-adams.pdf)
 * [American Academy of Sleep Medicine calls for elimination of daylight saving time](https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/)
 * [DearPyGui](https://github.com/hoffstadt/DearPyGui)
 * [Emoji simulator – a tool to make cellular automata, with emoji](https://ncase.me/sim/)
 * [The tyranny of chairs: why we need better design](https://www.theguardian.com/artanddesign/2020/aug/25/the-tyranny-of-chairs)
-* [TiDB: A Raft-based HTAP Database [pdf]](http://www.vldb.org/pvldb/vol13/p3072-huang.pdf)
 * [Inventing Monads](https://stopa.io/post/247)
-* [A Command Line vs. GUI Meeting](https://gravitational.com/blog/command-line-vs-gui/)
+* [TiDB: A Raft-based HTAP Database [pdf]](http://www.vldb.org/pvldb/vol13/p3072-huang.pdf)
 * [Japan’s Entry in Flying-Car Race Takes to the Air](https://www.wsj.com/articles/japans-entry-in-flying-car-race-takes-to-the-air-11598691548)
+* [A Command Line vs. GUI Meeting](https://gravitational.com/blog/command-line-vs-gui/)
 * [Engineer admits he wiped 456 Cisco WebEx VMs from AWS after leaving](https://www.theregister.com/2020/08/26/former_cisco_engineer_aws_webex_teams/)
+* [We Chose a Distributed SQL Database to Complement MySQL](https://pingcap.com/case-studies/why-we-chose-a-distributed-sql-database-to-complement-mysql)
 ## nytimes.com
 
 
@@ -74,9 +74,9 @@ layout: default
 * [Phoenix Settles With Black Family After Police Drew Guns Over Reported Doll Theft](https://www.nytimes.com/2020/08/29/us/phoenix-police-settlement.html)
 * [16 Injured in Bus Accident Near Port Authority](https://www.nytimes.com/2020/08/29/nyregion/bus-accident-nyc-port-authority.html)
 * [Bison Are On the Run After 125 Escape a Nebraska Feedlot](https://www.nytimes.com/2020/08/29/us/bison-escape-nebraska.html)
+* [‘Something Broke Inside Belarusians.’ Why an Apolitical People Rose Up](https://www.nytimes.com/2020/08/29/world/europe/belarus-protest.html)
 * [Film Crew Spent 3 Years in Remote Balkan Hamlet. Will They Ever Leave?](https://www.nytimes.com/2020/08/29/world/europe/honeyland-north-macedonia-bees.html)
-* [When Retirement Comes Too Early](https://www.nytimes.com/2020/08/28/health/coronavirus-retirement-recession.html)
-* [Here’s What America’s Covid-Era Classrooms Look Like](https://www.nytimes.com/2020/08/27/education/coronavirus-schools-classrooms-teachers.html)
+* [With a Wary Eye on China, Taiwan Moves to Revamp Its Military](https://www.nytimes.com/2020/08/30/world/asia/taiwan-china-military.html)
 * [Amid Tennis’s Swirling Storms, a Stubborn Djokovic Claims a Title](https://www.nytimes.com/2020/08/29/sports/tennis/novak-djokovic-us-open.html)
 * [Are You an American Voting From Abroad? Here’s How to Do It](https://www.nytimes.com/2020/08/28/smarter-living/american-vote-from-abroad.html)
 * [Can You Hear Yourself Think?](https://www.nytimes.com/2020/08/25/realestate/house-noise-solutions.html)
@@ -90,10 +90,10 @@ layout: default
 * [Coronavirus Superspreader Event in Boston Led to Thousands of Infections](https://www.nytimes.com/2020/08/26/health/covid-19-superspreaders-boston.html)
 * [Exercise May Boost Your Vaccine Response](https://www.nytimes.com/2020/08/26/well/move/exercise-may-boost-your-vaccine-response.html)
 * [Young Adults’ Pandemic Mental Health Risks](https://www.nytimes.com/2020/08/24/well/family/young-adults-mental-health-pandemic.html)
-* [Here’s How Moving to Work Remotely Could Affect Your Taxes](https://www.nytimes.com/2020/08/25/business/coronavirus-nonresident-state-taxes.html)
 * [7 Takeaways From ‘Melania and Me,’ by the First Lady’s Former Friend](https://www.nytimes.com/2020/08/28/books/review/melania-and-me-stephanie-winston-wolkoff.html)
-* [‘The Personal History of David Copperfield’ Review: A Boy’s Story](https://www.nytimes.com/2020/08/27/movies/the-personal-history-of-david-copperfield-review.html)
-* [Trump Can’t Avoid Reality Forever](https://www.nytimes.com/2020/08/28/opinion/trump-convention.html)
+* [Bayern Munich 1, P.S.G. 0: A Champions League Win for Tradition and Team](https://www.nytimes.com/2020/08/23/sports/soccer/psg-bayern-live-score.html)
+* [How the U.K. Restarted Its Restaurant Industry: Paying Half the Bill](https://www.nytimes.com/2020/08/25/business/britain-restaurants-eat-out-to-help-out.html)
+* [Neymar Finally Grows Up](https://www.nytimes.com/2020/08/23/sports/soccer/neymar-psg-.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)

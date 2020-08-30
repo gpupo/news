@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 30/08/2020 00:22:20 UTC
+# indexed at 30/08/2020 00:34:28 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [I thought I would have accomplished a lot more today and also before I was 35](https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five)
 * [Tesla’s former CTO is building a giant lithium-ion battery recycling operation](https://www.wsj.com/articles/one-of-the-brains-behind-tesla-found-a-new-way-to-make-electric-cars-cheaper-11598673630)
-* [First complete dinosaur skeleton ever found has finally been studied in detail](https://phys.org/news/2020-08-dinosaur-skeleton-ready-closeup.html)
 * [Sendgrid under siege from hacked accounts](https://krebsonsecurity.com/2020/08/sendgrid-under-siege-from-hacked-accounts/)
-* [Metcalf Sniper Attack](https://en.wikipedia.org/wiki/Metcalf_sniper_attack)
-* [I Compiled NASA‘s Workmanship Standards into a Single PDF](https://archive.org/details/nasa-workmanship-standards)
-* [Deep Dive into PHP 8's JIT](https://thephp.website/en/issue/php-8-jit/)
-* [SC-IM – An ncurses spreadsheet program for the terminal](https://github.com/andmarti1424/sc-im)
-* [The Node Is Nonsense: Better ways to measure progress than Moore's law [pdf]](https://www.gwern.net/docs/cs/2020-moore.pdf)
+* [First complete dinosaur skeleton ever found has finally been studied in detail](https://phys.org/news/2020-08-dinosaur-skeleton-ready-closeup.html)
 * [Tower Defense with a twist: all towers must be positioned with CSS Flexbox](http://www.flexboxdefense.com/)
-* [Asciimatics – create full-screen text UIs on any platform](https://github.com/peterbrittain/asciimatics)
-* [Cells solve mazes and respond at a distance using attractant breakdown](https://science.sciencemag.org/content/369/6507/eaay9792)
-* [DearPyGui](https://github.com/hoffstadt/DearPyGui)
-* [Emoji simulator – a tool to make cellular automata, with emoji](https://ncase.me/sim/)
-* [Monarch: Google’s Planet-Scale In-Memory Time Series Database [pdf]](http://www.vldb.org/pvldb/vol13/p3181-adams.pdf)
+* [Deep Dive into PHP 8's JIT](https://thephp.website/en/issue/php-8-jit/)
+* [Metcalf Sniper Attack](https://en.wikipedia.org/wiki/Metcalf_sniper_attack)
 * [How to Pick a Quack: Data](https://www.overcomingbias.com/2020/08/how-to-pick-a-quack.html)
-* [A 189 Year Old Limitation on Inductor Size Has Been Broken](https://medium.com/starts-with-a-bang/the-last-barrier-to-ultra-miniaturized-electronics-is-broken-thanks-to-a-new-type-of-inductor-eb5c1a2c7460)
-* [The tyranny of chairs: why we need better design](https://www.theguardian.com/artanddesign/2020/aug/25/the-tyranny-of-chairs)
-* [American Academy of Sleep Medicine calls for elimination of daylight saving time](https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/)
-* [Inventing Monads](https://stopa.io/post/247)
+* [I Compiled NASA‘s Workmanship Standards into a Single PDF](https://archive.org/details/nasa-workmanship-standards)
+* [The Node Is Nonsense: Better ways to measure progress than Moore's law [pdf]](https://www.gwern.net/docs/cs/2020-moore.pdf)
+* [SC-IM – An ncurses spreadsheet program for the terminal](https://github.com/andmarti1424/sc-im)
+* [Cells solve mazes and respond at a distance using attractant breakdown](https://science.sciencemag.org/content/369/6507/eaay9792)
+* [Asciimatics – create full-screen text UIs on any platform](https://github.com/peterbrittain/asciimatics)
+* [DearPyGui](https://github.com/hoffstadt/DearPyGui)
+* [Monarch: Google’s Planet-Scale In-Memory Time Series Database [pdf]](http://www.vldb.org/pvldb/vol13/p3181-adams.pdf)
+* [Emoji simulator – a tool to make cellular automata, with emoji](https://ncase.me/sim/)
 * [Why does the government let a company like Herbalife stay in business?](https://www.latimes.com/business/story/2020-08-28/herbalife-lawbreaking-companies)
+* [A 189 Year Old Limitation on Inductor Size Has Been Broken](https://medium.com/starts-with-a-bang/the-last-barrier-to-ultra-miniaturized-electronics-is-broken-thanks-to-a-new-type-of-inductor-eb5c1a2c7460)
+* [American Academy of Sleep Medicine calls for elimination of daylight saving time](https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/)
+* [The tyranny of chairs: why we need better design](https://www.theguardian.com/artanddesign/2020/aug/25/the-tyranny-of-chairs)
+* [Inventing Monads](https://stopa.io/post/247)
 * [We Chose a Distributed SQL Database to Complement MySQL](https://pingcap.com/case-studies/why-we-chose-a-distributed-sql-database-to-complement-mysql)
-* [Guide to Rustc Development](https://rustc-dev-guide.rust-lang.org/)
 * [Japan’s Entry in Flying-Car Race Takes to the Air](https://www.wsj.com/articles/japans-entry-in-flying-car-race-takes-to-the-air-11598691548)
-* [Building storage-first serverless apps with HTTP APIs service integrations](https://aws.amazon.com/blogs/compute/building-storage-first-applications-with-http-apis-service-integrations/)
+* [Guide to Rustc Development](https://rustc-dev-guide.rust-lang.org/)
 * [Engineer admits he wiped 456 Cisco WebEx VMs from AWS after leaving](https://www.theregister.com/2020/08/26/former_cisco_engineer_aws_webex_teams/)
-* [Design Tip: Never Use Black (2012)](https://ianstormtaylor.com/design-tip-never-use-black/)
-* [Don't trust default timeouts](https://robertovitillo.com/default-timeouts/)
+* [Building storage-first serverless apps with HTTP APIs service integrations](https://aws.amazon.com/blogs/compute/building-storage-first-applications-with-http-apis-service-integrations/)
 * [Facebook’s ties to India’s ruling party complicate its fight against hate speech](https://time.com/5883993/india-facebook-hate-speech-bjp/)
+* [Don't trust default timeouts](https://robertovitillo.com/default-timeouts/)
 * [Babylonian Multiplication in the shower (2016)](https://www.iquilezles.org/blog/?p=4582)
+* [Apple doesn't let you disclose their 30% IAP fee to your customers](https://twitter.com/getify/status/1299569045348454401)
 ## nytimes.com
 
 
@@ -66,8 +66,8 @@ layout: default
 * [The Princess vs. the Portrait in Trumpworld](https://www.nytimes.com/2020/08/29/opinion/sunday/ivanka-melania-trump-2020.html)
 * [College Football During Covid-19 Teaches the Wrong Lessons](https://www.nytimes.com/2020/08/29/opinion/sunday/college-football-covid.html)
 * [The Brain Implants That Could Change Humanity](https://www.nytimes.com/2020/08/28/opinion/sunday/brain-machine-artificial-intelligence.html)
-* [Remembering Katrina and Its Unlearned Lessons, 15 Years On](https://www.nytimes.com/2020/08/21/opinion/sunday/coronavirus-hurricane-katrina-anniversary.html)
 * [‘We’re Here and They’re Not’](https://www.nytimes.com/2020/08/28/opinion/sunday/trump-rnc-speech.html)
+* [Remembering Katrina and Its Unlearned Lessons, 15 Years On](https://www.nytimes.com/2020/08/21/opinion/sunday/coronavirus-hurricane-katrina-anniversary.html)
 * [Join Us for a Live Conversation About Making Cities More Equitable](https://www.nytimes.com/2020/08/26/opinion/event-fair-housing-segregation.html)
 * [Roaming Through Lanzarote’s Otherworldly Vineyards](https://www.nytimes.com/2020/08/24/travel/lanzarote-canary-islands.html)
 * [This Zucchini Tian Is Nonna-Inspired Cooking at Restaurant Speed](https://www.nytimes.com/2020/08/26/magazine/this-zucchini-tian-is-nonna-inspired-cooking-at-restaurant-speed.html)
@@ -82,9 +82,9 @@ layout: default
 * [Denying Alex Rodriguez, Mets Avoid a Risky Presence in the Owner’s Box](https://www.nytimes.com/2020/08/29/sports/baseball/mets-alex-rodriguez-steve-cohen.html)
 * [Bison Are On the Run After 125 Escape a Nebraska Feedlot](https://www.nytimes.com/2020/08/29/us/bison-escape-nebraska.html)
 * [Are You an American Voting From Abroad? Here’s How to Do It](https://www.nytimes.com/2020/08/28/smarter-living/american-vote-from-abroad.html)
+* [Move Over, Sustainable Travel. Regenerative Travel Has Arrived.](https://www.nytimes.com/2020/08/27/travel/travel-future-coronavirus-sustainable.html)
 * [Can You Hear Yourself Think?](https://www.nytimes.com/2020/08/25/realestate/house-noise-solutions.html)
 * [How to Choose the Right Pediatrician](https://www.nytimes.com/article/choosing-a-pediatrician-children.html)
-* [Move Over, Sustainable Travel. Regenerative Travel Has Arrived.](https://www.nytimes.com/2020/08/27/travel/travel-future-coronavirus-sustainable.html)
 * [Intimacy in Isolation](https://www.nytimes.com/2020/08/29/style/intimacy-in-isolation.html)
 * [A Garden Designed to Run Wild](https://www.nytimes.com/2020/08/26/t-magazine/garden-flowers-art-stationery.html)
 * [For David Hallberg, a Swan Song in Pictures](https://www.nytimes.com/2020/08/28/arts/dance/david-hallberg-bolshoi.html)
@@ -93,16 +93,16 @@ layout: default
 * [Coronavirus Superspreader Event in Boston Led to Thousands of Infections](https://www.nytimes.com/2020/08/26/health/covid-19-superspreaders-boston.html)
 * [Exercise May Boost Your Vaccine Response](https://www.nytimes.com/2020/08/26/well/move/exercise-may-boost-your-vaccine-response.html)
 * [Young Adults’ Pandemic Mental Health Risks](https://www.nytimes.com/2020/08/24/well/family/young-adults-mental-health-pandemic.html)
-* [‘Something Broke Inside Belarusians.’ Why an Apolitical People Rose Up](https://www.nytimes.com/2020/08/29/world/europe/belarus-protest.html)
 * [What to Watch for on Day 2 of the Republican National Convention](https://www.nytimes.com/2020/08/25/us/politics/republican-national-convention-guide.html)
 * [7 Takeaways From ‘Melania and Me,’ by the First Lady’s Former Friend](https://www.nytimes.com/2020/08/28/books/review/melania-and-me-stephanie-winston-wolkoff.html)
-* [Bayern Munich 1, P.S.G. 0: A Champions League Win for Tradition and Team](https://www.nytimes.com/2020/08/23/sports/soccer/psg-bayern-live-score.html)
+* [On Trump, Merkel's Face Does the Talking](https://www.nytimes.com/2020/08/28/world/europe/merkel-trump-grenell.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [Fred volta a marcar, Fluminense vence por 2 a 1 e derruba invencibilidade do Vasco sob comando de Ramon](https://oglobo.globo.com/esportes/fred-volta-marcar-fluminense-vence-por-2-1-derruba-invencibilidade-do-vasco-sob-comando-de-ramon-24614312)
 * [Bolsonaro anuncia terça-feira prorrogação do auxílio emergencial, diz líder do centrão](https://oglobo.globo.com/economia/bolsonaroanuncia-terca-feira-prorrogacao-do-auxilio-emergencial-diz-lider-do-centrao-1-24614286)
 * [Número de casos do novo coronavírus na Argentina passa de 400 mil](https://oglobo.globo.com/mundo/numero-de-casos-do-novo-coronavirus-na-argentina-passa-de-400-mil-24614259)
 * [Trump reduz cota de importação de aço brasileiro em quase 83% no quarto trimestre](https://oglobo.globo.com/economia/trump-reduz-cota-de-importacao-de-aco-brasileiro-em-quase-83-no-quarto-trimestre-1-24614113)
@@ -112,4 +112,3 @@ layout: default
 * [Número de focos de incêndio no Amazonas em agosto já é o maior em 22 anos](https://oglobo.globo.com/sociedade/numero-de-focos-de-incendio-no-amazonas-em-agosto-ja-o-maior-em-22-anos-24614032)
 * [Animal de estimação é deixado em clínica para banho e tosa e some em Campos](https://oglobo.globo.com/rio/animal-de-estimacao-deixado-em-clinica-para-banho-tosa-some-em-campos-24614043)
 * [Um dia após afastamento, Wilson Witzel passa mal e trata infecção em hospital](https://oglobo.globo.com/rio/um-dia-apos-afastamento-wilson-witzel-passa-mal-trata-infeccao-em-hospital-24614005)
-* [Queimadas no Pantanal também atingem vegetação do subsolo](https://oglobo.globo.com/sociedade/queimadas-no-pantanal-tambem-atingem-vegetacao-do-subsolo-24614001)

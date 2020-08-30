@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 30/08/2020 23:07:13 UTC
+# indexed at 30/08/2020 23:34:41 UTC
 
 
 ## news.ycombinator.com
@@ -13,31 +13,31 @@ layout: default
 * [Show HN: Learn how WebRTC actually works. A book on the protocols, not just APIs](https://webrtcforthecurious.com/)
 * [A terminal-based presentation tool with colors and effects](https://github.com/vinayak-mehta/present)
 * [The Legend of GayBlade](https://blog.archive.org/2020/08/28/the-legend-of-gayblade/)
+* [Chrome is not the new IE](https://threadreaderapp.com/thread/1299136717027336192)
 * [Essentials of Programming Languages](http://eopl3.com/)
 * [Show HN: Vimac – Productive macOS keyboard-driven navigation](http://vimacapp.com)
+* [What Shell Am I Using?](https://nil.wallyjones.com/what-shell-am-i-using/)
 * [The Recursive Universe](http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/)
 * [All Circuits Are Busy Now: The 1990 AT&T Long Distance Network Collapse (1995)](https://users.csc.calpoly.edu/~jdalbey/SWE/Papers/att_collapse)
 * [Low-level details of the Zen 2 microarchitecture [pdf]](https://www.agner.org/optimize/microarchitecture.pdf)
-* [The Unexpected Elegance of Irrigation Systems from Above](https://www.atlasobscura.com/articles/why-do-farms-look-like-circles-from-planes)
 * [How to Read a Log Scale](https://blog.datawrapper.de/weeklychart-logscale/)
 * [The “menu engineers” who optimize restaurant revenue](https://thehustle.co/meet-the-menu-engineers-helping-restaurants-retool-during-the-pandemic/)
+* [The Unexpected Elegance of Irrigation Systems from Above](https://www.atlasobscura.com/articles/why-do-farms-look-like-circles-from-planes)
+* [How to Write Unmaintainable Code](https://github.com/Droogans/unmaintainable-code/blob/master/README.md)
 * [After 48 years, Democrats endorse nuclear energy in platform](https://www.forbes.com/sites/robertbryce/2020/08/23/after-48-years-democrats-endorse-nuclear-energy-in-platform/#3c7687df5829)
 * [Physicists found a new quantum paradox that casts doubt on a pillar of reality](https://www.sciencealert.com/a-new-quantum-paradox-throws-the-foundations-of-observed-reality-into-question)
+* [The Crazy-Tiny Next Generation of Computers (2015)](https://medium.com/backchannel/the-crazy-tiny-next-generation-of-computers-17e89e472839)
 * [Multi-Tenant Architectures](https://blog.codonomics.com/2020/08/multi-tenant-architectures.html)
 * [Tech my dad banned in our house when I was a kid](https://gizmodo.com/the-tech-my-dad-banned-from-our-house-1844777825)
-* [What Shell Am I Using?](https://nil.wallyjones.com/what-shell-am-i-using/)
-* [How to Write Unmaintainable Code](https://github.com/Droogans/unmaintainable-code/blob/master/README.md)
+* [Frank Ramsey: A more human philosophy](https://www.the-tls.co.uk/articles/frank-ramsey-a-more-human-philosophy/)
 * [Using the Linux kernel's Case-insensitive feature in Ext4](https://www.collabora.com/news-and-blog/blog/2020/08/27/using-the-linux-kernel-case-insensitive-feature-in-ext4/)
 * [We Know How to Prevent Megafires](https://www.propublica.org/article/they-know-how-to-prevent-megafires-why-wont-anybody-listen/)
-* [Frank Ramsey: A more human philosophy](https://www.the-tls.co.uk/articles/frank-ramsey-a-more-human-philosophy/)
-* [Facebook isn’t happy about Apple’s upcoming ad tracking restrictions](https://techcrunch.com/2020/08/27/facebook-vs-apple-ad-tracking/)
-* [The Crazy-Tiny Next Generation of Computers (2015)](https://medium.com/backchannel/the-crazy-tiny-next-generation-of-computers-17e89e472839)
 * [Horcrux Encrypted Messaging](https://www.notion.so/Horcrux-Encrypted-Messaging-78af0a3f326244ebb0aedff7c298953d)
 * [An interesting mistake with Go's context package](https://utcc.utoronto.ca/~cks/space/blog/programming/GoContextValueMistake)
 * [I thought I would have accomplished a lot more today and also before I was 35](https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five)
-* [WebBundles are built for content-addressable networks](https://adlrocha.substack.com/p/adlrocha-webbundles-are-built-for)
-* [Ask HN: How does your data science or machine learning team handle DevOps?](https://news.ycombinator.com/item?id=24323778)
 * [The Door Problem (2014)](http://www.lizengland.com/blog/2014/04/the-door-problem/)
+* [WebBundles are built for content-addressable networks](https://adlrocha.substack.com/p/adlrocha-webbundles-are-built-for)
+* [American Academy of Sleep Medicine calls for elimination of daylight saving time](https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/)
 ## nytimes.com
 
 
@@ -88,23 +88,23 @@ layout: default
 * [Today’s Chefs Are Honoring a Vital Tradition: Feeding the Revolution](https://www.nytimes.com/2020/08/28/t-magazine/food-protest-revolution.html)
 * [A Final Episode for the TV Listings](https://www.nytimes.com/2020/08/28/insider/TV-listings-ending.html)
 * [Malcolm X, Laurence Fishburne and ‘the Theater of Your Mind’](https://www.nytimes.com/2020/08/30/books/laurence-fishburne-autobiography-of-malcolm-x-audiobook.html)
-* [A Strange Rash Had Doctors Stumped. Was It an Insect Bite?](https://www.nytimes.com/2020/08/27/magazine/allergic-contact-dermatitis-acd.html)
 * [Did Something Burp? It Was an Earthquake](https://www.nytimes.com/2020/08/29/science/earthquakes-carbon-dioxide.html)
+* [A Strange Rash Had Doctors Stumped. Was It an Insect Bite?](https://www.nytimes.com/2020/08/27/magazine/allergic-contact-dermatitis-acd.html)
 * [A Woman May Have Been Cured of H.I.V. Without Medical Treatment](https://www.nytimes.com/2020/08/26/health/hiv-cure.html)
 * [A Rip in the Fabric of Interstellar Dreams](https://www.nytimes.com/2020/08/21/science/space-telescope-puerto-rico-arecibo.html)
-* [What to Watch for on Day 2 of the Republican National Convention](https://www.nytimes.com/2020/08/25/us/politics/republican-national-convention-guide.html)
 * [7 Takeaways From ‘Melania and Me,’ by the First Lady’s Former Friend](https://www.nytimes.com/2020/08/28/books/review/melania-and-me-stephanie-winston-wolkoff.html)
-* [What’s on TV Wednesday: ‘Queen & Slim’ and ‘Hamlet’](https://www.nytimes.com/2020/08/26/arts/television/whats-on-tv-wednesday-queen-slim-and-hamlet.html)
-* [Trump’s Legal Entanglements in N.Y.](https://www.nytimes.com/2020/08/26/nyregion/donald-trump-taxes-new-york.html)
+* [What’s on TV Saturday: A CNN Special and ‘Tesla’](https://www.nytimes.com/2020/08/24/arts/television/whats-on-tv-saturday-a-cnn-special-and-tesla.html)
+* [For Refusing a Drink, a Chinese Worker Was Slapped in the Face](https://www.nytimes.com/2020/08/25/world/asia/china-slap-drinking-work.html)
+* [On Trump, Merkel's Face Does the Talking](https://www.nytimes.com/2020/08/28/world/europe/merkel-trump-grenell.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [Israel negocia em segredo normalização das relações com países árabes, diz Netanyahu](https://oglobo.globo.com/mundo/israel-negocia-em-segredo-normalizacao-das-relacoes-com-paises-arabes-diz-netanyahu-24614785)
 * [Brasil registra 120.896 mortes por coronavírus, aponta boletim de veículos de imprensa](https://oglobo.globo.com/sociedade/coronavirus/brasil-registra-120896-mortes-por-coronavirus-aponta-boletim-de-veiculos-de-imprensa-24614794)
 * [Rio segue com aumento na média móvel de mortes por novo coronavírus pelo nono dia seguido](https://oglobo.globo.com/rio/rio-segue-com-aumento-na-media-movel-de-mortes-por-novo-coronavirus-pelo-nono-dia-seguido-24614827)
-* [Israel negocia em segredo normalização das relações com países árabes, diz Netanyahu](https://oglobo.globo.com/mundo/israel-negocia-em-segredo-normalizacao-das-relacoes-com-paises-arabes-diz-netanyahu-24614785)
 * [Comissão de Direitos Humanos da OAB vai analisar caso de produtora cultural que diz ter sido estuprada por PM em Copacabana](https://oglobo.globo.com/rio/comissao-de-direitos-humanos-da-oab-vai-analisar-caso-de-produtora-cultural-que-diz-ter-sido-estuprada-por-pm-em-copacabana-24614869)
 * [Mulher sofre tentativa de feminicídio na Baixada](https://oglobo.globo.com/rio/mulher-sofre-tentativa-de-feminicidio-na-baixada-24614823)
 * [Warren Buffett faz 90 anos e recomenda 'técnica de Matusalém' para virar bilionário](https://oglobo.globo.com/economia/warren-buffett-faz-90-anos-recomenda-tecnica-de-matusalem-para-virar-bilionario-24614726)

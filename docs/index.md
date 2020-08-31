@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 31/08/2020 10:11:05 UTC
+# indexed at 31/08/2020 10:34:28 UTC
 
 
 ## news.ycombinator.com
@@ -13,31 +13,31 @@ layout: default
 * [Analysis of Today's CenturyLink/Level(3) Outage](https://blog.cloudflare.com/analysis-of-todays-centurylink-level-3-outage/)
 * [Unusual Maps](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0002yI)
 * [Why are there 5280 feet in a mile?](https://petersmagnusson.org/2009/09/15/why-are-there-5280-feet-in-a-mile/)
+* [The basic dramatic situations, according to 1919 manual for screenwriters](http://www.openculture.com/2020/08/37-possible-stories.html)
 * [Sum Types in Julia and Rust](https://andreaskroepelin.de/blog/sum_types/)
 * [Drug cartel assassinates its enemies with bomb-toting drones](https://www.thedrive.com/the-war-zone/36013/mexican-drug-cartel-now-assassinating-its-enemies-with-improvised-explosive-toting-drones)
 * [Ubuntu 20.04’s zsys adds ZFS snapshots to package management](https://arstechnica.com/gadgets/2020/03/ubuntu-20-04s-zsys-adds-zfs-snapshots-to-package-management/)
 * [Banks create money, but it's less impressive than it sounds](https://www.attejuvonen.fi/money-out-of-thin-air/)
-* [Visualizing TSNE Maps with Three.js](https://douglasduhaime.com/posts/visualizing-tsne-maps-with-three-js.html)
-* [The basic dramatic situations, according to 1919 manual for screenwriters](http://www.openculture.com/2020/08/37-possible-stories.html)
-* [We Replaced an SSD with Storage Class Memory](https://engineering.mongodb.com/post/we-replaced-an-ssd-with-storage-class-memory-here-is-what-we-learned)
 * [The Easy Ones – Three Bugs Hiding in the Open](https://randomascii.wordpress.com/2020/08/30/the-easy-ones-three-bugs-hiding-in-the-open/)
-* [K-Stash: A search engine for your useful links – for devs and researchers](https://k-stash.com)
+* [We Replaced an SSD with Storage Class Memory](https://engineering.mongodb.com/post/we-replaced-an-ssd-with-storage-class-memory-here-is-what-we-learned)
+* [Visualizing TSNE Maps with Three.js](https://douglasduhaime.com/posts/visualizing-tsne-maps-with-three-js.html)
+* [Alarm as FDA willing to issue Covid-19 vaccine before stringent safety testing](https://mindhive.org/challenges/1273/overview/brief)
+* [Don't Get Stuck](https://stitcher.io/blog/dont-get-stuck)
 * [Level 3 Global Outage](https://puck.nether.net/pipermail/outages/2020-August/013187.html)
 * [What Shell Am I Using?](https://nil.wallyjones.com/what-shell-am-i-using/)
+* [K-Stash: A search engine for your useful links – for devs and researchers](https://k-stash.com)
 * [How to Write Unmaintainable Code (2003)](https://github.com/Droogans/unmaintainable-code/blob/master/README.md)
-* [Don't Get Stuck](https://stitcher.io/blog/dont-get-stuck)
+* [Converting Boolean-Logic Decision Trees to Finite State Machines](https://medium.com/analytics-vidhya/converting-boolean-logic-decision-trees-to-finite-state-machines-180ad195abf2)
 * [Show HN: Learn how WebRTC actually works. A book on the protocols, not just APIs](https://webrtcforthecurious.com/)
 * [Players are fixing Microsoft Flight Simulator’s monuments with Google Maps](https://www.rockpapershotgun.com/2020/08/28/players-are-fixing-microsoft-flight-simulators-missing-monuments-with-google-maps/)
-* [Converting Boolean-Logic Decision Trees to Finite State Machines](https://medium.com/analytics-vidhya/converting-boolean-logic-decision-trees-to-finite-state-machines-180ad195abf2)
 * [Win “Active Hours” underscores how you’re not in control of your devices (2016)](https://www.ctrl.blog/entry/windows-active-hours.html)
 * [High-tech tracking reveals ‘secret world of birds’](https://www.smithsonianmag.com/smithsonian-institution/high-tech-tracking-reveals-birds-movement-beyond-migration-180975673/)
-* [Writing a Lisp to x86-64 compiler](https://news.ycombinator.com/item?id=24328998)
-* [An overview of the science on function length](https://softwarebyscience.com/very-short-functions-are-a-code-smell-an-overview-of-the-science-on-function-length/)
 * [A terminal-based presentation tool with colors and effects](https://github.com/vinayak-mehta/present)
+* [An overview of the science on function length](https://softwarebyscience.com/very-short-functions-are-a-code-smell-an-overview-of-the-science-on-function-length/)
+* [Writing a Lisp to x86-64 compiler](https://news.ycombinator.com/item?id=24328998)
 * [Yml Coding](https://cloud.google.com/workflows/docs/reference/syntax)
-* [The Legend of GayBlade](https://blog.archive.org/2020/08/28/the-legend-of-gayblade/)
 * [Essentials of Programming Languages](http://eopl3.com/)
-* [Waiting for Gödel (2016)](https://www.newyorker.com/tech/annals-of-technology/waiting-for-godel)
+* [The Legend of GayBlade](https://blog.archive.org/2020/08/28/the-legend-of-gayblade/)
 ## nytimes.com
 
 
@@ -88,10 +88,10 @@ layout: default
 * [A Strange Rash Had Doctors Stumped. Was It an Insect Bite?](https://www.nytimes.com/2020/08/27/magazine/allergic-contact-dermatitis-acd.html)
 * [A Woman May Have Been Cured of H.I.V. Without Medical Treatment](https://www.nytimes.com/2020/08/26/health/hiv-cure.html)
 * [A Rip in the Fabric of Interstellar Dreams](https://www.nytimes.com/2020/08/21/science/space-telescope-puerto-rico-arecibo.html)
-* [‘Bill & Ted Face the Music’ Review: Be Adequate to Each Other](https://www.nytimes.com/2020/08/27/movies/bill-and-ted-face-the-music-review.html)
-* [In a Naked Pandemic Race, You Can Leave Your Hat On](https://www.nytimes.com/2020/08/28/well/move/running-race-nudist-resort-naked.html)
-* [What to Know About Colon Cancer](https://www.nytimes.com/2020/08/29/health/colon-cancer-chadwick-boseman.html)
-* [Officer Michael Oxford Is Fired After TikTok Videos Show His Arrest of Black Woman](https://www.nytimes.com/2020/08/23/us/georgia-police-officer-fired-tiktok.html)
+* [7 Takeaways From ‘Melania and Me,’ by the First Lady’s Former Friend](https://www.nytimes.com/2020/08/28/books/review/melania-and-me-stephanie-winston-wolkoff.html)
+* [After a Covid Scare, an Olympic Hopeful Recovers Her Optimism](https://www.nytimes.com/2020/08/24/sports/olympics/sunisa-lee-coronavirus-olympic-training.html)
+* [Women Would Abolish Child Labor (and Other Anti-Suffrage Excuses)](https://www.nytimes.com/2020/08/26/opinion/sunday/suffrage-19th-amendment.html)
+* [The 3 Scariest Chemicals to Watch Out For in Your Home](https://www.nytimes.com/2020/08/26/parenting/home-toxic-chemicals.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)

@@ -2,15 +2,15 @@
 layout: default
 ---
 
-# indexed at 31/08/2020 01:11:22 UTC
+# indexed at 31/08/2020 01:34:57 UTC
 
 
 ## news.ycombinator.com
 
 
+* [The Big Tesla Hack: A hacker gained control over the entire fleet](https://electrek.co/2020/08/27/tesla-hack-control-over-entire-fleet/)
 * [Drug cartel assassinates its enemies with bomb-toting drones](https://www.thedrive.com/the-war-zone/36013/mexican-drug-cartel-now-assassinating-its-enemies-with-improvised-explosive-toting-drones)
 * [Level 3 Global Outage](https://puck.nether.net/pipermail/outages/2020-August/013187.html)
-* [The Big Tesla Hack: A hacker gained control over the entire fleet](https://electrek.co/2020/08/27/tesla-hack-control-over-entire-fleet/)
 * [Players are fixing Microsoft Flight Simulator’s monuments with Google Maps](https://www.rockpapershotgun.com/2020/08/28/players-are-fixing-microsoft-flight-simulators-missing-monuments-with-google-maps/)
 * [Show HN: Learn how WebRTC actually works. A book on the protocols, not just APIs](https://webrtcforthecurious.com/)
 * [A terminal-based presentation tool with colors and effects](https://github.com/vinayak-mehta/present)
@@ -18,26 +18,26 @@ layout: default
 * [Essentials of Programming Languages](http://eopl3.com/)
 * [Show HN: Vimac – Productive macOS keyboard-driven navigation](http://vimacapp.com)
 * [What Shell Am I Using?](https://nil.wallyjones.com/what-shell-am-i-using/)
-* [The Recursive Universe](http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/)
 * [Banks create money out of thin air, but it's less impressive than it sounds](https://www.attejuvonen.fi/money-out-of-thin-air/)
+* [The Recursive Universe](http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/)
 * [All Circuits Are Busy Now: The 1990 AT&T Long Distance Network Collapse (1995)](https://users.csc.calpoly.edu/~jdalbey/SWE/Papers/att_collapse)
-* [How to Write Unmaintainable Code](https://github.com/Droogans/unmaintainable-code/blob/master/README.md)
 * [Low-level details of the Zen 2 microarchitecture [pdf]](https://www.agner.org/optimize/microarchitecture.pdf)
-* [The “menu engineers” who optimize restaurant revenue](https://thehustle.co/meet-the-menu-engineers-helping-restaurants-retool-during-the-pandemic/)
-* [How to Read a Log Scale](https://blog.datawrapper.de/weeklychart-logscale/)
-* [The Unexpected Elegance of Irrigation Systems from Above](https://www.atlasobscura.com/articles/why-do-farms-look-like-circles-from-planes)
-* [Multi-Tenant Architectures](https://blog.codonomics.com/2020/08/multi-tenant-architectures.html)
 * [Waiting for Gödel (2016)](https://www.newyorker.com/tech/annals-of-technology/waiting-for-godel)
+* [The “menu engineers” who optimize restaurant revenue](https://thehustle.co/meet-the-menu-engineers-helping-restaurants-retool-during-the-pandemic/)
+* [How to Write Unmaintainable Code](https://github.com/Droogans/unmaintainable-code/blob/master/README.md)
+* [Multi-Tenant Architectures](https://blog.codonomics.com/2020/08/multi-tenant-architectures.html)
+* [The Unexpected Elegance of Irrigation Systems from Above](https://www.atlasobscura.com/articles/why-do-farms-look-like-circles-from-planes)
+* [How to Read a Log Scale](https://blog.datawrapper.de/weeklychart-logscale/)
 * [Yml Coding](https://cloud.google.com/workflows/docs/reference/syntax)
 * [Tech my dad banned in our house when I was a kid](https://gizmodo.com/the-tech-my-dad-banned-from-our-house-1844777825)
 * [Ex-Neuralink employees describe rushed timelines clashing with science’s pace](https://www.dailymail.co.uk/sciencetech/article-8662975/Elon-Musks-brain-chip-Neuralink-plagued-turmoil-rushed-timelines-former-employees-claim.html)
 * [The Crazy-Tiny Next Generation of Computers (2015)](https://medium.com/backchannel/the-crazy-tiny-next-generation-of-computers-17e89e472839)
+* [After 48 years, Democrats endorse nuclear energy in platform](https://www.forbes.com/sites/robertbryce/2020/08/23/after-48-years-democrats-endorse-nuclear-energy-in-platform/#3c7687df5829)
 * [Using the Linux kernel's Case-insensitive feature in Ext4](https://www.collabora.com/news-and-blog/blog/2020/08/27/using-the-linux-kernel-case-insensitive-feature-in-ext4/)
 * [Frank Ramsey: A more human philosophy](https://www.the-tls.co.uk/articles/frank-ramsey-a-more-human-philosophy/)
 * [We Know How to Prevent Megafires](https://www.propublica.org/article/they-know-how-to-prevent-megafires-why-wont-anybody-listen/)
-* [After 48 years, Democrats endorse nuclear energy in platform](https://www.forbes.com/sites/robertbryce/2020/08/23/after-48-years-democrats-endorse-nuclear-energy-in-platform/#3c7687df5829)
 * [An interesting mistake with Go's context package](https://utcc.utoronto.ca/~cks/space/blog/programming/GoContextValueMistake)
-* [Asana co-founder Dustin Moskovitz exclusive interview](https://www.forbes.com/sites/alexkonrad/2020/08/26/asana-facebook-cofounder-dustin-moskovitz-slow-burn-second-act/#33e27ae37adc)
+* [I thought I would have accomplished a lot more today and also before I was 35](https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five)
 ## nytimes.com
 
 
@@ -79,10 +79,10 @@ layout: default
 * [What to Know About Colon Cancer](https://www.nytimes.com/2020/08/29/health/colon-cancer-chadwick-boseman.html)
 * [Athletes' Rest and Recovery in Pandemic Enhances Performance](https://www.nytimes.com/2020/08/30/sports/olympics/pandemic-olympics-training.html)
 * [Humans Take a Step Closer to ‘Flying Cars’](https://www.nytimes.com/2020/08/29/us/japan-flying-car.html)
-* [5 Simple Ways to Improve Your Wi-Fi](https://www.nytimes.com/2020/08/24/smarter-living/home-wifi-upgrade.html)
-* [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
-* [Finding the Soul of Sonora in Carne Asada](https://www.nytimes.com/2020/08/11/dining/carne-asada-sonora.html)
-* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
+* [Are You an American Voting From Abroad? Here’s How to Do It](https://www.nytimes.com/2020/08/28/smarter-living/american-vote-from-abroad.html)
+* [Can You Hear Yourself Think?](https://www.nytimes.com/2020/08/25/realestate/house-noise-solutions.html)
+* [Move Over, Sustainable Travel. Regenerative Travel Has Arrived.](https://www.nytimes.com/2020/08/27/travel/travel-future-coronavirus-sustainable.html)
+* [How to Choose the Right Pediatrician](https://www.nytimes.com/article/choosing-a-pediatrician-children.html)
 * [U.S. Open Players Face a New Foe: Silence](https://www.nytimes.com/2020/08/29/sports/tennis/us-open-fans-noise.html)
 * [Parenting in Front of a Live Audience of In-laws](https://www.nytimes.com/2020/08/27/parenting/intergenerational-living-marriage-coronavirus.html)
 * [Today’s Chefs Are Honoring a Vital Tradition: Feeding the Revolution](https://www.nytimes.com/2020/08/28/t-magazine/food-protest-revolution.html)
@@ -99,9 +99,9 @@ layout: default
 ## globo.com
 
 
+* [Brasil registra 120.896 mortes por coronavírus, aponta boletim de veículos de imprensa](https://oglobo.globo.com/sociedade/coronavirus/brasil-registra-120896-mortes-por-coronavirus-aponta-boletim-de-veiculos-de-imprensa-24614794)
 * [Viúva de Marielle Franco lamenta 900 dias sem resposta sobre mandantes do assassinato](https://oglobo.globo.com/rio/viuva-de-marielle-franco-lamenta-900-dias-sem-resposta-sobre-mandantes-do-assassinato-24615037)
 * [Witzel recebeu R$ 1 milhão de escritórios e PSC em 2018](https://oglobo.globo.com/rio/witzel-recebeu-1-milhao-de-escritorios-psc-em-2018-24614931)
-* [Brasil registra 120.896 mortes por coronavírus, aponta boletim de veículos de imprensa](https://oglobo.globo.com/sociedade/coronavirus/brasil-registra-120896-mortes-por-coronavirus-aponta-boletim-de-veiculos-de-imprensa-24614794)
 * [Israel negocia em segredo normalização das relações com países árabes, diz Netanyahu](https://oglobo.globo.com/mundo/israel-negocia-em-segredo-normalizacao-das-relacoes-com-paises-arabes-diz-netanyahu-24614785)
 * [Rio segue com aumento na média móvel de mortes por novo coronavírus pelo nono dia seguido](https://oglobo.globo.com/rio/rio-segue-com-aumento-na-media-movel-de-mortes-por-novo-coronavirus-pelo-nono-dia-seguido-24614827)
 * [Comissão de Direitos Humanos da OAB vai analisar caso de produtora cultural que diz ter sido estuprada por PM em Copacabana](https://oglobo.globo.com/rio/comissao-de-direitos-humanos-da-oab-vai-analisar-caso-de-produtora-cultural-que-diz-ter-sido-estuprada-por-pm-em-copacabana-24614869)

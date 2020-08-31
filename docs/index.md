@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 31/08/2020 17:17:01 UTC
+# indexed at 31/08/2020 17:35:18 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Apple changes App Review process](https://developer.apple.com/news/?id=84w3e5bm)
+* [App Review process updates](https://developer.apple.com/news/?id=84w3e5bm)
 * [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
-* [FedEx feeder plane takes flight without pilot in test for Reliable Robotics](https://www.commercialappeal.com/story/money/industries/logistics/2020/08/28/fedex-plane-autonomous-flight-reliable-robotics/5655258002/)
 * [Keli: A programming language to make Functional Programming a joy for users](https://keli-language.gitbook.io/doc/)
+* [FedEx feeder plane takes flight without pilot in test for Reliable Robotics](https://www.commercialappeal.com/story/money/industries/logistics/2020/08/28/fedex-plane-autonomous-flight-reliable-robotics/5655258002/)
 * [How NASA and ISRO discovered water on the Moon](https://jatan.space/how-nasa-and-chandrayaan-discovered-water-on-the-moon/)
 * [Mathematicians Report New Discovery About the Dodecahedron](https://www.quantamagazine.org/mathematicians-report-new-discovery-about-the-dodecahedron-20200831/)
-* [Enveritas (YC S18) Is Hiring a JavaScript/React Lead Developer](https://www.enveritas.org/jobs/engineering/)
 * [Interchange in Houston Is the Same Size as an Entire City Center in Italy](https://www.texasmonthly.com/politics/highway-interchange-houston-same-size-city-italy/)
+* [Enveritas (YC S18) Is Hiring a JavaScript/React Lead Developer](https://www.enveritas.org/jobs/engineering/)
 * [Show HN: ML From Scratch – free online textbook](https://dafriedman97.github.io/mlbook/content/introduction.html)
 * [PinePhone Manjaro Community Edition](https://www.pine64.org/2020/08/31/pinephone-manjaro-community-edition/)
-* [As above, so below, part 2. Bare metal Rust generics](https://www.ecorax.net/as-above-so-below-2/)
 * [Deep learning job postings have collapsed in the past six months](https://twitter.com/fchollet/status/1300137812872765440)
-* [How should we build the APIs of tomorrow?](https://increment.com/apis/how-we-should-build-apis-tomorrow/)
+* [As above, so below, part 2. Bare metal Rust generics](https://www.ecorax.net/as-above-so-below-2/)
 * [Self-charging ‘thousand-year’ battery completes lab tests](https://www.electronics-lab.com/self-charging-thousand-year-battery-completes-lab-tests/)
-* [Effective testing for machine learning systems](https://www.jeremyjordan.me/testing-ml/)
-* [Don't Be a Sucker](https://archive.org/details/0022_Dont_Be_a_Sucker_22_33_53_00)
+* [How should we build the APIs of tomorrow?](https://increment.com/apis/how-we-should-build-apis-tomorrow/)
 * [Ruby: We have decided to go forward to 3.0 this year](https://github.com/ruby/ruby/commit/21c62fb670b1646c5051a46d29081523cd782f11)
+* [Don't Be a Sucker](https://archive.org/details/0022_Dont_Be_a_Sucker_22_33_53_00)
 * [Significant sex differences in Covid-19 immune response](https://news.yale.edu/2020/08/26/sex-differences-covid-19-immune-responses-affect-patient-outcomes)
+* [Effective testing for machine learning systems](https://www.jeremyjordan.me/testing-ml/)
 * [Tracing at Slack: Thinking in Causal Graphs](https://slack.engineering/tracing-at-slack-thinking-in-causal-graphs/)
+* [Self – Fun Through Simplicity](https://selflanguage.org/)
 * [Italian Ruby](https://github.com/Pluvie/italian-ruby)
 * [Google, the Stupidity Amplifier (2016)](http://www.gregegan.net/ESSAYS/GOOGLE/Google.html)
 * [Do we really travel through time with the speed of light?](https://backreaction.blogspot.com/2020/08/do-we-really-travel-through-time-with.html)
+* [3D face: fast, accurate and stable reconstruction](https://github.com/cleardusk/3DDFA_V2)
 * [Padding Oracles: An Animated Primer](https://dylanpindur.com/blog/padding-oracles-an-animated-primer/)
-* [Making Navigation Work (2017)](http://gameshelf.jmac.org/2017/05/making-navigation-work/)
 * [Analysis of Today's CenturyLink/Level(3) Outage](https://blog.cloudflare.com/analysis-of-todays-centurylink-level-3-outage/)
-* [Thriverism](https://www.sonyasupposedly.com/thriverism/)
 * [Bits of History, Words of Advice](https://gbracha.blogspot.com/2020/05/bits-of-history-words-of-advice.html)
-* [3D face: fast, accurate and stable dense face alignment](https://github.com/cleardusk/3DDFA_V2)
-* [Sled Theoretical Performance Guide](http://sled.rs/perf.html)
+* [Making Navigation Work (2017)](http://gameshelf.jmac.org/2017/05/making-navigation-work/)
 * [Unusual Maps](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0002yI)
+* [Thriverism](https://www.sonyasupposedly.com/thriverism/)
 ## nytimes.com
 
 
@@ -51,9 +51,12 @@ layout: default
 * [Trump’s Tariffs? Coronavirus? China’s Exports Are Surging Anyway](https://www.nytimes.com/2020/08/31/business/trumps-tariffs-coronavirus-china-exports.html)
 * [Business Updates: China’s New Export Rules Complicate TikTok Deal](https://www.nytimes.com/live/2020/08/31/business/stock-market-today-coronavirus)
 * [Myriam Sarachik Never Gave Up on Physics](https://www.nytimes.com/2020/08/31/science/myriam-sarachik-physics.html)
+* [The Rush to Polling Judgment](https://www.nytimes.com/2020/08/31/briefing/trump-portland-coronavirus-your-monday-briefing.html)
+* [Suburban Home Sales Boom as People Move Out of N.Y.C.](https://www.nytimes.com/2020/08/31/nyregion/suburbs-nyc-pandemic.html)
 * [‘Who Replaces Me?’](https://www.nytimes.com/2020/08/31/podcasts/the-daily/flint-michigan-police-officer.html)
 * [Kurt Andersen on ‘Evil Geniuses’](https://www.nytimes.com/2020/08/28/books/review/podcast-evil-geniuses-kurt-andersen-fallout-hiroshima-lesley-m-m-blume.html)
 * [Episode One: The Book of Statuses](https://www.nytimes.com/2020/07/30/podcasts/nice-white-parents-serial.html)
+* [Coronavirus in California: The State's Plan for Reopening](https://www.nytimes.com/2020/08/31/us/california-coronavirus-reopening.html)
 * [Joe Biden Had Better Watch It](https://www.nytimes.com/2020/08/31/opinion/joe-biden-trump-2020.html)
 * [Republicans Have Another Option. It’s Not Trumpism.](https://www.nytimes.com/2020/08/31/opinion/trump-conservatives.html)
 * [Trump, Vicar of Fear and Violence](https://www.nytimes.com/2020/08/30/opinion/trump-white-fear-2020.html)
@@ -76,11 +79,11 @@ layout: default
 * [2020 U.S. Open: Live Updates from Day 1](https://www.nytimes.com/2020/08/31/sports/tennis/us-open-schedule-updates.html)
 * [Breonna Taylor’s Life Was Changing. Then the Police Came to Her Door.](https://www.nytimes.com/2020/08/30/us/breonna-taylor-police-killing.html)
 * [Is Social Security Becoming a Pawn in the Postal Service Crisis?](https://www.nytimes.com/2020/08/27/business/post-office-social-security-checks-mail.html)
-* [Does My Kid Have a Cold or Is It Covid-19?](https://www.nytimes.com/2020/08/28/parenting/kids-covid-symptoms.html)
-* [How to Help Someone Who Lost Their Job](https://www.nytimes.com/2020/08/30/smarter-living/how-to-help-someone-who-lost-their-job.html)
+* [Are You an American Voting From Abroad? Here’s How to Do It](https://www.nytimes.com/2020/08/28/smarter-living/american-vote-from-abroad.html)
 * [Can You Hear Yourself Think?](https://www.nytimes.com/2020/08/25/realestate/house-noise-solutions.html)
 * [Move Over, Sustainable Travel. Regenerative Travel Has Arrived.](https://www.nytimes.com/2020/08/27/travel/travel-future-coronavirus-sustainable.html)
-* [Are You an American Voting From Abroad? Here’s How to Do It](https://www.nytimes.com/2020/08/28/smarter-living/american-vote-from-abroad.html)
+* [Does My Kid Have a Cold or Is It Covid-19?](https://www.nytimes.com/2020/08/28/parenting/kids-covid-symptoms.html)
+* [How to Help Someone Who Lost Their Job](https://www.nytimes.com/2020/08/30/smarter-living/how-to-help-someone-who-lost-their-job.html)
 * [Attach an Asterisk to This U.S. Open? Tennis History Mocks That Idea](https://www.nytimes.com/2020/08/31/sports/tennis/-us-open-serena-djokovic.html)
 * [2020 MTV VMAs: Lady Gaga's Masks Were the Winners](https://www.nytimes.com/2020/08/31/style/lady-gaga-masks-vmas.html)
 * [‘I Miss No One.’ (She’s Kidding. Kind of.)](https://www.nytimes.com/2020/08/31/style/elsa-majimbo-nairobi-comedy.html)
@@ -100,13 +103,13 @@ layout: default
 ## globo.com
 
 
+* [Veto à desoneração da folha só deve ser votado pelo Congresso no dia 9 de setembro](https://oglobo.globo.com/economia/veto-desoneracao-da-folha-so-deve-ser-votado-pelo-congresso-no-dia-9-de-setembro-24615773)
+* [Após aglomeração em praias, Doria diz que SP ficará em quarentena até chegada de vacina](https://oglobo.globo.com/sociedade/apos-aglomeracao-em-praias-doria-diz-que-sp-ficara-em-quarentena-ate-chegada-de-vacina-24615778)
+* [Idoso se veste de Chaves no aniversário de 92 anos e viraliza nas redes: 'Sou famoso'](https://oglobo.globo.com/rio/idoso-se-veste-de-chaves-no-aniversario-de-92-anos-viraliza-nas-redes-sou-famoso-1-24615704)
+* [Nomeada por Damares para área de promoção da dignidade da mulher disse ser contra aborto em caso de estupro](https://oglobo.globo.com/sociedade/nomeada-por-damares-para-area-de-promocao-da-dignidade-da-mulher-disse-ser-contra-aborto-em-caso-de-estupro-24615695)
+* [Terremotos são mais comuns do que se imagina no Brasil, dizem especialistas](https://oglobo.globo.com/sociedade/terremotos-sao-mais-comuns-do-que-se-imagina-no-brasil-dizem-especialistas-24615627)
 * [Cláudio Castro anuncia em rede social que recebeu ligação de Flavio Bolsonaro e festeja 'diálogo'](https://oglobo.globo.com/rio/claudio-castro-anuncia-em-rede-social-que-recebeu-ligacao-de-flavio-bolsonaro-festeja-dialogo-1-24615714)
-* [Irmão faz homenagem a Diana 23 anos após sua morte](https://oglobo.globo.com/ela/gente/irmao-faz-homenagem-diana-23-anos-apos-sua-morte-24615691)
-* [Morre mulher baleada no rosto durante discussão em Belford Roxo](https://oglobo.globo.com/rio/morre-mulher-baleada-no-rosto-durante-discussao-em-belford-roxo-24615661)
+* [PGR apura se Witzel usou conta bancária do escritório da mulher, abastecida com pagamentos suspeitos](https://oglobo.globo.com/rio/pgr-apura-se-witzel-usou-conta-bancaria-do-escritorio-da-mulher-abastecida-com-pagamentos-suspeitos-24615749)
 * [Globoplay integra conteúdo ao vivo de 19 canais como Multishow, GNT e Viva](https://oglobo.globo.com/economia/globoplay-integra-conteudo-ao-vivo-de-19-canais-como-multishow-gnt-viva-1-24615722)
 * [Pesquisa da Ufpel sobre prevalência da Covid-19 no Brasil continua, mas sem verba federal](https://oglobo.globo.com/sociedade/coronavirus/pesquisa-da-ufpel-sobre-prevalencia-da-covid-19-no-brasil-continua-mas-sem-verba-federal-24615697)
-* [Abdelmassih volta à cadeia após revogação de prisão domiciliar](https://oglobo.globo.com/brasil/abdelmassih-volta-cadeia-apos-revogacao-de-prisao-domiciliar-24615656)
-* [Idoso se veste de Chaves no aniversário de 92 anos e viraliza nas redes: 'Sou famoso'](https://oglobo.globo.com/rio/idoso-se-veste-de-chaves-no-aniversario-de-92-anos-viraliza-nas-redes-sou-famoso-24615704)
 * [Doação de amor: abrigo lança campanha para reduzir solidão de idosas e recebe mais de 12 mil chamadas](https://oglobo.globo.com/premio-faz-diferenca/boas-acoes-na-pandemia/doacao-de-amor-abrigo-lanca-campanha-para-reduzir-solidao-de-idosas-recebe-mais-de-12-mil-chamadas-24531801)
-* [Chinês se recupera do coronavírus após 111 dias com respirador artificial](https://epoca.globo.com/mundo/chines-se-recupera-do-coronavirus-apos-111-dias-com-respirador-artificial-1-24615686)
-* [Convenções partidárias em SP começam com formato drive-thru e drive-in](https://epoca.globo.com/brasil/convencoes-partidarias-em-sp-comecam-com-formato-drive-thru-drive-in-24615430)

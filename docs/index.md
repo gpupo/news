@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 31/08/2020 13:34:27 UTC
+# indexed at 31/08/2020 14:10:59 UTC
 
 
 ## news.ycombinator.com
@@ -11,33 +11,33 @@ layout: default
 * [PinePhone Manjaro Community Edition](https://www.pine64.org/2020/08/31/pinephone-manjaro-community-edition/)
 * [Google, the Stupidity Amplifier (2016)](http://www.gregegan.net/ESSAYS/GOOGLE/Google.html)
 * [Do we really travel through time with the speed of light?](https://backreaction.blogspot.com/2020/08/do-we-really-travel-through-time-with.html)
-* [Why Smalltalk Has Failed](https://gbracha.blogspot.com/2020/05/bits-of-history-words-of-advice.html?m=1)
-* [Analysis of Today's CenturyLink/Level(3) Outage](https://blog.cloudflare.com/analysis-of-todays-centurylink-level-3-outage/)
+* [Bits of History, Words of Advice](https://gbracha.blogspot.com/2020/05/bits-of-history-words-of-advice.html)
 * [Sled Theoretical Performance Guide](http://sled.rs/perf.html)
-* [A grim outlook on the future of browser add-ons](https://palant.info/2020/08/31/a-grim-outlook-on-the-future-of-browser-add-ons/)
-* [The basic dramatic situations, according to 1919 manual for screenwriters](http://www.openculture.com/2020/08/37-possible-stories.html)
+* [Analysis of Today's CenturyLink/Level(3) Outage](https://blog.cloudflare.com/analysis-of-todays-centurylink-level-3-outage/)
 * [Unusual Maps](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0002yI)
-* [Common Mistakes to Avoid in HTML](https://iamshadmirza.com/5-common-mistakes-to-avoid-in-html)
+* [Nim – version 1.2.6 and 1.0.8 released](https://nim-lang.org/blog/2020/07/30/versions-126-and-108-released.html)
+* [China again boosts R&D spending by more than 10%](https://www.sciencemag.org/news/2020/08/china-again-boosts-rd-spending-more-10)
+* [The basic dramatic situations, according to 1919 manual for screenwriters](http://www.openculture.com/2020/08/37-possible-stories.html)
 * [Why are there 5280 feet in a mile?](https://petersmagnusson.org/2009/09/15/why-are-there-5280-feet-in-a-mile/)
 * [Italian Ruby](https://github.com/Pluvie/italian-ruby)
 * [François Chollet (Keras creator): we're witnessing a deep learning recession](https://twitter.com/fchollet/status/1300137812872765440)
 * [Sum Types in Julia and Rust](https://andreaskroepelin.de/blog/sum_types/)
-* [Nim – version 1.2.6 and 1.0.8 released](https://nim-lang.org/blog/2020/07/30/versions-126-and-108-released.html)
 * [Banks create money, but it's less impressive than it sounds](https://www.attejuvonen.fi/money-out-of-thin-air/)
 * [Drug cartel assassinates its enemies with bomb-toting drones](https://www.thedrive.com/the-war-zone/36013/mexican-drug-cartel-now-assassinating-its-enemies-with-improvised-explosive-toting-drones)
-* [The Easy Ones – Three Bugs Hiding in the Open](https://randomascii.wordpress.com/2020/08/30/the-easy-ones-three-bugs-hiding-in-the-open/)
-* [Ubuntu 20.04’s zsys adds ZFS snapshots to package management](https://arstechnica.com/gadgets/2020/03/ubuntu-20-04s-zsys-adds-zfs-snapshots-to-package-management/)
-* [Visualizing TSNE Maps with Three.js](https://douglasduhaime.com/posts/visualizing-tsne-maps-with-three-js.html)
-* [Don't Get Stuck](https://stitcher.io/blog/dont-get-stuck)
-* [Pinterest pays $89.5M to terminate San Francisco office lease](https://www.sfgate.com/business/article/Pinterest-terminate-SF-office-lease-88-Bluxome-15525421.php)
 * [Identifying People by Their Browsing Histories](https://www.schneier.com/blog/archives/2020/08/identifying_peo_9.html)
-* [We Replaced an SSD with Storage Class Memory](https://engineering.mongodb.com/post/we-replaced-an-ssd-with-storage-class-memory-here-is-what-we-learned)
+* [The Easy Ones – Three Bugs Hiding in the Open](https://randomascii.wordpress.com/2020/08/30/the-easy-ones-three-bugs-hiding-in-the-open/)
+* [Visualizing TSNE Maps with Three.js](https://douglasduhaime.com/posts/visualizing-tsne-maps-with-three-js.html)
+* [Ubuntu 20.04’s zsys adds ZFS snapshots to package management](https://arstechnica.com/gadgets/2020/03/ubuntu-20-04s-zsys-adds-zfs-snapshots-to-package-management/)
+* [Don't Get Stuck](https://stitcher.io/blog/dont-get-stuck)
 * [Do-it-Yourself Vaccines for Covid-19](https://www.scientificamerican.com/article/do-it-yourself-vaccines-for-covid-19/)
 * [Level 3 Global Outage](https://puck.nether.net/pipermail/outages/2020-August/013187.html)
+* [We Replaced an SSD with Storage Class Memory](https://engineering.mongodb.com/post/we-replaced-an-ssd-with-storage-class-memory-here-is-what-we-learned)
 * [Converting Boolean-Logic Decision Trees to Finite State Machines](https://medium.com/analytics-vidhya/converting-boolean-logic-decision-trees-to-finite-state-machines-180ad195abf2)
+* [Pinterest pays $89.5M to terminate San Francisco office lease](https://www.sfgate.com/business/article/Pinterest-terminate-SF-office-lease-88-Bluxome-15525421.php)
 * [K-Stash: A search engine for your useful links – for devs and researchers](https://k-stash.com)
-* [Should Google’s Ad Market Be Regulated Like the Stock Market?](https://www.wired.com/story/google-ad-market-regulated-like-stock-market/)
+* [Common Mistakes to Avoid in HTML](https://iamshadmirza.com/5-common-mistakes-to-avoid-in-html)
 * [Show HN: Learn how WebRTC actually works. A book on the protocols, not just APIs](https://webrtcforthecurious.com/)
+* [Players are fixing Microsoft Flight Simulator’s monuments with Google Maps](https://www.rockpapershotgun.com/2020/08/28/players-are-fixing-microsoft-flight-simulators-missing-monuments-with-google-maps/)
 ## nytimes.com
 
 
@@ -73,7 +73,7 @@ layout: default
 * [Girl in Taiwan Is Swept High by a Kite](https://www.nytimes.com/2020/08/31/world/asia/taiwan-girl-kite.html)
 * [The Runway Lights Failed, So Villagers Used Their Headlights to Aid an Airlift](https://www.nytimes.com/2020/08/30/us/Lifemed-alaska-flight-runway-landing.html)
 * [Pranab Mukherjee Dies at 84](https://www.nytimes.com/2020/08/31/world/asia/pranab-mukherjee-dead.html)
-* [A Vow of Silence, a Cabin in the Woods,a Terrible Wildfire](https://www.nytimes.com/2020/08/31/us/fires-california-monk-tad-jones-last-chance-santa-cruz.html)
+* [A Vow of Silence, a Cabin in the Woods, a Terrible Wildfire](https://www.nytimes.com/2020/08/31/us/fires-california-monk-tad-jones-last-chance-santa-cruz.html)
 * [I’m Still Reading Andrew Sullivan. But I Can’t Defend Him.](https://www.nytimes.com/2020/08/30/business/media/im-still-reading-andrew-sullivan-but-i-cant-defend-him.html)
 * [Eye on Beirut, Senegal Port Rushes to Truck Away Tons of Ammonium Nitrate](https://www.nytimes.com/2020/08/31/world/africa/ammonium-nitrate-port-dakar.html)
 * ['Abenomics' May Stay, but Japan's Economic Overhaul Is Incomplete](https://www.nytimes.com/2020/08/31/business/japan-shinzo-abe-economy.html)
@@ -90,9 +90,8 @@ layout: default
 * [America Has Two Feet. It’s About to Lose One of Them.](https://www.nytimes.com/2020/08/18/science/foot-surveying-metrology-dennis.html)
 * [Scientists See Signs of Lasting Immunity to Covid-19, Even After Mild Infections](https://www.nytimes.com/2020/08/16/health/coronavirus-immunity-antibodies.html)
 * [How Children’s Sleep Habits Have Changed in the Pandemic](https://www.nytimes.com/2020/08/17/well/family/children-sleep-pandemic.html)
-* [Bayern Munich 1, P.S.G. 0: A Champions League Win for Tradition and Team](https://www.nytimes.com/2020/08/23/sports/soccer/psg-bayern-live-score.html)
-* [Where to Stream Chadwick Boseman’s Best Performances](https://www.nytimes.com/2020/08/29/movies/chadwick-boseman-streaming.html)
-* [Live Comedy Is Back in New York! But Outdoors. Is This a Good Thing?](https://www.nytimes.com/2020/08/26/arts/television/live-comedy-new-york.html)
+* [In a Naked Pandemic Race, You Can Leave Your Hat On](https://www.nytimes.com/2020/08/28/well/move/running-race-nudist-resort-naked.html)
+* [What to Know About Colon Cancer](https://www.nytimes.com/2020/08/29/health/colon-cancer-chadwick-boseman.html)
 * [7 Takeaways From ‘Melania and Me,’ by the First Lady’s Former Friend](https://www.nytimes.com/2020/08/28/books/review/melania-and-me-stephanie-winston-wolkoff.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
@@ -100,13 +99,13 @@ layout: default
 ## globo.com
 
 
+* [Human Rights Watch defende descriminalização do aborto na Argentina](https://oglobo.globo.com/sociedade/human-rights-watch-defende-descriminalizacao-do-aborto-na-argentina-1-24614394)
+* [Mourão afirma ser contra autorização para militares receberem acima do teto](https://oglobo.globo.com/brasil/mourao-afirma-ser-contra-autorizacao-para-militares-receberem-acima-do-teto-24615501)
+* [Sargento do Exército é morta em assalto após carro enguiçar, em Duque de Caxias](https://oglobo.globo.com/rio/sargento-do-exercito-morta-em-assalto-apos-carro-enguicar-em-duque-de-caxias-1-24615489)
+* [Fome ameaça matar mais gente do que o coronavírus em 2020](https://oglobo.globo.com/economia/fome-ameaca-matar-mais-gente-do-que-coronavirus-em-2020-24615462)
+* [Menina é lançada ao ar por pipa em Taiwan](https://epoca.globo.com/mundo/menina-lancada-ao-ar-por-pipa-em-taiwan-24615491)
+* [Emma Roberts está grávida de um menino](https://oglobo.globo.com/ela/gente/emma-roberts-esta-gravida-de-um-menino-24615469)
 * [Corrida pela vacina pode piorar pandemia, alertam especialistas](https://oglobo.globo.com/sociedade/corrida-pela-vacina-pode-piorar-pandemia-alertam-especialistas-24615422)
-* [Dólar comercial inicia semana em alta e vale R$ 5,42 na contramão do exterior](https://oglobo.globo.com/economia/dolar-comercial-inicia-semana-em-alta-vale-542-na-contramao-do-exterior-24615363)
+* [Botafogo: Gatito pode ser suspenso por até seis jogos por derrubar equipamento do VAR](https://oglobo.globo.com/esportes/botafogo-gatito-pode-ser-suspenso-por-ate-seis-jogos-por-derrubar-equipamento-do-var-24615460)
 * [Firjan promove ações para amenizar crise e investe na retomada da atividade econômica](https://oglobo.globo.com/premio-faz-diferenca/firjan-promove-acoes-para-amenizar-crise-investe-na-retomada-da-atividade-economica-24602850)
 * [OMC fica sem liderança com saída de Roberto Azevêdo hoje](https://oglobo.globo.com/economia/omc-fica-sem-lideranca-com-saida-de-roberto-azevedo-hoje-24615402)
-* [Judicialização de impasse sobre data de Regime de Recuperação Fiscal é o último recurso, afirma secretário](https://oglobo.globo.com/rio/judicializacao-de-impasse-sobre-data-de-regime-de-recuperacao-fiscal-o-ultimo-recurso-afirma-secretario-24615337)
-* [Segunda sem carne: chef compartilha receita de nhoque vegano de banana-da-terra](https://oglobo.globo.com/rioshow/segunda-sem-carne-chef-compartilha-receita-de-nhoque-vegano-de-banana-da-terra-24615405)
-* [Os sabotadores contratados para acabar com relacionamentos](https://epoca.globo.com/sociedade/os-sabotadores-contratados-para-acabar-com-relacionamentos-24615336)
-* [Refugiados cubanos contam com solidariedade e iguaria baiana para sobreviver na pandemia](https://epoca.globo.com/sociedade/refugiados-cubanos-contam-com-solidariedade-iguaria-baiana-para-sobreviver-na-pandemia-1-24615349)
-* [Adele é acusada de apropriação cultural](https://oglobo.globo.com/ela/gente/adele-acusada-de-apropriacao-cultural-24615351)
-* [Aéreas americanas cortam taxas e reprogramam voos para chamar passageiros de volta](https://oglobo.globo.com/economia/aereas-americanas-cortam-taxas-reprogramam-voos-para-chamar-passageiros-de-volta-24615312)

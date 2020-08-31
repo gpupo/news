@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 31/08/2020 23:16:27 UTC
+# indexed at 31/08/2020 23:35:12 UTC
 
 
 ## news.ycombinator.com
@@ -17,26 +17,26 @@ layout: default
 * [Interchange in Houston is the same size as an entire city center in Italy](https://www.texasmonthly.com/politics/highway-interchange-houston-same-size-city-italy/)
 * [Keli: A programming language to make Functional Programming a joy for users](https://keli-language.gitbook.io/doc/)
 * [2020's Existentialist Turn](https://bostonreview.net/philosophy-religion/carmen-lea-dege-2020s-existentialist-turn)
-* [Jerry.ai (YC S17) Is Hiring Senior Software Devs (Toronto, SF Bay Area, Boston)](https://apply.workable.com/jerry/j/F4762CDFF8/)
-* [FedEx feeder plane takes flight without pilot in test for Reliable Robotics](https://www.commercialappeal.com/story/money/industries/logistics/2020/08/28/fedex-plane-autonomous-flight-reliable-robotics/5655258002/)
 * [Deep learning job postings have collapsed in the past six months](https://twitter.com/fchollet/status/1300137812872765440)
+* [Jerry.ai (YC S17) Is Hiring Senior Software Devs (Toronto, SF Bay Area, Boston)](https://apply.workable.com/jerry/j/F4762CDFF8/)
+* [The Trillion Dollar Question Facing Every Major American City](https://www.strongtowns.org/journal/2020/8/28/trillion-dollar-question)
+* [FedEx feeder plane takes flight without pilot in test for Reliable Robotics](https://www.commercialappeal.com/story/money/industries/logistics/2020/08/28/fedex-plane-autonomous-flight-reliable-robotics/5655258002/)
 * [Show HN: ML From Scratch – free online textbook](https://dafriedman97.github.io/mlbook/content/introduction.html)
 * [Show HN: I've built self-opening trash bin, I relax myself feeding garbage to it](https://github.com/ivanilves/arduino-sketches/tree/master/basurito)
 * [Mathematicians Report New Discovery About the Dodecahedron](https://www.quantamagazine.org/mathematicians-report-new-discovery-about-the-dodecahedron-20200831/)
 * [PinePhone Manjaro Community Edition](https://www.pine64.org/2020/08/31/pinephone-manjaro-community-edition/)
 * [How NASA and ISRO discovered water on the Moon](https://jatan.space/how-nasa-and-chandrayaan-discovered-water-on-the-moon/)
 * [3D face: fast, accurate and stable reconstruction](https://github.com/cleardusk/3DDFA_V2)
-* [Researchers are developing a battery powered by diamonds made from nuclear waste](https://www.wired.com/story/are-radioactive-diamond-batteries-a-cure-for-nuclear-waste/)
 * [Ruby: We have decided to go forward to 3.0 this year](https://github.com/ruby/ruby/commit/21c62fb670b1646c5051a46d29081523cd782f11)
+* [Researchers are developing a battery powered by diamonds made from nuclear waste](https://www.wired.com/story/are-radioactive-diamond-batteries-a-cure-for-nuclear-waste/)
+* [Considerations for Updating the Bootloader Over-the-Air (OTA)](https://www.embedded-computing.com/home-page/considerations-for-updating-the-over-the-air-bootloader)
+* [How should we build the APIs of tomorrow?](https://increment.com/apis/how-we-should-build-apis-tomorrow/)
 * [Robotic Manipulation (Online Textbook)](http://manipulation.csail.mit.edu/)
 * [Self – Fun Through Simplicity](https://selflanguage.org/)
-* [How should we build the APIs of tomorrow?](https://increment.com/apis/how-we-should-build-apis-tomorrow/)
 * [Intel MKL on AMD Zen](https://danieldk.eu/Posts/2020-08-31-MKL-Zen.html)
-* [EUtility Electric Tractor is powered by a battery, not diesel](https://newatlas.com/environment/solectrac-eutility-electric-tractor/)
-* [Why Doctors Hate Their Computers (2018)](https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers)
-* [Considerations for Updating the Bootloader Over-the-Air (OTA)](https://www.embedded-computing.com/home-page/considerations-for-updating-the-over-the-air-bootloader)
 * [Google, the Stupidity Amplifier (2016)](http://www.gregegan.net/ESSAYS/GOOGLE/Google.html)
 * [Show HN: Friendly Fire – Open-source, Metroidvania-style game in the browser](https://friendlyfiregame.com/)
+* [EUtility Electric Tractor is powered by a battery, not diesel](https://newatlas.com/environment/solectrac-eutility-electric-tractor/)
 * [Cracking Phobos UUID](https://breakpoint.purrfect.fr/article/cracking_phobos_uuid.html)
 ## nytimes.com
 
@@ -46,6 +46,7 @@ layout: default
 * [Journalist Quits Kenosha Paper in Protest of Its Jacob Blake Rally Coverage](https://www.nytimes.com/2020/08/31/business/media/kenosha-newspaper-editor-quits.html)
 * [Coronavirus News: Live Updates](https://www.nytimes.com/2020/08/31/world/covid-19-coronavirus.html)
 * [A Coronavirus Second Wave Grips Spain](https://www.nytimes.com/2020/08/31/world/europe/coronavirus-covid-spain-second-wave.html)
+* [Business Updates: The S&P Had Its 2nd-Best Month This Year](https://www.nytimes.com/live/2020/08/31/business/stock-market-today-coronavirus)
 * [House Panel to Subpoena DeJoy Over Mail Delays and Trump Communications](https://www.nytimes.com/2020/08/31/us/postal-service-dejoy-subpoena.html)
 * [China's Exports Are Surging Despite Tariffs and Coronavirus](https://www.nytimes.com/2020/08/31/business/trumps-tariffs-coronavirus-china-exports.html)
 * [TikTok Deal Faces Complications as U.S. and China Ratchet Up Tit-for-Tat](https://www.nytimes.com/2020/08/31/technology/tiktok-export-us-china.html)
@@ -56,7 +57,7 @@ layout: default
 * [Episode One: The Book of Statuses](https://www.nytimes.com/2020/07/30/podcasts/nice-white-parents-serial.html)
 * [Joe Biden Had Better Watch It](https://www.nytimes.com/2020/08/31/opinion/joe-biden-trump-2020.html)
 * [Trump Had One Good Response to Covid-19. His Party Killed It.](https://www.nytimes.com/2020/08/31/opinion/trump-coronavirus-economy.html)
-* [Ignore the C.D.C. and Expand Testing](https://www.nytimes.com/2020/08/31/opinion/cdc-testing-coronavirus.html)
+* [It Has Come to This: Ignore the C.D.C.](https://www.nytimes.com/2020/08/31/opinion/cdc-testing-coronavirus.html)
 * [Meet Germany’s Bizarre Anti-Lockdown Protesters](https://www.nytimes.com/2020/08/31/opinion/germany-covid-lockdown-protests.html)
 * [Hawk. Lizard. Mole. Human.](https://www.nytimes.com/2020/08/31/opinion/hawk-lizard-mole-human.html)
 * [The Turmoil in Portland and Kenosha](https://www.nytimes.com/2020/08/31/opinion/letters/portland-kenosha-trump.html)
@@ -78,9 +79,9 @@ layout: default
 * [Girl in Taiwan Is Swept High by a Kite](https://www.nytimes.com/2020/08/31/world/asia/taiwan-girl-kite.html)
 * [How to Help Someone Who Lost Their Job](https://www.nytimes.com/2020/08/30/smarter-living/how-to-help-someone-who-lost-their-job.html)
 * [Does My Kid Have a Cold or Is It Covid-19?](https://www.nytimes.com/2020/08/28/parenting/kids-covid-symptoms.html)
-* [Are You an American Voting From Abroad? Here’s How to Do It](https://www.nytimes.com/2020/08/28/smarter-living/american-vote-from-abroad.html)
 * [Can You Hear Yourself Think?](https://www.nytimes.com/2020/08/25/realestate/house-noise-solutions.html)
 * [Move Over, Sustainable Travel. Regenerative Travel Has Arrived.](https://www.nytimes.com/2020/08/27/travel/travel-future-coronavirus-sustainable.html)
+* [Are You an American Voting From Abroad? Here’s How to Do It](https://www.nytimes.com/2020/08/28/smarter-living/american-vote-from-abroad.html)
 * [John Thompson’s Success at Georgetown Made Him Ahead of His Time](https://www.nytimes.com/2020/08/31/sports/ncaabasketball/john-thompson-georgetown-ewing.html)
 * [VMAs Recap: Lady Gaga, The Weeknd, and More](https://www.nytimes.com/2020/08/31/arts/music/mtv-vmas.html)
 * [How the U.S. Won the War Against Japan](https://www.nytimes.com/2020/08/28/books/review/twilight-of-the-gods-ian-w-toll.html)
@@ -102,11 +103,11 @@ layout: default
 
 * [Witzel se defende de denúncia de corrupção: 'Nenhum contrato passa pela minha mão'](https://oglobo.globo.com/rio/witzel-se-defende-de-denuncia-de-corrupcao-nenhum-contrato-passa-pela-minha-mao-24616380)
 * [Brasil ultrapassa 121 mil mortos e 3,9 milhões de infectados por Covid-19, mostra consórcio de veículos de imprensa no boletim das 20h](https://oglobo.globo.com/sociedade/brasil-ultrapassa-121-mil-mortos-39-milhoes-de-infectados-por-covid-19-mostra-consorcio-de-veiculos-de-imprensa-no-boletim-das-20h-24616484)
+* [Governo não transferiu auxílio emergencial prometido para abrigos de idosos](https://oglobo.globo.com/sociedade/governo-nao-transferiu-auxilio-emergencial-prometido-para-abrigos-de-idosos-24616525)
+* [Exibidores e produtores teatrais criticam decisão da Prefeitura de dividir reabertura em duas fases](https://oglobo.globo.com/cultura/exibidores-produtores-teatrais-criticam-decisao-da-prefeitura-de-dividir-reabertura-em-duas-fases-24616108)
 * [PSC oficializa candidatura de ex-juíza Glória Heloíza à prefeitura do Rio](https://oglobo.globo.com/brasil/psc-oficializa-candidatura-de-ex-juiza-gloria-heloiza-prefeitura-do-rio-24616456)
-* [Troca de cozinha, reformas e novas marcas para se manter](https://oglobo.globo.com/rio/bairros/troca-de-cozinha-reformas-novas-marcas-para-se-manter-24616459)
 * [Covid-19: Rio registra 38 mortes e 329 casos confirmados nas últimas 24 horas](https://oglobo.globo.com/rio/covid-19-rio-registra-38-mortes-329-casos-confirmados-nas-ultimas-24-horas-24616434)
 * [Ex-pró-reitor da Unig se entrega à Polícia Federal no Rio](https://oglobo.globo.com/rio/ex-pro-reitor-da-unig-se-entrega-policia-federal-no-rio-24616395)
-* [Exibidores e produtores teatrais criticam decisão da Prefeitura de dividir reabertura em duas fases](https://oglobo.globo.com/cultura/exibidores-produtores-teatrais-criticam-decisao-da-prefeitura-de-dividir-reabertura-em-duas-fases-24616108)
 * [MDB e Roseana Sarney vão apoiar ex-secretário de Flávio Dino para prefeitura de São Luís](https://oglobo.globo.com/brasil/mdb-roseana-sarney-vao-apoiar-ex-secretario-de-flavio-dino-para-prefeitura-de-sao-luis-24616361)
 * [Barroso homologa plano do governo para proteger indígenas na pandemia](https://oglobo.globo.com/sociedade/barroso-homologa-plano-do-governo-para-proteger-indigenas-na-pandemia-24616381)
 * [Gol 1.6: o veterano ainda não saiu de campo. Dirigimos a versão com câmbio automático](https://oglobo.globo.com/economia/carros/gol-16-veterano-ainda-nao-saiu-de-campo-dirigimos-versao-com-cambio-automatico-24616265)

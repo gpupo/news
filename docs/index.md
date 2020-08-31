@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 31/08/2020 20:19:26 UTC
+# indexed at 31/08/2020 20:35:18 UTC
 
 
 ## news.ycombinator.com
@@ -21,23 +21,23 @@ layout: default
 * [Deep learning job postings have collapsed in the past six months](https://twitter.com/fchollet/status/1300137812872765440)
 * [Mathematicians Report New Discovery About the Dodecahedron](https://www.quantamagazine.org/mathematicians-report-new-discovery-about-the-dodecahedron-20200831/)
 * [How NASA and ISRO discovered water on the Moon](https://jatan.space/how-nasa-and-chandrayaan-discovered-water-on-the-moon/)
-* [PinePhone Manjaro Community Edition](https://www.pine64.org/2020/08/31/pinephone-manjaro-community-edition/)
 * [Ruby: We have decided to go forward to 3.0 this year](https://github.com/ruby/ruby/commit/21c62fb670b1646c5051a46d29081523cd782f11)
+* [PinePhone Manjaro Community Edition](https://www.pine64.org/2020/08/31/pinephone-manjaro-community-edition/)
 * [Self – Fun Through Simplicity](https://selflanguage.org/)
 * [How should we build the APIs of tomorrow?](https://increment.com/apis/how-we-should-build-apis-tomorrow/)
-* [Battleshorts, exaptations, and the limits of STAMP](https://surfingcomplexity.blog/2020/08/16/battleshorts-exapting-and-the-limits-of-stamp/)
-* [Show HN: Friendly Fire – Open-source, Metroidvania-style game in the browser](https://friendlyfiregame.com/)
-* [As above, so below, part 2. Bare metal Rust generics](https://www.ecorax.net/as-above-so-below-2/)
 * [Cracking Phobos UUID](https://breakpoint.purrfect.fr/article/cracking_phobos_uuid.html)
+* [As above, so below, part 2. Bare metal Rust generics](https://www.ecorax.net/as-above-so-below-2/)
+* [Battleshorts, exaptations, and the limits of STAMP](https://surfingcomplexity.blog/2020/08/16/battleshorts-exapting-and-the-limits-of-stamp/)
 * [3D face: fast, accurate and stable reconstruction](https://github.com/cleardusk/3DDFA_V2)
-* [Effective testing for machine learning systems](https://www.jeremyjordan.me/testing-ml/)
-* [Intel MKL on AMD Zen](https://danieldk.eu/Posts/2020-08-31-MKL-Zen.html)
+* [Show HN: Friendly Fire – Open-source, Metroidvania-style game in the browser](https://friendlyfiregame.com/)
 * [Robotic Manipulation (Online Textbook)](http://manipulation.csail.mit.edu/)
-* [Tracing at Slack: Thinking in Causal Graphs](https://slack.engineering/tracing-at-slack-thinking-in-causal-graphs/)
+* [Intel MKL on AMD Zen](https://danieldk.eu/Posts/2020-08-31-MKL-Zen.html)
+* [Effective testing for machine learning systems](https://www.jeremyjordan.me/testing-ml/)
 * [Blender 2.90](https://www.blender.org/download/releases/2-90/)
 * [Italian Ruby](https://github.com/Pluvie/italian-ruby)
+* [Ask HN: Captcha Alternatives?](https://news.ycombinator.com/item?id=24334657)
 * [Significant sex differences in Covid-19 immune response](https://news.yale.edu/2020/08/26/sex-differences-covid-19-immune-responses-affect-patient-outcomes)
-* [Google, the Stupidity Amplifier (2016)](http://www.gregegan.net/ESSAYS/GOOGLE/Google.html)
+* [Tracing at Slack: Thinking in Causal Graphs](https://slack.engineering/tracing-at-slack-thinking-in-causal-graphs/)
 ## nytimes.com
 
 
@@ -74,9 +74,9 @@ layout: default
 * [2020 U.S. Open: Live Updates from Day 1](https://www.nytimes.com/2020/08/31/sports/tennis/us-open-schedule-updates.html)
 * [Breonna Taylor’s Life Was Changing. Then the Police Came to Her Door.](https://www.nytimes.com/2020/08/30/us/breonna-taylor-police-killing.html)
 * [Is Social Security Becoming a Pawn in the Postal Service Crisis?](https://www.nytimes.com/2020/08/27/business/post-office-social-security-checks-mail.html)
+* [Are You an American Voting From Abroad? Here’s How to Do It](https://www.nytimes.com/2020/08/28/smarter-living/american-vote-from-abroad.html)
 * [Does My Kid Have a Cold or Is It Covid-19?](https://www.nytimes.com/2020/08/28/parenting/kids-covid-symptoms.html)
 * [How to Help Someone Who Lost Their Job](https://www.nytimes.com/2020/08/30/smarter-living/how-to-help-someone-who-lost-their-job.html)
-* [Are You an American Voting From Abroad? Here’s How to Do It](https://www.nytimes.com/2020/08/28/smarter-living/american-vote-from-abroad.html)
 * [Can You Hear Yourself Think?](https://www.nytimes.com/2020/08/25/realestate/house-noise-solutions.html)
 * [Move Over, Sustainable Travel. Regenerative Travel Has Arrived.](https://www.nytimes.com/2020/08/27/travel/travel-future-coronavirus-sustainable.html)
 * [Attach an Asterisk to This U.S. Open? Tennis History Mocks That Idea](https://www.nytimes.com/2020/08/31/sports/tennis/-us-open-serena-djokovic.html)
@@ -88,23 +88,23 @@ layout: default
 * [Helping Children With Pandemic Grief](https://www.nytimes.com/2020/08/31/well/family/children-coronavirus-grandparents-grief.html)
 * [America Has Two Feet. It’s About to Lose One of Them.](https://www.nytimes.com/2020/08/18/science/foot-surveying-metrology-dennis.html)
 * [How Children’s Sleep Habits Have Changed in the Pandemic](https://www.nytimes.com/2020/08/17/well/family/children-sleep-pandemic.html)
-* [Loving a Champion Hugger in an Air-Hug Season](https://www.nytimes.com/2020/08/28/well/family/hugging-marriage-pandemic.html)
-* [India’s Economy Shrank Nearly 24 Percent Last Quarter](https://www.nytimes.com/2020/08/31/world/asia/india-economy-gdp.html)
-* [What to Watch for on Day 2 of the Republican National Convention](https://www.nytimes.com/2020/08/25/us/politics/republican-national-convention-guide.html)
-* [Ron Jeremy Is Charged With Sexually Assaulting 13 More Women](https://www.nytimes.com/2020/08/31/movies/ron-jeremy-sexual-assault-charges.html)
+* [Blackpink and Selena Gomez’s Summery Treat, and 11 More New Songs](https://www.nytimes.com/2020/08/28/arts/music/playlist-blackpink-selena-gomez-lil-tecca.html)
+* [A Lighter, Brighter Meatball](https://www.nytimes.com/2020/08/28/dining/peach-meatball-recipe.html)
+* [In a Naked Pandemic Race, You Can Leave Your Hat On](https://www.nytimes.com/2020/08/28/well/move/running-race-nudist-resort-naked.html)
+* [7 Takeaways From ‘Melania and Me,’ by the First Lady’s Former Friend](https://www.nytimes.com/2020/08/28/books/review/melania-and-me-stephanie-winston-wolkoff.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
-* ['Quer voltar? Tudo bem. Mas não significa poder dizer quem entra e quem sai', diz Janaína sobre volta de Bolsonaro ao PSL](https://oglobo.globo.com/brasil/quer-voltar-tudo-bem-mas-nao-significa-poder-dizer-quem-entra-quem-sai-diz-janaina-sobre-volta-de-bolsonaro-ao-psl-24616003)
-* [PSL oficializa Joice Hasselmann como candidata contra pressão de aliados de Bolsonaro](https://oglobo.globo.com/brasil/psl-oficializa-joice-hasselmann-como-candidata-contra-pressao-de-aliados-de-bolsonaro-1-24616084)
-* [Em primeira reunião, Claudio Castro mira Recuperação Fiscal e determina suspensão de pagamentos por 10 dias](https://oglobo.globo.com/rio/em-primeira-reuniao-claudio-castro-mira-recuperacao-fiscal-determina-suspensao-de-pagamentos-por-10-dias-24616018)
-* [Reabrir economia sem controlar a Covid-19 é 'receita para um desastre', alerta diretor da OMS](https://oglobo.globo.com/sociedade/coronavirus/reabrir-economia-sem-controlar-covid-19-receita-para-um-desastre-alerta-diretor-da-oms-24615894)
-* [Coronavírus: como o Peru se tornou o país com a maior taxa de mortalidade por Covid-19 no mundo](https://epoca.globo.com/mundo/coronavirus-como-peru-se-tornou-pais-com-maior-taxa-de-mortalidade-por-covid-19-no-mundo-1-24616129)
-* [Joe Biden retoma campanha presencial com ataques a Trump e rejeição ao rótulo de 'socialista radical'](https://oglobo.globo.com/mundo/joe-biden-retoma-campanha-presencial-com-ataques-trump-rejeicao-ao-rotulo-de-socialista-radical-24616047)
+* [Toffoli pede manifestação do STJ e da PGR antes de julgar recurso de Witzel](https://oglobo.globo.com/rio/toffoli-pede-manifestacao-do-stj-da-pgr-antes-de-julgar-recurso-de-witzel-24616207)
+* [Biden retoma campanha presencial, condena violência e acusa Trump de semar o caos](https://oglobo.globo.com/mundo/biden-retoma-campanha-presencial-condena-violencia-acusa-trump-de-semar-caos-24616047)
 * [PM preso acusado de estupro em Copacabana tem nova prisão, desta vez preventiva, pedida à Justiça Militar](https://oglobo.globo.com/rio/pm-preso-acusado-de-estupro-em-copacabana-tem-nova-prisao-desta-vez-preventiva-pedida-justica-militar-24616091)
-* [Pronampe: Liberação de mais R$ 12 bilhões começa nesta semana](https://oglobo.globo.com/economia/pronampe-liberacao-de-mais-12-bilhoes-comeca-nesta-semana-24616001)
-* [Morre Jair de Ogum, pai de santo de famosos e ex-colunista da Rádio Globo](https://oglobo.globo.com/cultura/morre-jair-de-ogum-pai-de-santo-de-famosos-ex-colunista-da-radio-globo-1-24615998)
-* [Morre Pietro Mário Bogianchini, ator e dublador que viveu o Capitão Furacão](https://oglobo.globo.com/cultura/morre-pietro-mario-bogianchini-ator-dublador-que-viveu-capitao-furacao-24616029)
+* [Bolsonaro vai definir novo valor do auxílio emergencial nesta terça-feira](https://oglobo.globo.com/economia/bolsonaro-vai-definir-novo-valor-do-auxilio-emergencial-nesta-terca-feira-24616149)
+* [Governo recua, e Orçamento da Educação será maior que o da Defesa em 2021. Saúde cresce 1,8%](https://oglobo.globo.com/economia/governo-recua-orcamento-da-educacao-sera-maior-que-da-defesa-em-2021-saude-cresce-18-24616196)
+* [PSD confirma o ex-vereador Andrea Matarazzo como candidato à prefeitura de São Paulo](https://oglobo.globo.com/brasil/psd-confirma-ex-vereador-andrea-matarazzo-como-candidato-prefeitura-de-sao-paulo-24616180)
+* [Coronavírus: como o Peru se tornou o país com a maior taxa de mortalidade por Covid-19 no mundo](https://epoca.globo.com/mundo/coronavirus-como-peru-se-tornou-pais-com-maior-taxa-de-mortalidade-por-covid-19-no-mundo-1-24616129)
+* [Para viver o aconchego do campo com o conforto da cidade](https://oglobo.globo.com/economia/para-viver-aconchego-do-campo-com-conforto-da-cidade-24616152)
+* [Reabrir economia sem controlar a Covid-19 é 'receita para um desastre', alerta diretor da OMS](https://oglobo.globo.com/sociedade/coronavirus/reabrir-economia-sem-controlar-covid-19-receita-para-um-desastre-alerta-diretor-da-oms-24615894)
+* [PSL oficializa Joice Hasselmann como candidata contra pressão de aliados de Bolsonaro](https://oglobo.globo.com/brasil/psl-oficializa-joice-hasselmann-como-candidata-contra-pressao-de-aliados-de-bolsonaro-1-24616084)

@@ -2,23 +2,24 @@
 layout: default
 ---
 
-# indexed at 31/08/2020 03:08:33 UTC
+# indexed at 31/08/2020 03:34:40 UTC
 
 
 ## news.ycombinator.com
 
 
 * [The Big Tesla Hack: A hacker gained control over the entire fleet](https://electrek.co/2020/08/27/tesla-hack-control-over-entire-fleet/)
+* [Why are there 5280 feet in a mile?](https://petersmagnusson.org/2009/09/15/why-are-there-5280-feet-in-a-mile/)
 * [Level 3 Global Outage](https://puck.nether.net/pipermail/outages/2020-August/013187.html)
 * [Players are fixing Microsoft Flight Simulator’s monuments with Google Maps](https://www.rockpapershotgun.com/2020/08/28/players-are-fixing-microsoft-flight-simulators-missing-monuments-with-google-maps/)
 * [Show HN: Learn how WebRTC actually works. A book on the protocols, not just APIs](https://webrtcforthecurious.com/)
-* [Why are there 5280 feet in a mile?](https://petersmagnusson.org/2009/09/15/why-are-there-5280-feet-in-a-mile/)
 * [A terminal-based presentation tool with colors and effects](https://github.com/vinayak-mehta/present)
 * [The Legend of GayBlade](https://blog.archive.org/2020/08/28/the-legend-of-gayblade/)
 * [Essentials of Programming Languages](http://eopl3.com/)
 * [Show HN: Vimac – Productive macOS keyboard-driven navigation](http://vimacapp.com)
 * [What Shell Am I Using?](https://nil.wallyjones.com/what-shell-am-i-using/)
 * [The Recursive Universe](http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/)
+* [Physics Is Cool](https://twitter.com/engineeringvids/status/1299024794642391040)
 * [All Circuits Are Busy Now: The 1990 AT&T Long Distance Network Collapse (1995)](https://users.csc.calpoly.edu/~jdalbey/SWE/Papers/att_collapse)
 * [Low-level details of the Zen 2 microarchitecture [pdf]](https://www.agner.org/optimize/microarchitecture.pdf)
 * [Waiting for Gödel (2016)](https://www.newyorker.com/tech/annals-of-technology/waiting-for-godel)
@@ -26,18 +27,17 @@ layout: default
 * [The Unexpected Elegance of Irrigation Systems from Above](https://www.atlasobscura.com/articles/why-do-farms-look-like-circles-from-planes)
 * [An overview of the science on function length](https://softwarebyscience.com/very-short-functions-are-a-code-smell-an-overview-of-the-science-on-function-length/)
 * [Yml Coding](https://cloud.google.com/workflows/docs/reference/syntax)
+* [K-Stash: A search engine for your useful links – for devs and researchers](https://k-stash.com)
 * [Tech my dad banned in our house when I was a kid](https://gizmodo.com/the-tech-my-dad-banned-from-our-house-1844777825)
 * [Multi-Tenant Architectures](https://blog.codonomics.com/2020/08/multi-tenant-architectures.html)
 * [After 48 years, Democrats endorse nuclear energy in platform](https://www.forbes.com/sites/robertbryce/2020/08/23/after-48-years-democrats-endorse-nuclear-energy-in-platform/#3c7687df5829)
 * [Last Week on My Mac: Is macOS Becoming Unmaintainable?](https://eclecticlight.co/2020/08/30/last-week-on-my-mac-is-macos-becoming-unmaintainable/)
 * [Using the Linux kernel's Case-insensitive feature in Ext4](https://www.collabora.com/news-and-blog/blog/2020/08/27/using-the-linux-kernel-case-insensitive-feature-in-ext4/)
 * [The Crazy-Tiny Next Generation of Computers (2015)](https://medium.com/backchannel/the-crazy-tiny-next-generation-of-computers-17e89e472839)
-* [Drug cartel assassinates its enemies with bomb-toting drones](https://www.thedrive.com/the-war-zone/36013/mexican-drug-cartel-now-assassinating-its-enemies-with-improvised-explosive-toting-drones)
-* [Frank Ramsey: A more human philosophy](https://www.the-tls.co.uk/articles/frank-ramsey-a-more-human-philosophy/)
 * [An interesting mistake with Go's context package](https://utcc.utoronto.ca/~cks/space/blog/programming/GoContextValueMistake)
+* [Frank Ramsey: A more human philosophy](https://www.the-tls.co.uk/articles/frank-ramsey-a-more-human-philosophy/)
 * [How to Write Unmaintainable Code](https://github.com/Droogans/unmaintainable-code/blob/master/README.md)
 * [We Know How to Prevent Megafires](https://www.propublica.org/article/they-know-how-to-prevent-megafires-why-wont-anybody-listen/)
-* [I thought I would have accomplished a lot more today and also before I was 35](https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five)
 ## nytimes.com
 
 
@@ -91,10 +91,9 @@ layout: default
 * [A Strange Rash Had Doctors Stumped. Was It an Insect Bite?](https://www.nytimes.com/2020/08/27/magazine/allergic-contact-dermatitis-acd.html)
 * [A Woman May Have Been Cured of H.I.V. Without Medical Treatment](https://www.nytimes.com/2020/08/26/health/hiv-cure.html)
 * [A Rip in the Fabric of Interstellar Dreams](https://www.nytimes.com/2020/08/21/science/space-telescope-puerto-rico-arecibo.html)
+* [What to Watch for on Day 2 of the Republican National Convention](https://www.nytimes.com/2020/08/25/us/politics/republican-national-convention-guide.html)
+* [Partners in Business, Parenthood and Marriage (in Any Order)](https://www.nytimes.com/2020/08/26/fashion/weddings/partners-in-business-parenthood-and-marriage-in-any-order.html)
 * [7 Takeaways From ‘Melania and Me,’ by the First Lady’s Former Friend](https://www.nytimes.com/2020/08/28/books/review/melania-and-me-stephanie-winston-wolkoff.html)
-* [The Week in Business: Steve Bannon Charged With Fraud](https://www.nytimes.com/2020/08/23/business/the-week-in-business-steve-bannon-charged-with-fraud.html)
-* [5 Simple Ways to Improve Your Wi-Fi](https://www.nytimes.com/2020/08/24/smarter-living/home-wifi-upgrade.html)
-* [Bare Breasts on French Beaches? You Can, Despite Police Warnings](https://www.nytimes.com/2020/08/26/world/europe/france-beach-topless.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
@@ -104,10 +103,10 @@ layout: default
 * [Brasil registra 120.896 mortes por coronavírus, aponta boletim de veículos de imprensa](https://oglobo.globo.com/sociedade/coronavirus/brasil-registra-120896-mortes-por-coronavirus-aponta-boletim-de-veiculos-de-imprensa-24614794)
 * [Viúva de Marielle Franco lamenta 900 dias sem resposta sobre mandantes do assassinato](https://oglobo.globo.com/rio/viuva-de-marielle-franco-lamenta-900-dias-sem-resposta-sobre-mandantes-do-assassinato-24615037)
 * [Witzel recebeu R$ 1 milhão de escritórios e PSC em 2018](https://oglobo.globo.com/rio/witzel-recebeu-1-milhao-de-escritorios-psc-em-2018-24614931)
-* [Israel negocia em segredo normalização das relações com países árabes, diz Netanyahu](https://oglobo.globo.com/mundo/israel-negocia-em-segredo-normalizacao-das-relacoes-com-paises-arabes-diz-netanyahu-24614785)
+* [Governo errático enfrenta novos testes no Congresso](https://oglobo.globo.com/opiniao/governo-erratico-enfrenta-novos-testes-no-congresso-1-24612304)
 * [Rio segue com aumento na média móvel de mortes por novo coronavírus pelo nono dia seguido](https://oglobo.globo.com/rio/rio-segue-com-aumento-na-media-movel-de-mortes-por-novo-coronavirus-pelo-nono-dia-seguido-24614827)
 * [Comissão de Direitos Humanos da OAB vai analisar caso de produtora cultural que diz ter sido estuprada por PM em Copacabana](https://oglobo.globo.com/rio/comissao-de-direitos-humanos-da-oab-vai-analisar-caso-de-produtora-cultural-que-diz-ter-sido-estuprada-por-pm-em-copacabana-24614869)
 * [Mulher sofre tentativa de feminicídio na Baixada](https://oglobo.globo.com/rio/mulher-sofre-tentativa-de-feminicidio-na-baixada-24614823)
 * [Fiscais da prefeitura encerram quatro eventos com aglomerações e outras irregularidades neste fim de semana](https://oglobo.globo.com/rio/fiscais-da-prefeitura-encerram-quatro-eventos-com-aglomeracoes-outras-irregularidades-neste-fim-de-semana-24614789)
 * [Flamengo muda estilo, aposta nos contra-ataques e vence o Santos em plena Vila Belmiro](https://oglobo.globo.com/esportes/flamengo-muda-estilo-aposta-nos-contra-ataques-vence-santos-em-plena-vila-belmiro-1-24614790)
-* [CIDH pede 'diálogo institucional respeitoso' com secretário-geral da OEA após decisão de não renovar mandato de brasileiro](https://oglobo.globo.com/mundo/cidh-pede-dialogo-institucional-respeitoso-com-secretario-geral-da-oea-apos-decisao-de-nao-renovar-mandato-de-brasileiro-24614721)
+* [Crise da pandemia põe Argentina no caminho de um projeto autoritário](https://oglobo.globo.com/opiniao/crise-da-pandemia-poe-argentina-no-caminho-de-um-projeto-autoritario-24612507)

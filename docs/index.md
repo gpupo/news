@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 31/08/2020 08:12:59 UTC
+# indexed at 31/08/2020 08:34:26 UTC
 
 
 ## news.ycombinator.com
@@ -15,29 +15,29 @@ layout: default
 * [Drug cartel assassinates its enemies with bomb-toting drones](https://www.thedrive.com/the-war-zone/36013/mexican-drug-cartel-now-assassinating-its-enemies-with-improvised-explosive-toting-drones)
 * [Sum Types in Julia and Rust](https://andreaskroepelin.de/blog/sum_types/)
 * [Banks create money, but it's less impressive than it sounds](https://www.attejuvonen.fi/money-out-of-thin-air/)
-* [The Legend of GayBlade](https://blog.archive.org/2020/08/28/the-legend-of-gayblade/)
 * [Essentials of Programming Languages](http://eopl3.com/)
+* [The Legend of GayBlade](https://blog.archive.org/2020/08/28/the-legend-of-gayblade/)
 * [Visualizing TSNE Maps with Three.js](https://douglasduhaime.com/posts/visualizing-tsne-maps-with-three-js.html)
 * [K-Stash: A search engine for your useful links – for devs and researchers](https://k-stash.com)
 * [How to Write Unmaintainable Code (2003)](https://github.com/Droogans/unmaintainable-code/blob/master/README.md)
 * [Level 3 Global Outage](https://puck.nether.net/pipermail/outages/2020-August/013187.html)
 * [What Shell Am I Using?](https://nil.wallyjones.com/what-shell-am-i-using/)
 * [Self-driving cars learn to read the body language of people on the street](https://spectrum.ieee.org/transportation/self-driving/selfdriving-cars-learn-to-read-the-body-language-of-people-on-the-street)
-* [We Replaced an SSD with Storage Class Memory](https://engineering.mongodb.com/post/we-replaced-an-ssd-with-storage-class-memory-here-is-what-we-learned)
 * [Show HN: Learn how WebRTC actually works. A book on the protocols, not just APIs](https://webrtcforthecurious.com/)
-* [Converting Boolean-Logic Decision Trees to Finite State Machines](https://medium.com/analytics-vidhya/converting-boolean-logic-decision-trees-to-finite-state-machines-180ad195abf2)
+* [We Replaced an SSD with Storage Class Memory](https://engineering.mongodb.com/post/we-replaced-an-ssd-with-storage-class-memory-here-is-what-we-learned)
 * [Is macOS Becoming Unmaintainable?](https://eclecticlight.co/2020/08/30/last-week-on-my-mac-is-macos-becoming-unmaintainable/)
+* [Converting Boolean-Logic Decision Trees to Finite State Machines](https://medium.com/analytics-vidhya/converting-boolean-logic-decision-trees-to-finite-state-machines-180ad195abf2)
 * [How to Read a Log Scale](https://blog.datawrapper.de/weeklychart-logscale/)
+* [Writing a Lisp to x86-64 compiler](https://news.ycombinator.com/item?id=24328998)
+* [Don't Get Stuck](https://stitcher.io/blog/dont-get-stuck)
 * [An overview of the science on function length](https://softwarebyscience.com/very-short-functions-are-a-code-smell-an-overview-of-the-science-on-function-length/)
 * [High-tech tracking reveals ‘secret world of birds’](https://www.smithsonianmag.com/smithsonian-institution/high-tech-tracking-reveals-birds-movement-beyond-migration-180975673/)
 * [A terminal-based presentation tool with colors and effects](https://github.com/vinayak-mehta/present)
 * [Meeting lengths are changing during coronavirus remote work](https://www.fastcompany.com/90543500/one-thing-that-the-pandemic-could-be-changing-meeting-lengths)
-* [Multi-Tenant Architectures](https://blog.codonomics.com/2020/08/multi-tenant-architectures.html)
-* [Writing a Lisp to x86-64 compiler](https://news.ycombinator.com/item?id=24328998)
 * [Yml Coding](https://cloud.google.com/workflows/docs/reference/syntax)
 * [Win “Active Hours” underscores how you’re not in control of your devices (2016)](https://www.ctrl.blog/entry/windows-active-hours.html)
-* [Waiting for Gödel (2016)](https://www.newyorker.com/tech/annals-of-technology/waiting-for-godel)
 * [After 48 years, Democrats endorse nuclear energy in platform](https://www.forbes.com/sites/robertbryce/2020/08/23/after-48-years-democrats-endorse-nuclear-energy-in-platform/#3c7687df5829)
+* [Waiting for Gödel (2016)](https://www.newyorker.com/tech/annals-of-technology/waiting-for-godel)
 ## nytimes.com
 
 
@@ -91,9 +91,10 @@ layout: default
 * [A Strange Rash Had Doctors Stumped. Was It an Insect Bite?](https://www.nytimes.com/2020/08/27/magazine/allergic-contact-dermatitis-acd.html)
 * [A Woman May Have Been Cured of H.I.V. Without Medical Treatment](https://www.nytimes.com/2020/08/26/health/hiv-cure.html)
 * [A Rip in the Fabric of Interstellar Dreams](https://www.nytimes.com/2020/08/21/science/space-telescope-puerto-rico-arecibo.html)
-* [‘Bill & Ted Face the Music’ Review: Be Adequate to Each Other](https://www.nytimes.com/2020/08/27/movies/bill-and-ted-face-the-music-review.html)
-* [What to Know About Colon Cancer](https://www.nytimes.com/2020/08/29/health/colon-cancer-chadwick-boseman.html)
-* [Officer Michael Oxford Is Fired After TikTok Videos Show His Arrest of Black Woman](https://www.nytimes.com/2020/08/23/us/georgia-police-officer-fired-tiktok.html)
+* [‘You Cannot Kill David Arquette’ Review: Ready to Rumble (Again)?](https://www.nytimes.com/2020/08/27/movies/you-cannot-kill-david-arquette-review.html)
+* [7 Takeaways From ‘Melania and Me,’ by the First Lady’s Former Friend](https://www.nytimes.com/2020/08/28/books/review/melania-and-me-stephanie-winston-wolkoff.html)
+* [Talking About Racism With The Times’s Youngest Readers](https://www.nytimes.com/2020/08/28/insider/times-for-kids-race-issue.html)
+* [Not the Convention, or the Election, North Carolina Republicans Hoped For](https://www.nytimes.com/2020/08/24/us/politics/north-carolina-charlotte-rnc.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)

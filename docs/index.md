@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 31/08/2020 05:34:24 UTC
+# indexed at 31/08/2020 06:13:56 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Do we really travel through time with the speed of light?](https://backreaction.blogspot.com/2020/08/do-we-really-travel-through-time-with.html)
 * [Why are there 5280 feet in a mile?](https://petersmagnusson.org/2009/09/15/why-are-there-5280-feet-in-a-mile/)
-* [Drug cartel assassinates its enemies with bomb-toting drones](https://www.thedrive.com/the-war-zone/36013/mexican-drug-cartel-now-assassinating-its-enemies-with-improvised-explosive-toting-drones)
 * [Players are fixing Microsoft Flight Simulator’s monuments with Google Maps](https://www.rockpapershotgun.com/2020/08/28/players-are-fixing-microsoft-flight-simulators-missing-monuments-with-google-maps/)
+* [Drug cartel assassinates its enemies with bomb-toting drones](https://www.thedrive.com/the-war-zone/36013/mexican-drug-cartel-now-assassinating-its-enemies-with-improvised-explosive-toting-drones)
 * [Show HN: Learn how WebRTC actually works. A book on the protocols, not just APIs](https://webrtcforthecurious.com/)
 * [A terminal-based presentation tool with colors and effects](https://github.com/vinayak-mehta/present)
 * [The Legend of GayBlade](https://blog.archive.org/2020/08/28/the-legend-of-gayblade/)
 * [Essentials of Programming Languages](http://eopl3.com/)
-* [Show HN: Vimac – Productive macOS keyboard-driven navigation](http://vimacapp.com)
 * [Sum Types in Julia and Rust](https://andreaskroepelin.de/blog/sum_types/)
-* [What Shell Am I Using?](https://nil.wallyjones.com/what-shell-am-i-using/)
-* [How to Write Unmaintainable Code (2003)](https://github.com/Droogans/unmaintainable-code/blob/master/README.md)
-* [Level 3 Global Outage](https://puck.nether.net/pipermail/outages/2020-August/013187.html)
+* [Show HN: Vimac – Productive macOS keyboard-driven navigation](http://vimacapp.com)
 * [Banks create money, but it's less impressive than it sounds](https://www.attejuvonen.fi/money-out-of-thin-air/)
-* [K-Stash: A search engine for your useful links – for devs and researchers](https://k-stash.com)
+* [What Shell Am I Using?](https://nil.wallyjones.com/what-shell-am-i-using/)
+* [Level 3 Global Outage](https://puck.nether.net/pipermail/outages/2020-August/013187.html)
+* [How to Write Unmaintainable Code (2003)](https://github.com/Droogans/unmaintainable-code/blob/master/README.md)
 * [Self-driving cars learn to read the body language of people on the street](https://spectrum.ieee.org/transportation/self-driving/selfdriving-cars-learn-to-read-the-body-language-of-people-on-the-street)
+* [K-Stash: A search engine for your useful links – for devs and researchers](https://k-stash.com)
 * [All Circuits Are Busy Now: The 1990 AT&T Long Distance Network Collapse (1995)](https://users.csc.calpoly.edu/~jdalbey/SWE/Papers/att_collapse)
-* [High-tech tracking reveals ‘secret world of birds’](https://www.smithsonianmag.com/smithsonian-institution/high-tech-tracking-reveals-birds-movement-beyond-migration-180975673/)
-* [An overview of the science on function length](https://softwarebyscience.com/very-short-functions-are-a-code-smell-an-overview-of-the-science-on-function-length/)
+* [Meeting lengths are changing during coronavirus remote work](https://www.fastcompany.com/90543500/one-thing-that-the-pandemic-could-be-changing-meeting-lengths)
 * [How to Read a Log Scale](https://blog.datawrapper.de/weeklychart-logscale/)
-* [Waiting for Gödel (2016)](https://www.newyorker.com/tech/annals-of-technology/waiting-for-godel)
 * [Last Week on My Mac: Is macOS Becoming Unmaintainable?](https://eclecticlight.co/2020/08/30/last-week-on-my-mac-is-macos-becoming-unmaintainable/)
-* [Tech my dad banned in our house when I was a kid](https://gizmodo.com/the-tech-my-dad-banned-from-our-house-1844777825)
-* [Yml Coding](https://cloud.google.com/workflows/docs/reference/syntax)
+* [An overview of the science on function length](https://softwarebyscience.com/very-short-functions-are-a-code-smell-an-overview-of-the-science-on-function-length/)
+* [High-tech tracking reveals ‘secret world of birds’](https://www.smithsonianmag.com/smithsonian-institution/high-tech-tracking-reveals-birds-movement-beyond-migration-180975673/)
+* [Waiting for Gödel (2016)](https://www.newyorker.com/tech/annals-of-technology/waiting-for-godel)
+* [Cloudlfare Analysis of Today's CenturyLink/Level(3) Outage](https://blog.cloudflare.com/analysis-of-todays-centurylink-level-3-outage/)
 * [The Unexpected Elegance of Irrigation Systems from Above](https://www.atlasobscura.com/articles/why-do-farms-look-like-circles-from-planes)
 * [After 48 years, Democrats endorse nuclear energy in platform](https://www.forbes.com/sites/robertbryce/2020/08/23/after-48-years-democrats-endorse-nuclear-energy-in-platform/#3c7687df5829)
+* [Yml Coding](https://cloud.google.com/workflows/docs/reference/syntax)
+* [Tech my dad banned in our house when I was a kid](https://gizmodo.com/the-tech-my-dad-banned-from-our-house-1844777825)
 * [Multi-Tenant Architectures](https://blog.codonomics.com/2020/08/multi-tenant-architectures.html)
-* [The Recursive Universe](http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/)
 * [Frank Ramsey: A more human philosophy](https://www.the-tls.co.uk/articles/frank-ramsey-a-more-human-philosophy/)
-* [I thought I would have accomplished a lot more today and also before I was 35](https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five)
 ## nytimes.com
 
 
@@ -56,6 +56,7 @@ layout: default
 * [Kurt Andersen on ‘Evil Geniuses’](https://www.nytimes.com/2020/08/28/books/review/podcast-evil-geniuses-kurt-andersen-fallout-hiroshima-lesley-m-m-blume.html)
 * [Episode One: The Book of Statuses](https://www.nytimes.com/2020/07/30/podcasts/nice-white-parents-serial.html)
 * [Shinzo Abe Is Quitting, and Leaving a Trail of Scandals Behind](https://www.nytimes.com/2020/08/30/opinion/shinzo-abe-resign-japan.html)
+* [Meet Germany’s Bizarre Anti-Lockdown Protesters](https://www.nytimes.com/2020/08/31/opinion/germany-covid-lockdown-protests.html)
 * [Trump, Vicar of Fear and Violence](https://www.nytimes.com/2020/08/30/opinion/trump-white-fear-2020.html)
 * [The Brain Implants That Could Change Humanity](https://www.nytimes.com/2020/08/28/opinion/sunday/brain-machine-artificial-intelligence.html)
 * [President Trump, Don’t Leave My Brother, a Hostage, Behind](https://www.nytimes.com/2020/08/30/opinion/hostage-trump-afghanistan-frerichs.html)
@@ -65,7 +66,6 @@ layout: default
 * [‘We’re Here and They’re Not’](https://www.nytimes.com/2020/08/28/opinion/sunday/trump-rnc-speech.html)
 * [The Lawbreakers Trump Loves](https://www.nytimes.com/2020/08/29/opinion/sunday/trump-protests-law.html)
 * [America’s Coronavirus Reopening Choice: Schools, Bars or Disney World?](https://www.nytimes.com/2020/08/28/opinion/coronavirus-schools-tradeoffs.html)
-* [Can Colleges Meet the Covid Challenge?](https://www.nytimes.com/2020/08/30/opinion/letters/coronavirus-college.html)
 * [In a Naked Pandemic Race, You Can Leave Your Hat On](https://www.nytimes.com/2020/08/28/well/move/running-race-nudist-resort-naked.html)
 * [My Job? Telling People What Happens Next](https://www.nytimes.com/2020/08/27/insider/coronavirus-future.html)
 * [In the Second Volume of ‘Hitler,’ How a Dictator Invited His Own Downfall](https://www.nytimes.com/2020/08/26/books/review-hitler-downfall-volker-ullrich.html)
@@ -87,8 +87,8 @@ layout: default
 * [Today’s Chefs Are Honoring a Vital Tradition: Feeding the Revolution](https://www.nytimes.com/2020/08/28/t-magazine/food-protest-revolution.html)
 * [A Final Episode for the TV Listings](https://www.nytimes.com/2020/08/28/insider/TV-listings-ending.html)
 * [Malcolm X, Laurence Fishburne and ‘the Theater of Your Mind’](https://www.nytimes.com/2020/08/30/books/laurence-fishburne-autobiography-of-malcolm-x-audiobook.html)
-* [Did Something Burp? It Was an Earthquake](https://www.nytimes.com/2020/08/29/science/earthquakes-carbon-dioxide.html)
 * [A Strange Rash Had Doctors Stumped. Was It an Insect Bite?](https://www.nytimes.com/2020/08/27/magazine/allergic-contact-dermatitis-acd.html)
+* [Did Something Burp? It Was an Earthquake](https://www.nytimes.com/2020/08/29/science/earthquakes-carbon-dioxide.html)
 * [A Woman May Have Been Cured of H.I.V. Without Medical Treatment](https://www.nytimes.com/2020/08/26/health/hiv-cure.html)
 * [A Rip in the Fabric of Interstellar Dreams](https://www.nytimes.com/2020/08/21/science/space-telescope-puerto-rico-arecibo.html)
 * [‘Bill & Ted Face the Music’ Review: Be Adequate to Each Other](https://www.nytimes.com/2020/08/27/movies/bill-and-ted-face-the-music-review.html)

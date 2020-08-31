@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 30/08/2020 23:34:41 UTC
+# indexed at 31/08/2020 00:22:28 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Ex-neuralink employees describe rushed timelines clashing with science’s pace](https://www.statnews.com/2020/08/25/elon-musk-neuralink-update-brain-machine-implants/)
 * [Players are fixing Microsoft Flight Simulator’s monuments with Google Maps](https://www.rockpapershotgun.com/2020/08/28/players-are-fixing-microsoft-flight-simulators-missing-monuments-with-google-maps/)
 * [Level 3 Global Outage](https://puck.nether.net/pipermail/outages/2020-August/013187.html)
+* [Drug Cartel Now Assassinates Its Enemies with Bomb-Toting Drones](https://www.thedrive.com/the-war-zone/36013/mexican-drug-cartel-now-assassinating-its-enemies-with-improvised-explosive-toting-drones)
 * [Show HN: Learn how WebRTC actually works. A book on the protocols, not just APIs](https://webrtcforthecurious.com/)
 * [A terminal-based presentation tool with colors and effects](https://github.com/vinayak-mehta/present)
 * [The Legend of GayBlade](https://blog.archive.org/2020/08/28/the-legend-of-gayblade/)
-* [Chrome is not the new IE](https://threadreaderapp.com/thread/1299136717027336192)
 * [Essentials of Programming Languages](http://eopl3.com/)
+* [Chrome is not the new IE](https://threadreaderapp.com/thread/1299136717027336192)
 * [Show HN: Vimac – Productive macOS keyboard-driven navigation](http://vimacapp.com)
+* [The Big Tesla Hack: A hacker gained control over the entire fleet](https://electrek.co/2020/08/27/tesla-hack-control-over-entire-fleet/)
 * [What Shell Am I Using?](https://nil.wallyjones.com/what-shell-am-i-using/)
 * [The Recursive Universe](http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/)
 * [All Circuits Are Busy Now: The 1990 AT&T Long Distance Network Collapse (1995)](https://users.csc.calpoly.edu/~jdalbey/SWE/Papers/att_collapse)
 * [Low-level details of the Zen 2 microarchitecture [pdf]](https://www.agner.org/optimize/microarchitecture.pdf)
-* [How to Read a Log Scale](https://blog.datawrapper.de/weeklychart-logscale/)
 * [The “menu engineers” who optimize restaurant revenue](https://thehustle.co/meet-the-menu-engineers-helping-restaurants-retool-during-the-pandemic/)
-* [The Unexpected Elegance of Irrigation Systems from Above](https://www.atlasobscura.com/articles/why-do-farms-look-like-circles-from-planes)
 * [How to Write Unmaintainable Code](https://github.com/Droogans/unmaintainable-code/blob/master/README.md)
-* [After 48 years, Democrats endorse nuclear energy in platform](https://www.forbes.com/sites/robertbryce/2020/08/23/after-48-years-democrats-endorse-nuclear-energy-in-platform/#3c7687df5829)
+* [The Unexpected Elegance of Irrigation Systems from Above](https://www.atlasobscura.com/articles/why-do-farms-look-like-circles-from-planes)
+* [How to Read a Log Scale](https://blog.datawrapper.de/weeklychart-logscale/)
+* [Banks create money out of thin air, but it's less impressive than it sounds](https://www.attejuvonen.fi/money-out-of-thin-air/)
 * [Physicists found a new quantum paradox that casts doubt on a pillar of reality](https://www.sciencealert.com/a-new-quantum-paradox-throws-the-foundations-of-observed-reality-into-question)
 * [The Crazy-Tiny Next Generation of Computers (2015)](https://medium.com/backchannel/the-crazy-tiny-next-generation-of-computers-17e89e472839)
-* [Multi-Tenant Architectures](https://blog.codonomics.com/2020/08/multi-tenant-architectures.html)
 * [Tech my dad banned in our house when I was a kid](https://gizmodo.com/the-tech-my-dad-banned-from-our-house-1844777825)
+* [Multi-Tenant Architectures](https://blog.codonomics.com/2020/08/multi-tenant-architectures.html)
 * [Frank Ramsey: A more human philosophy](https://www.the-tls.co.uk/articles/frank-ramsey-a-more-human-philosophy/)
 * [Using the Linux kernel's Case-insensitive feature in Ext4](https://www.collabora.com/news-and-blog/blog/2020/08/27/using-the-linux-kernel-case-insensitive-feature-in-ext4/)
+* [After 48 years, Democrats endorse nuclear energy in platform](https://www.forbes.com/sites/robertbryce/2020/08/23/after-48-years-democrats-endorse-nuclear-energy-in-platform/#3c7687df5829)
 * [We Know How to Prevent Megafires](https://www.propublica.org/article/they-know-how-to-prevent-megafires-why-wont-anybody-listen/)
-* [Horcrux Encrypted Messaging](https://www.notion.so/Horcrux-Encrypted-Messaging-78af0a3f326244ebb0aedff7c298953d)
 * [An interesting mistake with Go's context package](https://utcc.utoronto.ca/~cks/space/blog/programming/GoContextValueMistake)
 * [I thought I would have accomplished a lot more today and also before I was 35](https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five)
-* [The Door Problem (2014)](http://www.lizengland.com/blog/2014/04/the-door-problem/)
-* [WebBundles are built for content-addressable networks](https://adlrocha.substack.com/p/adlrocha-webbundles-are-built-for)
-* [American Academy of Sleep Medicine calls for elimination of daylight saving time](https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/)
 ## nytimes.com
 
 
@@ -52,7 +52,7 @@ layout: default
 * [Steven Mnuchin Tried to Save the Economy. Not Even His Family Is Happy.](https://www.nytimes.com/2020/08/30/business/steven-mnuchin-trump-economy.html)
 * [Shift on Election Briefings Could Create an Information Gap for Voters](https://www.nytimes.com/2020/08/30/us/politics/2020-election-security-briefings.html)
 * [Big Oil Is in Trouble. Its Plan: Flood Africa With Plastic.](https://www.nytimes.com/2020/08/30/climate/oil-kenya-africa-plastics-trade.html)
-* [‘A Hail Mary’: Psychedelic Therapy Draws Veterans to Jungle Retreats](https://www.nytimes.com/2020/08/30/world/americas/psychedelics-therapy-war-stress.html)
+* [Stories of 2020: Five Lives Caught in a Year of Upheaval and Pain](https://www.nytimes.com/2020/08/30/us/politics/2020-year.html)
 * [The Sunday Read: ‘In the Line of Fire’](https://www.nytimes.com/2020/08/30/podcasts/the-daily/california-wildfires-prisoners.html)
 * [Kurt Andersen on ‘Evil Geniuses’](https://www.nytimes.com/2020/08/28/books/review/podcast-evil-geniuses-kurt-andersen-fallout-hiroshima-lesley-m-m-blume.html)
 * [Episode One: The Book of Statuses](https://www.nytimes.com/2020/07/30/podcasts/nice-white-parents-serial.html)
@@ -92,22 +92,22 @@ layout: default
 * [A Strange Rash Had Doctors Stumped. Was It an Insect Bite?](https://www.nytimes.com/2020/08/27/magazine/allergic-contact-dermatitis-acd.html)
 * [A Woman May Have Been Cured of H.I.V. Without Medical Treatment](https://www.nytimes.com/2020/08/26/health/hiv-cure.html)
 * [A Rip in the Fabric of Interstellar Dreams](https://www.nytimes.com/2020/08/21/science/space-telescope-puerto-rico-arecibo.html)
+* [What to Watch for on Day 2 of the Republican National Convention](https://www.nytimes.com/2020/08/25/us/politics/republican-national-convention-guide.html)
+* [Bayern Munich 1, P.S.G. 0: A Champions League Win for Tradition and Team](https://www.nytimes.com/2020/08/23/sports/soccer/psg-bayern-live-score.html)
+* [N.Y.P.D. Records Shed Light on Misconduct](https://www.nytimes.com/2020/08/24/nyregion/NYPD-records-released.html)
 * [7 Takeaways From ‘Melania and Me,’ by the First Lady’s Former Friend](https://www.nytimes.com/2020/08/28/books/review/melania-and-me-stephanie-winston-wolkoff.html)
-* [What’s on TV Saturday: A CNN Special and ‘Tesla’](https://www.nytimes.com/2020/08/24/arts/television/whats-on-tv-saturday-a-cnn-special-and-tesla.html)
-* [For Refusing a Drink, a Chinese Worker Was Slapped in the Face](https://www.nytimes.com/2020/08/25/world/asia/china-slap-drinking-work.html)
-* [On Trump, Merkel's Face Does the Talking](https://www.nytimes.com/2020/08/28/world/europe/merkel-trump-grenell.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
-* [Israel negocia em segredo normalização das relações com países árabes, diz Netanyahu](https://oglobo.globo.com/mundo/israel-negocia-em-segredo-normalizacao-das-relacoes-com-paises-arabes-diz-netanyahu-24614785)
 * [Brasil registra 120.896 mortes por coronavírus, aponta boletim de veículos de imprensa](https://oglobo.globo.com/sociedade/coronavirus/brasil-registra-120896-mortes-por-coronavirus-aponta-boletim-de-veiculos-de-imprensa-24614794)
+* [Witzel recebeu R$ 1 milhão de escritórios e PSC em 2018](https://oglobo.globo.com/rio/witzel-recebeu-1-milhao-de-escritorios-psc-em-2018-24614931)
+* [Israel negocia em segredo normalização das relações com países árabes, diz Netanyahu](https://oglobo.globo.com/mundo/israel-negocia-em-segredo-normalizacao-das-relacoes-com-paises-arabes-diz-netanyahu-24614785)
 * [Rio segue com aumento na média móvel de mortes por novo coronavírus pelo nono dia seguido](https://oglobo.globo.com/rio/rio-segue-com-aumento-na-media-movel-de-mortes-por-novo-coronavirus-pelo-nono-dia-seguido-24614827)
 * [Comissão de Direitos Humanos da OAB vai analisar caso de produtora cultural que diz ter sido estuprada por PM em Copacabana](https://oglobo.globo.com/rio/comissao-de-direitos-humanos-da-oab-vai-analisar-caso-de-produtora-cultural-que-diz-ter-sido-estuprada-por-pm-em-copacabana-24614869)
 * [Mulher sofre tentativa de feminicídio na Baixada](https://oglobo.globo.com/rio/mulher-sofre-tentativa-de-feminicidio-na-baixada-24614823)
-* [Warren Buffett faz 90 anos e recomenda 'técnica de Matusalém' para virar bilionário](https://oglobo.globo.com/economia/warren-buffett-faz-90-anos-recomenda-tecnica-de-matusalem-para-virar-bilionario-24614726)
 * [Fiscais da prefeitura encerram quatro eventos com aglomerações e outras irregularidades neste fim de semana](https://oglobo.globo.com/rio/fiscais-da-prefeitura-encerram-quatro-eventos-com-aglomeracoes-outras-irregularidades-neste-fim-de-semana-24614789)
 * [Champions: Lyon mantém hegemonia no futebol feminino e conquista a Europa pela quinta vez consecutiva](https://oglobo.globo.com/esportes/champions-lyon-mantem-hegemonia-no-futebol-feminino-conquista-europa-pela-quinta-vez-consecutiva-24614747)
 * [Flamengo muda estilo, aposta nos contra-ataques e vence o Santos em plena Vila Belmiro](https://oglobo.globo.com/esportes/flamengo-muda-estilo-aposta-nos-contra-ataques-vence-santos-em-plena-vila-belmiro-1-24614790)

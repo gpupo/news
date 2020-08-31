@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 31/08/2020 02:34:31 UTC
+# indexed at 31/08/2020 03:08:33 UTC
 
 
 ## news.ycombinator.com
@@ -12,6 +12,7 @@ layout: default
 * [Level 3 Global Outage](https://puck.nether.net/pipermail/outages/2020-August/013187.html)
 * [Players are fixing Microsoft Flight Simulator’s monuments with Google Maps](https://www.rockpapershotgun.com/2020/08/28/players-are-fixing-microsoft-flight-simulators-missing-monuments-with-google-maps/)
 * [Show HN: Learn how WebRTC actually works. A book on the protocols, not just APIs](https://webrtcforthecurious.com/)
+* [Why are there 5280 feet in a mile?](https://petersmagnusson.org/2009/09/15/why-are-there-5280-feet-in-a-mile/)
 * [A terminal-based presentation tool with colors and effects](https://github.com/vinayak-mehta/present)
 * [The Legend of GayBlade](https://blog.archive.org/2020/08/28/the-legend-of-gayblade/)
 * [Essentials of Programming Languages](http://eopl3.com/)
@@ -20,24 +21,23 @@ layout: default
 * [The Recursive Universe](http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/)
 * [All Circuits Are Busy Now: The 1990 AT&T Long Distance Network Collapse (1995)](https://users.csc.calpoly.edu/~jdalbey/SWE/Papers/att_collapse)
 * [Low-level details of the Zen 2 microarchitecture [pdf]](https://www.agner.org/optimize/microarchitecture.pdf)
-* [How to Write Unmaintainable Code](https://github.com/Droogans/unmaintainable-code/blob/master/README.md)
-* [How to Read a Log Scale](https://blog.datawrapper.de/weeklychart-logscale/)
 * [Waiting for Gödel (2016)](https://www.newyorker.com/tech/annals-of-technology/waiting-for-godel)
-* [An overview of the science on function length](https://softwarebyscience.com/very-short-functions-are-a-code-smell-an-overview-of-the-science-on-function-length/)
+* [How to Read a Log Scale](https://blog.datawrapper.de/weeklychart-logscale/)
 * [The Unexpected Elegance of Irrigation Systems from Above](https://www.atlasobscura.com/articles/why-do-farms-look-like-circles-from-planes)
-* [Drug cartel assassinates its enemies with bomb-toting drones](https://www.thedrive.com/the-war-zone/36013/mexican-drug-cartel-now-assassinating-its-enemies-with-improvised-explosive-toting-drones)
+* [An overview of the science on function length](https://softwarebyscience.com/very-short-functions-are-a-code-smell-an-overview-of-the-science-on-function-length/)
 * [Yml Coding](https://cloud.google.com/workflows/docs/reference/syntax)
-* [Multi-Tenant Architectures](https://blog.codonomics.com/2020/08/multi-tenant-architectures.html)
 * [Tech my dad banned in our house when I was a kid](https://gizmodo.com/the-tech-my-dad-banned-from-our-house-1844777825)
+* [Multi-Tenant Architectures](https://blog.codonomics.com/2020/08/multi-tenant-architectures.html)
 * [After 48 years, Democrats endorse nuclear energy in platform](https://www.forbes.com/sites/robertbryce/2020/08/23/after-48-years-democrats-endorse-nuclear-energy-in-platform/#3c7687df5829)
 * [Last Week on My Mac: Is macOS Becoming Unmaintainable?](https://eclecticlight.co/2020/08/30/last-week-on-my-mac-is-macos-becoming-unmaintainable/)
-* [The Crazy-Tiny Next Generation of Computers (2015)](https://medium.com/backchannel/the-crazy-tiny-next-generation-of-computers-17e89e472839)
 * [Using the Linux kernel's Case-insensitive feature in Ext4](https://www.collabora.com/news-and-blog/blog/2020/08/27/using-the-linux-kernel-case-insensitive-feature-in-ext4/)
+* [The Crazy-Tiny Next Generation of Computers (2015)](https://medium.com/backchannel/the-crazy-tiny-next-generation-of-computers-17e89e472839)
+* [Drug cartel assassinates its enemies with bomb-toting drones](https://www.thedrive.com/the-war-zone/36013/mexican-drug-cartel-now-assassinating-its-enemies-with-improvised-explosive-toting-drones)
 * [Frank Ramsey: A more human philosophy](https://www.the-tls.co.uk/articles/frank-ramsey-a-more-human-philosophy/)
 * [An interesting mistake with Go's context package](https://utcc.utoronto.ca/~cks/space/blog/programming/GoContextValueMistake)
+* [How to Write Unmaintainable Code](https://github.com/Droogans/unmaintainable-code/blob/master/README.md)
 * [We Know How to Prevent Megafires](https://www.propublica.org/article/they-know-how-to-prevent-megafires-why-wont-anybody-listen/)
 * [I thought I would have accomplished a lot more today and also before I was 35](https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five)
-* [American Academy of Sleep Medicine calls for elimination of daylight saving time](https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/)
 ## nytimes.com
 
 
@@ -87,13 +87,13 @@ layout: default
 * [Today’s Chefs Are Honoring a Vital Tradition: Feeding the Revolution](https://www.nytimes.com/2020/08/28/t-magazine/food-protest-revolution.html)
 * [A Final Episode for the TV Listings](https://www.nytimes.com/2020/08/28/insider/TV-listings-ending.html)
 * [Malcolm X, Laurence Fishburne and ‘the Theater of Your Mind’](https://www.nytimes.com/2020/08/30/books/laurence-fishburne-autobiography-of-malcolm-x-audiobook.html)
-* [A Strange Rash Had Doctors Stumped. Was It an Insect Bite?](https://www.nytimes.com/2020/08/27/magazine/allergic-contact-dermatitis-acd.html)
 * [Did Something Burp? It Was an Earthquake](https://www.nytimes.com/2020/08/29/science/earthquakes-carbon-dioxide.html)
+* [A Strange Rash Had Doctors Stumped. Was It an Insect Bite?](https://www.nytimes.com/2020/08/27/magazine/allergic-contact-dermatitis-acd.html)
 * [A Woman May Have Been Cured of H.I.V. Without Medical Treatment](https://www.nytimes.com/2020/08/26/health/hiv-cure.html)
 * [A Rip in the Fabric of Interstellar Dreams](https://www.nytimes.com/2020/08/21/science/space-telescope-puerto-rico-arecibo.html)
-* [Bayern Munich 1, P.S.G. 0: A Champions League Win for Tradition and Team](https://www.nytimes.com/2020/08/23/sports/soccer/psg-bayern-live-score.html)
 * [7 Takeaways From ‘Melania and Me,’ by the First Lady’s Former Friend](https://www.nytimes.com/2020/08/28/books/review/melania-and-me-stephanie-winston-wolkoff.html)
-* [Executive Admits Manslaughter in U.K. Trafficking Case Involving Vietnamese](https://www.nytimes.com/2020/08/28/world/europe/trucker-manslaughter-uk-trafficking.html)
+* [The Week in Business: Steve Bannon Charged With Fraud](https://www.nytimes.com/2020/08/23/business/the-week-in-business-steve-bannon-charged-with-fraud.html)
+* [5 Simple Ways to Improve Your Wi-Fi](https://www.nytimes.com/2020/08/24/smarter-living/home-wifi-upgrade.html)
 * [Bare Breasts on French Beaches? You Can, Despite Police Warnings](https://www.nytimes.com/2020/08/26/world/europe/france-beach-topless.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)

@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 31/08/2020 06:34:24 UTC
+# indexed at 31/08/2020 07:07:51 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Do we really travel through time with the speed of light?](https://backreaction.blogspot.com/2020/08/do-we-really-travel-through-time-with.html)
+* [Analysis of Today's CenturyLink/Level(3) Outage](https://blog.cloudflare.com/analysis-of-todays-centurylink-level-3-outage/)
 * [Why are there 5280 feet in a mile?](https://petersmagnusson.org/2009/09/15/why-are-there-5280-feet-in-a-mile/)
 * [Players are fixing Microsoft Flight Simulator’s monuments with Google Maps](https://www.rockpapershotgun.com/2020/08/28/players-are-fixing-microsoft-flight-simulators-missing-monuments-with-google-maps/)
-* [Show HN: Learn how WebRTC actually works. A book on the protocols, not just APIs](https://webrtcforthecurious.com/)
 * [Drug cartel assassinates its enemies with bomb-toting drones](https://www.thedrive.com/the-war-zone/36013/mexican-drug-cartel-now-assassinating-its-enemies-with-improvised-explosive-toting-drones)
+* [Sum Types in Julia and Rust](https://andreaskroepelin.de/blog/sum_types/)
 * [A terminal-based presentation tool with colors and effects](https://github.com/vinayak-mehta/present)
 * [The Legend of GayBlade](https://blog.archive.org/2020/08/28/the-legend-of-gayblade/)
 * [Essentials of Programming Languages](http://eopl3.com/)
-* [Sum Types in Julia and Rust](https://andreaskroepelin.de/blog/sum_types/)
 * [Banks create money, but it's less impressive than it sounds](https://www.attejuvonen.fi/money-out-of-thin-air/)
-* [What Shell Am I Using?](https://nil.wallyjones.com/what-shell-am-i-using/)
-* [Level 3 Global Outage](https://puck.nether.net/pipermail/outages/2020-August/013187.html)
-* [How to Write Unmaintainable Code (2003)](https://github.com/Droogans/unmaintainable-code/blob/master/README.md)
-* [Visualizing TSNE Maps with Three.js](https://douglasduhaime.com/posts/visualizing-tsne-maps-with-three-js.html)
-* [Self-driving cars learn to read the body language of people on the street](https://spectrum.ieee.org/transportation/self-driving/selfdriving-cars-learn-to-read-the-body-language-of-people-on-the-street)
 * [K-Stash: A search engine for your useful links – for devs and researchers](https://k-stash.com)
+* [What Shell Am I Using?](https://nil.wallyjones.com/what-shell-am-i-using/)
+* [Visualizing TSNE Maps with Three.js](https://douglasduhaime.com/posts/visualizing-tsne-maps-with-three-js.html)
+* [How to Write Unmaintainable Code (2003)](https://github.com/Droogans/unmaintainable-code/blob/master/README.md)
+* [Level 3 Global Outage](https://puck.nether.net/pipermail/outages/2020-August/013187.html)
+* [Self-driving cars learn to read the body language of people on the street](https://spectrum.ieee.org/transportation/self-driving/selfdriving-cars-learn-to-read-the-body-language-of-people-on-the-street)
+* [Converting Boolean-Logic Decision Trees to Finite State Machines](https://medium.com/analytics-vidhya/converting-boolean-logic-decision-trees-to-finite-state-machines-180ad195abf2)
+* [Show HN: Learn how WebRTC actually works. A book on the protocols, not just APIs](https://webrtcforthecurious.com/)
+* [Is macOS Becoming Unmaintainable?](https://eclecticlight.co/2020/08/30/last-week-on-my-mac-is-macos-becoming-unmaintainable/)
 * [How to Read a Log Scale](https://blog.datawrapper.de/weeklychart-logscale/)
-* [Last Week on My Mac: Is macOS Becoming Unmaintainable?](https://eclecticlight.co/2020/08/30/last-week-on-my-mac-is-macos-becoming-unmaintainable/)
 * [An overview of the science on function length](https://softwarebyscience.com/very-short-functions-are-a-code-smell-an-overview-of-the-science-on-function-length/)
-* [Meeting lengths are changing during coronavirus remote work](https://www.fastcompany.com/90543500/one-thing-that-the-pandemic-could-be-changing-meeting-lengths)
 * [High-tech tracking reveals ‘secret world of birds’](https://www.smithsonianmag.com/smithsonian-institution/high-tech-tracking-reveals-birds-movement-beyond-migration-180975673/)
-* [Cloudlfare's Analysis of Today's CenturyLink/Level(3) Outage](https://blog.cloudflare.com/analysis-of-todays-centurylink-level-3-outage/)
+* [Meeting lengths are changing during coronavirus remote work](https://www.fastcompany.com/90543500/one-thing-that-the-pandemic-could-be-changing-meeting-lengths)
+* [FB Executive Supported India’s Modi, Disparaged Opp. In Internal Messages](https://www.wsj.com/articles/facebook-executive-supported-indias-modi-disparaged-opposition-in-internal-messages-11598809348)
+* [Multi-Tenant Architectures](https://blog.codonomics.com/2020/08/multi-tenant-architectures.html)
+* [Yml Coding](https://cloud.google.com/workflows/docs/reference/syntax)
 * [Waiting for Gödel (2016)](https://www.newyorker.com/tech/annals-of-technology/waiting-for-godel)
 * [After 48 years, Democrats endorse nuclear energy in platform](https://www.forbes.com/sites/robertbryce/2020/08/23/after-48-years-democrats-endorse-nuclear-energy-in-platform/#3c7687df5829)
-* [The Unexpected Elegance of Irrigation Systems from Above](https://www.atlasobscura.com/articles/why-do-farms-look-like-circles-from-planes)
-* [Yml Coding](https://cloud.google.com/workflows/docs/reference/syntax)
 * [Show HN: Vimac – Productive macOS keyboard-driven navigation](http://vimacapp.com)
-* [Multi-Tenant Architectures](https://blog.codonomics.com/2020/08/multi-tenant-architectures.html)
-* [Frank Ramsey: A more human philosophy](https://www.the-tls.co.uk/articles/frank-ramsey-a-more-human-philosophy/)
-* [The Recursive Universe](http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/)
+* [Win “Active Hours” underscores how you’re not in control of your devices (2016)](https://www.ctrl.blog/entry/windows-active-hours.html)
 ## nytimes.com
 
 
@@ -91,9 +91,10 @@ layout: default
 * [Did Something Burp? It Was an Earthquake](https://www.nytimes.com/2020/08/29/science/earthquakes-carbon-dioxide.html)
 * [A Woman May Have Been Cured of H.I.V. Without Medical Treatment](https://www.nytimes.com/2020/08/26/health/hiv-cure.html)
 * [A Rip in the Fabric of Interstellar Dreams](https://www.nytimes.com/2020/08/21/science/space-telescope-puerto-rico-arecibo.html)
-* [‘Bill & Ted Face the Music’ Review: Be Adequate to Each Other](https://www.nytimes.com/2020/08/27/movies/bill-and-ted-face-the-music-review.html)
-* [What to Know About Colon Cancer](https://www.nytimes.com/2020/08/29/health/colon-cancer-chadwick-boseman.html)
-* [What Is Waacking, and Why Is It All Over TikTok?](https://www.nytimes.com/2020/08/29/nyregion/waacking-nyc-club-dance.html)
+* [Heat, Smoke and Covid Are Battering the Workers Who Feed America](https://www.nytimes.com/2020/08/25/climate/california-farm-workers-climate-change.html)
+* [7 Takeaways From ‘Melania and Me,’ by the First Lady’s Former Friend](https://www.nytimes.com/2020/08/28/books/review/melania-and-me-stephanie-winston-wolkoff.html)
+* [Should Children Go Back to School? New Surveys Say It Depends in Part on Your Politics](https://www.nytimes.com/2020/08/26/upshot/school-reopening-partisan-divide.html)
+* [Daniel Cameron, Kentucky A.G., Speaks at the R.N.C.: Full Transcript](https://www.nytimes.com/2020/08/25/us/politics/daniel-cameron-rnc-speech.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
@@ -101,10 +102,10 @@ layout: default
 
 
 * [Partido do governo vai escolher futuro premier do Japão em 14 de setembro](https://oglobo.globo.com/mundo/partido-do-governo-vai-escolher-futuro-premier-do-japao-em-14-de-setembro-24615132)
-* [Brasil registra 120.896 mortes por coronavírus, aponta boletim de veículos de imprensa](https://oglobo.globo.com/sociedade/coronavirus/brasil-registra-120896-mortes-por-coronavirus-aponta-boletim-de-veiculos-de-imprensa-24614794)
 * [Viúva de Marielle Franco lamenta 900 dias sem resposta sobre mandantes do assassinato](https://oglobo.globo.com/rio/viuva-de-marielle-franco-lamenta-900-dias-sem-resposta-sobre-mandantes-do-assassinato-24615037)
 * [Witzel recebeu R$ 1 milhão de escritórios e PSC em 2018](https://oglobo.globo.com/rio/witzel-recebeu-1-milhao-de-escritorios-psc-em-2018-24614931)
 * [Governo errático enfrenta novos testes no Congresso](https://oglobo.globo.com/opiniao/governo-erratico-enfrenta-novos-testes-no-congresso-1-24612304)
+* [Tênis: Sem Nadal e Federer, US Open começa nesta segunda com favoritismo absoluto de Djokovic](https://oglobo.globo.com/esportes/tenis-sem-nadal-federer-us-open-comeca-nesta-segunda-com-favoritismo-absoluto-de-djokovic-1-24614771)
 * [Crise da pandemia põe Argentina no caminho de um projeto autoritário](https://oglobo.globo.com/opiniao/crise-da-pandemia-poe-argentina-no-caminho-de-um-projeto-autoritario-24612507)
 * [Gladiador defunto mas intacto](https://oglobo.globo.com/opiniao/gladiador-defunto-mas-intacto-24612480)
 * [Entre o vírus e o fogo](https://oglobo.globo.com/opiniao/entre-virus-o-fogo-24612349)

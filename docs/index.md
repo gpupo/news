@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 31/08/2020 09:10:55 UTC
+# indexed at 31/08/2020 09:34:30 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Do we really travel through time with the speed of light?](https://backreaction.blogspot.com/2020/08/do-we-really-travel-through-time-with.html)
+* [Google, the Stupidity Amplifier](http://www.gregegan.net/ESSAYS/GOOGLE/Google.html)
 * [Analysis of Today's CenturyLink/Level(3) Outage](https://blog.cloudflare.com/analysis-of-todays-centurylink-level-3-outage/)
+* [Unusual Maps](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0002yI)
 * [Why are there 5280 feet in a mile?](https://petersmagnusson.org/2009/09/15/why-are-there-5280-feet-in-a-mile/)
-* [Players are fixing Microsoft Flight Simulator’s monuments with Google Maps](https://www.rockpapershotgun.com/2020/08/28/players-are-fixing-microsoft-flight-simulators-missing-monuments-with-google-maps/)
 * [Drug cartel assassinates its enemies with bomb-toting drones](https://www.thedrive.com/the-war-zone/36013/mexican-drug-cartel-now-assassinating-its-enemies-with-improvised-explosive-toting-drones)
 * [Sum Types in Julia and Rust](https://andreaskroepelin.de/blog/sum_types/)
-* [Unusual Maps](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0002yI)
 * [Banks create money, but it's less impressive than it sounds](https://www.attejuvonen.fi/money-out-of-thin-air/)
-* [The Legend of GayBlade](https://blog.archive.org/2020/08/28/the-legend-of-gayblade/)
 * [Visualizing TSNE Maps with Three.js](https://douglasduhaime.com/posts/visualizing-tsne-maps-with-three-js.html)
-* [Essentials of Programming Languages](http://eopl3.com/)
+* [The Legend of GayBlade](https://blog.archive.org/2020/08/28/the-legend-of-gayblade/)
+* [The Easy Ones – Three Bugs Hiding in the Open](https://randomascii.wordpress.com/2020/08/30/the-easy-ones-three-bugs-hiding-in-the-open/)
+* [We Replaced an SSD with Storage Class Memory](https://engineering.mongodb.com/post/we-replaced-an-ssd-with-storage-class-memory-here-is-what-we-learned)
 * [K-Stash: A search engine for your useful links – for devs and researchers](https://k-stash.com)
 * [What Shell Am I Using?](https://nil.wallyjones.com/what-shell-am-i-using/)
-* [We Replaced an SSD with Storage Class Memory](https://engineering.mongodb.com/post/we-replaced-an-ssd-with-storage-class-memory-here-is-what-we-learned)
 * [Level 3 Global Outage](https://puck.nether.net/pipermail/outages/2020-August/013187.html)
 * [How to Write Unmaintainable Code (2003)](https://github.com/Droogans/unmaintainable-code/blob/master/README.md)
-* [Don't Get Stuck](https://stitcher.io/blog/dont-get-stuck)
 * [Is macOS Becoming Unmaintainable?](https://eclecticlight.co/2020/08/30/last-week-on-my-mac-is-macos-becoming-unmaintainable/)
+* [Don't Get Stuck](https://stitcher.io/blog/dont-get-stuck)
 * [Show HN: Learn how WebRTC actually works. A book on the protocols, not just APIs](https://webrtcforthecurious.com/)
+* [Players are fixing Microsoft Flight Simulator’s monuments with Google Maps](https://www.rockpapershotgun.com/2020/08/28/players-are-fixing-microsoft-flight-simulators-missing-monuments-with-google-maps/)
 * [Converting Boolean-Logic Decision Trees to Finite State Machines](https://medium.com/analytics-vidhya/converting-boolean-logic-decision-trees-to-finite-state-machines-180ad195abf2)
-* [The Easy Ones – Three Bugs Hiding in the Open](https://randomascii.wordpress.com/2020/08/30/the-easy-ones-three-bugs-hiding-in-the-open/)
 * [How to Read a Log Scale](https://blog.datawrapper.de/weeklychart-logscale/)
+* [Writing a Lisp to x86-64 compiler](https://news.ycombinator.com/item?id=24328998)
 * [Win “Active Hours” underscores how you’re not in control of your devices (2016)](https://www.ctrl.blog/entry/windows-active-hours.html)
 * [An overview of the science on function length](https://softwarebyscience.com/very-short-functions-are-a-code-smell-an-overview-of-the-science-on-function-length/)
-* [Writing a Lisp to x86-64 compiler](https://news.ycombinator.com/item?id=24328998)
+* [High-tech tracking reveals ‘secret world of birds’](https://www.smithsonianmag.com/smithsonian-institution/high-tech-tracking-reveals-birds-movement-beyond-migration-180975673/)
 * [A terminal-based presentation tool with colors and effects](https://github.com/vinayak-mehta/present)
 * [Yml Coding](https://cloud.google.com/workflows/docs/reference/syntax)
+* [Essentials of Programming Languages](http://eopl3.com/)
 * [Meeting lengths are changing during coronavirus remote work](https://www.fastcompany.com/90543500/one-thing-that-the-pandemic-could-be-changing-meeting-lengths)
-* [High-tech tracking reveals ‘secret world of birds’](https://www.smithsonianmag.com/smithsonian-institution/high-tech-tracking-reveals-birds-movement-beyond-migration-180975673/)
-* [Waiting for Gödel (2016)](https://www.newyorker.com/tech/annals-of-technology/waiting-for-godel)
 ## nytimes.com
 
 
@@ -52,6 +52,7 @@ layout: default
 * [Stories of 2020: Five Lives Caught in a Year of Upheaval and Pain](https://www.nytimes.com/2020/08/30/us/politics/2020-year.html)
 * [Big Oil Is in Trouble. Its Plan: Flood Africa With Plastic.](https://www.nytimes.com/2020/08/30/climate/oil-kenya-africa-plastics-trade.html)
 * [I’m Still Reading Andrew Sullivan. But I Can’t Defend Him.](https://www.nytimes.com/2020/08/30/business/media/im-still-reading-andrew-sullivan-but-i-cant-defend-him.html)
+* [Suburban Home Sales Boom as People Move Out of N.Y.C.](https://www.nytimes.com/2020/08/31/nyregion/suburbs-nyc-pandemic.html)
 * [The Sunday Read: ‘In the Line of Fire’](https://www.nytimes.com/2020/08/30/podcasts/the-daily/california-wildfires-prisoners.html)
 * [Kurt Andersen on ‘Evil Geniuses’](https://www.nytimes.com/2020/08/28/books/review/podcast-evil-geniuses-kurt-andersen-fallout-hiroshima-lesley-m-m-blume.html)
 * [Episode One: The Book of Statuses](https://www.nytimes.com/2020/07/30/podcasts/nice-white-parents-serial.html)
@@ -73,7 +74,7 @@ layout: default
 * [The Runway Lights Failed, So Villagers Used Their Headlights to Aid an Airlift](https://www.nytimes.com/2020/08/30/us/Lifemed-alaska-flight-runway-landing.html)
 * [Girl in Taiwan Is Swept High by a Kite](https://www.nytimes.com/2020/08/31/world/asia/taiwan-girl-kite.html)
 * [Taliban Violated Afghan Deal With Shelling of American Bases, U.S. Officials Say](https://www.nytimes.com/2020/08/30/world/asia/taliban-afghanistan-peace-us-attacks.html)
-* [Belarus President Hunkers Down as Crowds Demand He Leave](https://www.nytimes.com/2020/08/30/world/europe/belarus-lukashenko-protests.html)
+* [Belarus President Hunkers Down as Protests Call for Him to Leave](https://www.nytimes.com/2020/08/30/world/europe/belarus-lukashenko-protests.html)
 * [Snapped Poles, Shredded Roofs: A Long Road to Recovery After Laura](https://www.nytimes.com/2020/08/30/us/hurricane-laura-damage.html)
 * [Steven Mnuchin Tried to Save the Economy. Not Even His Family Is Happy.](https://www.nytimes.com/2020/08/30/business/steven-mnuchin-trump-economy.html)
 * [Shift on Election Briefings Could Create an Information Gap for Voters](https://www.nytimes.com/2020/08/30/us/politics/2020-election-security-briefings.html)
@@ -92,9 +93,9 @@ layout: default
 * [A Woman May Have Been Cured of H.I.V. Without Medical Treatment](https://www.nytimes.com/2020/08/26/health/hiv-cure.html)
 * [A Rip in the Fabric of Interstellar Dreams](https://www.nytimes.com/2020/08/21/science/space-telescope-puerto-rico-arecibo.html)
 * [7 Takeaways From ‘Melania and Me,’ by the First Lady’s Former Friend](https://www.nytimes.com/2020/08/28/books/review/melania-and-me-stephanie-winston-wolkoff.html)
-* [Join Us for a Live Conversation About Making Cities More Equitable](https://www.nytimes.com/2020/08/26/opinion/event-fair-housing-segregation.html)
-* [German Automotive Giant Admits It Was a Nazi Accomplice](https://www.nytimes.com/2020/08/27/business/german-auto-parts-continental-nazi.html)
-* [The 3 Scariest Chemicals to Watch Out For in Your Home](https://www.nytimes.com/2020/08/26/parenting/home-toxic-chemicals.html)
+* [Parents Join Forces to Rethink ‘Back to School’](https://www.nytimes.com/2020/08/28/realestate/coronavirus-parents-schools.html)
+* [Did President Trump Violate the Hatch Act at the R.N.C.?](https://www.nytimes.com/2020/08/26/us/politics/hatch-act-trump-rnc.html)
+* [Former Milwaukee Bucks Player John Henson Talks Profiling and Protests](https://www.nytimes.com/2020/08/27/sports/basketball/bucks-john-henson.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)

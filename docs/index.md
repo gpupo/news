@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 31/08/2020 08:34:26 UTC
+# indexed at 31/08/2020 09:10:55 UTC
 
 
 ## news.ycombinator.com
@@ -14,29 +14,29 @@ layout: default
 * [Players are fixing Microsoft Flight Simulator’s monuments with Google Maps](https://www.rockpapershotgun.com/2020/08/28/players-are-fixing-microsoft-flight-simulators-missing-monuments-with-google-maps/)
 * [Drug cartel assassinates its enemies with bomb-toting drones](https://www.thedrive.com/the-war-zone/36013/mexican-drug-cartel-now-assassinating-its-enemies-with-improvised-explosive-toting-drones)
 * [Sum Types in Julia and Rust](https://andreaskroepelin.de/blog/sum_types/)
+* [Unusual Maps](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0002yI)
 * [Banks create money, but it's less impressive than it sounds](https://www.attejuvonen.fi/money-out-of-thin-air/)
-* [Essentials of Programming Languages](http://eopl3.com/)
 * [The Legend of GayBlade](https://blog.archive.org/2020/08/28/the-legend-of-gayblade/)
 * [Visualizing TSNE Maps with Three.js](https://douglasduhaime.com/posts/visualizing-tsne-maps-with-three-js.html)
+* [Essentials of Programming Languages](http://eopl3.com/)
 * [K-Stash: A search engine for your useful links – for devs and researchers](https://k-stash.com)
-* [How to Write Unmaintainable Code (2003)](https://github.com/Droogans/unmaintainable-code/blob/master/README.md)
-* [Level 3 Global Outage](https://puck.nether.net/pipermail/outages/2020-August/013187.html)
 * [What Shell Am I Using?](https://nil.wallyjones.com/what-shell-am-i-using/)
-* [Self-driving cars learn to read the body language of people on the street](https://spectrum.ieee.org/transportation/self-driving/selfdriving-cars-learn-to-read-the-body-language-of-people-on-the-street)
-* [Show HN: Learn how WebRTC actually works. A book on the protocols, not just APIs](https://webrtcforthecurious.com/)
 * [We Replaced an SSD with Storage Class Memory](https://engineering.mongodb.com/post/we-replaced-an-ssd-with-storage-class-memory-here-is-what-we-learned)
-* [Is macOS Becoming Unmaintainable?](https://eclecticlight.co/2020/08/30/last-week-on-my-mac-is-macos-becoming-unmaintainable/)
-* [Converting Boolean-Logic Decision Trees to Finite State Machines](https://medium.com/analytics-vidhya/converting-boolean-logic-decision-trees-to-finite-state-machines-180ad195abf2)
-* [How to Read a Log Scale](https://blog.datawrapper.de/weeklychart-logscale/)
-* [Writing a Lisp to x86-64 compiler](https://news.ycombinator.com/item?id=24328998)
+* [Level 3 Global Outage](https://puck.nether.net/pipermail/outages/2020-August/013187.html)
+* [How to Write Unmaintainable Code (2003)](https://github.com/Droogans/unmaintainable-code/blob/master/README.md)
 * [Don't Get Stuck](https://stitcher.io/blog/dont-get-stuck)
-* [An overview of the science on function length](https://softwarebyscience.com/very-short-functions-are-a-code-smell-an-overview-of-the-science-on-function-length/)
-* [High-tech tracking reveals ‘secret world of birds’](https://www.smithsonianmag.com/smithsonian-institution/high-tech-tracking-reveals-birds-movement-beyond-migration-180975673/)
-* [A terminal-based presentation tool with colors and effects](https://github.com/vinayak-mehta/present)
-* [Meeting lengths are changing during coronavirus remote work](https://www.fastcompany.com/90543500/one-thing-that-the-pandemic-could-be-changing-meeting-lengths)
-* [Yml Coding](https://cloud.google.com/workflows/docs/reference/syntax)
+* [Is macOS Becoming Unmaintainable?](https://eclecticlight.co/2020/08/30/last-week-on-my-mac-is-macos-becoming-unmaintainable/)
+* [Show HN: Learn how WebRTC actually works. A book on the protocols, not just APIs](https://webrtcforthecurious.com/)
+* [Converting Boolean-Logic Decision Trees to Finite State Machines](https://medium.com/analytics-vidhya/converting-boolean-logic-decision-trees-to-finite-state-machines-180ad195abf2)
+* [The Easy Ones – Three Bugs Hiding in the Open](https://randomascii.wordpress.com/2020/08/30/the-easy-ones-three-bugs-hiding-in-the-open/)
+* [How to Read a Log Scale](https://blog.datawrapper.de/weeklychart-logscale/)
 * [Win “Active Hours” underscores how you’re not in control of your devices (2016)](https://www.ctrl.blog/entry/windows-active-hours.html)
-* [After 48 years, Democrats endorse nuclear energy in platform](https://www.forbes.com/sites/robertbryce/2020/08/23/after-48-years-democrats-endorse-nuclear-energy-in-platform/#3c7687df5829)
+* [An overview of the science on function length](https://softwarebyscience.com/very-short-functions-are-a-code-smell-an-overview-of-the-science-on-function-length/)
+* [Writing a Lisp to x86-64 compiler](https://news.ycombinator.com/item?id=24328998)
+* [A terminal-based presentation tool with colors and effects](https://github.com/vinayak-mehta/present)
+* [Yml Coding](https://cloud.google.com/workflows/docs/reference/syntax)
+* [Meeting lengths are changing during coronavirus remote work](https://www.fastcompany.com/90543500/one-thing-that-the-pandemic-could-be-changing-meeting-lengths)
+* [High-tech tracking reveals ‘secret world of birds’](https://www.smithsonianmag.com/smithsonian-institution/high-tech-tracking-reveals-birds-movement-beyond-migration-180975673/)
 * [Waiting for Gödel (2016)](https://www.newyorker.com/tech/annals-of-technology/waiting-for-godel)
 ## nytimes.com
 
@@ -91,23 +91,23 @@ layout: default
 * [A Strange Rash Had Doctors Stumped. Was It an Insect Bite?](https://www.nytimes.com/2020/08/27/magazine/allergic-contact-dermatitis-acd.html)
 * [A Woman May Have Been Cured of H.I.V. Without Medical Treatment](https://www.nytimes.com/2020/08/26/health/hiv-cure.html)
 * [A Rip in the Fabric of Interstellar Dreams](https://www.nytimes.com/2020/08/21/science/space-telescope-puerto-rico-arecibo.html)
-* [‘You Cannot Kill David Arquette’ Review: Ready to Rumble (Again)?](https://www.nytimes.com/2020/08/27/movies/you-cannot-kill-david-arquette-review.html)
 * [7 Takeaways From ‘Melania and Me,’ by the First Lady’s Former Friend](https://www.nytimes.com/2020/08/28/books/review/melania-and-me-stephanie-winston-wolkoff.html)
-* [Talking About Racism With The Times’s Youngest Readers](https://www.nytimes.com/2020/08/28/insider/times-for-kids-race-issue.html)
-* [Not the Convention, or the Election, North Carolina Republicans Hoped For](https://www.nytimes.com/2020/08/24/us/politics/north-carolina-charlotte-rnc.html)
+* [Join Us for a Live Conversation About Making Cities More Equitable](https://www.nytimes.com/2020/08/26/opinion/event-fair-housing-segregation.html)
+* [German Automotive Giant Admits It Was a Nazi Accomplice](https://www.nytimes.com/2020/08/27/business/german-auto-parts-continental-nazi.html)
+* [The 3 Scariest Chemicals to Watch Out For in Your Home](https://www.nytimes.com/2020/08/26/parenting/home-toxic-chemicals.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
-* [Autoridades israelenses e americanas fazem primeiro voo para os Emirados Árabes](https://oglobo.globo.com/mundo/autoridades-israelenses-americanas-fazem-primeiro-voo-para-os-emirados-arabes-24615153)
+* [Autoridades israelenses e americanas fazem primeiro voo para os Emirados Árabes](https://oglobo.globo.com/mundo/autoridades-israelenses-americanas-fazem-primeiro-voo-para-os-emirados-arabes-1-24615153)
 * [PGR fecha dez delações premiadas, que miram parlamentares e estados](https://oglobo.globo.com/brasil/pgr-fecha-dez-delacoes-premiadas-que-miram-parlamentares-estados-24614971)
 * [Participação de eleitores de 16 e 17 anos é a menor desde 1990](https://oglobo.globo.com/brasil/participacao-de-eleitores-de-16-17-anos-a-menor-desde-1990-24614975)
 * [Investigação sobre corrupção no governo Witzel atinge braço direito do secretário Pedro Fernandes](https://oglobo.globo.com/rio/investigacao-sobre-corrupcao-no-governo-witzel-atinge-braco-direito-do-secretario-pedro-fernandes-24615087)
-* ['O governador não ouviu os conselhos que lhe dei', diz ex-sócio de Witzel em escritório](https://oglobo.globo.com/rio/o-governador-nao-ouviu-os-conselhos-que-lhe-dei-diz-ex-socio-de-witzel-em-escritorio-24615110)
+* [Fred Wassef troca gritos por mensagens em CAPS LOCK](https://epoca.globo.com/guilherme-amado/fred-wassef-troca-gritos-por-mensagens-em-caps-lock-24613430)
 * [Participação de eleitores de 16 e 17 anos é a menor em 30 anos](https://oglobo.globo.com/brasil/participacao-de-eleitores-de-16-17-anos-a-menor-em-30-anos-1-24614932)
 * [Mansur: O tempo é aliado do Fluminense e adversário do Flamengo](https://oglobo.globo.com/esportes/mansur-tempo-aliado-do-fluminense-adversario-do-flamengo-24614957)
 * [Em ano eleitoral, o aceno de ex-aliados a Jair Bolsonaro](https://oglobo.globo.com/brasil/em-ano-eleitoral-aceno-de-ex-aliados-jair-bolsonaro-24614979)
 * [Como a pandemia contamina a nossa saúde mental](https://oglobo.globo.com/podcast/como-pandemia-contamina-nossa-saude-mental-1-24614619)
-* [Rita Lee: ‘Estamos num filme de horror, a verdadeira Primeira Guerra Mundial’](https://oglobo.globo.com/cultura/rita-lee-estamos-num-filme-de-horror-verdadeira-primeira-guerra-mundial-24605723)
+* [Skin Positivity: mulheres aderem a movimento que promove a aceitação da pele com suas imperfeições](https://oglobo.globo.com/celina/skin-positivity-mulheres-aderem-movimento-que-promove-aceitacao-da-pele-com-suas-imperfeicoes-24607468)

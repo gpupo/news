@@ -2,41 +2,41 @@
 layout: default
 ---
 
-# indexed at 31/08/2020 04:34:41 UTC
+# indexed at 31/08/2020 05:11:56 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Why are there 5280 feet in a mile?](https://petersmagnusson.org/2009/09/15/why-are-there-5280-feet-in-a-mile/)
 * [Players are fixing Microsoft Flight Simulator’s monuments with Google Maps](https://www.rockpapershotgun.com/2020/08/28/players-are-fixing-microsoft-flight-simulators-missing-monuments-with-google-maps/)
 * [Show HN: Learn how WebRTC actually works. A book on the protocols, not just APIs](https://webrtcforthecurious.com/)
 * [A terminal-based presentation tool with colors and effects](https://github.com/vinayak-mehta/present)
 * [The Legend of GayBlade](https://blog.archive.org/2020/08/28/the-legend-of-gayblade/)
 * [Essentials of Programming Languages](http://eopl3.com/)
 * [Show HN: Vimac – Productive macOS keyboard-driven navigation](http://vimacapp.com)
-* [What Shell Am I Using?](https://nil.wallyjones.com/what-shell-am-i-using/)
+* [Sum Types in Julia and Rust](https://andreaskroepelin.de/blog/sum_types/)
+* [K-Stash: A search engine for your useful links – for devs and researchers](https://k-stash.com)
 * [Level 3 Global Outage](https://puck.nether.net/pipermail/outages/2020-August/013187.html)
-* [The Recursive Universe](http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/)
+* [What Shell Am I Using?](https://nil.wallyjones.com/what-shell-am-i-using/)
+* [Why are there 5280 feet in a mile?](https://petersmagnusson.org/2009/09/15/why-are-there-5280-feet-in-a-mile/)
 * [All Circuits Are Busy Now: The 1990 AT&T Long Distance Network Collapse (1995)](https://users.csc.calpoly.edu/~jdalbey/SWE/Papers/att_collapse)
 * [How to Read a Log Scale](https://blog.datawrapper.de/weeklychart-logscale/)
-* [An overview of the science on function length](https://softwarebyscience.com/very-short-functions-are-a-code-smell-an-overview-of-the-science-on-function-length/)
-* [Sum Types in Julia and Rust](https://andreaskroepelin.de/blog/sum_types/)
 * [Waiting for Gödel (2016)](https://www.newyorker.com/tech/annals-of-technology/waiting-for-godel)
-* [The Unexpected Elegance of Irrigation Systems from Above](https://www.atlasobscura.com/articles/why-do-farms-look-like-circles-from-planes)
 * [High-tech tracking reveals ‘secret world of birds’](https://www.smithsonianmag.com/smithsonian-institution/high-tech-tracking-reveals-birds-movement-beyond-migration-180975673/)
-* [Yml Coding](https://cloud.google.com/workflows/docs/reference/syntax)
+* [An overview of the science on function length](https://softwarebyscience.com/very-short-functions-are-a-code-smell-an-overview-of-the-science-on-function-length/)
+* [Self-driving cars learn to read the body language of people on the street](https://spectrum.ieee.org/transportation/self-driving/selfdriving-cars-learn-to-read-the-body-language-of-people-on-the-street)
+* [The Unexpected Elegance of Irrigation Systems from Above](https://www.atlasobscura.com/articles/why-do-farms-look-like-circles-from-planes)
 * [Tech my dad banned in our house when I was a kid](https://gizmodo.com/the-tech-my-dad-banned-from-our-house-1844777825)
+* [Yml Coding](https://cloud.google.com/workflows/docs/reference/syntax)
 * [After 48 years, Democrats endorse nuclear energy in platform](https://www.forbes.com/sites/robertbryce/2020/08/23/after-48-years-democrats-endorse-nuclear-energy-in-platform/#3c7687df5829)
 * [Last Week on My Mac: Is macOS Becoming Unmaintainable?](https://eclecticlight.co/2020/08/30/last-week-on-my-mac-is-macos-becoming-unmaintainable/)
-* [K-Stash: A search engine for your useful links – for devs and researchers](https://k-stash.com)
 * [Multi-Tenant Architectures](https://blog.codonomics.com/2020/08/multi-tenant-architectures.html)
-* [Using the Linux kernel's Case-insensitive feature in Ext4](https://www.collabora.com/news-and-blog/blog/2020/08/27/using-the-linux-kernel-case-insensitive-feature-in-ext4/)
 * [How to Write Unmaintainable Code](https://github.com/Droogans/unmaintainable-code/blob/master/README.md)
+* [The Recursive Universe](http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/)
+* [The Crazy-Tiny Next Generation of Computers (2015)](https://medium.com/backchannel/the-crazy-tiny-next-generation-of-computers-17e89e472839)
+* [I thought I would have accomplished a lot more today and also before I was 35](https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five)
 * [Frank Ramsey: A more human philosophy](https://www.the-tls.co.uk/articles/frank-ramsey-a-more-human-philosophy/)
 * [We Know How to Prevent Megafires](https://www.propublica.org/article/they-know-how-to-prevent-megafires-why-wont-anybody-listen/)
-* [I thought I would have accomplished a lot more today and also before I was 35](https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five)
-* [The Crazy-Tiny Next Generation of Computers (2015)](https://medium.com/backchannel/the-crazy-tiny-next-generation-of-computers-17e89e472839)
 * [American Academy of Sleep Medicine calls for elimination of daylight saving time](https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/)
 ## nytimes.com
 
@@ -87,8 +87,8 @@ layout: default
 * [Today’s Chefs Are Honoring a Vital Tradition: Feeding the Revolution](https://www.nytimes.com/2020/08/28/t-magazine/food-protest-revolution.html)
 * [A Final Episode for the TV Listings](https://www.nytimes.com/2020/08/28/insider/TV-listings-ending.html)
 * [Malcolm X, Laurence Fishburne and ‘the Theater of Your Mind’](https://www.nytimes.com/2020/08/30/books/laurence-fishburne-autobiography-of-malcolm-x-audiobook.html)
-* [A Strange Rash Had Doctors Stumped. Was It an Insect Bite?](https://www.nytimes.com/2020/08/27/magazine/allergic-contact-dermatitis-acd.html)
 * [Did Something Burp? It Was an Earthquake](https://www.nytimes.com/2020/08/29/science/earthquakes-carbon-dioxide.html)
+* [A Strange Rash Had Doctors Stumped. Was It an Insect Bite?](https://www.nytimes.com/2020/08/27/magazine/allergic-contact-dermatitis-acd.html)
 * [A Woman May Have Been Cured of H.I.V. Without Medical Treatment](https://www.nytimes.com/2020/08/26/health/hiv-cure.html)
 * [A Rip in the Fabric of Interstellar Dreams](https://www.nytimes.com/2020/08/21/science/space-telescope-puerto-rico-arecibo.html)
 * [‘Bill & Ted Face the Music’ Review: Be Adequate to Each Other](https://www.nytimes.com/2020/08/27/movies/bill-and-ted-face-the-music-review.html)
@@ -100,11 +100,11 @@ layout: default
 ## globo.com
 
 
+* [Partido do governo vai escolher futuro premier do Japão em 14 de setembro](https://oglobo.globo.com/mundo/partido-do-governo-vai-escolher-futuro-premier-do-japao-em-14-de-setembro-24615132)
 * [Brasil registra 120.896 mortes por coronavírus, aponta boletim de veículos de imprensa](https://oglobo.globo.com/sociedade/coronavirus/brasil-registra-120896-mortes-por-coronavirus-aponta-boletim-de-veiculos-de-imprensa-24614794)
 * [Viúva de Marielle Franco lamenta 900 dias sem resposta sobre mandantes do assassinato](https://oglobo.globo.com/rio/viuva-de-marielle-franco-lamenta-900-dias-sem-resposta-sobre-mandantes-do-assassinato-24615037)
 * [Witzel recebeu R$ 1 milhão de escritórios e PSC em 2018](https://oglobo.globo.com/rio/witzel-recebeu-1-milhao-de-escritorios-psc-em-2018-24614931)
 * [Governo errático enfrenta novos testes no Congresso](https://oglobo.globo.com/opiniao/governo-erratico-enfrenta-novos-testes-no-congresso-1-24612304)
-* [Comissão de Direitos Humanos da OAB vai analisar caso de produtora cultural que diz ter sido estuprada por PM em Copacabana](https://oglobo.globo.com/rio/comissao-de-direitos-humanos-da-oab-vai-analisar-caso-de-produtora-cultural-que-diz-ter-sido-estuprada-por-pm-em-copacabana-24614869)
 * [Crise da pandemia põe Argentina no caminho de um projeto autoritário](https://oglobo.globo.com/opiniao/crise-da-pandemia-poe-argentina-no-caminho-de-um-projeto-autoritario-24612507)
 * [Gladiador defunto mas intacto](https://oglobo.globo.com/opiniao/gladiador-defunto-mas-intacto-24612480)
 * [Entre o vírus e o fogo](https://oglobo.globo.com/opiniao/entre-virus-o-fogo-24612349)

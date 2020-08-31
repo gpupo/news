@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 31/08/2020 11:34:39 UTC
+# indexed at 31/08/2020 12:10:11 UTC
 
 
 ## news.ycombinator.com
@@ -13,30 +13,30 @@ layout: default
 * [Google, the Stupidity Amplifier (2012)](http://www.gregegan.net/ESSAYS/GOOGLE/Google.html)
 * [Do we really travel through time with the speed of light?](https://backreaction.blogspot.com/2020/08/do-we-really-travel-through-time-with.html)
 * [Analysis of Today's CenturyLink/Level(3) Outage](https://blog.cloudflare.com/analysis-of-todays-centurylink-level-3-outage/)
+* [Why Smalltalk Has Failed](https://gbracha.blogspot.com/2020/05/bits-of-history-words-of-advice.html?m=1)
+* [The basic dramatic situations, according to 1919 manual for screenwriters](http://www.openculture.com/2020/08/37-possible-stories.html)
 * [Unusual Maps](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0002yI)
 * [Why are there 5280 feet in a mile?](https://petersmagnusson.org/2009/09/15/why-are-there-5280-feet-in-a-mile/)
-* [The basic dramatic situations, according to 1919 manual for screenwriters](http://www.openculture.com/2020/08/37-possible-stories.html)
+* [Sled Theoretical Performance Guide](http://sled.rs/perf.html)
+* [Pinterest pays $89.5M to terminate San Francisco office lease](https://www.sfgate.com/business/article/Pinterest-terminate-SF-office-lease-88-Bluxome-15525421.php)
 * [Sum Types in Julia and Rust](https://andreaskroepelin.de/blog/sum_types/)
 * [Drug cartel assassinates its enemies with bomb-toting drones](https://www.thedrive.com/the-war-zone/36013/mexican-drug-cartel-now-assassinating-its-enemies-with-improvised-explosive-toting-drones)
-* [Ubuntu 20.04’s zsys adds ZFS snapshots to package management](https://arstechnica.com/gadgets/2020/03/ubuntu-20-04s-zsys-adds-zfs-snapshots-to-package-management/)
 * [Banks create money, but it's less impressive than it sounds](https://www.attejuvonen.fi/money-out-of-thin-air/)
-* [We Replaced an SSD with Storage Class Memory](https://engineering.mongodb.com/post/we-replaced-an-ssd-with-storage-class-memory-here-is-what-we-learned)
+* [Ubuntu 20.04’s zsys adds ZFS snapshots to package management](https://arstechnica.com/gadgets/2020/03/ubuntu-20-04s-zsys-adds-zfs-snapshots-to-package-management/)
 * [The Easy Ones – Three Bugs Hiding in the Open](https://randomascii.wordpress.com/2020/08/30/the-easy-ones-three-bugs-hiding-in-the-open/)
+* [We Replaced an SSD with Storage Class Memory](https://engineering.mongodb.com/post/we-replaced-an-ssd-with-storage-class-memory-here-is-what-we-learned)
 * [Visualizing TSNE Maps with Three.js](https://douglasduhaime.com/posts/visualizing-tsne-maps-with-three-js.html)
+* [An Argument for Race Abolitionism (2020)](https://www.spiked-online.com/2020/08/04/we-need-to-abolish-race/)
 * [What Shell Am I Using?](https://nil.wallyjones.com/what-shell-am-i-using/)
-* [Level 3 Global Outage](https://puck.nether.net/pipermail/outages/2020-August/013187.html)
 * [K-Stash: A search engine for your useful links – for devs and researchers](https://k-stash.com)
+* [Level 3 Global Outage](https://puck.nether.net/pipermail/outages/2020-August/013187.html)
 * [How to Write Unmaintainable Code (2003)](https://github.com/Droogans/unmaintainable-code/blob/master/README.md)
 * [Converting Boolean-Logic Decision Trees to Finite State Machines](https://medium.com/analytics-vidhya/converting-boolean-logic-decision-trees-to-finite-state-machines-180ad195abf2)
+* [Do-it-Yourself Vaccines for Covid-19](https://www.scientificamerican.com/article/do-it-yourself-vaccines-for-covid-19/)
 * [Don't Get Stuck](https://stitcher.io/blog/dont-get-stuck)
+* [François Chollet (Keras creator): we're witnessing a deep learning recession](https://twitter.com/fchollet/status/1300137812872765440)
 * [Show HN: Learn how WebRTC actually works. A book on the protocols, not just APIs](https://webrtcforthecurious.com/)
 * [Players are fixing Microsoft Flight Simulator’s monuments with Google Maps](https://www.rockpapershotgun.com/2020/08/28/players-are-fixing-microsoft-flight-simulators-missing-monuments-with-google-maps/)
-* [Win “Active Hours” underscores how you’re not in control of your devices (2016)](https://www.ctrl.blog/entry/windows-active-hours.html)
-* [Pinterest pays $89.5M to terminate San Francisco office lease](https://www.sfgate.com/business/article/Pinterest-terminate-SF-office-lease-88-Bluxome-15525421.php)
-* [High-tech tracking reveals ‘secret world of birds’](https://www.smithsonianmag.com/smithsonian-institution/high-tech-tracking-reveals-birds-movement-beyond-migration-180975673/)
-* [A terminal-based presentation tool with colors and effects](https://github.com/vinayak-mehta/present)
-* [Yml Coding](https://cloud.google.com/workflows/docs/reference/syntax)
-* [An overview of the science on function length](https://softwarebyscience.com/very-short-functions-are-a-code-smell-an-overview-of-the-science-on-function-length/)
 * [Writing a Lisp to x86-64 compiler](https://news.ycombinator.com/item?id=24328998)
 ## nytimes.com
 
@@ -76,10 +76,11 @@ layout: default
 * [I’m Still Reading Andrew Sullivan. But I Can’t Defend Him.](https://www.nytimes.com/2020/08/30/business/media/im-still-reading-andrew-sullivan-but-i-cant-defend-him.html)
 * [Eye on Beirut, Senegal Port Rushes to Truck Away Tons of Ammonium Nitrate](https://www.nytimes.com/2020/08/31/world/africa/ammonium-nitrate-port-dakar.html)
 * ['Abenomics' May Stay, but Japan's Economic Overhaul Is Incomplete](https://www.nytimes.com/2020/08/31/business/japan-shinzo-abe-economy.html)
-* [Are You an American Voting From Abroad? Here’s How to Do It](https://www.nytimes.com/2020/08/28/smarter-living/american-vote-from-abroad.html)
-* [Can You Hear Yourself Think?](https://www.nytimes.com/2020/08/25/realestate/house-noise-solutions.html)
-* [Move Over, Sustainable Travel. Regenerative Travel Has Arrived.](https://www.nytimes.com/2020/08/27/travel/travel-future-coronavirus-sustainable.html)
-* [How to Choose the Right Pediatrician](https://www.nytimes.com/article/choosing-a-pediatrician-children.html)
+* [5 Simple Ways to Improve Your Wi-Fi](https://www.nytimes.com/2020/08/24/smarter-living/home-wifi-upgrade.html)
+* [Sneak In Some Exercise](https://www.nytimes.com/2020/08/15/at-home/coronavirus-at-home-quick-exercises.html)
+* [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
+* [How to Keep Your Collections From Looking Like Clutter](https://www.nytimes.com/2020/08/18/realestate/how-to-keep-your-collections-from-looking-like-clutter.html)
+* [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
 * [With a Pickup Truck and an Open Mind, the Philharmonic Returns](https://www.nytimes.com/2020/08/30/arts/music/ny-phil-bandwagon.html)
 * [Loving a Champion Hugger in an Air-Hug Season](https://www.nytimes.com/2020/08/28/well/family/hugging-marriage-pandemic.html)
 * [The Best Book Jill Lepore Ever Got as a Present Is One She Hates](https://www.nytimes.com/2020/08/27/books/review/jill-lepore-by-the-book-interview.html)
@@ -98,13 +99,13 @@ layout: default
 ## globo.com
 
 
+* [Ladrões roubam carga de carne em Duque de Caxias, na Baixada Fluminense](https://oglobo.globo.com/rio/ladroes-roubam-carga-de-carne-em-duque-de-caxias-na-baixada-fluminense-24615235)
+* [Defesa de Witzel apresenta recurso no STF contra afastamento do cargo de governador do RJ](https://oglobo.globo.com/rio/defesa-de-witzel-apresenta-recurso-no-stf-contra-afastamento-do-cargo-de-governador-do-rj-1-24615213)
+* [PF cumpre 422 mandados de prisão em operação contra maior facção criminosa paulista](https://oglobo.globo.com/brasil/pf-cumpre-422-mandados-de-prisao-em-operacao-contra-maior-faccao-criminosa-paulista-24615234)
+* [Brasil precisa de R$ 2 bilhões para prevenir novo vazamento de óleo na costa](https://oglobo.globo.com/sociedade/oleo/brasil-precisa-de-2-bilhoes-para-prevenir-novo-vazamento-de-oleo-na-costa-24615256)
+* [Problema na rede elétrica deixa sem trem passageiros da Baixada no começo desta segunda-feira](https://oglobo.globo.com/rio/problema-na-rede-eletrica-deixa-sem-trem-passageiros-da-baixada-no-comeco-desta-segunda-feira-24615250)
+* [Advogado da família de Anderson pede para Maia afastar Flordelis da Câmara](https://oglobo.globo.com/rio/advogado-da-familia-de-anderson-pede-para-maia-afastar-flordelis-da-camara-24615200)
+* [Apple fecha conta da Epic Games na App Store em meio à briga judicial sobre o Fortnite](https://oglobo.globo.com/economia/apple-fecha-conta-da-epic-games-na-app-store-em-meio-briga-judicial-sobre-fortnite-24615238)
 * [De devedor a investidor: veja 10 dicas para sair do vermelho e começar a poupar](https://oglobo.globo.com/economia/de-devedor-investidor-veja-10-dicas-para-sair-do-vermelho-comecar-poupar-1-24615172)
 * [Top Rita Carreira posa de maiô e diz: 'Grandes corpos, grandes mulheres'](https://oglobo.globo.com/ela/gente/top-rita-carreira-posa-de-maio-diz-grandes-corpos-grandes-mulheres-24615203)
-* [Advogado da família de Anderson pede para Maia afastar Flordelis da Câmara](https://oglobo.globo.com/rio/advogado-da-familia-de-anderson-pede-para-maia-afastar-flordelis-da-camara-24615200)
-* [Governo reduz exigências e quer privatizar 22 aeroportos até março](https://oglobo.globo.com/economia/governo-reduz-exigencias-quer-privatizar-22-aeroportos-ate-marco-24615185)
-* [Rita Lee relança livros infantis e fala sobre ser avó: 'Sou um misto de Dona Benta com Dercy Gonçalves'](https://oglobo.globo.com/cultura/rita-lee-relanca-livros-infantis-fala-sobre-ser-avo-sou-um-misto-de-dona-benta-com-dercy-goncalves-24615177)
-* [‘Aliança segue, mas presidente deve ter plano B’, diz Zambelli](https://epoca.globo.com/guilherme-amado/alianca-segue-mas-presidente-deve-ter-plano-diz-zambelli-24613434)
-* [Impasse sobre venda de caças F-35 ameaça acordo entre Israel e Emirados Árabes Unidos](https://oglobo.globo.com/mundo/impasse-sobre-venda-de-cacas-35-ameaca-acordo-entre-israel-emirados-arabes-unidos-24611884)
-* [Mais de 13 mil ciclistas morreram no trânsito no país nos últimos dez anos](https://oglobo.globo.com/sociedade/mais-de-13-mil-ciclistas-morreram-no-transito-no-pais-nos-ultimos-dez-anos-24614867)
-* [Pandemia: Niterói fechou mais de oito mil postos de trabalho de janeiro a julho deste ano](https://oglobo.globo.com/rio/bairros/pandemia-niteroi-fechou-mais-de-oito-mil-postos-de-trabalho-de-janeiro-julho-deste-ano-24611158)
-* [Casa em que Ismael Silva viveu a infância, em Niterói, é demolida pela prefeitura](https://oglobo.globo.com/rio/bairros/casa-em-que-ismael-silva-viveu-infancia-em-niteroi-demolida-pela-prefeitura-24611129)
+* [O novo Yuval Noah Harari](https://epoca.globo.com/guilherme-amado/o-novo-yuval-noah-harari-24601152)

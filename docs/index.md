@@ -2,14 +2,13 @@
 layout: default
 ---
 
-# indexed at 31/08/2020 01:34:57 UTC
+# indexed at 31/08/2020 02:13:52 UTC
 
 
 ## news.ycombinator.com
 
 
 * [The Big Tesla Hack: A hacker gained control over the entire fleet](https://electrek.co/2020/08/27/tesla-hack-control-over-entire-fleet/)
-* [Drug cartel assassinates its enemies with bomb-toting drones](https://www.thedrive.com/the-war-zone/36013/mexican-drug-cartel-now-assassinating-its-enemies-with-improvised-explosive-toting-drones)
 * [Level 3 Global Outage](https://puck.nether.net/pipermail/outages/2020-August/013187.html)
 * [Players are fixing Microsoft Flight Simulator’s monuments with Google Maps](https://www.rockpapershotgun.com/2020/08/28/players-are-fixing-microsoft-flight-simulators-missing-monuments-with-google-maps/)
 * [Show HN: Learn how WebRTC actually works. A book on the protocols, not just APIs](https://webrtcforthecurious.com/)
@@ -18,25 +17,26 @@ layout: default
 * [Essentials of Programming Languages](http://eopl3.com/)
 * [Show HN: Vimac – Productive macOS keyboard-driven navigation](http://vimacapp.com)
 * [What Shell Am I Using?](https://nil.wallyjones.com/what-shell-am-i-using/)
-* [Banks create money out of thin air, but it's less impressive than it sounds](https://www.attejuvonen.fi/money-out-of-thin-air/)
 * [The Recursive Universe](http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/)
+* [Drug cartel assassinates its enemies with bomb-toting drones](https://www.thedrive.com/the-war-zone/36013/mexican-drug-cartel-now-assassinating-its-enemies-with-improvised-explosive-toting-drones)
+* [How to Write Unmaintainable Code](https://github.com/Droogans/unmaintainable-code/blob/master/README.md)
 * [All Circuits Are Busy Now: The 1990 AT&T Long Distance Network Collapse (1995)](https://users.csc.calpoly.edu/~jdalbey/SWE/Papers/att_collapse)
 * [Low-level details of the Zen 2 microarchitecture [pdf]](https://www.agner.org/optimize/microarchitecture.pdf)
 * [Waiting for Gödel (2016)](https://www.newyorker.com/tech/annals-of-technology/waiting-for-godel)
-* [The “menu engineers” who optimize restaurant revenue](https://thehustle.co/meet-the-menu-engineers-helping-restaurants-retool-during-the-pandemic/)
-* [How to Write Unmaintainable Code](https://github.com/Droogans/unmaintainable-code/blob/master/README.md)
-* [Multi-Tenant Architectures](https://blog.codonomics.com/2020/08/multi-tenant-architectures.html)
-* [The Unexpected Elegance of Irrigation Systems from Above](https://www.atlasobscura.com/articles/why-do-farms-look-like-circles-from-planes)
+* [An overview of the science on function length](https://softwarebyscience.com/very-short-functions-are-a-code-smell-an-overview-of-the-science-on-function-length/)
 * [How to Read a Log Scale](https://blog.datawrapper.de/weeklychart-logscale/)
+* [The “menu engineers” who optimize restaurant revenue](https://thehustle.co/meet-the-menu-engineers-helping-restaurants-retool-during-the-pandemic/)
+* [The Unexpected Elegance of Irrigation Systems from Above](https://www.atlasobscura.com/articles/why-do-farms-look-like-circles-from-planes)
+* [Multi-Tenant Architectures](https://blog.codonomics.com/2020/08/multi-tenant-architectures.html)
 * [Yml Coding](https://cloud.google.com/workflows/docs/reference/syntax)
 * [Tech my dad banned in our house when I was a kid](https://gizmodo.com/the-tech-my-dad-banned-from-our-house-1844777825)
-* [Ex-Neuralink employees describe rushed timelines clashing with science’s pace](https://www.dailymail.co.uk/sciencetech/article-8662975/Elon-Musks-brain-chip-Neuralink-plagued-turmoil-rushed-timelines-former-employees-claim.html)
-* [The Crazy-Tiny Next Generation of Computers (2015)](https://medium.com/backchannel/the-crazy-tiny-next-generation-of-computers-17e89e472839)
 * [After 48 years, Democrats endorse nuclear energy in platform](https://www.forbes.com/sites/robertbryce/2020/08/23/after-48-years-democrats-endorse-nuclear-energy-in-platform/#3c7687df5829)
+* [The Crazy-Tiny Next Generation of Computers (2015)](https://medium.com/backchannel/the-crazy-tiny-next-generation-of-computers-17e89e472839)
 * [Using the Linux kernel's Case-insensitive feature in Ext4](https://www.collabora.com/news-and-blog/blog/2020/08/27/using-the-linux-kernel-case-insensitive-feature-in-ext4/)
 * [Frank Ramsey: A more human philosophy](https://www.the-tls.co.uk/articles/frank-ramsey-a-more-human-philosophy/)
-* [We Know How to Prevent Megafires](https://www.propublica.org/article/they-know-how-to-prevent-megafires-why-wont-anybody-listen/)
+* [Last Week on My Mac: Is macOS Becoming Unmaintainable?](https://eclecticlight.co/2020/08/30/last-week-on-my-mac-is-macos-becoming-unmaintainable/)
 * [An interesting mistake with Go's context package](https://utcc.utoronto.ca/~cks/space/blog/programming/GoContextValueMistake)
+* [We Know How to Prevent Megafires](https://www.propublica.org/article/they-know-how-to-prevent-megafires-why-wont-anybody-listen/)
 * [I thought I would have accomplished a lot more today and also before I was 35](https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five)
 ## nytimes.com
 
@@ -49,10 +49,9 @@ layout: default
 * [New Yorkers Are Fleeing to the Suburbs: ‘The Demand Is Insane’](https://www.nytimes.com/2020/08/30/nyregion/nyc-suburbs-housing-demand.html)
 * [Covid-19 News: Live Updates](https://www.nytimes.com/2020/08/30/world/coronavirus-covid.html)
 * [U.S. Will Revive Global Virus-Hunting Effort Ended Last Year](https://www.nytimes.com/2020/08/30/health/predict-pandemic-usaid.html)
-* [Steven Mnuchin Tried to Save the Economy. Not Even His Family Is Happy.](https://www.nytimes.com/2020/08/30/business/steven-mnuchin-trump-economy.html)
-* [Shift on Election Briefings Could Create an Information Gap for Voters](https://www.nytimes.com/2020/08/30/us/politics/2020-election-security-briefings.html)
-* [Big Oil Is in Trouble. Its Plan: Flood Africa With Plastic.](https://www.nytimes.com/2020/08/30/climate/oil-kenya-africa-plastics-trade.html)
 * [Stories of 2020: Five Lives Caught in a Year of Upheaval and Pain](https://www.nytimes.com/2020/08/30/us/politics/2020-year.html)
+* [Big Oil Is in Trouble. Its Plan: Flood Africa With Plastic.](https://www.nytimes.com/2020/08/30/climate/oil-kenya-africa-plastics-trade.html)
+* [I’m Still Reading Andrew Sullivan. But I Can’t Defend Him.](https://www.nytimes.com/2020/08/30/business/media/im-still-reading-andrew-sullivan-but-i-cant-defend-him.html)
 * [The Sunday Read: ‘In the Line of Fire’](https://www.nytimes.com/2020/08/30/podcasts/the-daily/california-wildfires-prisoners.html)
 * [Kurt Andersen on ‘Evil Geniuses’](https://www.nytimes.com/2020/08/28/books/review/podcast-evil-geniuses-kurt-andersen-fallout-hiroshima-lesley-m-m-blume.html)
 * [Episode One: The Book of Statuses](https://www.nytimes.com/2020/07/30/podcasts/nice-white-parents-serial.html)
@@ -76,9 +75,9 @@ layout: default
 * [Taliban Violated Afghan Deal With Shelling of American Bases, U.S. Officials Say](https://www.nytimes.com/2020/08/30/world/asia/taliban-afghanistan-peace-us-attacks.html)
 * [Belarus President Hunkers Down as Crowds Demand He Leave](https://www.nytimes.com/2020/08/30/world/europe/belarus-lukashenko-protests.html)
 * [Snapped Poles, Shredded Roofs: A Long Road to Recovery After Laura](https://www.nytimes.com/2020/08/30/us/hurricane-laura-damage.html)
-* [What to Know About Colon Cancer](https://www.nytimes.com/2020/08/29/health/colon-cancer-chadwick-boseman.html)
+* [Steven Mnuchin Tried to Save the Economy. Not Even His Family Is Happy.](https://www.nytimes.com/2020/08/30/business/steven-mnuchin-trump-economy.html)
+* [Shift on Election Briefings Could Create an Information Gap for Voters](https://www.nytimes.com/2020/08/30/us/politics/2020-election-security-briefings.html)
 * [Athletes' Rest and Recovery in Pandemic Enhances Performance](https://www.nytimes.com/2020/08/30/sports/olympics/pandemic-olympics-training.html)
-* [Humans Take a Step Closer to ‘Flying Cars’](https://www.nytimes.com/2020/08/29/us/japan-flying-car.html)
 * [Are You an American Voting From Abroad? Here’s How to Do It](https://www.nytimes.com/2020/08/28/smarter-living/american-vote-from-abroad.html)
 * [Can You Hear Yourself Think?](https://www.nytimes.com/2020/08/25/realestate/house-noise-solutions.html)
 * [Move Over, Sustainable Travel. Regenerative Travel Has Arrived.](https://www.nytimes.com/2020/08/27/travel/travel-future-coronavirus-sustainable.html)
@@ -93,6 +92,7 @@ layout: default
 * [A Woman May Have Been Cured of H.I.V. Without Medical Treatment](https://www.nytimes.com/2020/08/26/health/hiv-cure.html)
 * [A Rip in the Fabric of Interstellar Dreams](https://www.nytimes.com/2020/08/21/science/space-telescope-puerto-rico-arecibo.html)
 * [7 Takeaways From ‘Melania and Me,’ by the First Lady’s Former Friend](https://www.nytimes.com/2020/08/28/books/review/melania-and-me-stephanie-winston-wolkoff.html)
+* [What to Know About Colon Cancer](https://www.nytimes.com/2020/08/29/health/colon-cancer-chadwick-boseman.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)

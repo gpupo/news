@@ -2,21 +2,20 @@
 layout: default
 ---
 
-# indexed at 31/08/2020 11:07:20 UTC
+# indexed at 31/08/2020 11:34:39 UTC
 
 
 ## news.ycombinator.com
 
 
 * [PinePhone Manjaro Community Edition](https://www.pine64.org/2020/08/31/pinephone-manjaro-community-edition/)
+* [Italian Ruby](https://github.com/Pluvie/italian-ruby)
 * [Google, the Stupidity Amplifier (2012)](http://www.gregegan.net/ESSAYS/GOOGLE/Google.html)
 * [Do we really travel through time with the speed of light?](https://backreaction.blogspot.com/2020/08/do-we-really-travel-through-time-with.html)
 * [Analysis of Today's CenturyLink/Level(3) Outage](https://blog.cloudflare.com/analysis-of-todays-centurylink-level-3-outage/)
-* [Italian Ruby](https://github.com/Pluvie/italian-ruby)
 * [Unusual Maps](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0002yI)
-* [The basic dramatic situations, according to 1919 manual for screenwriters](http://www.openculture.com/2020/08/37-possible-stories.html)
 * [Why are there 5280 feet in a mile?](https://petersmagnusson.org/2009/09/15/why-are-there-5280-feet-in-a-mile/)
-* [Alarm as FDA willing to issue Covid-19 vaccine before stringent safety testing](https://mindhive.org/challenges/1273/overview/brief)
+* [The basic dramatic situations, according to 1919 manual for screenwriters](http://www.openculture.com/2020/08/37-possible-stories.html)
 * [Sum Types in Julia and Rust](https://andreaskroepelin.de/blog/sum_types/)
 * [Drug cartel assassinates its enemies with bomb-toting drones](https://www.thedrive.com/the-war-zone/36013/mexican-drug-cartel-now-assassinating-its-enemies-with-improvised-explosive-toting-drones)
 * [Ubuntu 20.04’s zsys adds ZFS snapshots to package management](https://arstechnica.com/gadgets/2020/03/ubuntu-20-04s-zsys-adds-zfs-snapshots-to-package-management/)
@@ -28,15 +27,16 @@ layout: default
 * [Level 3 Global Outage](https://puck.nether.net/pipermail/outages/2020-August/013187.html)
 * [K-Stash: A search engine for your useful links – for devs and researchers](https://k-stash.com)
 * [How to Write Unmaintainable Code (2003)](https://github.com/Droogans/unmaintainable-code/blob/master/README.md)
-* [Don't Get Stuck](https://stitcher.io/blog/dont-get-stuck)
 * [Converting Boolean-Logic Decision Trees to Finite State Machines](https://medium.com/analytics-vidhya/converting-boolean-logic-decision-trees-to-finite-state-machines-180ad195abf2)
+* [Don't Get Stuck](https://stitcher.io/blog/dont-get-stuck)
 * [Show HN: Learn how WebRTC actually works. A book on the protocols, not just APIs](https://webrtcforthecurious.com/)
 * [Players are fixing Microsoft Flight Simulator’s monuments with Google Maps](https://www.rockpapershotgun.com/2020/08/28/players-are-fixing-microsoft-flight-simulators-missing-monuments-with-google-maps/)
 * [Win “Active Hours” underscores how you’re not in control of your devices (2016)](https://www.ctrl.blog/entry/windows-active-hours.html)
-* [Yml Coding](https://cloud.google.com/workflows/docs/reference/syntax)
-* [A terminal-based presentation tool with colors and effects](https://github.com/vinayak-mehta/present)
-* [An overview of the science on function length](https://softwarebyscience.com/very-short-functions-are-a-code-smell-an-overview-of-the-science-on-function-length/)
+* [Pinterest pays $89.5M to terminate San Francisco office lease](https://www.sfgate.com/business/article/Pinterest-terminate-SF-office-lease-88-Bluxome-15525421.php)
 * [High-tech tracking reveals ‘secret world of birds’](https://www.smithsonianmag.com/smithsonian-institution/high-tech-tracking-reveals-birds-movement-beyond-migration-180975673/)
+* [A terminal-based presentation tool with colors and effects](https://github.com/vinayak-mehta/present)
+* [Yml Coding](https://cloud.google.com/workflows/docs/reference/syntax)
+* [An overview of the science on function length](https://softwarebyscience.com/very-short-functions-are-a-code-smell-an-overview-of-the-science-on-function-length/)
 * [Writing a Lisp to x86-64 compiler](https://news.ycombinator.com/item?id=24328998)
 ## nytimes.com
 
@@ -67,10 +67,10 @@ layout: default
 * [When the Threat of Eviction Meets the Threat of Coronavirus](https://www.nytimes.com/2020/08/29/opinion/sunday/coronavirus-evictions-superspreader.html)
 * [How a New Wave of Black Activists Changed the Conversation](https://www.nytimes.com/2020/08/25/magazine/black-visions-collective.html)
 * [‘The Boys’ Is Back, More Relevant Than Ever](https://www.nytimes.com/2020/08/27/arts/television/the-boys-amazon.html)
+* [Lebanon Taps a New Prime Minister Amid Swirling Crises](https://www.nytimes.com/2020/08/31/world/middleeast/lebanon-prime-minister-mustafa-adib.html)
 * [United Airlines Drops Change Fees for Most U.S. Flights: Live Updates](https://www.nytimes.com/live/2020/08/31/business/stock-market-today-coronavirus)
-* [The Runway Lights Failed, So Villagers Used Their Headlights to Aid an Airlift](https://www.nytimes.com/2020/08/30/us/Lifemed-alaska-flight-runway-landing.html)
 * [Girl in Taiwan Is Swept High by a Kite](https://www.nytimes.com/2020/08/31/world/asia/taiwan-girl-kite.html)
-* [Taliban Violated Afghan Deal With Shelling of American Bases, U.S. Officials Say](https://www.nytimes.com/2020/08/30/world/asia/taliban-afghanistan-peace-us-attacks.html)
+* [The Runway Lights Failed, So Villagers Used Their Headlights to Aid an Airlift](https://www.nytimes.com/2020/08/30/us/Lifemed-alaska-flight-runway-landing.html)
 * [Belarus President Hunkers Down as Protests Call for Him to Leave](https://www.nytimes.com/2020/08/30/world/europe/belarus-lukashenko-protests.html)
 * [A Vow of Silence, a Cabin in the Woods,a Terrible Wildfire](https://www.nytimes.com/2020/08/31/us/fires-california-monk-tad-jones-last-chance-santa-cruz.html)
 * [I’m Still Reading Andrew Sullivan. But I Can’t Defend Him.](https://www.nytimes.com/2020/08/30/business/media/im-still-reading-andrew-sullivan-but-i-cant-defend-him.html)
@@ -92,20 +92,19 @@ layout: default
 * [‘Bill & Ted Face the Music’ Review: Be Adequate to Each Other](https://www.nytimes.com/2020/08/27/movies/bill-and-ted-face-the-music-review.html)
 * [In a Naked Pandemic Race, You Can Leave Your Hat On](https://www.nytimes.com/2020/08/28/well/move/running-race-nudist-resort-naked.html)
 * [What to Know About Colon Cancer](https://www.nytimes.com/2020/08/29/health/colon-cancer-chadwick-boseman.html)
-* [Officer Michael Oxford Is Fired After TikTok Videos Show His Arrest of Black Woman](https://www.nytimes.com/2020/08/23/us/georgia-police-officer-fired-tiktok.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [De devedor a investidor: veja 10 dicas para sair do vermelho e começar a poupar](https://oglobo.globo.com/economia/de-devedor-investidor-veja-10-dicas-para-sair-do-vermelho-comecar-poupar-1-24615172)
+* [Top Rita Carreira posa de maiô e diz: 'Grandes corpos, grandes mulheres'](https://oglobo.globo.com/ela/gente/top-rita-carreira-posa-de-maio-diz-grandes-corpos-grandes-mulheres-24615203)
+* [Advogado da família de Anderson pede para Maia afastar Flordelis da Câmara](https://oglobo.globo.com/rio/advogado-da-familia-de-anderson-pede-para-maia-afastar-flordelis-da-camara-24615200)
 * [Governo reduz exigências e quer privatizar 22 aeroportos até março](https://oglobo.globo.com/economia/governo-reduz-exigencias-quer-privatizar-22-aeroportos-ate-marco-24615185)
 * [Rita Lee relança livros infantis e fala sobre ser avó: 'Sou um misto de Dona Benta com Dercy Gonçalves'](https://oglobo.globo.com/cultura/rita-lee-relanca-livros-infantis-fala-sobre-ser-avo-sou-um-misto-de-dona-benta-com-dercy-goncalves-24615177)
-* [Sudão assina acordo de paz histórico com cinco grupos rebeldes](https://oglobo.globo.com/mundo/sudao-assina-acordo-de-paz-historico-com-cinco-grupos-rebeldes-24615155)
-* [Ciro Gomes não acredita em PT sem Lula em 2022: ‘Ele é candidatíssimo’](https://epoca.globo.com/guilherme-amado/ciro-gomes-nao-acredita-em-pt-sem-lula-em-2022-ele-candidatissimo-24601145)
 * [‘Aliança segue, mas presidente deve ter plano B’, diz Zambelli](https://epoca.globo.com/guilherme-amado/alianca-segue-mas-presidente-deve-ter-plano-diz-zambelli-24613434)
 * [Impasse sobre venda de caças F-35 ameaça acordo entre Israel e Emirados Árabes Unidos](https://oglobo.globo.com/mundo/impasse-sobre-venda-de-cacas-35-ameaca-acordo-entre-israel-emirados-arabes-unidos-24611884)
 * [Mais de 13 mil ciclistas morreram no trânsito no país nos últimos dez anos](https://oglobo.globo.com/sociedade/mais-de-13-mil-ciclistas-morreram-no-transito-no-pais-nos-ultimos-dez-anos-24614867)
-* [Desbravando a pandemia: chefs Pedro de Artagão e Marco Espinoza mantêm casas e até abrem novas](https://oglobo.globo.com/rio/bairros/desbravando-pandemia-chefs-pedro-de-artagao-marco-espinoza-mantem-casas-ate-abrem-novas-1-24612555)
 * [Pandemia: Niterói fechou mais de oito mil postos de trabalho de janeiro a julho deste ano](https://oglobo.globo.com/rio/bairros/pandemia-niteroi-fechou-mais-de-oito-mil-postos-de-trabalho-de-janeiro-julho-deste-ano-24611158)
 * [Casa em que Ismael Silva viveu a infância, em Niterói, é demolida pela prefeitura](https://oglobo.globo.com/rio/bairros/casa-em-que-ismael-silva-viveu-infancia-em-niteroi-demolida-pela-prefeitura-24611129)

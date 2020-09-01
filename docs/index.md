@@ -2,46 +2,46 @@
 layout: default
 ---
 
-# indexed at 01/09/2020 13:36:05 UTC
+# indexed at 01/09/2020 14:19:21 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Why Privacy Matters](https://thistooshallgrow.com/blog/privacy-security-roundup)
 * [RxDB – a realtime database on top of PouchDB](https://github.com/pubkey/rxdb/blob/master/README.md)
 * [Nessie – Lightweight Web Browser](https://www.radsix.com/)
-* [Why Privacy Matters](https://thistooshallgrow.com/blog/privacy-security-roundup)
+* [Platforms: Current Attempts to Regulate Misinformation Amplify Opinion Power](https://www.tandfonline.com/doi/full/10.1080/21670811.2020.1773888)
+* [Airline Pilots Landing at Lax Report “A Guy in Jetpack” Flying Alongside Them](https://www.thedrive.com/the-war-zone/36096/airline-pilots-landing-at-lax-report-a-guy-in-jetpack-flying-alongside-them-on)
+* [Bella Thorne, OnlyFans and the battle over monetising content](https://www.bbc.com/news/business-53979625)
 * [Welcome to masterWiki: stolen from MasterClass, republished as wikiHow](https://masterwiki.how/)
 * [Science and steely nerves spared Houston from a nightmare hurricane evacuation](https://arstechnica.com/science/2020/09/science-and-steely-nerves-spared-houston-from-a-nightmare-hurricane-evacuation/)
 * [AWS Boilerplate](https://github.com/apptension/aws-boilerplate)
-* [Why we are suing the Administration](https://newsroom.tiktok.com/en-us/tiktok-files-lawsuit)
+* [Police Across Canada Are Using Predictive Policing Algorithms, Report Finds](https://www.vice.com/en_us/article/k7q55x/police-across-canada-are-using-predictive-policing-algorithms-report-finds)
 * [Apple Accidentally Approved Malware to Run on macOS](https://www.wired.com/story/apple-approved-malware-macos-notarization-shlayer/)
 * [The database I wish I had](https://euandre.org/2020/08/31/the-database-i-wish-i-had.html)
-* [PNG and Hidden Pixels](https://www.hackerfactor.com/blog/index.php?/archives/894-PNG-and-Hidden-Pixels.html)
 * [Feline coronavirus drug inhibits the main protease of SARS-CoV-2](https://www.nature.com/articles/s41467-020-18096-2)
-* [A California wildfire nearly destroyed the historic Lick observatory](https://arstechnica.com/science/2020/08/a-california-wildfire-nearly-destroyed-the-historic-lick-observatory/)
-* [Show HN: I built FabHomePages so your home can have its own homepage in minutes](https://fabhomepages.com/)
-* [NewLisp](http://www.newlisp.org/)
-* [FreeCol: Turn-based strategy game based on the old game Colonization](https://github.com/FreeCol/freecol)
 * [Honey bee venom found to kill breast cancer cells](https://www.abc.net.au/news/2020-09-01/new-aus-research-finds-honey-bee-venom-kills-breast-cancer-cells/12618064)
-* [Amazon's Surveillance Infrastructure and Revitalizing Worker Power](https://www.theregister.com/2020/09/01/amazon_staff_spying/)
-* [I sold my side-project for $30k](https://marc.io/tweet-photo-acquired)
-* [Deep Learning for Compilers](https://era.ed.ac.uk/handle/1842/36866)
-* [Police Across Canada Are Using Predictive Policing Algorithms, Report Finds](https://www.vice.com/en_us/article/k7q55x/police-across-canada-are-using-predictive-policing-algorithms-report-finds)
-* [Immortal Beloved (1812)](https://lettersofnote.com/2011/06/10/immortal-beloved/)
-* [Applebot](https://support.apple.com/en-us/HT204683)
-* [Supporting Linux kernel development in Rust](https://lwn.net/SubscriberLink/829858/281103f9c6fd0dc2/)
+* [A California wildfire nearly destroyed the historic Lick observatory](https://arstechnica.com/science/2020/08/a-california-wildfire-nearly-destroyed-the-historic-lick-observatory/)
+* [PNG and Hidden Pixels](https://www.hackerfactor.com/blog/index.php?/archives/894-PNG-and-Hidden-Pixels.html)
+* [Why we are suing the Administration](https://newsroom.tiktok.com/en-us/tiktok-files-lawsuit)
+* [NewLisp](http://www.newlisp.org/)
 * [Case-Insensitive Ext4](https://lwn.net/Articles/784041/)
+* [Deep Learning for Compilers](https://era.ed.ac.uk/handle/1842/36866)
+* [FreeCol: Turn-based strategy game based on the old game Colonization](https://github.com/FreeCol/freecol)
+* [I sold my side-project for $30k](https://marc.io/tweet-photo-acquired)
+* [Show HN: I built FabHomePages so your home can have its own homepage in minutes](https://fabhomepages.com/)
+* [Amazon's Surveillance Infrastructure and Revitalizing Worker Power](https://www.theregister.com/2020/09/01/amazon_staff_spying/)
+* [Supporting Linux kernel development in Rust](https://lwn.net/SubscriberLink/829858/281103f9c6fd0dc2/)
+* [Applebot](https://support.apple.com/en-us/HT204683)
+* [Immortal Beloved (1812)](https://lettersofnote.com/2011/06/10/immortal-beloved/)
 * [The Puzzle Toad](http://www.cs.cmu.edu/puzzle/index.html)
+* [Jerry.ai (YC S17) Is Hiring Senior Software Devs (Toronto, SF Bay Area, Boston)](https://apply.workable.com/jerry/j/F4762CDFF8/)
 * [What should go into an allocator benchmark?](https://twitter.com/chewedwire/status/1300129033699627012)
-* [A Neural-Based Program Decompiler (2019)](https://arxiv.org/abs/1906.12029)
-* [Understanding How the Time-Based One-Time Password Algorithm Works](https://blog.digitalbunker.dev/2020/08/27/how-do-time-based-one-time-password-totp-services-work/)
-* [Modernizing the OpenBSD Console](https://www.cambus.net/modernizing-the-openbsd-console/)
-* [The Ecommerce Surge](https://www.ben-evans.com/benedictevans/2020/8/18/the-ecommerce-surge)
 ## nytimes.com
 
 
-* [Trump Heads to an Unsettled Kenosha, Risking Further Turmoil](https://www.nytimes.com/live/2020/09/01/us/trump-vs-biden)
+* [Trump Offers Baseless Theory of People in ‘Dark Shadows’ Behind Biden](https://www.nytimes.com/live/2020/09/01/us/trump-vs-biden)
 * [Video: How the Fatal Shooting at A Portland Protest Unfolded](https://www.nytimes.com/2020/08/31/video/portland-protests-shooting-investigation.html)
 * [As Guns Get Drawn at Protest Sites, Demonstrators Fear a Volatile New Phase](https://www.nytimes.com/2020/09/01/us/portland-kenosha-protests-clashes.html)
 * [Trump Fans Strife as Unrest Roils the U.S.](https://www.nytimes.com/2020/08/31/us/politics/trump-kenosha.html)
@@ -84,9 +84,9 @@ layout: default
 * [Curbs on Mongolian Language Teaching Prompt Large Protests in China](https://www.nytimes.com/2020/08/31/world/asia/china-protest-mongolian-language-schools.html)
 * [How to Help Someone Who Lost Their Job](https://www.nytimes.com/2020/08/30/smarter-living/how-to-help-someone-who-lost-their-job.html)
 * [Does My Kid Have a Cold or Is It Covid-19?](https://www.nytimes.com/2020/08/28/parenting/kids-covid-symptoms.html)
-* [Are You an American Voting From Abroad? Here’s How to Do It](https://www.nytimes.com/2020/08/28/smarter-living/american-vote-from-abroad.html)
 * [Can You Hear Yourself Think?](https://www.nytimes.com/2020/08/25/realestate/house-noise-solutions.html)
 * [Move Over, Sustainable Travel. Regenerative Travel Has Arrived.](https://www.nytimes.com/2020/08/27/travel/travel-future-coronavirus-sustainable.html)
+* [Are You an American Voting From Abroad? Here’s How to Do It](https://www.nytimes.com/2020/08/28/smarter-living/american-vote-from-abroad.html)
 * [The Many Sides to Dan Brown](https://www.nytimes.com/2020/09/01/style/dan-brown-wild-symphony-divorce.html)
 * [Book Review: ‘The Lying Life of Adults,’ by Elena Ferrante](https://www.nytimes.com/2020/08/25/books/review-lying-life-of-adults-elena-ferrante.html)
 * [The N.H.L.'s Fights and Handshakes? Not Exactly Socially Distant](https://www.nytimes.com/2020/08/31/sports/hockey/NHL-playoffs-pandemic-protocols.html)
@@ -102,13 +102,13 @@ layout: default
 ## globo.com
 
 
-* [Governo decide antecipar o envio da reforma administrativa ao Congresso para 5ª feira](https://oglobo.globo.com/economia/governo-decide-antecipar-envio-da-reforma-administrativa-ao-congresso-para-5-feira-24617248)
-* [MPRJ instaura procedimento criminal contra Crivella após denúncia de esquema no Rio](https://oglobo.globo.com/rio/mprj-instaura-procedimento-criminal-contra-crivella-apos-denuncia-de-esquema-no-rio-1-24617244)
 * [Saiba quem é Marcos Paulo de Oliveira Luciano, o chefe dos 'Guardiões do Crivella'](https://oglobo.globo.com/rio/saiba-quem-marcos-paulo-de-oliveira-luciano-chefe-dos-guardioes-do-crivella-24617227)
+* [Nasce a filha de Ed Sheeran e Cherry Seaborn](https://oglobo.globo.com/ela/gente/nasce-filha-de-ed-sheeran-cherry-seaborn-24617379)
+* [ONU: levará anos para mulheres reconquistarem progressos perdidos durante a pandemia de Covid-19](https://oglobo.globo.com/celina/onu-levara-anos-para-mulheres-reconquistarem-progressos-perdidos-durante-pandemia-de-covid-19-1-24617292)
+* [Papa Francisco: 'Aquecimento global será catastrófico para os mais pobres'](https://oglobo.globo.com/sociedade/papa-francisco-aquecimento-global-sera-catastrofico-para-os-mais-pobres-24617343)
+* [Guedes diz que queda do PIB é 'som distante' e economia está se recuperando em 'V'](https://oglobo.globo.com/economia/guedes-diz-que-queda-do-pib-som-distante-economia-esta-se-recuperando-em-v-24617324)
+* [Dólar tem queda de 1,85%, e bolsa tem alta de 2%, em dia de queda do PIB e prorrogação do auxílio](https://oglobo.globo.com/economia/dolar-tem-queda-de-185-bolsa-tem-alta-de-2-em-dia-de-queda-do-pib-prorrogacao-do-auxilio-24617325)
+* [Revista Charlie Hebdo volta a publicar caricaturas de Maomé na véspera do julgamento do atentado](https://oglobo.globo.com/mundo/revista-charlie-hebdo-volta-publicar-caricaturas-de-maome-na-vespera-do-julgamento-do-atentado-24617298)
 * [Taxa de transmissão da Covid-19 no Brasil é a mais baixa desde abril, aponta Imperial College](https://oglobo.globo.com/sociedade/taxa-de-transmissao-da-covid-19-no-brasil-a-mais-baixa-desde-abril-aponta-imperial-college-24617225)
 * [Guedes diz a senadores que não quis ofender ao falar em 'crime': 'Me senti absolutamente abandonado e isolado'](https://oglobo.globo.com/economia/guedes-diz-senadores-que-nao-quis-ofender-ao-falar-em-crime-me-senti-absolutamente-abandonado-isolado-24617271)
-* [Por que Melania Trump usou a jaqueta 'Eu não ligo' ao visitar crianças imigrantes: 'Estou levando os liberais à loucura'](https://oglobo.globo.com/ela/gente/por-que-melania-trump-usou-jaqueta-eu-nao-ligo-ao-visitar-criancas-imigrantes-estou-levando-os-liberais-loucura-24617246)
-* [Artigo | Como tornar o Brasil um país mais seguro](https://epoca.globo.com/denis-r-burgierman/artigo-como-tornar-brasil-um-pais-mais-seguro-24617239)
-* ['Um maluco no pedaço': elenco da série se reúne para gravar episódio especial](https://oglobo.globo.com/cultura/um-maluco-no-pedaco-elenco-da-serie-se-reune-para-gravar-episodio-especial-24617211)
-* [Após queda histórica, economia deve se recuperar no terceiro trimestre, diz governo](https://oglobo.globo.com/economia/apos-queda-historica-economia-deve-se-recuperar-no-terceiro-trimestre-diz-governo-24617200)
-* [As consequências de curto, médio e longo prazo da queda recorde do PIB brasileiro](https://epoca.globo.com/economia/as-consequencias-de-curto-medio-longo-prazo-da-queda-recorde-do-pib-brasileiro-24617178)
+* [Trocas no Itamaraty](https://epoca.globo.com/guilherme-amado/trocas-no-itamaraty-24617275)

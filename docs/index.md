@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 01/09/2020 02:19:46 UTC
+# indexed at 01/09/2020 02:35:26 UTC
 
 
 ## news.ycombinator.com
@@ -15,29 +15,29 @@ layout: default
 * [The surreal art of ‘unnatural lighting’](https://www.nationalgeographic.com/magazine/2020/09/the-surreal-art-of-unnatural-lighting/)
 * [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
 * [How to Learn Everything: The MasterClass Diaries](https://longreads.com/2020/08/20/how-to-learn-everything-the-masterclass-diaries/)
-* [An Update About Changes to Facebook’s Services in Australia](https://about.fb.com/news/2020/08/changes-to-facebooks-services-in-australia/)
 * [Interchange in Houston is the same size as an entire city center in Italy](https://www.texasmonthly.com/politics/highway-interchange-houston-same-size-city-italy/)
-* [Motivation – Keli Language](https://keli-language.gitbook.io/doc/)
+* [The database I wish I had](https://euandre.org/2020/08/31/the-database-i-wish-i-had.html)
+* [An Update About Changes to Facebook’s Services in Australia](https://about.fb.com/news/2020/08/changes-to-facebooks-services-in-australia/)
 * [Deep learning job postings have collapsed in the past six months](https://twitter.com/fchollet/status/1300137812872765440)
-* [2020's Existentialist Turn](https://bostonreview.net/philosophy-religion/carmen-lea-dege-2020s-existentialist-turn)
+* [Motivation – Keli Language](https://keli-language.gitbook.io/doc/)
 * [Show HN: ML From Scratch – free online textbook](https://dafriedman97.github.io/mlbook/content/introduction.html)
+* [2020's Existentialist Turn](https://bostonreview.net/philosophy-religion/carmen-lea-dege-2020s-existentialist-turn)
 * [FedEx feeder plane takes flight without pilot in test for Reliable Robotics](https://www.commercialappeal.com/story/money/industries/logistics/2020/08/28/fedex-plane-autonomous-flight-reliable-robotics/5655258002/)
-* [The Ecommerce Surge](https://www.ben-evans.com/benedictevans/2020/8/18/the-ecommerce-surge)
 * [Jerry.ai (YC S17) Is Hiring Senior Software Devs (Toronto, SF Bay Area, Boston)](https://apply.workable.com/jerry/j/F4762CDFF8/)
 * [Mathematicians Report New Discovery About the Dodecahedron](https://www.quantamagazine.org/mathematicians-report-new-discovery-about-the-dodecahedron-20200831/)
+* [Ruby: We have decided to go forward to 3.0 this year](https://github.com/ruby/ruby/commit/21c62fb670b1646c5051a46d29081523cd782f11)
 * [When is it okay for a lawyer to lie? (2018)](https://www.americanbar.org/news/abanews/publications/youraba/2018/december-2018/when-is-it-okay-for-a-lawyer-to-lie--/)
 * [Show HN: I've built self-opening trash bin, I relax myself feeding garbage to it](https://github.com/ivanilves/arduino-sketches/tree/master/basurito)
-* [Ruby: We have decided to go forward to 3.0 this year](https://github.com/ruby/ruby/commit/21c62fb670b1646c5051a46d29081523cd782f11)
-* [Hapax Legomenon](https://www.atlasobscura.com/articles/hapax-legomenon-hapaxes)
+* [The Ecommerce Surge](https://www.ben-evans.com/benedictevans/2020/8/18/the-ecommerce-surge)
 * [How NASA and ISRO discovered water on the Moon](https://jatan.space/how-nasa-and-chandrayaan-discovered-water-on-the-moon/)
 * [Intel MKL on AMD Zen](https://danieldk.eu/Posts/2020-08-31-MKL-Zen.html)
-* [Ask HN: Captcha Alternatives?](https://news.ycombinator.com/item?id=24334657)
+* [Hapax Legomenon](https://www.atlasobscura.com/articles/hapax-legomenon-hapaxes)
 * [3D face: fast, accurate and stable reconstruction](https://github.com/cleardusk/3DDFA_V2)
+* [Ask HN: Captcha Alternatives?](https://news.ycombinator.com/item?id=24334657)
 * [Python setuptools v50 breaks pip installation on Debian/Ubuntu](https://github.com/pypa/setuptools/issues/2350)
-* [The database I wish I had](https://euandre.org/2020/08/31/the-database-i-wish-i-had.html)
 * [Researchers are developing a battery powered by diamonds made from nuclear waste](https://www.wired.com/story/are-radioactive-diamond-batteries-a-cure-for-nuclear-waste/)
 * [How should we build the APIs of tomorrow?](https://increment.com/apis/how-we-should-build-apis-tomorrow/)
-* [Amazon wins FAA approval for Prime Air drone delivery fleet](https://www.cnbc.com/2020/08/31/amazon-prime-now-drone-delivery-fleet-gets-faa-approval.html)
+* [Effective testing for machine learning systems](https://www.jeremyjordan.me/testing-ml/)
 ## nytimes.com
 
 
@@ -80,10 +80,10 @@ layout: default
 * [‘Hotel Rwanda’ Hero, Paul Rusesabagina, Is Held on Terrorism Charge](https://www.nytimes.com/2020/08/31/world/africa/paul-rusesabagina-hotel-rwanda-arrest.html)
 * [Drone Delivery? Amazon Moves Closer With F.A.A. Approval](https://www.nytimes.com/2020/08/31/business/amazon-drone-delivery.html)
 * [Move Over, Sustainable Travel. Regenerative Travel Has Arrived.](https://www.nytimes.com/2020/08/27/travel/travel-future-coronavirus-sustainable.html)
-* [Does My Kid Have a Cold or Is It Covid-19?](https://www.nytimes.com/2020/08/28/parenting/kids-covid-symptoms.html)
-* [Are You an American Voting From Abroad? Here’s How to Do It](https://www.nytimes.com/2020/08/28/smarter-living/american-vote-from-abroad.html)
 * [Can You Hear Yourself Think?](https://www.nytimes.com/2020/08/25/realestate/house-noise-solutions.html)
 * [How to Help Someone Who Lost Their Job](https://www.nytimes.com/2020/08/30/smarter-living/how-to-help-someone-who-lost-their-job.html)
+* [Does My Kid Have a Cold or Is It Covid-19?](https://www.nytimes.com/2020/08/28/parenting/kids-covid-symptoms.html)
+* [Are You an American Voting From Abroad? Here’s How to Do It](https://www.nytimes.com/2020/08/28/smarter-living/american-vote-from-abroad.html)
 * [John Thompson’s Success at Georgetown Made Him Ahead of His Time](https://www.nytimes.com/2020/08/31/sports/ncaabasketball/john-thompson-georgetown-ewing.html)
 * [VMAs Recap: Lady Gaga, The Weeknd, and More](https://www.nytimes.com/2020/08/31/arts/music/mtv-vmas.html)
 * [How the U.S. Won the War Against Japan](https://www.nytimes.com/2020/08/28/books/review/twilight-of-the-gods-ian-w-toll.html)
@@ -93,9 +93,9 @@ layout: default
 * [Helping Children With Pandemic Grief](https://www.nytimes.com/2020/08/31/well/family/children-coronavirus-grandparents-grief.html)
 * [America Has Two Feet. It’s About to Lose One of Them.](https://www.nytimes.com/2020/08/18/science/foot-surveying-metrology-dennis.html)
 * [How Children’s Sleep Habits Have Changed in the Pandemic](https://www.nytimes.com/2020/08/17/well/family/children-sleep-pandemic.html)
+* [A Lighter, Brighter Meatball](https://www.nytimes.com/2020/08/28/dining/peach-meatball-recipe.html)
+* [In a Naked Pandemic Race, You Can Leave Your Hat On](https://www.nytimes.com/2020/08/28/well/move/running-race-nudist-resort-naked.html)
 * [Ron Jeremy Is Newly Charged With Sexually Assaulting 13 More Women](https://www.nytimes.com/2020/08/31/movies/ron-jeremy-sexual-assault-charges.html)
-* [New York Philharmonic Restarts the Music With a Pickup Truck](https://www.nytimes.com/2020/08/26/arts/music/new-york-philharmonic.html)
-* [How Has Donald Trump Survived?](https://www.nytimes.com/2020/08/31/books/review/donald-trump-v-the-united-states-michael-s-schmidt.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)

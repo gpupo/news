@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 01/09/2020 04:35:29 UTC
+# indexed at 01/09/2020 05:17:21 UTC
 
 
 ## news.ycombinator.com
@@ -11,33 +11,33 @@ layout: default
 * [Applebot](https://support.apple.com/en-us/HT204683)
 * [Supporting Linux kernel development in Rust](https://lwn.net/SubscriberLink/829858/281103f9c6fd0dc2/)
 * [The database I wish I had](https://euandre.org/2020/08/31/the-database-i-wish-i-had.html)
-* [Why Doctors Hate Their Computers (2018)](https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers)
 * [A grim outlook on the future of browser add-ons](https://palant.info/2020/08/31/a-grim-outlook-on-the-future-of-browser-add-ons/)
+* [Why Doctors Hate Their Computers (2018)](https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers)
+* [FreeCol: Turn-based strategy game based on the old game Colonization](https://github.com/FreeCol/freecol)
 * [App Review process updates](https://developer.apple.com/news/?id=84w3e5bm)
-* [The surreal art of ‘unnatural lighting’](https://www.nationalgeographic.com/magazine/2020/09/the-surreal-art-of-unnatural-lighting/)
+* [The Puzzle Toad](http://www.cs.cmu.edu/puzzle/index.html)
 * [Modernizing the OpenBSD Console](https://www.cambus.net/modernizing-the-openbsd-console/)
 * [How to Learn Everything: The MasterClass Diaries](https://longreads.com/2020/08/20/how-to-learn-everything-the-masterclass-diaries/)
+* [The surreal art of ‘unnatural lighting’](https://www.nationalgeographic.com/magazine/2020/09/the-surreal-art-of-unnatural-lighting/)
 * [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
-* [The Puzzle Toad](http://www.cs.cmu.edu/puzzle/index.html)
 * [Interchange in Houston is the same size as an entire city center in Italy](https://www.texasmonthly.com/politics/highway-interchange-houston-same-size-city-italy/)
-* [FreeCol: Turn-based strategy game based on the old game Colonization](https://github.com/FreeCol/freecol)
-* [Motivation – Keli Language](https://keli-language.gitbook.io/doc/)
 * [The Ecommerce Surge](https://www.ben-evans.com/benedictevans/2020/8/18/the-ecommerce-surge)
+* [Motivation – Keli Language](https://keli-language.gitbook.io/doc/)
+* [A Neural-Based Program Decompiler (2019)](https://arxiv.org/abs/1906.12029)
 * [Show HN: ML From Scratch – free online textbook](https://dafriedman97.github.io/mlbook/content/introduction.html)
 * [FedEx feeder plane takes flight without pilot in test for Reliable Robotics](https://www.commercialappeal.com/story/money/industries/logistics/2020/08/28/fedex-plane-autonomous-flight-reliable-robotics/5655258002/)
 * [2020's Existentialist Turn](https://bostonreview.net/philosophy-religion/carmen-lea-dege-2020s-existentialist-turn)
-* [An Update About Changes to Facebook’s Services in Australia](https://about.fb.com/news/2020/08/changes-to-facebooks-services-in-australia/)
+* [Ask HN: Captcha Alternatives?](https://news.ycombinator.com/item?id=24334657)
 * [Mathematicians Report New Discovery About the Dodecahedron](https://www.quantamagazine.org/mathematicians-report-new-discovery-about-the-dodecahedron-20200831/)
 * [Jerry.ai (YC S17) Is Hiring Senior Software Devs (Toronto, SF Bay Area, Boston)](https://apply.workable.com/jerry/j/F4762CDFF8/)
-* [Show HN: I've built self-opening trash bin, I relax myself feeding garbage to it](https://github.com/ivanilves/arduino-sketches/tree/master/basurito)
 * [MIT Drake](https://drake.mit.edu/)
-* [Ask HN: Captcha Alternatives?](https://news.ycombinator.com/item?id=24334657)
-* [Ruby: We have decided to go forward to 3.0 this year](https://github.com/ruby/ruby/commit/21c62fb670b1646c5051a46d29081523cd782f11)
-* [How NASA and ISRO discovered water on the Moon](https://jatan.space/how-nasa-and-chandrayaan-discovered-water-on-the-moon/)
+* [Show HN: I've built self-opening trash bin, I relax myself feeding garbage to it](https://github.com/ivanilves/arduino-sketches/tree/master/basurito)
 * [3D face: fast, accurate and stable reconstruction](https://github.com/cleardusk/3DDFA_V2)
+* [An Update About Changes to Facebook’s Services in Australia](https://about.fb.com/news/2020/08/changes-to-facebooks-services-in-australia/)
 * [Intel MKL on AMD Zen](https://danieldk.eu/Posts/2020-08-31-MKL-Zen.html)
 * [Researchers are developing a battery powered by diamonds made from nuclear waste](https://www.wired.com/story/are-radioactive-diamond-batteries-a-cure-for-nuclear-waste/)
 * [Hapax Legomenon](https://www.atlasobscura.com/articles/hapax-legomenon-hapaxes)
+* [Understanding How the Time-Based One-Time Password Algorithm Works](https://blog.digitalbunker.dev/2020/08/27/how-do-time-based-one-time-password-totp-services-work/)
 ## nytimes.com
 
 
@@ -80,9 +80,9 @@ layout: default
 * [‘Hotel Rwanda’ Hero, Paul Rusesabagina, Is Held on Terrorism Charge](https://www.nytimes.com/2020/08/31/world/africa/paul-rusesabagina-hotel-rwanda-arrest.html)
 * [Can You Hear Yourself Think?](https://www.nytimes.com/2020/08/25/realestate/house-noise-solutions.html)
 * [Move Over, Sustainable Travel. Regenerative Travel Has Arrived.](https://www.nytimes.com/2020/08/27/travel/travel-future-coronavirus-sustainable.html)
-* [Are You an American Voting From Abroad? Here’s How to Do It](https://www.nytimes.com/2020/08/28/smarter-living/american-vote-from-abroad.html)
 * [How to Help Someone Who Lost Their Job](https://www.nytimes.com/2020/08/30/smarter-living/how-to-help-someone-who-lost-their-job.html)
 * [Does My Kid Have a Cold or Is It Covid-19?](https://www.nytimes.com/2020/08/28/parenting/kids-covid-symptoms.html)
+* [Are You an American Voting From Abroad? Here’s How to Do It](https://www.nytimes.com/2020/08/28/smarter-living/american-vote-from-abroad.html)
 * [John Thompson’s Success at Georgetown Made Him Ahead of His Time](https://www.nytimes.com/2020/08/31/sports/ncaabasketball/john-thompson-georgetown-ewing.html)
 * [VMAs Recap: Lady Gaga, The Weeknd, and More](https://www.nytimes.com/2020/08/31/arts/music/mtv-vmas.html)
 * [How the U.S. Won the War Against Japan](https://www.nytimes.com/2020/08/28/books/review/twilight-of-the-gods-ian-w-toll.html)
@@ -93,9 +93,9 @@ layout: default
 * [America Has Two Feet. It’s About to Lose One of Them.](https://www.nytimes.com/2020/08/18/science/foot-surveying-metrology-dennis.html)
 * [How Children’s Sleep Habits Have Changed in the Pandemic](https://www.nytimes.com/2020/08/17/well/family/children-sleep-pandemic.html)
 * [Ron Jeremy Is Newly Charged With Sexually Assaulting 13 More Women](https://www.nytimes.com/2020/08/31/movies/ron-jeremy-sexual-assault-charges.html)
+* [Could the 2020 Election End Up at the Supreme Court?](https://www.nytimes.com/2020/08/27/opinion/sunday/trump-biden-2020-supreme-court.html)
+* [Chintz Hospital Gowns and Wildflower Dresses](https://www.nytimes.com/2020/08/28/style/chintz-hospital-gowns-and-wildflower-dresses.html)
 * [House Hunting in Poland: A 19th-Century Cottage for $523,000](https://www.nytimes.com/2020/08/26/realestate/house-hunting-poland.html)
-* [How Has Donald Trump Survived?](https://www.nytimes.com/2020/08/31/books/review/donald-trump-v-the-united-states-michael-s-schmidt.html)
-* [German Automotive Giant Admits It Was a Nazi Accomplice](https://www.nytimes.com/2020/08/27/business/german-auto-parts-continental-nazi.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)

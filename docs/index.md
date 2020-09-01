@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 01/09/2020 08:20:12 UTC
+# indexed at 01/09/2020 08:35:17 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [First Impressions of GitHub Codespaces](https://www.aristotlemetadata.com/blog/2020/08/first-impressions-github-codespaces.html)
 * [Supporting Linux kernel development in Rust](https://lwn.net/SubscriberLink/829858/281103f9c6fd0dc2/)
-* [The database I wish I had](https://euandre.org/2020/08/31/the-database-i-wish-i-had.html)
 * [PNG and Hidden Pixels](https://www.hackerfactor.com/blog/index.php?/archives/894-PNG-and-Hidden-Pixels.html)
-* [Applebot](https://support.apple.com/en-us/HT204683)
+* [The database I wish I had](https://euandre.org/2020/08/31/the-database-i-wish-i-had.html)
 * [Hacker News – Terms of Use (2014)](https://web.archive.org/web/20140715041043/http://www.ycombinator.com/legal/)
+* [Applebot](https://support.apple.com/en-us/HT204683)
 * [Why Doctors Hate Their Computers (2018)](https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers)
 * [FreeCol: Turn-based strategy game based on the old game Colonization](https://github.com/FreeCol/freecol)
 * [How to Learn Everything: The MasterClass Diaries](https://longreads.com/2020/08/20/how-to-learn-everything-the-masterclass-diaries/)
-* [The surreal art of ‘unnatural lighting’](https://www.nationalgeographic.com/magazine/2020/09/the-surreal-art-of-unnatural-lighting/)
 * [A Neural-Based Program Decompiler (2019)](https://arxiv.org/abs/1906.12029)
+* [The surreal art of ‘unnatural lighting’](https://www.nationalgeographic.com/magazine/2020/09/the-surreal-art-of-unnatural-lighting/)
 * [Modernizing the OpenBSD Console](https://www.cambus.net/modernizing-the-openbsd-console/)
 * [The Puzzle Toad](http://www.cs.cmu.edu/puzzle/index.html)
 * [FedEx feeder plane takes flight without pilot in test for Reliable Robotics](https://www.commercialappeal.com/story/money/industries/logistics/2020/08/28/fedex-plane-autonomous-flight-reliable-robotics/5655258002/)
 * [The Ecommerce Surge](https://www.ben-evans.com/benedictevans/2020/8/18/the-ecommerce-surge)
 * [Ask HN: Captcha Alternatives?](https://news.ycombinator.com/item?id=24334657)
 * [Show HN: I've built self-opening trash bin, I relax myself feeding garbage to it](https://github.com/ivanilves/arduino-sketches/tree/master/basurito)
-* [2020's Existentialist Turn](https://bostonreview.net/philosophy-religion/carmen-lea-dege-2020s-existentialist-turn)
 * [MIT Drake](https://drake.mit.edu/)
+* [2020's Existentialist Turn](https://bostonreview.net/philosophy-religion/carmen-lea-dege-2020s-existentialist-turn)
 * [3D face: fast, accurate and stable reconstruction](https://github.com/cleardusk/3DDFA_V2)
-* [Standing on the outside looking in: X-rays through glass](https://physicsworld.com/a/standing-on-the-outside-looking-in-x-rays-through-glass/)
 * [Intel MKL on AMD Zen](https://danieldk.eu/Posts/2020-08-31-MKL-Zen.html)
-* [Understanding How the Time-Based One-Time Password Algorithm Works](https://blog.digitalbunker.dev/2020/08/27/how-do-time-based-one-time-password-totp-services-work/)
+* [Standing on the outside looking in: X-rays through glass](https://physicsworld.com/a/standing-on-the-outside-looking-in-x-rays-through-glass/)
 * [Python setuptools v50 breaks pip installation on Debian/Ubuntu](https://github.com/pypa/setuptools/issues/2350)
+* [Understanding How the Time-Based One-Time Password Algorithm Works](https://blog.digitalbunker.dev/2020/08/27/how-do-time-based-one-time-password-totp-services-work/)
 * [App Review process updates](https://developer.apple.com/news/?id=84w3e5bm)
 * [Researchers are developing a battery powered by diamonds made from nuclear waste](https://www.wired.com/story/are-radioactive-diamond-batteries-a-cure-for-nuclear-waste/)
+* [I sold my side-project for $30k](https://marc.io/tweet-photo-acquired)
 * [Jerry.ai (YC S17) Is Hiring Senior Software Devs (Toronto, SF Bay Area, Boston)](https://apply.workable.com/jerry/j/F4762CDFF8/)
-* [How Predictable Is Fiction?](https://tedunderwood.com/2020/07/05/how-predictable-is-fiction/)
-* [A grim outlook on the future of browser add-ons](https://palant.info/2020/08/31/a-grim-outlook-on-the-future-of-browser-add-ons/)
 * [Palantir's S-1 has a paragraph warning its AI technology may do unethical things](https://nitter.net/tsimonite/status/1298711894241366019#m)
+* [How Predictable Is Fiction?](https://tedunderwood.com/2020/07/05/how-predictable-is-fiction/)
 ## nytimes.com
 
 
@@ -77,11 +77,11 @@ layout: default
 * [2020 U.S. Open: Live Updates from Day 1](https://www.nytimes.com/2020/08/31/sports/tennis/us-open-schedule-updates.html)
 * [A Vow of Silence, a Cabin in the Woods, a Terrible Wildfire](https://www.nytimes.com/2020/08/31/us/fires-california-monk-tad-jones-last-chance-santa-cruz.html)
 * [‘Hotel Rwanda’ Hero, Paul Rusesabagina, Is Held on Terrorism Charge](https://www.nytimes.com/2020/08/31/world/africa/paul-rusesabagina-hotel-rwanda-arrest.html)
-* [Does My Kid Have a Cold or Is It Covid-19?](https://www.nytimes.com/2020/08/28/parenting/kids-covid-symptoms.html)
-* [How to Help Someone Who Lost Their Job](https://www.nytimes.com/2020/08/30/smarter-living/how-to-help-someone-who-lost-their-job.html)
-* [Are You an American Voting From Abroad? Here’s How to Do It](https://www.nytimes.com/2020/08/28/smarter-living/american-vote-from-abroad.html)
-* [Move Over, Sustainable Travel. Regenerative Travel Has Arrived.](https://www.nytimes.com/2020/08/27/travel/travel-future-coronavirus-sustainable.html)
 * [Can You Hear Yourself Think?](https://www.nytimes.com/2020/08/25/realestate/house-noise-solutions.html)
+* [Move Over, Sustainable Travel. Regenerative Travel Has Arrived.](https://www.nytimes.com/2020/08/27/travel/travel-future-coronavirus-sustainable.html)
+* [Are You an American Voting From Abroad? Here’s How to Do It](https://www.nytimes.com/2020/08/28/smarter-living/american-vote-from-abroad.html)
+* [How to Help Someone Who Lost Their Job](https://www.nytimes.com/2020/08/30/smarter-living/how-to-help-someone-who-lost-their-job.html)
+* [Does My Kid Have a Cold or Is It Covid-19?](https://www.nytimes.com/2020/08/28/parenting/kids-covid-symptoms.html)
 * [John Thompson’s Success at Georgetown Made Him Ahead of His Time](https://www.nytimes.com/2020/08/31/sports/ncaabasketball/john-thompson-georgetown-ewing.html)
 * [VMAs Recap: Lady Gaga, The Weeknd, and More](https://www.nytimes.com/2020/08/31/arts/music/mtv-vmas.html)
 * [How the U.S. Won the War Against Japan](https://www.nytimes.com/2020/08/28/books/review/twilight-of-the-gods-ian-w-toll.html)
@@ -99,13 +99,13 @@ layout: default
 ## globo.com
 
 
+* ['Guardiões de Crivella': MPRJ vai analisar denúncia de que Prefeitura paga funcionários para impedir críticas em hospitais](https://oglobo.globo.com/rio/guardioes-de-crivella-mprj-vai-analisar-denuncia-de-que-prefeitura-paga-funcionarios-para-impedir-criticas-em-hospitais-24616911)
 * [Eleições 2020: Divisão de verbas do fundo eleitoral provoca briga acirrada nos partidos](https://oglobo.globo.com/brasil/eleicoes-2020-divisao-de-verbas-do-fundo-eleitoral-provoca-briga-acirrada-nos-partidos-24616756)
 * [Divisão de verbas do fundo eleitoral provoca briga acirrada nos partidos](https://oglobo.globo.com/brasil/divisao-de-verbas-do-fundo-eleitoral-provoca-briga-acirrada-nos-partidos-1-24616748)
 * [Árbitros acionam mais o VAR em 2020 apesar de desejo contrário da CBF](https://oglobo.globo.com/esportes/arbitros-acionam-mais-var-em-2020-apesar-de-desejo-contrario-da-cbf-1-24616979)
 * [André Kfouri: silêncio de Messi é um convite a todo tipo de leitura sobre sua decisão](https://oglobo.globo.com/esportes/andre-kfouri-silencio-de-messi-um-convite-todo-tipo-de-leitura-sobre-sua-decisao-1-24616894)
 * [Marylin Monroe inspira pacote temático em seu hotel preferido, em Beverly Hills](https://oglobo.globo.com/boa-viagem/marylin-monroe-inspira-pacote-tematico-em-seu-hotel-preferido-em-beverly-hills-24617005)
 * [Wilson Witzel pode voltar ao governo do Rio de Janeiro?](https://oglobo.globo.com/podcast/wilson-witzel-pode-voltar-ao-governo-do-rio-de-janeiro-24616965)
-* ['Guardiões de Crivella': MPRJ vai analisar denúncia de Prefeitura paga funcionários para impedir críticas em hospitais](https://oglobo.globo.com/rio/guardioes-de-crivella-mprj-vai-analisar-denuncia-de-prefeitura-paga-funcionarios-para-impedir-criticas-em-hospitais-24616911)
 * [No toque curto, a melhor versão do Fluminense com a bola](https://oglobo.globo.com/esportes/no-toque-curto-melhor-versao-do-fluminense-com-bola-24616929)
 * [US Open: 'Meu objetivo é virar um ídolo para as crianças', diz Luisa Stefani](https://oglobo.globo.com/esportes/us-open-meu-objetivo-virar-um-idolo-para-as-criancas-diz-luisa-stefani-24614702)
 * [Rapazes do Brasil e do mundo fazem sucesso nas redes com dicas e tutoriais de maquiagem](https://oglobo.globo.com/ela/beleza/maquiagem/rapazes-do-brasil-do-mundo-fazem-sucesso-nas-redes-com-dicas-tutoriais-de-maquiagem-24608780)

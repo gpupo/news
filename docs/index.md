@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 01/09/2020 18:19:19 UTC
+# indexed at 01/09/2020 18:35:13 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Airline pilots landing at LAX report “a guy in jetpack” flying alongside them](https://www.thedrive.com/the-war-zone/36096/airline-pilots-landing-at-lax-report-a-guy-in-jetpack-flying-alongside-them-on)
-* [Nvidia Unveils GeForce RTX 30 Series GPUs](https://blogs.nvidia.com/blog/2020/09/01/nvidia-ceo-geforce-rtx-30-series-gpus/)
 * [Lunar – macOS utility to set brightness and volume on external monitors](https://lunar.fyi)
-* [Disney Studios stops theaters from screening Black Panther](https://www.cbr.com/drive-in-show-42-disney-prevents-black-panther/)
+* [Nvidia Unveils GeForce RTX 30 Series GPUs](https://blogs.nvidia.com/blog/2020/09/01/nvidia-ceo-geforce-rtx-30-series-gpus/)
 * [Ask HN: Who is hiring? (September 2020)](https://news.ycombinator.com/item?id=24342498)
-* [California duplex bill, SB 1120, dies: Assembly approval comes too late](https://www.latimes.com/homeless-housing/story/2020-09-01/california-assembly-sb-1120-duplexes)
 * [Ask HN: Who wants to be hired? (September 2020)](https://news.ycombinator.com/item?id=24342496)
-* [YC's Work at a Startup lets you create one application for hundreds of eng jobs](https://www.workatastartup.com/jobs?role=eng&utm_source=hn_jobs)
-* [Algebra Driven Design](https://algebradriven.design/)
-* [Mind Emulation Foundation](https://mindemulation.org/)
 * [CERN at Home: Building a Particle Detector](https://clanhouse.com/cern-at-home-building-a-particle-detector)
+* [Mind Emulation Foundation](https://mindemulation.org/)
+* [Algebra Driven Design](https://algebradriven.design/)
+* [YC's Work at a Startup lets you create one application for hundreds of eng jobs](https://www.workatastartup.com/jobs?role=eng&utm_source=hn_jobs)
+* [The Sony “Star Eater” (2017)](http://www.markshelley.co.uk/Astronomy/SonyA7S/sonystareater.html)
 * [Why Privacy Matters](https://thistooshallgrow.com/blog/privacy-security-roundup)
 * [Htop 3.0](https://github.com/htop-dev/htop/blob/master/ChangeLog)
 * [Amazon Is Hiring an Intelligence Analyst to Track 'Labor Organizing Threats'](https://www.vice.com/en_us/article/qj4aqw/amazon-hiring-intelligence-analyst-to-track-labor-organizing-threats)
 * [Taking a look at Gerät 32620: the machine that powered numerous number stations](https://blog.ardy.io/2020/8/geraet-32620/)
+* [TypeScript is weakening the JavaScript ecosystem](https://timdaub.github.io/2020/09/01/typescript/)
+* [Disney Studios stops theaters from screening Black Panther](https://www.cbr.com/drive-in-show-42-disney-prevents-black-panther/)
 * [RxDB – a realtime database on top of PouchDB](https://github.com/pubkey/rxdb/blob/master/README.md)
-* [Why has college gotten so expensive? The gov handed them a blank check in 1993](https://medium.com/@andrewghobrial/why-has-college-gotten-so-expensive-in-the-last-30-years-3505af9aded8)
+* [‘Five Eyes’ Nations Release Joint Cybersecurity Advisory](https://www.meritalk.com/articles/five-eyes-nations-release-joint-cybersecurity-advisory/)
 * [A Saudi Prince's Attempt to Silence Critics on Twitter](https://www.wired.com/story/mohammed-bin-salman-twitter-investigation/)
 * [Nessie – Lightweight Web Browser](https://www.radsix.com/)
-* [‘Five Eyes’ Nations Release Joint Cybersecurity Advisory](https://www.meritalk.com/articles/five-eyes-nations-release-joint-cybersecurity-advisory/)
-* [Welcome to masterWiki: stolen from MasterClass, republished as wikiHow](https://masterwiki.how/)
-* [The Sony “Star Eater” (2017)](http://www.markshelley.co.uk/Astronomy/SonyA7S/sonystareater.html)
-* [How to resume a SSH encrypted and x11 forwarded session](https://dwaves.org/2019/01/21/how-to-resume-a-ssh-encrypted-and-x11-forwarded-session/)
 * [Walmart Plus takes on Amazon Prime with $98-a-year membership fee](https://www.cnet.com/news/walmart-plus-takes-on-amazon-prime-with-98-a-year-membership-fee/)
-* [Platforms: Current Attempts to Regulate Misinformation Amplify Opinion Power](https://www.tandfonline.com/doi/full/10.1080/21670811.2020.1773888)
+* [Welcome to masterWiki: stolen from MasterClass, republished as wikiHow](https://masterwiki.how/)
+* [Why has college gotten so expensive? The gov handed them a blank check in 1993](https://medium.com/@andrewghobrial/why-has-college-gotten-so-expensive-in-the-last-30-years-3505af9aded8)
+* [How to resume a SSH encrypted and x11 forwarded session](https://dwaves.org/2019/01/21/how-to-resume-a-ssh-encrypted-and-x11-forwarded-session/)
 * [Amazon Drivers Are Hanging Smartphones in Trees to Get More Work](https://www.bloomberg.com/news/articles/2020-09-01/amazon-drivers-are-hanging-smartphones-in-trees-to-get-more-work)
 * [AWS Boilerplate](https://github.com/apptension/aws-boilerplate)
+* [Platforms: Current Attempts to Regulate Misinformation Amplify Opinion Power](https://www.tandfonline.com/doi/full/10.1080/21670811.2020.1773888)
 * [New Federal Court Rulings Find Geofence Warrants Unconstitutional](https://www.eff.org/deeplinks/2020/08/new-federal-court-rulings-find-geofence-warrants-unconstitutional-0)
+* [Silicon “sandwiches” make for lightweight, high-capacity batteries](https://newatlas.com/energy/buckypaper-sandwiches-lightweight-high-capacity-silicon-anode-lithium-batteries/)
 * [A California wildfire nearly destroyed the historic Lick observatory](https://arstechnica.com/science/2020/08/a-california-wildfire-nearly-destroyed-the-historic-lick-observatory/)
-* [Deep Learning for Compilers](https://era.ed.ac.uk/handle/1842/36866)
 ## nytimes.com
 
 
@@ -83,11 +83,10 @@ layout: default
 * [US Open Day 2: Schedule, Who Is Playing and More](https://www.nytimes.com/2020/09/01/sports/2020-us-open-what-to-watch-on-tuesday.html)
 * [Young People Are Fighting Hunger and Finding Purpose](https://www.nytimes.com/2020/09/01/well/family/kids-food-hunger-volunteering.html)
 * [These Scientists Are Giving Themselves D.I.Y. Coronavirus Vaccines](https://www.nytimes.com/2020/09/01/science/covid-19-vaccine-diy.html)
-* [Can You Hear Yourself Think?](https://www.nytimes.com/2020/08/25/realestate/house-noise-solutions.html)
-* [How to Help Someone Who Lost Their Job](https://www.nytimes.com/2020/08/30/smarter-living/how-to-help-someone-who-lost-their-job.html)
 * [Valved Face Masks and Face Shields Offer More Comfort but Less Protection](https://www.nytimes.com/2020/09/01/well/live/face-shields-masks-valves-vents.html)
-* [Move Over, Sustainable Travel. Regenerative Travel Has Arrived.](https://www.nytimes.com/2020/08/27/travel/travel-future-coronavirus-sustainable.html)
-* [Are You an American Voting From Abroad? Here’s How to Do It](https://www.nytimes.com/2020/08/28/smarter-living/american-vote-from-abroad.html)
+* [5 Simple Ways to Improve Your Wi-Fi](https://www.nytimes.com/2020/08/24/smarter-living/home-wifi-upgrade.html)
+* [The Monotony of Family Meals Can Trigger Past Disordered Eating](https://www.nytimes.com/2020/08/19/parenting/eating-disorders-coronavirus.html)
+* [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
 * [Christmas Time Is … Here?](https://www.nytimes.com/2020/08/29/style/christmas-time-is-here.html)
 * [Fashion Advertisers Rediscover Black Models](https://www.nytimes.com/2020/08/29/style/black-models-fashion-advertising.html)
 * [Emmys 2020: Samira Wiley and Uzo Aduba Still Remember Struggling](https://www.nytimes.com/2020/08/30/arts/television/emmys-samira-wiley-uzo-aduba.html)
@@ -104,13 +103,13 @@ layout: default
 ## globo.com
 
 
+* [Simulação mostra gotículas com vírus escapando de escudo facial e de máscara com válvula](https://oglobo.globo.com/sociedade/simulacao-mostra-goticulas-com-virus-escapando-de-escudo-facial-de-mascara-com-valvula-24617479)
 * [Turquia prende líder do Estado Islâmico no país, diz ministro](https://oglobo.globo.com/mundo/turquia-prende-lider-do-estado-islamico-no-pais-diz-ministro-24617811)
+* [Dallagnol diz que deixa Lava Jato para cuidar da filha: 'Decisão certa que quero tomar como pai'](https://epoca.globo.com/brasil/dallagnol-diz-que-deixa-lava-jato-para-cuidar-da-filha-decisao-certa-que-quero-tomar-como-pai-1-24617827)
+* ['Guardião do Crivella' cumpre jornada de trabalho em frente ao Hospital Rocha Faria após denúncia](https://oglobo.globo.com/rio/guardiao-do-crivella-cumpre-jornada-de-trabalho-em-frente-ao-hospital-rocha-faria-apos-denuncia-24617848)
+* [Mudança no comando da Lava-Jato é recuo estratégico para recuperar apoio](https://oglobo.globo.com/analitico/mudanca-no-comando-da-lava-jato-recuo-estrategico-para-recuperar-apoio-24617757)
+* [Em live, prefeito é criticado sobre presença de 'Guardiões do Crivella' em hospitais do Rio](https://oglobo.globo.com/rio/em-live-prefeito-criticado-sobre-presenca-de-guardioes-do-crivella-em-hospitais-do-rio-24617829)
+* [Flamengo não relaciona César, com Covid-19, e mais quatro para jogo com o Bahia](https://oglobo.globo.com/esportes/flamengo-nao-relaciona-cesar-com-covid-19-mais-quatro-para-jogo-com-bahia-24617839)
 * [Maia pede 'cautela' na discussão do valor mensal da prorrogação do auxílio emergencial](https://oglobo.globo.com/economia/maia-pede-cautela-na-discussao-do-valor-mensal-da-prorrogacao-do-auxilio-emergencial-24617815)
-* [Balança comercial de agosto registra o maior superávit para o mês desde 1989](https://oglobo.globo.com/economia/balanca-comercial-de-agosto-registra-maior-superavit-para-mes-desde-1989-24617809)
+* [Família suspeita de morte de jovem em maternidade, e prefeitura do Rio promete apurar](https://oglobo.globo.com/rio/familia-suspeita-de-morte-de-jovem-em-maternidade-prefeitura-do-rio-promete-apurar-24617833)
 * [Filho de David Beckham completa 18 anos: 'Está maior que eu'](https://oglobo.globo.com/ela/gente/filho-de-david-beckham-completa-18-anos-esta-maior-que-eu-24617819)
-* [Secom reproduz fala de Bolsonaro contra obrigatoriedade de vacina e diz prezar 'pelas liberdades dos brasileiros'](https://oglobo.globo.com/sociedade/secom-reproduz-fala-de-bolsonaro-contra-obrigatoriedade-de-vacina-diz-prezar-pelas-liberdades-dos-brasileiros-24617807)
-* ['Guardião de Crivella' é chamado para depor e manda a polícia 'intimar o prefeito'](https://oglobo.globo.com/rio/guardiao-de-crivella-chamado-para-depor-manda-policia-intimar-prefeito-24617782)
-* [Câmara aprova projeto que dobra pena de corrupção na pandemia](https://oglobo.globo.com/brasil/camara-aprova-projeto-que-dobra-pena-de-corrupcao-na-pandemia-24617747)
-* [Cardi B é o novo rosto da Balenciaga](https://oglobo.globo.com/ela/moda/cardi-e-novo-rosto-da-balenciaga-24617743)
-* [Novo coordenador da Lava-Jato tem perfil 'muito discreto' e atuou na delação de ex-presidente da OAS](https://oglobo.globo.com/brasil/novo-coordenador-da-lava-jato-tem-perfil-muito-discreto-atuou-na-delacao-de-ex-presidente-da-oas-24617735)
-* [Governo federal compra passagens aéreas acima do preço de mercado, diz CGU](https://epoca.globo.com/guilherme-amado/governo-federal-compra-passagens-aereas-acima-do-preco-de-mercado-diz-cgu-24617727)

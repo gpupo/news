@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 01/09/2020 17:17:18 UTC
+# indexed at 01/09/2020 17:35:33 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Airline Pilots Landing at Lax Report “A Guy in Jetpack” Flying Alongside Them](https://www.thedrive.com/the-war-zone/36096/airline-pilots-landing-at-lax-report-a-guy-in-jetpack-flying-alongside-them-on)
-* [Htop Version 3.0.0 Released](https://github.com/htop-dev/htop/blob/master/ChangeLog)
-* [Nvidia launches Ampere-based 30XX GPU lineup (video)](https://www.nvidia.com/en-us/geforce/special-event/?nvid=nv-int-gfhm-55882#cid=_nv-int-gfhm_en-us)
+* [Htop 3.0](https://github.com/htop-dev/htop/blob/master/ChangeLog)
 * [Ask HN: Who is hiring? (September 2020)](https://news.ycombinator.com/item?id=24342498)
+* [‘Giant Step into the Future’: Nvidia CEO Unveils GeForce RTX 30 Series GPUs](https://blogs.nvidia.com/blog/2020/09/01/nvidia-ceo-geforce-rtx-30-series-gpus/)
 * [Ask HN: Who wants to be hired? (September 2020)](https://news.ycombinator.com/item?id=24342496)
+* [Lunar – macOS utility to set brightness on external monitors](https://lunar.fyi)
 * [YC's Work at a Startup lets you create one application for hundreds of eng jobs](https://www.workatastartup.com/jobs?role=eng&utm_source=hn_jobs)
 * [Algebra Driven Design](https://algebradriven.design/)
 * [Why Privacy Matters](https://thistooshallgrow.com/blog/privacy-security-roundup)
-* [‘Giant Step into the Future’: Nvidia CEO Unveils GeForce RTX 30 Series GPUs](https://blogs.nvidia.com/blog/2020/09/01/nvidia-ceo-geforce-rtx-30-series-gpus/)
 * [Taking a look at Gerät 32620: the machine that powered numerous number stations](https://blog.ardy.io/2020/8/geraet-32620/)
 * [Amazon Is Hiring an Intelligence Analyst to Track 'Labor Organizing Threats'](https://www.vice.com/en_us/article/qj4aqw/amazon-hiring-intelligence-analyst-to-track-labor-organizing-threats)
 * [California duplex bill, SB 1120, dies: Assembly approval comes too late](https://www.latimes.com/homeless-housing/story/2020-09-01/california-assembly-sb-1120-duplexes)
 * [RxDB – a realtime database on top of PouchDB](https://github.com/pubkey/rxdb/blob/master/README.md)
 * [A Saudi Prince's Attempt to Silence Critics on Twitter](https://www.wired.com/story/mohammed-bin-salman-twitter-investigation/)
 * [Nessie – Lightweight Web Browser](https://www.radsix.com/)
+* [Nvidia launches Ampere-based 30XX GPU lineup [video]](https://www.nvidia.com/en-us/geforce/special-event/?nvid=nv-int-gfhm-55882#cid=_nv-int-gfhm_en-us)
 * [‘Five Eyes’ Nations Release Joint Cybersecurity Advisory](https://www.meritalk.com/articles/five-eyes-nations-release-joint-cybersecurity-advisory/)
 * [Welcome to masterWiki: stolen from MasterClass, republished as wikiHow](https://masterwiki.how/)
+* [Why has college gotten so expensive? The gov handed them a blank check in 1993](https://medium.com/@andrewghobrial/why-has-college-gotten-so-expensive-in-the-last-30-years-3505af9aded8)
 * [How to resume a SSH encrypted and x11 forwarded session](https://dwaves.org/2019/01/21/how-to-resume-a-ssh-encrypted-and-x11-forwarded-session/)
 * [Platforms: Current Attempts to Regulate Misinformation Amplify Opinion Power](https://www.tandfonline.com/doi/full/10.1080/21670811.2020.1773888)
 * [Amazon Drivers Are Hanging Smartphones in Trees to Get More Work](https://www.bloomberg.com/news/articles/2020-09-01/amazon-drivers-are-hanging-smartphones-in-trees-to-get-more-work)
 * [AWS Boilerplate](https://github.com/apptension/aws-boilerplate)
 * [New Federal Court Rulings Find Geofence Warrants Unconstitutional](https://www.eff.org/deeplinks/2020/08/new-federal-court-rulings-find-geofence-warrants-unconstitutional-0)
-* [Police Across Canada Are Using Predictive Policing Algorithms, Report Finds](https://www.vice.com/en_us/article/k7q55x/police-across-canada-are-using-predictive-policing-algorithms-report-finds)
 * [A California wildfire nearly destroyed the historic Lick observatory](https://arstechnica.com/science/2020/08/a-california-wildfire-nearly-destroyed-the-historic-lick-observatory/)
+* [Police Across Canada Are Using Predictive Policing Algorithms, Report Finds](https://www.vice.com/en_us/article/k7q55x/police-across-canada-are-using-predictive-policing-algorithms-report-finds)
 * [Why we are suing the Administration](https://newsroom.tiktok.com/en-us/tiktok-files-lawsuit)
 * [Deep Learning for Compilers](https://era.ed.ac.uk/handle/1842/36866)
-* [Feline coronavirus drug inhibits the main protease of SARS-CoV-2](https://www.nature.com/articles/s41467-020-18096-2)
 * [Honey bee venom found to kill breast cancer cells](https://www.abc.net.au/news/2020-09-01/new-aus-research-finds-honey-bee-venom-kills-breast-cancer-cells/12618064)
-* [PNG and Hidden Pixels](https://www.hackerfactor.com/blog/index.php?/archives/894-PNG-and-Hidden-Pixels.html)
-* [Why has college gotten so expensive? The gov handed them a blank check in 1993](https://medium.com/@andrewghobrial/why-has-college-gotten-so-expensive-in-the-last-30-years-3505af9aded8)
+* [Feline coronavirus drug inhibits the main protease of SARS-CoV-2](https://www.nature.com/articles/s41467-020-18096-2)
 ## nytimes.com
 
 
@@ -47,12 +47,12 @@ layout: default
 * [Massachusetts Primary Elections: What to Watch For](https://www.nytimes.com/2020/09/01/us/politics/massachusetts-elections-markey-kennedy-neal-morse.html)
 * [Biden Expected to Surpass $300 Million Raised in August, Shattering Record](https://www.nytimes.com/2020/09/01/us/politics/biden-trump-fundraising-election.html)
 * [N.Y.C. Delays Start of School to Ready for In-Person Classes](https://www.nytimes.com/2020/09/01/nyregion/schools-open-coronavirus-nyc.html)
-* [Coronavirus News: Live Updates](https://www.nytimes.com/2020/09/01/world/coronavirus-covid-19.html)
+* [Live Coronavirus News and Updates](https://www.nytimes.com/2020/09/01/world/coronavirus-covid-19.html)
 * [Should I Send My Kids Back to School? A Parent’s Toughest Call](https://www.nytimes.com/2020/09/01/health/coronavirus-parents-schools.html)
 * [How to Stop the Next Pandemic](https://www.nytimes.com/video/health/100000007293397/covid-pandemics-causes-documentary.html)
 * [Small-Business Failures Loom as Federal Aid Dries Up](https://www.nytimes.com/2020/09/01/business/economy/small-businesses-coronavirus.html)
 * [‘I Am Stuck Until That Border Opens’: Marooned in Paradise](https://www.nytimes.com/2020/09/01/us/coronavirus-point-roberts-washington-canada.html)
-* [Business Updates: J.C. Penney Faces Liquidation as Deal Talks Stall](https://www.nytimes.com/live/2020/09/01/business/stock-market-today-coronavirus)
+* [Business Updates: Steven Mnuchin Testifies Before Congress on Virus Aid](https://www.nytimes.com/live/2020/09/01/business/stock-market-today-coronavirus)
 * [The State Fair Is Canceled. Deep-Fried Oreos Are Not.](https://www.nytimes.com/2020/09/01/dining/state-fair-food-coronavirus.html)
 * [America’s Death Gap](https://www.nytimes.com/2020/09/01/briefing/coronavirus-kenosha-massachusetts-your-tuesday-briefing.html)
 * [Covid in N.Y.C.: Why the Wealthy Get Quick Test Results](https://www.nytimes.com/2020/09/01/nyregion/coronavirus-test-results-nyc.html)
@@ -83,11 +83,11 @@ layout: default
 * [US Open Day 2: Schedule, Who Is Playing and More](https://www.nytimes.com/2020/09/01/sports/2020-us-open-what-to-watch-on-tuesday.html)
 * [Young People Are Fighting Hunger and Finding Purpose](https://www.nytimes.com/2020/09/01/well/family/kids-food-hunger-volunteering.html)
 * [These Scientists Are Giving Themselves D.I.Y. Coronavirus Vaccines](https://www.nytimes.com/2020/09/01/science/covid-19-vaccine-diy.html)
+* [Valved Face Masks and Face Shields Offer More Comfort but Less Protection](https://www.nytimes.com/2020/09/01/well/live/face-shields-masks-valves-vents.html)
 * [Move Over, Sustainable Travel. Regenerative Travel Has Arrived.](https://www.nytimes.com/2020/08/27/travel/travel-future-coronavirus-sustainable.html)
-* [Are You an American Voting From Abroad? Here’s How to Do It](https://www.nytimes.com/2020/08/28/smarter-living/american-vote-from-abroad.html)
 * [Can You Hear Yourself Think?](https://www.nytimes.com/2020/08/25/realestate/house-noise-solutions.html)
 * [How to Help Someone Who Lost Their Job](https://www.nytimes.com/2020/08/30/smarter-living/how-to-help-someone-who-lost-their-job.html)
-* [Face Shields and Valved Masks Offer More Comfort but Less Protection](https://www.nytimes.com/2020/09/01/well/live/face-shields-masks-valves-vents.html)
+* [Are You an American Voting From Abroad? Here’s How to Do It](https://www.nytimes.com/2020/08/28/smarter-living/american-vote-from-abroad.html)
 * [Christmas Time Is … Here?](https://www.nytimes.com/2020/08/29/style/christmas-time-is-here.html)
 * [Fashion Advertisers Rediscover Black Models](https://www.nytimes.com/2020/08/29/style/black-models-fashion-advertising.html)
 * [Emmys 2020: Samira Wiley and Uzo Aduba Still Remember Struggling](https://www.nytimes.com/2020/08/30/arts/television/emmys-samira-wiley-uzo-aduba.html)
@@ -104,13 +104,13 @@ layout: default
 ## globo.com
 
 
+* ['Guardiões do Crivella': vereador diz que constrangimentos a jornalistas acontecem desde 2019](https://oglobo.globo.com/rio/guardioes-do-crivella-vereador-diz-que-constrangimentos-jornalistas-acontecem-desde-2019-24617731)
+* [Três ministros do STJ se declararam impedidos de participar do julgamento do afastamento de Witzel](https://oglobo.globo.com/rio/tres-ministros-do-stj-se-declararam-impedidos-de-participar-do-julgamento-do-afastamento-de-witzel-1-24617640)
+* [Novo coordenador da Lava-Jato tem perfil 'muito discreto' e atuou na delação de ex-presidente da OAS](https://oglobo.globo.com/brasil/novo-coordenador-da-lava-jato-tem-perfil-muito-discreto-atuou-na-delacao-de-ex-presidente-da-oas-24617735)
 * [Deltan Dallagnol deixa o comando da Lava-Jato em Curitiba](https://oglobo.globo.com/brasil/deltan-dallagnol-deixa-comando-da-lava-jato-em-curitiba-1-24617670)
+* [Novo coordenador da Lava-Jato de Curitiba tem perfil 'muito discreto' e atuou na delação de ex-presidente da OAS](https://oglobo.globo.com/brasil/novo-coordenador-da-lava-jato-de-curitiba-tem-perfil-muito-discreto-atuou-na-delacao-de-ex-presidente-da-oas-24617696)
 * [Senador quer que União inclua negros e mulheres em campanhas publicitárias](https://epoca.globo.com/guilherme-amado/senador-quer-que-uniao-inclua-negros-mulheres-em-campanhas-publicitarias-24617691)
-* [Polícia Civil cumpre mandados de busca e apreensão contra 'Guardiões do Crivella'](https://oglobo.globo.com/rio/policia-civil-cumpre-mandados-de-busca-apreensao-contra-guardioes-do-crivella-1-24617595)
 * [Decisão sobre Witzel na Justiça terá impacto na recuperação fiscal do Rio](https://oglobo.globo.com/analitico/decisao-sobre-witzel-na-justica-tera-impacto-na-recuperacao-fiscal-do-rio-24617579)
-* [Crivella paga a ‘Guardiões’ salários mais altos do que a servidores da Saúde](https://oglobo.globo.com/rio/crivella-paga-guardioes-salarios-mais-altos-do-que-servidores-da-saude-1-24617577)
 * [Após protestos antirracistas, Londres debate remoção de estátuas ligadas ao passado colonial britânico](https://oglobo.globo.com/celina/apos-protestos-antirracistas-londres-debate-remocao-de-estatuas-ligadas-ao-passado-colonial-britanico-24617377)
-* [Três ministros do STJ se declararam impedidos de participar do julgamento do afastamento de Witzel](https://oglobo.globo.com/rio/tres-ministros-do-stj-se-declararam-impedidos-de-participar-do-julgamento-do-afastamento-de-witzel-24617640)
 * [Brasil ocupa 22ª posição em desempenho da economia em lista de 44 países](https://oglobo.globo.com/economia/brasil-ocupa-22-posicao-em-desempenho-da-economia-em-lista-de-44-paises-24617606)
-* [Mesa da Câmara encaminha caso de Flordelis à Corregedoria](https://oglobo.globo.com/rio/mesa-da-camara-encaminha-caso-de-flordelis-corregedoria-24617582)
 * [Zimbábue suspeita que elefantes morreram de infecção bacteriana](https://oglobo.globo.com/sociedade/zimbabue-suspeita-que-elefantes-morreram-de-infeccao-bacteriana-24617631)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 01/09/2020 13:17:24 UTC
+# indexed at 01/09/2020 13:36:05 UTC
 
 
 ## news.ycombinator.com
@@ -13,31 +13,31 @@ layout: default
 * [Why Privacy Matters](https://thistooshallgrow.com/blog/privacy-security-roundup)
 * [Welcome to masterWiki: stolen from MasterClass, republished as wikiHow](https://masterwiki.how/)
 * [Science and steely nerves spared Houston from a nightmare hurricane evacuation](https://arstechnica.com/science/2020/09/science-and-steely-nerves-spared-houston-from-a-nightmare-hurricane-evacuation/)
-* [Why we are suing the Administration](https://newsroom.tiktok.com/en-us/tiktok-files-lawsuit)
 * [AWS Boilerplate](https://github.com/apptension/aws-boilerplate)
+* [Why we are suing the Administration](https://newsroom.tiktok.com/en-us/tiktok-files-lawsuit)
 * [Apple Accidentally Approved Malware to Run on macOS](https://www.wired.com/story/apple-approved-malware-macos-notarization-shlayer/)
+* [The database I wish I had](https://euandre.org/2020/08/31/the-database-i-wish-i-had.html)
 * [PNG and Hidden Pixels](https://www.hackerfactor.com/blog/index.php?/archives/894-PNG-and-Hidden-Pixels.html)
 * [Feline coronavirus drug inhibits the main protease of SARS-CoV-2](https://www.nature.com/articles/s41467-020-18096-2)
-* [The database I wish I had](https://euandre.org/2020/08/31/the-database-i-wish-i-had.html)
 * [A California wildfire nearly destroyed the historic Lick observatory](https://arstechnica.com/science/2020/08/a-california-wildfire-nearly-destroyed-the-historic-lick-observatory/)
 * [Show HN: I built FabHomePages so your home can have its own homepage in minutes](https://fabhomepages.com/)
 * [NewLisp](http://www.newlisp.org/)
+* [FreeCol: Turn-based strategy game based on the old game Colonization](https://github.com/FreeCol/freecol)
 * [Honey bee venom found to kill breast cancer cells](https://www.abc.net.au/news/2020-09-01/new-aus-research-finds-honey-bee-venom-kills-breast-cancer-cells/12618064)
 * [Amazon's Surveillance Infrastructure and Revitalizing Worker Power](https://www.theregister.com/2020/09/01/amazon_staff_spying/)
-* [FreeCol: Turn-based strategy game based on the old game Colonization](https://github.com/FreeCol/freecol)
 * [I sold my side-project for $30k](https://marc.io/tweet-photo-acquired)
+* [Deep Learning for Compilers](https://era.ed.ac.uk/handle/1842/36866)
+* [Police Across Canada Are Using Predictive Policing Algorithms, Report Finds](https://www.vice.com/en_us/article/k7q55x/police-across-canada-are-using-predictive-policing-algorithms-report-finds)
 * [Immortal Beloved (1812)](https://lettersofnote.com/2011/06/10/immortal-beloved/)
-* [Case-Insensitive Ext4](https://lwn.net/Articles/784041/)
 * [Applebot](https://support.apple.com/en-us/HT204683)
 * [Supporting Linux kernel development in Rust](https://lwn.net/SubscriberLink/829858/281103f9c6fd0dc2/)
+* [Case-Insensitive Ext4](https://lwn.net/Articles/784041/)
 * [The Puzzle Toad](http://www.cs.cmu.edu/puzzle/index.html)
-* [Deep Learning for Compilers](https://era.ed.ac.uk/handle/1842/36866)
 * [What should go into an allocator benchmark?](https://twitter.com/chewedwire/status/1300129033699627012)
 * [A Neural-Based Program Decompiler (2019)](https://arxiv.org/abs/1906.12029)
-* [Modernizing the OpenBSD Console](https://www.cambus.net/modernizing-the-openbsd-console/)
 * [Understanding How the Time-Based One-Time Password Algorithm Works](https://blog.digitalbunker.dev/2020/08/27/how-do-time-based-one-time-password-totp-services-work/)
+* [Modernizing the OpenBSD Console](https://www.cambus.net/modernizing-the-openbsd-console/)
 * [The Ecommerce Surge](https://www.ben-evans.com/benedictevans/2020/8/18/the-ecommerce-surge)
-* [Jerry.ai (YC S17) Is Hiring Senior Software Devs (Toronto, SF Bay Area, Boston)](https://apply.workable.com/jerry/j/F4762CDFF8/)
 ## nytimes.com
 
 
@@ -52,7 +52,7 @@ layout: default
 * [Covid-19 News: Live Updates](https://www.nytimes.com/2020/09/01/world/coronavirus-covid-19.html)
 * [Small-Business Failures Loom as Federal Aid Dries Up](https://www.nytimes.com/2020/09/01/business/economy/small-businesses-coronavirus.html)
 * [‘I Am Stuck Until That Border Opens’: Marooned in Paradise](https://www.nytimes.com/2020/09/01/us/coronavirus-point-roberts-washington-canada.html)
-* [Business Updates: 40 U.S. States Sign Up for $300 Jobless Benefit](https://www.nytimes.com/live/2020/09/01/business/stock-market-today-coronavirus)
+* [Business Updates: J.C. Penney Faces Liquidation as Deal Talks Stall](https://www.nytimes.com/live/2020/09/01/business/stock-market-today-coronavirus)
 * [America’s Death Gap](https://www.nytimes.com/2020/09/01/briefing/coronavirus-kenosha-massachusetts-your-tuesday-briefing.html)
 * [Coronavirus in N.Y.C.: Why the Wealthy Get Quick Test Results](https://www.nytimes.com/2020/09/01/nyregion/coronavirus-test-results-nyc.html)
 * [Joe Biden’s Rebuttal](https://www.nytimes.com/2020/09/01/podcasts/the-daily/joe-biden-protests-trump.html)
@@ -82,9 +82,9 @@ layout: default
 * [The Bizarro 2020 U.S. Open Begins](https://www.nytimes.com/2020/08/31/sports/tennis/us-open.html)
 * [Far Right Germans Try to Storm Reichstag as Coronavirus Protests Grow](https://www.nytimes.com/2020/08/31/world/europe/reichstag-germany-neonazi-coronavirus.html)
 * [Curbs on Mongolian Language Teaching Prompt Large Protests in China](https://www.nytimes.com/2020/08/31/world/asia/china-protest-mongolian-language-schools.html)
-* [Are You an American Voting From Abroad? Here’s How to Do It](https://www.nytimes.com/2020/08/28/smarter-living/american-vote-from-abroad.html)
-* [Does My Kid Have a Cold or Is It Covid-19?](https://www.nytimes.com/2020/08/28/parenting/kids-covid-symptoms.html)
 * [How to Help Someone Who Lost Their Job](https://www.nytimes.com/2020/08/30/smarter-living/how-to-help-someone-who-lost-their-job.html)
+* [Does My Kid Have a Cold or Is It Covid-19?](https://www.nytimes.com/2020/08/28/parenting/kids-covid-symptoms.html)
+* [Are You an American Voting From Abroad? Here’s How to Do It](https://www.nytimes.com/2020/08/28/smarter-living/american-vote-from-abroad.html)
 * [Can You Hear Yourself Think?](https://www.nytimes.com/2020/08/25/realestate/house-noise-solutions.html)
 * [Move Over, Sustainable Travel. Regenerative Travel Has Arrived.](https://www.nytimes.com/2020/08/27/travel/travel-future-coronavirus-sustainable.html)
 * [The Many Sides to Dan Brown](https://www.nytimes.com/2020/09/01/style/dan-brown-wild-symphony-divorce.html)
@@ -102,13 +102,13 @@ layout: default
 ## globo.com
 
 
-* [Auxílio emergencial: governo vai pagar mais quatro parcelas de R$ 300](https://oglobo.globo.com/economia/auxilio-emergencial-governo-vai-pagar-mais-quatro-parcelas-de-300-24617163)
+* [Governo decide antecipar o envio da reforma administrativa ao Congresso para 5ª feira](https://oglobo.globo.com/economia/governo-decide-antecipar-envio-da-reforma-administrativa-ao-congresso-para-5-feira-24617248)
+* [MPRJ instaura procedimento criminal contra Crivella após denúncia de esquema no Rio](https://oglobo.globo.com/rio/mprj-instaura-procedimento-criminal-contra-crivella-apos-denuncia-de-esquema-no-rio-1-24617244)
+* [Saiba quem é Marcos Paulo de Oliveira Luciano, o chefe dos 'Guardiões do Crivella'](https://oglobo.globo.com/rio/saiba-quem-marcos-paulo-de-oliveira-luciano-chefe-dos-guardioes-do-crivella-24617227)
+* [Taxa de transmissão da Covid-19 no Brasil é a mais baixa desde abril, aponta Imperial College](https://oglobo.globo.com/sociedade/taxa-de-transmissao-da-covid-19-no-brasil-a-mais-baixa-desde-abril-aponta-imperial-college-24617225)
+* [Guedes diz a senadores que não quis ofender ao falar em 'crime': 'Me senti absolutamente abandonado e isolado'](https://oglobo.globo.com/economia/guedes-diz-senadores-que-nao-quis-ofender-ao-falar-em-crime-me-senti-absolutamente-abandonado-isolado-24617271)
+* [Por que Melania Trump usou a jaqueta 'Eu não ligo' ao visitar crianças imigrantes: 'Estou levando os liberais à loucura'](https://oglobo.globo.com/ela/gente/por-que-melania-trump-usou-jaqueta-eu-nao-ligo-ao-visitar-criancas-imigrantes-estou-levando-os-liberais-loucura-24617246)
+* [Artigo | Como tornar o Brasil um país mais seguro](https://epoca.globo.com/denis-r-burgierman/artigo-como-tornar-brasil-um-pais-mais-seguro-24617239)
 * ['Um maluco no pedaço': elenco da série se reúne para gravar episódio especial](https://oglobo.globo.com/cultura/um-maluco-no-pedaco-elenco-da-serie-se-reune-para-gravar-episodio-especial-24617211)
-* [Chefe dos 'Guardiões do Crivella' diz que está servindo a cidade](https://oglobo.globo.com/rio/chefe-dos-guardioes-do-crivella-diz-que-esta-servindo-cidade-1-24617147)
 * [Após queda histórica, economia deve se recuperar no terceiro trimestre, diz governo](https://oglobo.globo.com/economia/apos-queda-historica-economia-deve-se-recuperar-no-terceiro-trimestre-diz-governo-24617200)
-* [Em carta, ex-funcionários acusam brasileiro que dirige CIDH de 'abusos de poder'](https://oglobo.globo.com/mundo/em-carta-ex-funcionarios-acusam-brasileiro-que-dirige-cidh-de-abusos-de-poder-24617179)
-* [Subprocuradores elegem adversário de Aras para vice-presidente do Conselho Superior e impõem nova derrota](https://oglobo.globo.com/brasil/subprocuradores-elegem-adversario-de-aras-para-vice-presidente-do-conselho-superior-impoem-nova-derrota-1-24617165)
 * [As consequências de curto, médio e longo prazo da queda recorde do PIB brasileiro](https://epoca.globo.com/economia/as-consequencias-de-curto-medio-longo-prazo-da-queda-recorde-do-pib-brasileiro-24617178)
-* [Mesmo com auxílio emergencial, consumo das famílias tem maior queda da História](https://oglobo.globo.com/economia/mesmo-com-auxilio-emergencial-consumo-das-familias-tem-maior-queda-da-historia-24617134)
-* [QAnon: como e por que grupos ligados a teoria da conspiração estão se multiplicando na América Latina](https://epoca.globo.com/mundo/qanon-como-por-que-grupos-ligados-teoria-da-conspiracao-estao-se-multiplicando-na-america-latina-24617133)
-* ['São ideias de acordo com o DNA do Flamengo', aponta Bruno Spindel sobre Dome](https://oglobo.globo.com/esportes/sao-ideias-de-acordo-com-dna-do-flamengo-aponta-bruno-spindel-sobre-dome-24616436)

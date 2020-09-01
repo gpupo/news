@@ -2,13 +2,15 @@
 layout: default
 ---
 
-# indexed at 01/09/2020 11:16:38 UTC
+# indexed at 01/09/2020 11:35:14 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Nessie – Lightweight Web Browser](https://www.radsix.com/)
 * [Why we are suing the Administration](https://newsroom.tiktok.com/en-us/tiktok-files-lawsuit)
+* [A coded message from the Democratic People's Republic of Korea](https://github.com/quosego/0100011001-001)
 * [PNG and Hidden Pixels](https://www.hackerfactor.com/blog/index.php?/archives/894-PNG-and-Hidden-Pixels.html)
 * [The database I wish I had](https://euandre.org/2020/08/31/the-database-i-wish-i-had.html)
 * [A California wildfire nearly destroyed the historic Lick observatory](https://arstechnica.com/science/2020/08/a-california-wildfire-nearly-destroyed-the-historic-lick-observatory/)
@@ -17,27 +19,25 @@ layout: default
 * [Why Doctors Hate Their Computers (2018)](https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers)
 * [How to Learn Everything: The MasterClass Diaries](https://longreads.com/2020/08/20/how-to-learn-everything-the-masterclass-diaries/)
 * [Applebot](https://support.apple.com/en-us/HT204683)
+* [NewLisp](http://www.newlisp.org/)
 * [Supporting Linux kernel development in Rust](https://lwn.net/SubscriberLink/829858/281103f9c6fd0dc2/)
 * [The Puzzle Toad](http://www.cs.cmu.edu/puzzle/index.html)
-* [Modernizing the OpenBSD Console](https://www.cambus.net/modernizing-the-openbsd-console/)
-* [NewLisp](http://www.newlisp.org/)
 * [A Neural-Based Program Decompiler (2019)](https://arxiv.org/abs/1906.12029)
+* [Modernizing the OpenBSD Console](https://www.cambus.net/modernizing-the-openbsd-console/)
 * [What should go into an allocator benchmark?](https://twitter.com/chewedwire/status/1300129033699627012)
 * [I sold my side-project for $30k](https://marc.io/tweet-photo-acquired)
-* [Python setuptools v50 breaks pip installation on Debian/Ubuntu](https://github.com/pypa/setuptools/issues/2350)
-* [Hacker News – Terms of Use (2014)](https://web.archive.org/web/20140715041043/http://www.ycombinator.com/legal/)
-* [MIT Drake](https://drake.mit.edu/)
-* [Understanding How the Time-Based One-Time Password Algorithm Works](https://blog.digitalbunker.dev/2020/08/27/how-do-time-based-one-time-password-totp-services-work/)
-* [The Ecommerce Surge](https://www.ben-evans.com/benedictevans/2020/8/18/the-ecommerce-surge)
 * [Show HN: I've built self-opening trash bin, I relax myself feeding garbage to it](https://github.com/ivanilves/arduino-sketches/tree/master/basurito)
+* [Understanding How the Time-Based One-Time Password Algorithm Works](https://blog.digitalbunker.dev/2020/08/27/how-do-time-based-one-time-password-totp-services-work/)
+* [Python setuptools v50 breaks pip installation on Debian/Ubuntu](https://github.com/pypa/setuptools/issues/2350)
+* [MIT Drake](https://drake.mit.edu/)
+* [Hacker News – Terms of Use (2014)](https://web.archive.org/web/20140715041043/http://www.ycombinator.com/legal/)
+* [The Ecommerce Surge](https://www.ben-evans.com/benedictevans/2020/8/18/the-ecommerce-surge)
 * [App Review process updates](https://developer.apple.com/news/?id=84w3e5bm)
-* [The surreal art of ‘unnatural lighting’](https://www.nationalgeographic.com/magazine/2020/09/the-surreal-art-of-unnatural-lighting/)
-* [First Impressions of GitHub Codespaces](https://www.aristotlemetadata.com/blog/2020/08/first-impressions-github-codespaces.html)
 * [How Predictable Is Fiction?](https://tedunderwood.com/2020/07/05/how-predictable-is-fiction/)
+* [The surreal art of ‘unnatural lighting’](https://www.nationalgeographic.com/magazine/2020/09/the-surreal-art-of-unnatural-lighting/)
+* [Feline coronavirus drug inhibits the main protease of SARS-CoV-2](https://www.nature.com/articles/s41467-020-18096-2)
 * [When is it okay for a lawyer to lie? (2018)](https://www.americanbar.org/news/abanews/publications/youraba/2018/december-2018/when-is-it-okay-for-a-lawyer-to-lie--/)
-* [How Do You Decode a Hapax? Also, What’s a Hapax? (2017)](https://www.atlasobscura.com/articles/hapax-legomenon-hapaxes)
-* [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
-* [Interchange in Houston is the same size as an entire city center in Italy](https://www.texasmonthly.com/politics/highway-interchange-houston-same-size-city-italy/)
+* [Jerry.ai (YC S17) Is Hiring Senior Software Devs (Toronto, SF Bay Area, Boston)](https://apply.workable.com/jerry/j/F4762CDFF8/)
 ## nytimes.com
 
 
@@ -80,10 +80,10 @@ layout: default
 * [The Bizarro 2020 U.S. Open Begins](https://www.nytimes.com/2020/08/31/sports/tennis/us-open.html)
 * [Far Right Germans Try to Storm Reichstag as Coronavirus Protests Grow](https://www.nytimes.com/2020/08/31/world/europe/reichstag-germany-neonazi-coronavirus.html)
 * [Curbs on Mongolian Language Teaching Prompt Large Protests in China](https://www.nytimes.com/2020/08/31/world/asia/china-protest-mongolian-language-schools.html)
-* [Does My Kid Have a Cold or Is It Covid-19?](https://www.nytimes.com/2020/08/28/parenting/kids-covid-symptoms.html)
+* [Are You an American Voting From Abroad? Here’s How to Do It](https://www.nytimes.com/2020/08/28/smarter-living/american-vote-from-abroad.html)
 * [Can You Hear Yourself Think?](https://www.nytimes.com/2020/08/25/realestate/house-noise-solutions.html)
 * [How to Help Someone Who Lost Their Job](https://www.nytimes.com/2020/08/30/smarter-living/how-to-help-someone-who-lost-their-job.html)
-* [Are You an American Voting From Abroad? Here’s How to Do It](https://www.nytimes.com/2020/08/28/smarter-living/american-vote-from-abroad.html)
+* [Does My Kid Have a Cold or Is It Covid-19?](https://www.nytimes.com/2020/08/28/parenting/kids-covid-symptoms.html)
 * [Move Over, Sustainable Travel. Regenerative Travel Has Arrived.](https://www.nytimes.com/2020/08/27/travel/travel-future-coronavirus-sustainable.html)
 * [The Many Sides to Dan Brown](https://www.nytimes.com/2020/09/01/style/dan-brown-wild-symphony-divorce.html)
 * [Book Review: ‘The Lying Life of Adults,’ by Elena Ferrante](https://www.nytimes.com/2020/08/25/books/review-lying-life-of-adults-elena-ferrante.html)
@@ -96,14 +96,13 @@ layout: default
 * [Ron Jeremy Is Newly Charged With Sexually Assaulting 13 More Women](https://www.nytimes.com/2020/08/31/movies/ron-jeremy-sexual-assault-charges.html)
 * [How Has Donald Trump Survived?](https://www.nytimes.com/2020/08/31/books/review/donald-trump-v-the-united-states-michael-s-schmidt.html)
 * [‘Sudden’ Cardiac Arrests Often Aren’t So Sudden](https://www.nytimes.com/2020/09/01/well/live/sudden-cardiac-arrests-often-arent-so-sudden.html)
-* [In a Pandemic First, 3 American Theaters Will Do Indoor Shows](https://www.nytimes.com/2020/08/25/theater/indoor-theater-union-actors.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
-* [Auxílio emergencial: Bolsonaro trabalha com duas alternativas para novo valor do benefício](https://oglobo.globo.com/economia/auxilio-emergencial-bolsonaro-trabalha-com-duas-alternativas-para-novo-valor-do-beneficio-24617052)
+* [Auxílio emergencial: Bolsonaro trabalha com duas alternativas para novo valor do benefício](https://oglobo.globo.com/economia/auxilio-emergencial-bolsonaro-trabalha-com-duas-alternativas-para-novo-valor-do-beneficio-1-24617052)
 * [Messi mantém quem torce por ele em permanente estado de dúvida](https://oglobo.globo.com/esportes/messi-mantem-quem-torce-por-ele-em-permanente-estado-de-duvida-24617050)
 * [Crise na Venezuela: por que governo de Nicolás Maduro indultou agora dezenas de deputados da oposição](https://epoca.globo.com/mundo/crise-na-venezuela-por-que-governo-de-nicolas-maduro-indultou-agora-dezenas-de-deputados-da-oposicao-24617049)
 * [Casa Verde e Amarela: o que pode mudar na versão bolsonarista do Minha Casa Minha Vida](https://epoca.globo.com/brasil/casa-verde-amarela-que-pode-mudar-na-versao-bolsonarista-do-minha-casa-minha-vida-24617027)

@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 01/09/2020 10:18:07 UTC
+# indexed at 01/09/2020 10:35:10 UTC
 
 
 ## news.ycombinator.com
 
 
+* [TikTok: We Are Suing the Administration](https://newsroom.tiktok.com/en-us/tiktok-files-lawsuit)
 * [PNG and Hidden Pixels](https://www.hackerfactor.com/blog/index.php?/archives/894-PNG-and-Hidden-Pixels.html)
 * [The database I wish I had](https://euandre.org/2020/08/31/the-database-i-wish-i-had.html)
 * [Show HN: I built FabHomePages so your home can have its own homepage in minutes](https://fabhomepages.com/)
 * [Why Doctors Hate Their Computers (2018)](https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers)
-* [A California wildfire nearly destroyed the historic Lick observatory](https://arstechnica.com/science/2020/08/a-california-wildfire-nearly-destroyed-the-historic-lick-observatory/)
 * [FreeCol: Turn-based strategy game based on the old game Colonization](https://github.com/FreeCol/freecol)
+* [A California wildfire nearly destroyed the historic Lick observatory](https://arstechnica.com/science/2020/08/a-california-wildfire-nearly-destroyed-the-historic-lick-observatory/)
 * [Applebot](https://support.apple.com/en-us/HT204683)
 * [How to Learn Everything: The MasterClass Diaries](https://longreads.com/2020/08/20/how-to-learn-everything-the-masterclass-diaries/)
 * [Supporting Linux kernel development in Rust](https://lwn.net/SubscriberLink/829858/281103f9c6fd0dc2/)
-* [The Puzzle Toad](http://www.cs.cmu.edu/puzzle/index.html)
-* [A Neural-Based Program Decompiler (2019)](https://arxiv.org/abs/1906.12029)
-* [Modernizing the OpenBSD Console](https://www.cambus.net/modernizing-the-openbsd-console/)
-* [Hacker News – Terms of Use (2014)](https://web.archive.org/web/20140715041043/http://www.ycombinator.com/legal/)
 * [What should go into an allocator benchmark?](https://twitter.com/chewedwire/status/1300129033699627012)
-* [Ask HN: Captcha Alternatives?](https://news.ycombinator.com/item?id=24334657)
-* [The Ecommerce Surge](https://www.ben-evans.com/benedictevans/2020/8/18/the-ecommerce-surge)
+* [The Puzzle Toad](http://www.cs.cmu.edu/puzzle/index.html)
+* [Modernizing the OpenBSD Console](https://www.cambus.net/modernizing-the-openbsd-console/)
+* [A Neural-Based Program Decompiler (2019)](https://arxiv.org/abs/1906.12029)
+* [Hacker News – Terms of Use (2014)](https://web.archive.org/web/20140715041043/http://www.ycombinator.com/legal/)
 * [I sold my side-project for $30k](https://marc.io/tweet-photo-acquired)
+* [Ask HN: Captcha Alternatives?](https://news.ycombinator.com/item?id=24334657)
+* [I Was Excited for Neuralink. Then I Watched the Demo](https://thenextweb.com/neural/2020/08/31/i-was-excited-for-neuralink-then-i-watched-elon-musks-stupid-demo/)
+* [The Ecommerce Surge](https://www.ben-evans.com/benedictevans/2020/8/18/the-ecommerce-surge)
 * [Show HN: I've built self-opening trash bin, I relax myself feeding garbage to it](https://github.com/ivanilves/arduino-sketches/tree/master/basurito)
-* [MIT Drake](https://drake.mit.edu/)
 * [Python setuptools v50 breaks pip installation on Debian/Ubuntu](https://github.com/pypa/setuptools/issues/2350)
+* [MIT Drake](https://drake.mit.edu/)
 * [Understanding How the Time-Based One-Time Password Algorithm Works](https://blog.digitalbunker.dev/2020/08/27/how-do-time-based-one-time-password-totp-services-work/)
 * [First Impressions of GitHub Codespaces](https://www.aristotlemetadata.com/blog/2020/08/first-impressions-github-codespaces.html)
 * [App Review process updates](https://developer.apple.com/news/?id=84w3e5bm)
 * [The surreal art of ‘unnatural lighting’](https://www.nationalgeographic.com/magazine/2020/09/the-surreal-art-of-unnatural-lighting/)
 * [When is it okay for a lawyer to lie? (2018)](https://www.americanbar.org/news/abanews/publications/youraba/2018/december-2018/when-is-it-okay-for-a-lawyer-to-lie--/)
 * [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
-* [Jerry.ai (YC S17) Is Hiring Senior Software Devs (Toronto, SF Bay Area, Boston)](https://apply.workable.com/jerry/j/F4762CDFF8/)
-* [Interchange in Houston is the same size as an entire city center in Italy](https://www.texasmonthly.com/politics/highway-interchange-houston-same-size-city-italy/)
 * [Hapax Legomenon](https://www.atlasobscura.com/articles/hapax-legomenon-hapaxes)
-* [Deep learning job postings have collapsed in the past six months](https://twitter.com/fchollet/status/1300137812872765440)
+* [Interchange in Houston is the same size as an entire city center in Italy](https://www.texasmonthly.com/politics/highway-interchange-houston-same-size-city-italy/)
 ## nytimes.com
 
 
@@ -79,11 +79,11 @@ layout: default
 * [The Bizarro 2020 U.S. Open Begins](https://www.nytimes.com/2020/08/31/sports/tennis/us-open.html)
 * [Far Right Germans Try to Storm Reichstag as Coronavirus Protests Grow](https://www.nytimes.com/2020/08/31/world/europe/reichstag-germany-neonazi-coronavirus.html)
 * [Curbs on Mongolian Language Teaching Prompt Large Protests in China](https://www.nytimes.com/2020/08/31/world/asia/china-protest-mongolian-language-schools.html)
-* [Can You Hear Yourself Think?](https://www.nytimes.com/2020/08/25/realestate/house-noise-solutions.html)
-* [How to Help Someone Who Lost Their Job](https://www.nytimes.com/2020/08/30/smarter-living/how-to-help-someone-who-lost-their-job.html)
-* [Are You an American Voting From Abroad? Here’s How to Do It](https://www.nytimes.com/2020/08/28/smarter-living/american-vote-from-abroad.html)
-* [Does My Kid Have a Cold or Is It Covid-19?](https://www.nytimes.com/2020/08/28/parenting/kids-covid-symptoms.html)
 * [Move Over, Sustainable Travel. Regenerative Travel Has Arrived.](https://www.nytimes.com/2020/08/27/travel/travel-future-coronavirus-sustainable.html)
+* [How to Help Someone Who Lost Their Job](https://www.nytimes.com/2020/08/30/smarter-living/how-to-help-someone-who-lost-their-job.html)
+* [Can You Hear Yourself Think?](https://www.nytimes.com/2020/08/25/realestate/house-noise-solutions.html)
+* [Does My Kid Have a Cold or Is It Covid-19?](https://www.nytimes.com/2020/08/28/parenting/kids-covid-symptoms.html)
+* [Are You an American Voting From Abroad? Here’s How to Do It](https://www.nytimes.com/2020/08/28/smarter-living/american-vote-from-abroad.html)
 * [The Many Sides to Dan Brown](https://www.nytimes.com/2020/09/01/style/dan-brown-wild-symphony-divorce.html)
 * [Book Review: ‘The Lying Life of Adults,’ by Elena Ferrante](https://www.nytimes.com/2020/08/25/books/review-lying-life-of-adults-elena-ferrante.html)
 * [The N.H.L.'s Fights and Handshakes? Not Exactly Socially Distant](https://www.nytimes.com/2020/08/31/sports/hockey/NHL-playoffs-pandemic-protocols.html)
@@ -93,21 +93,19 @@ layout: default
 * [Helping Children With Pandemic Grief](https://www.nytimes.com/2020/08/31/well/family/children-coronavirus-grandparents-grief.html)
 * [America Has Two Feet. It’s About to Lose One of Them.](https://www.nytimes.com/2020/08/18/science/foot-surveying-metrology-dennis.html)
 * [How Children’s Sleep Habits Have Changed in the Pandemic](https://www.nytimes.com/2020/08/17/well/family/children-sleep-pandemic.html)
-* [Ron Jeremy Is Newly Charged With Sexually Assaulting 13 More Women](https://www.nytimes.com/2020/08/31/movies/ron-jeremy-sexual-assault-charges.html)
-* [Journalist Quits Kenosha Paper in Protest of Its Jacob Blake Rally Coverage](https://www.nytimes.com/2020/08/31/business/media/kenosha-newspaper-editor-quits.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [Casa Verde e Amarela: o que pode mudar na versão bolsonarista do Minha Casa Minha Vida](https://epoca.globo.com/brasil/casa-verde-amarela-que-pode-mudar-na-versao-bolsonarista-do-minha-casa-minha-vida-24617027)
+* [Partidos traçam estratégia para captar eleitores 'bolsolula' nas eleições no Nordeste](https://epoca.globo.com/brasil/partidos-tracam-estrategia-para-captar-eleitores-bolsolula-nas-eleicoes-no-nordeste-24616209)
 * [Wuhan, cidade chinesa onde surgiu a Covid-19, reabre as escolas](https://oglobo.globo.com/mundo/wuhan-cidade-chinesa-onde-surgiu-covid-19-reabre-as-escolas-24617020)
-* [Wilson Witzel pode voltar ao governo do Rio de Janeiro?](https://oglobo.globo.com/podcast/wilson-witzel-pode-voltar-ao-governo-do-rio-de-janeiro-24616965)
-* [US Open: 'Meu objetivo é virar um ídolo para as crianças', diz Luisa Stefani](https://oglobo.globo.com/esportes/us-open-meu-objetivo-virar-um-idolo-para-as-criancas-diz-luisa-stefani-24614702)
 * [Líderes do povo indígena Munduruku pedem encontro com Salles para falar sobre garimpeiros](https://epoca.globo.com/guilherme-amado/lideres-do-povo-indigena-munduruku-pedem-encontro-com-salles-para-falar-sobre-garimpeiros-24616757)
-* [Governador em exercício no Rio seguirá em silêncio até certeza se fica no cargo](https://epoca.globo.com/guilherme-amado/governador-em-exercicio-no-rio-seguira-em-silencio-ate-certeza-se-fica-no-cargo-24613437)
 * [Para sobreviver na pandemia, restaurantes trocam de nome, fazem reormas e até criam novas novas marcas do negócio](https://oglobo.globo.com/rio/bairros/para-sobreviver-na-pandemia-restaurantes-trocam-de-nome-fazem-reormas-ate-criam-novas-novas-marcas-do-negocio-24616459)
 * [Sobre a arte da gastronomia: Le Cordon Bleu reabre, e chef Felipe Bronze dá aulas em plataforma digital](https://oglobo.globo.com/rio/bairros/sobre-arte-da-gastronomia-le-cordon-bleu-reabre-chef-felipe-bronze-da-aulas-em-plataforma-digital-24613340)
 * [Restaurantes premiados apostam em novidades para vencer crise causada pela pandemia](https://oglobo.globo.com/rio/bairros/restaurantes-premiados-apostam-em-novidades-para-vencer-crise-causada-pela-pandemia-1-24608858)
 * [Gênio na linha: jovens empreendedores da Barra criam nova forma de contratar seviços](https://oglobo.globo.com/rio/bairros/genio-na-linha-jovens-empreendedores-da-barra-criam-nova-forma-de-contratar-sevicos-24611567)
+* [Cinema brasileiro ainda não percorreu o caminho que levou a 'Pantera Negra' nos EUA](https://oglobo.globo.com/analitico/cinema-brasileiro-ainda-nao-percorreu-caminho-que-levou-pantera-negra-nos-eua-24616117)
 * [Meigas e submissas? Movimento debate preconceitos contra mulheres asiáticas](https://oglobo.globo.com/celina/meigas-submissas-movimento-debate-preconceitos-contra-mulheres-asiaticas-1-24611520)

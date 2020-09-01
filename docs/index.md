@@ -2,47 +2,47 @@
 layout: default
 ---
 
-# indexed at 01/09/2020 03:17:34 UTC
+# indexed at 01/09/2020 03:35:29 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Applebot](https://support.apple.com/en-us/HT204683)
 * [Supporting Linux kernel development in Rust](https://lwn.net/SubscriberLink/829858/281103f9c6fd0dc2/)
 * [Why Doctors Hate Their Computers (2018)](https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers)
-* [The database I wish I had](https://euandre.org/2020/08/31/the-database-i-wish-i-had.html)
 * [Modernizing the OpenBSD Console](https://www.cambus.net/modernizing-the-openbsd-console/)
+* [The database I wish I had](https://euandre.org/2020/08/31/the-database-i-wish-i-had.html)
+* [A grim outlook on the future of browser add-ons](https://palant.info/2020/08/31/a-grim-outlook-on-the-future-of-browser-add-ons/)
 * [App Review process updates](https://developer.apple.com/news/?id=84w3e5bm)
 * [The surreal art of ‘unnatural lighting’](https://www.nationalgeographic.com/magazine/2020/09/the-surreal-art-of-unnatural-lighting/)
 * [How to Learn Everything: The MasterClass Diaries](https://longreads.com/2020/08/20/how-to-learn-everything-the-masterclass-diaries/)
 * [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
 * [An Update About Changes to Facebook’s Services in Australia](https://about.fb.com/news/2020/08/changes-to-facebooks-services-in-australia/)
-* [Interchange in Houston is the same size as an entire city center in Italy](https://www.texasmonthly.com/politics/highway-interchange-houston-same-size-city-italy/)
-* [A grim outlook on the future of browser add-ons](https://palant.info/2020/08/31/a-grim-outlook-on-the-future-of-browser-add-ons/)
 * [The Puzzle Toad](http://www.cs.cmu.edu/puzzle/index.html)
-* [The Ecommerce Surge](https://www.ben-evans.com/benedictevans/2020/8/18/the-ecommerce-surge)
+* [Interchange in Houston is the same size as an entire city center in Italy](https://www.texasmonthly.com/politics/highway-interchange-houston-same-size-city-italy/)
 * [Motivation – Keli Language](https://keli-language.gitbook.io/doc/)
 * [When is it okay for a lawyer to lie? (2018)](https://www.americanbar.org/news/abanews/publications/youraba/2018/december-2018/when-is-it-okay-for-a-lawyer-to-lie--/)
+* [The Ecommerce Surge](https://www.ben-evans.com/benedictevans/2020/8/18/the-ecommerce-surge)
 * [Show HN: ML From Scratch – free online textbook](https://dafriedman97.github.io/mlbook/content/introduction.html)
 * [2020's Existentialist Turn](https://bostonreview.net/philosophy-religion/carmen-lea-dege-2020s-existentialist-turn)
 * [Jerry.ai (YC S17) Is Hiring Senior Software Devs (Toronto, SF Bay Area, Boston)](https://apply.workable.com/jerry/j/F4762CDFF8/)
 * [FedEx feeder plane takes flight without pilot in test for Reliable Robotics](https://www.commercialappeal.com/story/money/industries/logistics/2020/08/28/fedex-plane-autonomous-flight-reliable-robotics/5655258002/)
-* [Show HN: I've built self-opening trash bin, I relax myself feeding garbage to it](https://github.com/ivanilves/arduino-sketches/tree/master/basurito)
 * [Mathematicians Report New Discovery About the Dodecahedron](https://www.quantamagazine.org/mathematicians-report-new-discovery-about-the-dodecahedron-20200831/)
-* [Ask HN: Captcha Alternatives?](https://news.ycombinator.com/item?id=24334657)
-* [MIT Drake](https://drake.mit.edu/)
-* [Ruby: We have decided to go forward to 3.0 this year](https://github.com/ruby/ruby/commit/21c62fb670b1646c5051a46d29081523cd782f11)
 * [Python setuptools v50 breaks pip installation on Debian/Ubuntu](https://github.com/pypa/setuptools/issues/2350)
+* [MIT Drake](https://drake.mit.edu/)
+* [Ask HN: Captcha Alternatives?](https://news.ycombinator.com/item?id=24334657)
+* [Show HN: I've built self-opening trash bin, I relax myself feeding garbage to it](https://github.com/ivanilves/arduino-sketches/tree/master/basurito)
+* [Ruby: We have decided to go forward to 3.0 this year](https://github.com/ruby/ruby/commit/21c62fb670b1646c5051a46d29081523cd782f11)
 * [How NASA and ISRO discovered water on the Moon](https://jatan.space/how-nasa-and-chandrayaan-discovered-water-on-the-moon/)
-* [Hapax Legomenon](https://www.atlasobscura.com/articles/hapax-legomenon-hapaxes)
 * [Intel MKL on AMD Zen](https://danieldk.eu/Posts/2020-08-31-MKL-Zen.html)
+* [Hapax Legomenon](https://www.atlasobscura.com/articles/hapax-legomenon-hapaxes)
 * [3D face: fast, accurate and stable reconstruction](https://github.com/cleardusk/3DDFA_V2)
-* [Researchers are developing a battery powered by diamonds made from nuclear waste](https://www.wired.com/story/are-radioactive-diamond-batteries-a-cure-for-nuclear-waste/)
 ## nytimes.com
 
 
 * [In Speech, Biden Confronts Trump on Safety: 'He Can't Stop the Violence'](https://www.nytimes.com/2020/08/31/us/politics/biden-speech-trump.html)
-* [What Happened in the Portland Shooting](https://www.nytimes.com/2020/08/30/us/portland-shooting-explained.html)
+* [Video: How the Fatal Shooting at A Portland Protest Unfolded](https://www.nytimes.com/2020/08/31/video/portland-protests-shooting-investigation.html)
 * [Trump Fans Strife as Unrest Roils the U.S.](https://www.nytimes.com/2020/08/31/us/politics/trump-kenosha.html)
 * [A Long History of Language That Incites and Demonizes](https://www.nytimes.com/2020/08/31/us/politics/trump-police-protests.html)
 * [Biden Says Trump ‘Can’t Stop the Violence Because for Years He’s Fomented It’](https://www.nytimes.com/live/2020/08/31/us/trump-vs-biden)
@@ -79,11 +79,11 @@ layout: default
 * [2020 U.S. Open: Live Updates from Day 1](https://www.nytimes.com/2020/08/31/sports/tennis/us-open-schedule-updates.html)
 * [‘Hotel Rwanda’ Hero, Paul Rusesabagina, Is Held on Terrorism Charge](https://www.nytimes.com/2020/08/31/world/africa/paul-rusesabagina-hotel-rwanda-arrest.html)
 * [Drone Delivery? Amazon Moves Closer With F.A.A. Approval](https://www.nytimes.com/2020/08/31/business/amazon-drone-delivery.html)
-* [Can You Hear Yourself Think?](https://www.nytimes.com/2020/08/25/realestate/house-noise-solutions.html)
-* [Move Over, Sustainable Travel. Regenerative Travel Has Arrived.](https://www.nytimes.com/2020/08/27/travel/travel-future-coronavirus-sustainable.html)
 * [Are You an American Voting From Abroad? Here’s How to Do It](https://www.nytimes.com/2020/08/28/smarter-living/american-vote-from-abroad.html)
 * [How to Help Someone Who Lost Their Job](https://www.nytimes.com/2020/08/30/smarter-living/how-to-help-someone-who-lost-their-job.html)
 * [Does My Kid Have a Cold or Is It Covid-19?](https://www.nytimes.com/2020/08/28/parenting/kids-covid-symptoms.html)
+* [Move Over, Sustainable Travel. Regenerative Travel Has Arrived.](https://www.nytimes.com/2020/08/27/travel/travel-future-coronavirus-sustainable.html)
+* [Can You Hear Yourself Think?](https://www.nytimes.com/2020/08/25/realestate/house-noise-solutions.html)
 * [John Thompson’s Success at Georgetown Made Him Ahead of His Time](https://www.nytimes.com/2020/08/31/sports/ncaabasketball/john-thompson-georgetown-ewing.html)
 * [VMAs Recap: Lady Gaga, The Weeknd, and More](https://www.nytimes.com/2020/08/31/arts/music/mtv-vmas.html)
 * [How the U.S. Won the War Against Japan](https://www.nytimes.com/2020/08/28/books/review/twilight-of-the-gods-ian-w-toll.html)

@@ -2,54 +2,54 @@
 layout: default
 ---
 
-# indexed at 09/08/2021 01:35:59 UTC
+# indexed at 09/08/2021 06:47:26 UTC
 
 
 ## news.ycombinator.com
 
 
 * [One Bad Apple](https://www.hackerfactor.com/blog/index.php?/archives/929-One-Bad-Apple.html)
-* [Localhost](https://transparencyreport.google.com/copyright/domains/localhost)
-* [Imaging Cygnus a at 8.45 GHz with ATA](https://destevez.net/2021/08/imaging-cygnus-a-at-8-45-ghz-with-ata/)
-* [Tortured phrases: A dubious writing style emerging in science](https://www.nature.com/articles/d41586-021-02134-0)
-* [Aesthetics Wiki](https://aesthetics.fandom.com/)
-* [Official Elasticsearch Python library no longer works with open-source forks](https://github.com/elastic/elasticsearch-py/pull/1623)
+* [2,400-year-old baskets still filled with fruit found in submerged Egyptian city](https://www.smithsonianmag.com/smart-news/archaeologists-uncover-2400-year-old-fruit-baskets-underwater-egyptian-city-180978350/)
+* [Stupidity is a specific cognitive failing](https://psyche.co/ideas/why-some-of-the-smartest-people-can-be-so-very-stupid)
+* [Embarrassed by Your Olympic Javelin: Did Cavemen Do It Better?](https://www.npr.org/sections/krulwich/2012/07/27/157486108/embarrassed-by-your-olympic-javelin-did-cavemen-do-it-better)
 * [Apps Getting Worse](https://www.tbray.org/ongoing/When/202x/2021/08/07/Apps-Get-Worse)
-* [Evolution of Search Engines Architecture – Algolia Search Architecture Part 1](http://highscalability.com/blog/2021/8/2/evolution-of-search-engines-architecture-algolia-new-search.html)
+* [Tortured phrases: A dubious writing style emerging in science](https://www.nature.com/articles/d41586-021-02134-0)
+* [Facebook shuts out NYU academics’ research on political ads](https://apnews.com/article/technology-business-5d3021ed9f193bf249c3af158b128d18)
+* [AU gov asks big tech to introduce detection capabilities in encrypted comm](https://www.zdnet.com/article/canberra-asks-big-tech-to-introduce-detection-capabilities-in-encrypted-communication/)
+* [The macOS Sandbox File Limit](https://buckleyisms.com/blog/anecdotes-about-the-macos-sandbox-file-limit/)
+* [Imaging Cygnus a at 8.45 GHz with ATA](https://destevez.net/2021/08/imaging-cygnus-a-at-8-45-ghz-with-ata/)
+* [A Summary of Fortran [pdf] (1992)](https://www.math.utah.edu/~beebe/software/fortran-documentation/ftnsum.pdf)
+* [Summer 2021 has changed our understanding of extreme weather](https://theconversation.com/how-summer-2021-has-changed-our-understanding-of-extreme-weather-165268)
+* [ST Sees AR Glasses Replacing Smartphones](https://www.eetimes.eu/st-sees-ar-glasses-replacing-smartphones/)
+* [The first two hours of MTV (1981) [video]](https://www.youtube.com/watch?v=PJtiPRDIqtI)
 * [Revisiting Prechelt’s paper comparing Java, Lisp, C/C++ and scripting languages](https://renato.athaydes.com/posts/revisiting-prechelt-paper-comparing-languages.html)
-* [Major U.K. science funder to require grantees to make papers immediately free](https://www.sciencemag.org/news/2021/08/major-uk-science-funder-require-grantees-make-papers-immediately-free-all)
-* [Put This In Your Pipe (2013)](https://julialang.org/blog/2013/04/put-this-in-your-pipe/)
-* [I'm reading the FT and WSJ from 100 years ago each week leading to 1929](https://roaring20s.substack.com/p/august-8-1921)
 * [Show HN: Yet another Homebrew Video Game Console, this time FPGA-based](https://internalregister.github.io/2021/08/08/Another-Homebrew-Console.html)
-* [Glenfiddich will use its own whisky waste to fuel its trucks](https://eandt.theiet.org/content/articles/2021/07/glenfiddich-uses-own-whisky-waste-to-fuel-trucks/)
-* [Mux (YC W16) is hiring full-stack developers to focus on Elixir and TypeScript](https://mux.com/jobs?hnj=full-stack)
-* [Fairer Chess: A Reversal of Two Opening Moves in Chess Creates Balance](https://arxiv.org/abs/2108.02547)
-* [Kernel Pwning with eBPF: A Love Story](https://www.graplsecurity.com/post/kernel-pwning-with-ebpf-a-love-story)
-* [The Local Minima of Suckiness](http://veekaybee.github.io/2021/08/05/local-minima-of-suckiness/)
-* [Droidlet, a one-stop shop for modularly building intelligent agents](https://ai.facebook.com/blog/droidlet-a-one-stop-shop-for-modularly-building-intelligent-agents/)
+* [Official Elasticsearch Python library no longer works with open-source forks](https://github.com/elastic/elasticsearch-py/pull/1623)
 * [The Highbrow Neanderthal](https://www.growbyginkgo.com/2021/07/29/old-masters/)
+* [Localhost](https://transparencyreport.google.com/copyright/domains/localhost)
+* [Glenfiddich will use its own whisky waste to fuel its trucks](https://eandt.theiet.org/content/articles/2021/07/glenfiddich-uses-own-whisky-waste-to-fuel-trucks/)
+* [Amazon third-party sellers reportedly hound customers who leave bad reviews](https://gizmodo.com/heres-how-amazon-third-party-sellers-reportedly-hound-c-1847446648)
+* [Droidlet, a one-stop shop for modularly building intelligent agents](https://ai.facebook.com/blog/droidlet-a-one-stop-shop-for-modularly-building-intelligent-agents/)
+* [Mux (YC W16) is hiring full-stack developers to focus on Elixir and TypeScript](https://mux.com/jobs?hnj=full-stack)
+* [Ever heard a shrew warble? Secret sounds of small mammals revealed](https://www.theguardian.com/environment/2021/aug/07/have-you-ever-heard-a-shrew-warble-hypersonic-world-of-small-mammals-revealed-aoe)
 * [The Non-Radiating Antenna](https://physicsworld.com/a/introducing-the-non-radiating-antenna/)
 * [Clock Synchronization (2020)](https://signalsandthreads.com/clock-synchronization/)
-* [The Babylonians used Pythagorean ideas long before Pythagoras](https://www.economist.com/science-and-technology/the-babylonians-used-pythagorean-ideas-long-before-pythagoras/21803301)
-* [The first two hours of MTV (1981) [video]](https://www.youtube.com/watch?v=PJtiPRDIqtI)
-* [How to train like an Ancient Greek Olympian](https://www.bbc.com/future/article/20210804-how-to-train-like-an-ancient-greek-olympian)
-* [The Kawa Scheme Language](http://www.gnu.org/software/kawa/index.html)
-* [Launch HN: HyperLinq (YC S21) – Desktop trading terminal](https://news.ycombinator.com/item?id=28107989)
-* [California's Dixie Fire Is Now the 2nd Largest in State History](https://www.npr.org/2021/08/08/1025928690/californias-dixie-fire-is-now-the-2nd-largest-in-state-history)
-* [Big Tech are supposed to be the plumbers, not patricians of internet discourse](https://bombthrower.com/articles/when-dissent-is-misinformation-fallacies-become-facts/)
+* [The Local Minima of Suckiness](http://veekaybee.github.io/2021/08/05/local-minima-of-suckiness/)
 * [What Irony Is Not (2020)](https://thereader.mitpress.mit.edu/what-irony-is-not/)
+* [Put This In Your Pipe (2013)](https://julialang.org/blog/2013/04/put-this-in-your-pipe/)
+* [The Principles of Newspeak (1949)](https://www.berfrois.com/2021/07/1984-by-george-orwell/)
 ## nytimes.com
 
 
-* [Markie Post, ‘Night Court’ Actress, Dies at 70](https://www.nytimes.com/2021/08/08/arts/television/markie-post-dead.html)
-* [Voices of the Unvaccinated](https://www.nytimes.com/2021/08/06/podcasts/the-daily/delta-variant-coronavirus-vaccine.html)
-* [Obama Birthday Party: Who's Still Invited?](https://www.nytimes.com/2021/08/06/style/obama-birthday-party.html)
-* [Bette Midler and Julianne Moore at the Top of the July Sales Charts](https://www.nytimes.com/2021/08/06/realestate/bette-midler-julianne-moore-top-nyc-real-estate-sales.html)
 * [Tokyo Olympics: Seven Moments Worth Revisiting](https://www.nytimes.com/2021/08/08/sports/olympics/memorable-moments-tokyo-games.html)
+* [Markie Post, ‘Night Court’ Actress, Dies at 70](https://www.nytimes.com/2021/08/08/arts/television/markie-post-dead.html)
+* [Obama Birthday Party: Who's Still Invited?](https://www.nytimes.com/2021/08/06/style/obama-birthday-party.html)
+* [Voices of the Unvaccinated](https://www.nytimes.com/2021/08/06/podcasts/the-daily/delta-variant-coronavirus-vaccine.html)
+* [Bette Midler and Julianne Moore at the Top of the July Sales Charts](https://www.nytimes.com/2021/08/06/realestate/bette-midler-julianne-moore-top-nyc-real-estate-sales.html)
 * [‘This Is Really Scary’: Kids Struggle With Long Covid](https://www.nytimes.com/2021/08/08/health/long-covid-kids.html)
-* [Former Acting Attorney General Testifies About Trump’s Efforts to Subvert Election](https://www.nytimes.com/2021/08/07/us/politics/jeffrey-rosen-trump-election.html)
+* [Cuomo’s Top Aide, Melissa DeRosa, Resigns as He Fights to Survive](https://www.nytimes.com/2021/08/08/nyregion/melissa-derosa-resign-cuomo.html)
 * [For Seniors Especially, Covid Can Be Stealthy](https://www.nytimes.com/2021/08/08/health/coronavirus-symptoms-elderly.html)
-* [Andrew Cuomo and the Quislings of Albany](https://www.nytimes.com/2021/08/07/opinion/sunday/andrew-cuomo-melissa-derosa.html)
+* [Former Acting Attorney General Testifies About Trump’s Efforts to Subvert Election](https://www.nytimes.com/2021/08/07/us/politics/jeffrey-rosen-trump-election.html)
 ## globo.com
 
 

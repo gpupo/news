@@ -2,52 +2,52 @@
 layout: default
 ---
 
-# indexed at 15/08/2021 01:34:13 UTC
+# indexed at 15/08/2021 06:45:29 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Amiga Music Preservation](http://www.dascene.net/home.php)
+* [SoundStream: An End-to-End Neural Audio Codec](http://ai.googleblog.com/2021/08/soundstream-end-to-end-neural-audio.html)
 * [Closing 45% of the open Emacs bugs](https://lars.ingebrigtsen.no/2021/08/14/10x10/)
-* [Use Pixar's Story Formula to Win over Investors](https://startuppitch.substack.com/p/nail-your-startup-pitch-use-pixars)
-* [Asahi Linux for Apple M1 progress report, August 2021](https://asahilinux.org/2021/08/progress-report-august-2021/)
+* [Use Pixar's story formula to win over investors](https://startuppitch.substack.com/p/nail-your-startup-pitch-use-pixars)
+* [Lenovo Selling Linux Laptops Directly in the US](https://www.lenovo.com/us/en/d/linux-laptops-desktops?sort=sortBy&currentResultsLayoutType=grid)
+* [The Construction of Bit Mixers](http://jonkagstrom.com/bit-mixer-construction/)
+* [Amiga Music Preservation](http://www.dascene.net/home.php)
+* [On Digital Minimalsim (2016)](https://www.calnewport.com/blog/2016/12/18/on-digital-minimalism/)
+* [Yescrypt – scalable KDF and password hashing scheme](https://www.openwall.com/yescrypt/)
+* [Software Dev Can't Be Automated – It’s a Creative Process with an Unknown Goal](https://thehosk.medium.com/software-development-cannot-be-automated-because-its-a-creative-process-with-an-unknown-end-goal-2d4776866808)
 * [Philippine ethnic group has most Denisovan DNA](https://www.uu.se/en/news/article/?id=17306&typ=artikel&lang=en)
+* [Jerry (YC S17) Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
 * [What we can learn from Google Plus (2014)](https://www.intercom.com/blog/what-we-can-learn-from-google-plus/)
-* [Infrastructure bill program will test the feasibility of road usage fees](https://www.fierceelectronics.com/electronics/goodbye-gas-tax-hello-road-user-fees)
+* [Cap'n Proto 0.9](https://capnproto.org/news/2021-08-14-capnproto-0.9.html)
 * [Let's write a compiler, part 1: Introduction, selecting a language, and planning](https://briancallahan.net/blog/20210814.html)
 * [Machu Picchu older than expected, study reveals](https://news.yale.edu/2021/08/04/machu-picchu-older-expected-study-reveals)
-* [How to teach programming and other things (2019) [video]](https://www.youtube.com/watch?v=g1ib43q3uXQ)
+* [Root cause of failure, root cause of success](https://surfingcomplexity.blog/2021/08/13/root-cause-of-failure-root-cause-of-success/)
 * [D2X-XL – an OpenGL modification of the classic video game Descent 2](https://www.descent2.de/index.html)
-* [I hate almost all software (2011)](https://tinyclouds.org/rant.html)
+* [Opus – an open source parallel corpus](https://opus.nlpl.eu/)
+* [The Light Phone: Minimal Smartphone](https://www.thelightphone.com/)
+* [25 years ago Microsoft released Internet Explorer 3.0](https://twitter.com/hadip/status/1426587396343099397)
+* [How to teach programming and other things (2019) [video]](https://www.youtube.com/watch?v=g1ib43q3uXQ)
 * [Avoiding Founder Burnout](https://waseem.substack.com/p/avoiding-founder-burnout)
+* [I hate almost all software (2011)](https://tinyclouds.org/rant.html)
+* [Old-Style Espionage](https://www.theguardian.com/world/2021/aug/11/old-style-espionage-britons-arrest-feels-like-cold-war-throwback)
+* [Asahi Linux for Apple M1 progress report, August 2021](https://asahilinux.org/2021/08/progress-report-august-2021/)
 * [Fermat's Library: software to help illuminate academic papers](https://fermatslibrary.com/)
-* [Path (YC S19) is hiring Engineers to automate Gen Z finance](https://www.notion.so/pathfinance/Fullstack-Engineer-Path-YC-S19-ff0fd31fa5d4410dafce77f83403ce0d)
 * [A Proposal for the Dartmouth Research Project on Artificial Intelligence (1955)](http://www-formal.stanford.edu/jmc/history/dartmouth/dartmouth.html)
-* [How H. W. Lenstra Jr. completed an unfinished artwork by Escher (2020)](https://www.universiteitleiden.nl/en/news/2020/04/how-mathematician-hendrik-lenstra-completed-an-unfinished-artwork-by-escher)
-* [On Digital Minimalsim (2016)](https://www.calnewport.com/blog/2016/12/18/on-digital-minimalism/)
-* [High heat: Spain clocks prelim record of 47.2 C (116.96 F)](https://abcnews.go.com/Health/wireStory/europe-heat-wave-brings-concern-older-adults-homeless-79455026)
-* [Ask HN: Is it worth learning Elixir, from a jobs perspective?](https://news.ycombinator.com/item?id=28183901)
-* [MIT Researchers Make Hydrogen Fuel from Aluminum and Water](https://interestingengineering.com/mit-researchers-make-hydrogen-fuel-from-aluminum-and-water?_source=newsletter&_campaign=2e7LL8NyzpLK4&_uid=LDdwmgxga1&_h=ea90de89f1bceca46d02cad80716fb4006725c29&utm_source=newsletter&utm_medium=mailing&utm_campaign=Newsletter-14-08-2021)
-* [GitHub seems to be enabling IPv6 for GitHub Pages](https://github.com/isaacs/github/issues/354)
-* [Software Dev Can't Be Automated – It’s a Creative Process with an Unknown Goal](https://thehosk.medium.com/software-development-cannot-be-automated-because-its-a-creative-process-with-an-unknown-end-goal-2d4776866808)
-* [Debian 11](https://www.debian.org/releases/bullseye/amd64/release-notes/)
-* [Teaching Paradox, Victoria II, Part I: Mechanics and Gears](https://acoup.blog/2021/08/13/collections-teaching-paradox-victoria-ii-part-i-mechanics-and-gears/)
-* [An Elephant Crackup? (2006)](https://www.nytimes.com/2006/10/08/magazine/08elephant.html)
-* [YAML and Configuration Files](https://utcc.utoronto.ca/~cks/space/blog/programming/YAMLAndConfigurationFiles)
 * [Boeing to ground Starliner indefinitely until valve issue solved](https://arstechnica.com/science/2021/08/boeing-to-ground-starliner-indefinitely-until-valve-issue-solved/)
-* [Keyboard Walk Processor (2018)](https://github.com/hashcat/kwprocessor)
-* [The uncanny absence of nihilism](https://meaningness.com/nihilism-is-not-an-ism)
+* [GitHub seems to be enabling IPv6 for GitHub Pages](https://github.com/isaacs/github/issues/354)
+* [Debian 11](https://www.debian.org/releases/bullseye/amd64/release-notes/)
 ## nytimes.com
 
 
-* [Brian Mulheren, New York Police’s Go-to Man in Emergencies, Dies at 73](https://www.nytimes.com/2021/08/10/nyregion/brian-mulheren-dead.html)
-* [Molly Seidel and Simone Biles Show That Self Care Is Part of Winning](https://www.nytimes.com/2021/08/11/opinion/molly-seidel-simone-biles-olympics.html)
-* [Back to School Amid the Delta Variant](https://www.nytimes.com/2021/08/09/podcasts/the-daily/mask-mandates-schools-arkansas.html)
-* [Behold Barack Antoinette](https://www.nytimes.com/2021/08/14/opinion/barack-obama-birthday.html)
 * [Bad News for ‘Trump-Adjacent Weirdos’ Delights Seth Meyers](https://www.nytimes.com/2021/08/13/arts/television/seth-myers-mike-lindell.html)
+* [Behold Barack Antoinette](https://www.nytimes.com/2021/08/14/opinion/barack-obama-birthday.html)
+* [When a Social Butterfly Meets a Homebody](https://www.nytimes.com/2021/08/13/style/arielle-patrick-aaron-goldstein-wedding.html)
+* [New Report Measures 'Return on Investment' of Various College Degrees](https://www.nytimes.com/2021/08/13/your-money/college-degree-investment-return.html)
+* [In His Own Home, an Interior Stylist Takes a Light Touch](https://www.nytimes.com/2021/08/13/t-magazine/brooklyn-heights-apartment-design.html)
+* [Tap Dancing With Trump: Lindsey Graham’s Quest for Relevance](https://www.nytimes.com/2021/08/14/us/politics/lindsey-graham-donald-trump.html)
 * [What Does It Mean for a Whole Nation to Become Uninhabitable?](https://www.nytimes.com/2021/08/13/opinion/climate-change.html)
-* [Nanci Griffith, Singer Who Blended Folk and Country, Dies at 68](https://www.nytimes.com/2021/08/13/arts/music/nanci-griffith-dead.html)
 * [Why the Afghan Military Collapsed So Quickly](https://www.nytimes.com/2021/08/13/world/asia/afghanistan-rapid-military-collapse.html)
 ## globo.com
 

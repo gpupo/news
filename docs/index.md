@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 19/09/2021 01:38:19 UTC
+# indexed at 19/09/2021 06:43:05 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Belgian ISP under 250 Gbps DDoS for days on end](https://issues.edpnet.be/)
-* [Can You See the Republic of Ireland from England?](https://www.anglezarke.net/can-you-see-the-republic-of-ireland-from-england/)
+* [KySync: A complete, modern C++ rewrite of Zsync with 3x-10x+ performance boost](https://kyall.notion.site/KySync-v1-0-29eaad446308449a8c9a2373850eed62)
 * [Excision's CRISPR HIV therapy is heading into human testing after FDA clearance](https://www.fiercebiotech.com/biotech/excision-hiv-crispr-gene-editing-therapy-cleared-for-human-studies-by-fda)
-* [WireGuard for Windows now uses high speed kernel implementation](https://twitter.com/EdgeSecurity/status/1437402720135270403)
+* [The Reason for Germany's Industrial Expansion in the 19th Century?](https://www.spiegel.de/international/zeitgeist/no-copyright-law-the-real-reason-for-germany-s-industrial-expansion-a-710976.html)
+* [Can You See the Republic of Ireland from England?](https://www.anglezarke.net/can-you-see-the-republic-of-ireland-from-england/)
+* [Bestline: Light self-contained readline alternative](https://github.com/jart/bestline)
 * [How to rapidly improve at any programming language (2016)](https://www.cbui.dev/how-to-rapidly-improve-at-any-programming-language/)
-* [How Marvel took over cinema and TV](https://www.economist.com/the-economist-explains/2021/09/17/how-marvel-took-over-cinema-and-tv)
-* [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28580769)
+* [WireGuard for Windows now uses high speed kernel implementation](https://twitter.com/EdgeSecurity/status/1437402720135270403)
+* [A Short History of Objective-C (2017)](https://medium.com/chmcore/a-short-history-of-objective-c-aff9d2bde8dd)
 * [AirGuard: Protect yourself from being tracked by AirTags and Find My accessories](https://github.com/seemoo-lab/AirGuard)
-* [Why the American shoe disappeared and why it's so hard to bring it back (2019)](https://www.npr.org/2019/06/19/731268823/why-the-american-shoe-disappeared-and-why-its-so-hard-to-bring-it-back)
-* [Sysz – An fzf terminal UI for systemctl](https://github.com/joehillen/sysz)
-* [Amazon says it’s permanently banned 600 Chinese brands for review fraud](https://www.theverge.com/2021/9/17/22680269/amazon-ban-chinese-brands-review-abuse-fraud-policy)
 * [Cinepaint: The long forgotten GIMP fork that once powered the cinema industry](https://cinepaint.bigasterisk.com/TheHistoryOfCinePaint/)
-* [You may not need Moment.js](https://github.com/you-dont-need/You-Dont-Need-Momentjs)
-* [Pantagruel: An Extremely Lightweight Specification Language](https://pantagruel-language.com/)
-* [Raspberry Pi config for all things Internet](https://github.com/geerlingguy/internet-pi)
+* [Why the American shoe disappeared and why it's so hard to bring it back (2019)](https://www.npr.org/2019/06/19/731268823/why-the-american-shoe-disappeared-and-why-its-so-hard-to-bring-it-back)
+* [How Marvel took over cinema and TV](https://www.economist.com/the-economist-explains/2021/09/17/how-marvel-took-over-cinema-and-tv)
+* [Amazon says it’s permanently banned 600 Chinese brands for review fraud](https://www.theverge.com/2021/9/17/22680269/amazon-ban-chinese-brands-review-abuse-fraud-policy)
 * [Consolidation of the VPN industry spells trouble for the consumer](https://blog.windscribe.com/consolidation-of-the-vpn-industry-spells-trouble-for-the-consumer-57e638634cf0)
+* [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28580769)
+* [Shellac](https://www.buildingconservation.com/articles/shellac/shellac.htm)
+* [You may not need Moment.js](https://github.com/you-dont-need/You-Dont-Need-Momentjs)
+* [Raspberry Pi config for all things Internet](https://github.com/geerlingguy/internet-pi)
 * [Write in JavaScript, Render in Flutter](https://openkraken.com/en-US)
+* [How to add ISSN metadata to a web page](https://shkspr.mobi/blog/2021/09/how-to-add-issn-metadata-to-a-web-page/)
+* [GNU/Linux Open Hardware PowerPC Notebook Project](https://www.powerpc-notebook.org)
+* [A search engine that favors text-heavy sites and punishes modern web design](https://search.marginalia.nu/)
 * [Let’s talk about founder compensation](https://auren.substack.com/p/lets-talk-about-founder-compensation)
 * [Calculator Forensics](http://www.rskey.org/~mwsebastian/miscprj/forensics.htm)
-* [GNU/Linux Open Hardware PowerPC Notebook Project](https://www.powerpc-notebook.org)
-* [Groundbreaking arm amputation surgery makes a ‘phantom’ hand seem real](https://www.statnews.com/2021/09/14/i-can-still-feel-it-new-arm-amputation-surgery-makes-a-phantom-hand-seem-real/)
-* [The pitfalls of using SSH-agent, or how to use an agent safely](https://rabexc.org/posts/pitfalls-of-ssh-agents)
-* [Crev is a code review system](https://github.com/crev-dev/crev/wiki/Proof-Repository)
-* [Ireland raises privacy question over Facebook smart glasses](https://www.reuters.com/technology/ireland-raises-privacy-question-over-facebook-smart-glasses-2021-09-17/)
-* [Git Commands Explained with Cats (2017)](https://girliemac.com/blog/2017/12/26/git-purr/)
 * [Visual Git Cheat Sheet](http://www.ndpsoftware.com/git-cheatsheet.html#loc=workspace;)
+* [Crev is a code review system](https://github.com/crev-dev/crev/wiki/Proof-Repository)
+* [A Tapestry of Tools (2020)](https://daneden.me/blog/2020/tapestry-of-tools)
+* [Sysz – An fzf terminal UI for systemctl](https://github.com/joehillen/sysz)
 * [How to Land a ‘Completely Uncontrollable’ Passenger Jet (2018)](https://www.wired.com/story/air-astana-flight-1388-portugal-loss-control/)
-* [A collection of modern games for the TI-99/4A](http://tigameshelf.net/asm.htm)
-* [Reality Check for Cloudflare Wasm Workers and Rust](https://nickb.dev/blog/reality-check-for-cloudflare-wasm-workers-and-rust)
-* [TrackerZapper Mac app silently removes tracking parameters from links you copy](https://github.com/rknightuk/TrackerZapper)
 ## nytimes.com
 
 
@@ -46,9 +46,10 @@ layout: default
 * [The Scientist and the A.I.-Assisted, Remote-Control Killing Machine](https://www.nytimes.com/2021/09/18/world/middleeast/iran-nuclear-fakhrizadeh-assassination-israel.html)
 * [دانشمند وربات قاتل مجهز به هوش مصنوعی و کنترل از راه دور](https://www.nytimes.com/fa/2021/09/18/world/middleeast/fakhrizadeh-iran-assassination-robot-mossad.html)
 * [Covid in Senegal: Vaccine Demand Grows but Supply Is Short](https://www.nytimes.com/2021/09/18/world/africa/covid-vaccine-senegal.html)
-* [SpaceX Inspiration4 Astronauts Return to Earth After Three-Day Orbit](https://www.nytimes.com/live/2021/09/18/science/spacex-inspiration4-splashdown/)
-* [U.S. Calls Drone Strike a 'Tragic Mistake'](https://www.nytimes.com/2021/09/18/world/asia/afghanistan-drone-strike-reaction.html)
+* [Covid Infections at California Jail Quadruple in Less Than a Week](https://www.nytimes.com/live/2021/09/18/world/covid-delta-variant-vaccine/)
+* [SpaceX's Inspiration4 Civilian Crew Completes 3-Day Mission](https://www.nytimes.com/2021/09/18/science/spacex-inspiration4.html)
 * [Submarine Deal Gives Post-Brexit Britain](https://www.nytimes.com/2021/09/18/world/europe/britain-us-france-submarines-brexit.html)
+* [Biden Administration to Deport Haitians in Del Rio, Texas](https://www.nytimes.com/2021/09/18/us/politics/biden-administration-haiti-texas.html)
 * [Texas Lawmakers Plan to Continue Their Rightward Shift](https://www.nytimes.com/2021/09/18/us/texas-republicans-democrats.html)
 * [Texas Doctor Says He Performed an Abortion in Defiance of New State Law](https://www.nytimes.com/2021/09/18/us/texas-abortion-alan-braid.html)
 * [Dancing Through New York in a Summer of Joy and Grief](https://www.nytimes.com/2021/09/15/magazine/dancing-new-york-summer.html)
@@ -71,7 +72,7 @@ layout: default
 * [Colson Whitehead on ‘Harlem Shuffle’](https://www.nytimes.com/2021/09/17/books/review/podcast-colson-whitehead-harlem-shuffle-colm-toibin-magician.html)
 * [Should You Boycott the N.F.L.?](https://www.nytimes.com/2021/09/15/opinion/the-argument-concussions-football-season.html)
 * [Iran-Backed Militias Battle Activists in a Holy Iraqi City](https://www.nytimes.com/2021/09/18/world/middleeast/iraq-karbala-iran-militias.html)
-* [Biden Administration to Deport Haitians in Del Rio, Texas](https://www.nytimes.com/2021/09/18/us/politics/biden-administration-haiti-texas.html)
+* [U.S. Calls Drone Strike a 'Tragic Mistake'](https://www.nytimes.com/2021/09/18/world/asia/afghanistan-drone-strike-reaction.html)
 * [Forest Hills Stadium Hosts Davis Cup Tie for First Time Since 1959](https://www.nytimes.com/2021/09/18/sports/tennis/davis-cup-forest-hills.html)
 * [Why Washington Worries About Stablecoins](https://www.nytimes.com/2021/09/17/business/economy/federal-reserve-virtual-currency-stablecoin.html)
 * [Washington, D.C., on Edge Over Protest of Jan. 6 Arrests](https://www.nytimes.com/2021/09/18/us/politics/capitol-sept-18-rally.html)
@@ -90,7 +91,9 @@ layout: default
 ## globo.com
 
 
+* [Moradores de cidades das regiões dos Lagos e Serrana relatam apagão que durou cerca de uma hora e meia](https://oglobo.globo.com/rio/moradores-de-cidades-das-regioes-dos-lagos-serrana-relatam-apagao-que-durou-cerca-de-uma-hora-meia-25203745)
 * [Mega-Sena: dois apostadores dividem prêmio de R$ 23,5 milhões; veja os números](https://oglobo.globo.com/brasil/mega-sena-dois-apostadores-dividem-premio-de-235-milhoes-veja-os-numeros-1-25203723)
+* [Flamengo tenta fazer mistério para terceiro jogo no ano contra o Grêmio](https://oglobo.globo.com/esportes/futebol/flamengo-tenta-fazer-misterio-para-terceiro-jogo-no-ano-contra-gremio-1-25203682)
 * [Brasil chega a 590 mil mortes por Covid-19, mostra boletim de imprensa](https://oglobo.globo.com/saude/brasil-chega-590-mil-mortes-por-covid-19-mostra-boletim-de-imprensa-25203643)
 * [PSB aciona STF para obrigar Ministério da Saúde a retomar vacinação de adolescentes](https://oglobo.globo.com/saude/psb-aciona-stf-para-obrigar-ministerio-da-saude-retomar-vacinacao-de-adolescentes-25203650)
 * [Governistas atacam Paulo Freire após decisão da justiça proibir 'atentar contra dignidade' do autor](https://oglobo.globo.com/cultura/livros/governistas-atacam-paulo-freire-apos-decisao-da-justica-proibir-atentar-contra-dignidade-do-autor-25203595)
@@ -98,5 +101,3 @@ layout: default
 * [Vacinação: Prefeitura do Rio divulga calendário de reforço para idosos com mais de 84 anos e pessoas com imunossupressão](https://oglobo.globo.com/rio/vacinacao-prefeitura-do-rio-divulga-calendario-de-reforco-para-idosos-com-mais-de-84-anos-pessoas-com-imunossupressao-25203631)
 * ['É preciso furar a bolha da esquerda e da direita e chegar ao povo', afirma Tabata Amaral](https://oglobo.globo.com/politica/e-preciso-furar-bolha-da-esquerda-da-direita-chegar-ao-povo-afirma-tabata-amaral-25203621)
 * [Análise: Liderado por Enderson e Navarro, Botafogo luta tanto pelo acesso quanto pelo título da Série B](https://oglobo.globo.com/esportes/analise-liderado-por-enderson-navarro-botafogo-luta-tanto-pelo-acesso-quanto-pelo-titulo-da-serie-b-25203614)
-* [Datafolha: 56% dos brasileiros são a favor de impeachment de Bolsonaro](https://oglobo.globo.com/politica/datafolha-56-dos-brasileiros-sao-favor-de-impeachment-de-bolsonaro-25203579)
-* [Filha de Pelé compartilha fisioterapia do ex-jogador, que está em semi-intensiva de hospital](https://oglobo.globo.com/esportes/filha-de-pele-compartilha-fisioterapia-do-ex-jogador-que-esta-em-semi-intensiva-de-hospital-25203551)

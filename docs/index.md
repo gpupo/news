@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 16/10/2021 01:43:02 UTC
+# indexed at 16/10/2021 06:43:07 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Wearable Microphone Jamming](http://sandlab.cs.uchicago.edu/jammer/)
+* [Theory of Computation ocw course (Sipser)](https://ocw.mit.edu/courses/mathematics/18-404j-theory-of-computation-fall-2020/)
 * [A viable solution for Python concurrency](https://lwn.net/SubscriberLink/872869/0e62bba2db51ec7a/)
+* [1500 Archers on a 28.8: Network Programming in Age of Empires and Beyond (2001)](https://www.gamedeveloper.com/programming/1500-archers-on-a-28-8-network-programming-in-age-of-empires-and-beyond)
 * [Minias – A mini x86-64 assembler for fun and learning](https://github.com/andrewchambers/minias)
 * [Some reasons to work on productivity and velocity](https://danluu.com/productivity-velocity/)
+* [Deepdive on USDT fraud: The GrantWilliams Podcast: BennettTomlin and GeorgeNoble](https://www.grant-williams.com/podcast/the-grant-williams-podcast-bennett-tomlin-george-noble/)
+* [LAPD declares ‘ghost guns’ an ‘epidemic,’ citing 400% increase in seizures](https://www.latimes.com/california/story/2021-10-15/lapd-says-ghost-guns-an-epidemic-with-seizures-up-400-since-2017)
+* [Functional Algorithms, Verified](https://functional-algorithms-verified.org)
+* [NixOS and the Art of OS Configuration](https://www.rousette.org.uk/archives/nixos-and-the-art-of-os-configuration/)
+* [The “Decline and Fall” of Rome – A Dangerous Idea?](https://www.lareviewofbooks.org/article/the-decline-and-fall-of-rome-a-dangerous-idea/)
+* [The first study of individualized brain stimulation to treat severe depression](https://www.nytimes.com/2021/10/04/health/depression-treatment-deep-brain-stimulation.html)
+* [Redis Cluster Re-Implemented in Rust: Scaling Redis Easily in Kubernetes](https://github.com/doyoubi/undermoon)
+* [Louisville sawmill challenges perception about wages](https://cdispatch.com/opinions/2021-10-13/slimantics-louisville-sawmill-challenges-perception-about-wages/)
 * [Mezzano on Librebooted ThinkPads](https://www.fitzsim.org/blog/?p=445)
 * [Ubuntu Frame; A secure, LTS display server for embedded displays [pdf]](https://assets.ubuntu.com/v1/713b9224-Ubuntu.Frame.Datasheet.pdf)
-* [Functional Algorithms, Verified](https://functional-algorithms-verified.org)
 * [Circle Medical (YC S15) is hiring fullstack engineers to reimagine primary care](https://www.ycombinator.com/companies/circle-medical/jobs/ZpIlsd7-fullstack-engineer-react-js-ruby-rails)
+* [The Math Behind “Spot It”](https://www.smithsonianmag.com/science-nature/math-card-game-spot-it-180970873/)
 * [Implementing form filling and accessibility in the Firefox PDF viewer](https://hacks.mozilla.org/2021/10/implementing-form-filling-and-accessibility-in-the-firefox-pdf-viewer/)
-* [Explore the most detailed map of the universe – EPFL Longread](https://longread.epfl.ch/en/dossier/virup/)
 * [Open source is coming to financial services](https://future.a16z.com/open-source-financial-services/)
-* [Cortical Column Networks](https://thesmartrobot.github.io/2021/08/26/thousand-brains.html)
-* [Save the Scribe: the women who worked with medieval manuscripts](https://www.laphamsquarterly.org/roundtable/save-scribe)
+* [Explore the most detailed map of the universe – EPFL Longread](https://longread.epfl.ch/en/dossier/virup/)
+* [Hunting down a C memory leak in a Go program](https://medium.com/zendesk-engineering/hunting-down-a-c-memory-leak-in-a-go-program-2d08b24b617d)
 * [Scaling Indexing and Search – Algolia New Search Architecture](http://highscalability.com/blog/2021/10/11/scaling-indexing-and-search-algolia-new-search-architecture.html)
-* [“as_strided” and “sum” are all you need](https://jott.live/markdown/as_strided)
-* [Exploring Programmers' API Learning Processes](https://neverworkintheory.org/2021/10/14/api-learning-processes.html)
-* [Most Canadians believe Facebook harms their mental health](https://www.theglobeandmail.com/canada/article-most-canadians-believe-facebook-harms-their-mental-health-survey-2/)
-* [Elf – A reactive store with magical powers](https://ngneat.github.io/elf/)
-* [How not to blow up the production database](https://blog.battlefy.com/how-not-to-blow-up-the-production-database-424c162dccc6?gi=8ec446ad5e47)
-* [Trust-Busting as the Unsexy Answer to Google and Facebook](https://www.lareviewofbooks.org/article/trust-busting-as-the-unsexy-answer-to-google-and-facebook/)
-* [Speed Matters](https://scattered-thoughts.net/writing/speed-matters/)
-* [PostgreSQL adds support for OUT parameters in Procedures](https://www.migops.com/blog/2021/10/14/stored-procedure-out-parameters-in-postgresql-14/)
-* [Tether Fined $41M for Lying About Fiat Currency Backing](https://www.bloomberg.com/news/articles/2021-10-15/tether-bitfinex-to-pay-fines-totaling-42-5-million-cftc-says)
-* [The Math Behind Spot It, the Beloved Family Card Game](https://www.smithsonianmag.com/science-nature/math-card-game-spot-it-180970873/)
-* [Kyoto – Build Front End with Golang](https://kyoto.codes)
-* [Show HN: Munchy, a search engine to discover recipes](https://joinmunchy.com/)
-* [Is my Facebook activity fucking my finances?](https://foundation.mozilla.org/en/blog/is-my-facebook-activity-fcking-my-finances-mozilla-explains-data-brokers/)
-* [Nomad vs. Kubernetes](https://www.nomadproject.io/docs/nomad-vs-kubernetes)
-* [How Animals Map 3D Spaces Surprises Brain Researchers](https://www.quantamagazine.org/how-animals-map-3d-spaces-surprises-brain-researchers-20211014/)
-* [Bugs in Our Pockets?](https://www.lightbluetouchpaper.org/2021/10/15/bugs-in-our-pockets/)
+* [“Progress” by Aldous Huxley (1928)](https://atlasofplaces.com/essays/progress/)
+* [Cortical Column Networks](https://thesmartrobot.github.io/2021/08/26/thousand-brains.html)
+* [DX-Ball](https://dx-ball.ru/)
 * [Review of the Buick Riviera’s ‘touchscreen’ from 1986 [video]](https://www.youtube.com/watch?v=mEzEbS4uvuo)
+* [Save the Scribe: the women who worked with medieval manuscripts](https://www.laphamsquarterly.org/roundtable/save-scribe)
+* [How not to blow up the production database](https://blog.battlefy.com/how-not-to-blow-up-the-production-database-424c162dccc6?gi=8ec446ad5e47)
+* [Most Canadians believe Facebook harms their mental health](https://www.theglobeandmail.com/canada/article-most-canadians-believe-facebook-harms-their-mental-health-survey-2/)
 ## nytimes.com
 
 
@@ -52,7 +52,6 @@ layout: default
 * [Adams Commits to Keeping Gifted and Talented, But Leaves Details Unclear](https://www.nytimes.com/2021/10/15/nyregion/eric-adams-gifted-talented-nyc-schools.html)
 * [Gadsby and Netflix Employees Pressure Executive Over Dave Chappelle Special](https://www.nytimes.com/2021/10/15/business/dave-chappelle-netflix-hannah-gadsby.html)
 * [Dave Chappelle Isn’t Canceled. He Just Likes to Talk About It.](https://www.nytimes.com/2021/10/15/arts/television/dave-chappelle-netflix.html)
-* [A Conductor’s Impossible Legacy](https://www.nytimes.com/2021/10/14/arts/music/wilhelm-furtwangler-classical-music.html)
 * [Concert Halls Are Back. But Visa Backlogs Are Keeping Musicians Out.](https://www.nytimes.com/2021/10/15/arts/music/visa-backlogs-classical-music.html)
 * [Finneas, a Pop Star’s Secret Weapon, Strides Into the Spotlight](https://www.nytimes.com/2021/10/15/arts/music/finneas-optimist.html)
 * [Push to Improve Sex Ed in Australia Comes From 10,000 Miles Away](https://www.nytimes.com/2021/10/15/world/australia/sex-education-consent-contos.html)
@@ -79,7 +78,7 @@ layout: default
 * [Capitol Police Officer Charged With Obstructing Justice in Jan. 6 Case](https://www.nytimes.com/2021/10/15/us/politics/capitol-riot-police-officer-charged.html)
 * [Blast at Afghan Mosque Kills Dozens as Shiites Are Targeted Again](https://www.nytimes.com/2021/10/15/world/asia/afghanistan-mosque-blast.html)
 * [Illinois Democrats Propose New Gerrymandered Congressional Maps](https://www.nytimes.com/2021/10/15/us/politics/illinois-democrats-gerrymander.html)
-* [Space Station Emergency Prompted by Russian Thruster Firing](https://www.nytimes.com/2021/10/15/science/international-space-station-russia.html)
+* [New Zealand Attempts a Record-Setting ‘Vaxathon’](https://www.nytimes.com/2021/10/16/world/australia/new-zealand-vaccines.html)
 * [Rikers Death Pushes Toll in N.Y.C. Jails to 13 This Year](https://www.nytimes.com/2021/10/15/nyregion/rikers-death-toll.html)
 * [Testimony at Lev Parnas Trial Offers Peek at His Place in Trump’s Orbit](https://www.nytimes.com/2021/10/15/nyregion/adam-laxalt-lev-parnas.html)
 * [Wall Street Sees a Record Deal Spree as a Reason for Optimism](https://www.nytimes.com/2021/10/15/business/wall-street-banks-earnings-mergers.html)
@@ -96,13 +95,13 @@ layout: default
 ## globo.com
 
 
+* [De balões de ar a hambúrguer natural, Piqué amplia leque com império do entreternimento](https://oglobo.globo.com/esportes/de-baloes-de-ar-hamburguer-natural-pique-amplia-leque-com-imperio-do-entreternimento-25238352)
+* [Atores consagrados se reúnem em projeto on-line em prol de colegas](https://oglobo.globo.com/rioshow/atores-consagrados-se-reunem-em-projeto-on-line-em-prol-de-colegas-25238010)
+* [Concurso oferece a brasileiros bolsas de estudos de graduação e MBA na Coreia do Sul](https://oglobo.globo.com/brasil/educacao/concurso-oferece-brasileiros-bolsas-de-estudos-de-graduacao-mba-na-coreia-do-sul-1-25239056)
+* [Polícia prende acusados de pertencer a quadrilha especializada em tráfico interestadual de drogas](https://oglobo.globo.com/rio/policia-prende-acusados-de-pertencer-quadrilha-especializada-em-trafico-interestadual-de-drogas-25239058)
 * [EUA oferecem compensações a parentes de vítimas de ataque com drone em Cabul, em agosto](https://oglobo.globo.com/mundo/eua-oferecem-compensacoes-parentes-de-vitimas-de-ataque-com-drone-em-cabul-em-agosto-25239035)
 * [Bolsonaro ironiza possível indiciamento pela CPI e chama Renan Calheiros de 'bandido'](https://oglobo.globo.com/politica/bolsonaro-ironiza-possivel-indiciamento-pela-cpi-chama-renan-calheiros-de-bandido-1-25238940)
+* [Tampa Pro 2021: Kelvin Hoefler mistura 'competição e diversão' antes de disputar o torneio mais tradicional do skate](https://oglobo.globo.com/esportes/tampa-pro-2021-kelvin-hoefler-mistura-competicao-diversao-antes-de-disputar-torneio-mais-tradicional-do-skate-25235112)
+* [Mega-Sena acumulada sorteia prêmio de R$ 10,5 milhões neste sábado](https://oglobo.globo.com/brasil/mega-sena-acumulada-sorteia-premio-de-105-milhoes-neste-sabado-25238950)
 * [É #FAKE que babar durante o sono revela saúde e respiração correta](https://oglobo.globo.com/fato-ou-fake/e-fake-que-babar-durante-sono-revela-saude-respiracao-correta-25238925)
-* [Barco com turistas afunda no Rio Paraguai, no Mato Grosso do Sul; veja vídeo](https://oglobo.globo.com/brasil/barco-com-turistas-afunda-no-rio-paraguai-no-mato-grosso-do-sul-veja-video-25238805)
-* [Após embate com Alcolumbre, Bolsonaro afirma apoio a André Mendonça](https://oglobo.globo.com/politica/apos-embate-com-alcolumbre-bolsonaro-afirma-apoio-andre-mendonca-1-25238808)
 * [Morre ex-boxeador Miguel de Oliveira, campeão mundial em 1975](https://oglobo.globo.com/esportes/morre-ex-boxeador-miguel-de-oliveira-campeao-mundial-em-1975-25238873)
-* [CPI da Covid: Senadores do G7 divergem sobre crime de genocídio de indígenas](https://oglobo.globo.com/politica/cpi-da-covid-senadores-do-g7-divergem-sobre-crime-de-genocidio-de-indigenas-25238842)
-* [Argentina e Paraguai concordam em revisar tarifa externa comum do Mercosul](https://oglobo.globo.com/economia/macroeconomia/argentina-paraguai-concordam-em-revisar-tarifa-externa-comum-do-mercosul-25238831)
-* [Os remédios eficazes contra a obesidade aprovados no Brasil](https://oglobo.globo.com/saude/os-remedios-eficazes-contra-obesidade-aprovados-no-brasil-25238516)
-* [Bolsonaro sanciona projeto que congela recursos previstos para Ciência e Tecnologia](https://oglobo.globo.com/brasil/bolsonaro-sanciona-projeto-que-congela-recursos-previstos-para-ciencia-tecnologia-25238705)

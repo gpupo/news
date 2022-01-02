@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 02/01/2022 01:45:19 UTC
+# indexed at 02/01/2022 06:45:23 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Real-Time Tokyo Subway Map](https://minitokyo3d.com)
+* [Secret Military Telephone Buttons](https://computer.rip/2022-01-01-secret-military-telephone-buttons.html)
 * [Boeing 777 departing Dubai nearly had a major incident after takeoff](https://onemileatatime.com/news/emirates-terrifying-boeing-777-flight-washington/)
-* [Using HTTP Basic Auth in 2022](https://joeldare.com/why-im-using-http-basic-auth-in-2022.html)
-* [EU drafts plan to label gas and nuclear investments as green](https://www.reuters.com/markets/commodities/eu-drafts-plan-label-gas-nuclear-investments-green-2022-01-01/)
-* [How Dwarf Fortress is built](https://stackoverflow.blog/2021/12/31/700000-lines-of-code-20-years-and-one-developer-how-dwarf-fortress-is-built/)
 * [Book Review: “Viral” by Alina Chan and Matt Ridley](https://scottaaronson.blog/?p=6183)
+* [Using HTTP Basic Auth in 2022](https://joeldare.com/why-im-using-http-basic-auth-in-2022.html)
+* [Show HN: A web app to turn photos into 3D AR models.](https://usdz.app?ref=hn)
+* [How Dwarf Fortress is built](https://stackoverflow.blog/2021/12/31/700000-lines-of-code-20-years-and-one-developer-how-dwarf-fortress-is-built/)
+* [EU drafts plan to label gas and nuclear investments as green](https://www.reuters.com/markets/commodities/eu-drafts-plan-label-gas-nuclear-investments-green-2022-01-01/)
 * [All of Wittgenstein is now public domain](https://www.wittgensteinproject.org/w/index.php?title=Project:All_texts)
 * [Portmaster – Open-source network monitor and firewall](https://safing.io/portmaster/)
-* [Go Fuzzing](https://tip.golang.org/doc/fuzz/)
 * [Nuclear fallout is showing up in U.S. honey, decades after bomb tests](https://www.science.org/content/article/nuclear-fallout-showing-us-honey-decades-after-bomb-tests)
+* [Go Fuzzing](https://tip.golang.org/doc/fuzz/)
+* [Many surprise medical bills are now illegal](https://www.axios.com/surprise-medical-bills-illegal-doctors-insurers-faac35a7-a2db-4555-a172-7de5f4c3cc54.html)
 * [2021 Letter](https://danwang.co/2021-letter/)
-* [Safest mushrooms to forage and eat](https://www.fieldandstream.com/story/survival/safest-mushrooms-to-forage-and-eat/)
+* [Deserializing JSON Fast](https://blog.datalust.co/deserializing-json-really-fast/)
+* [The argument against clearing the database between tests (2020)](https://calpaterson.com/against-database-teardown.html)
 * [Updating the most influential book of the BASIC era](https://blog.codinghorror.com/updating-the-single-most-influential-book-of-the-basic-era/)
+* [The Interledger Protocol](https://interledger.org/developer-tools/get-started/overview/)
 * [Log4jscanner](https://github.com/google/log4jscanner)
+* [Safest mushrooms to forage and eat](https://www.fieldandstream.com/story/survival/safest-mushrooms-to-forage-and-eat/)
 * [Hacker Laws](https://github.com/dwmkerr/hacker-laws)
 * [The rule to making your own game is that there are no rules](https://text.npr.org/1065160626)
-* [Depression alters the circadian pattern of online activity](https://www.nature.com/articles/s41598-020-74314-3)
-* [The initial problems that inspired the biggest companies in technology](https://www.opinionx.co/99-problems)
-* [Farnsworth Munsell 100 Hue Color Vision Test](https://www.colorblindnesstest.org/farnsworth-munsell-100-hue-test/)
-* [50 Years of Text Games: The End of a Journey](https://if50.substack.com/p/the-end-of-a-journey)
-* [Dendron (YC W21) Is Hiring React/TS Expert to Build Better Tools for Thought](https://wiki.dendron.so/notes/BtTEc9Kp7IbB1zKNh35pI/)
-* [The Dissolution of the Nutrition Science Initiative](http://garytaubes.com/the-dissolution-of-the-nutrition-science-initiative/)
 * [A persistent denial of service vulnerability affecting iOS](https://trevorspiniolas.com/doorlock/doorlock.html)
 * [Haxor News: Hacker News in the terminal](https://github.com/donnemartin/haxor-news)
-* [What Is Engineering Enablement](https://medium.com/bigpanda-engineering/what-is-engineering-enablement-b5293a5838ce)
-* [Astronomers uncover largest group of rogue planets yet](https://www.sciencedaily.com/releases/2021/12/211222153104.htm)
-* [Complexity Considerations](https://www.red-lang.org/2021/12/2021-winding-down.html)
-* [Illusion of the Year 2021](http://illusionoftheyear.com/cat/top-10-finalists/2021/)
-* [A History of Black Print](https://ilovetypography.com/2020/07/11/black-print-first-african-america-printer-publishers/)
-* [Dicio: Free and open source voice assistant for Android](https://github.com/Stypox/dicio-android)
-* [Are cryptocurrencies to blame for high GPU prices?](https://blog.libove.org/posts/are-crypto-currencies-to-blame-for-high-gpu-prices/)
+* [Depression alters the circadian pattern of online activity](https://www.nature.com/articles/s41598-020-74314-3)
+* [How We Make Sense of Time](https://www.nytimes.com/2021/12/31/us/new-years-time-sense.html)
+* [In 2022 a Moonrush will begin in earnest](https://www.economist.com/science-and-technology/2022/01/01/in-2022-a-moonrush-will-begin-in-earnest)
+* [50 Years of Text Games: The End of a Journey](https://if50.substack.com/p/the-end-of-a-journey)
+* [Success Story: Chip-Scale Atomic Clock (2020)](https://www.nist.gov/noac/success-story-chip-scale-atomic-clock)
+* [Dendron (YC W21) Is Hiring React/TS Expert to Build Better Tools for Thought](https://wiki.dendron.so/notes/BtTEc9Kp7IbB1zKNh35pI/)
 ## nytimes.com
 
 
@@ -77,8 +77,8 @@ layout: default
 * [What Are Your Food Resolutions for the New Year?](https://www.nytimes.com/2021/12/30/well/eat/new-years-resolutions-food.html)
 * [21 People Rescued After a Freezing Night Stranded in Aerial Tram Cars](https://www.nytimes.com/2022/01/01/us/sandia-peak-tramway-rescue.html)
 * [Betty White, a Television Golden Girl From the Start, Is Dead at 99](https://www.nytimes.com/2021/12/31/arts/television/betty-white-dead.html)
+* [With a Simple Funeral, South Africa Bids Farewell to Desmond Tutu](https://www.nytimes.com/2022/01/01/world/africa/desmond-tutu-funeral-south-africa.html)
 * [A Vatican Library Shortens the Distance Between Its Works and Its Scholars](https://www.nytimes.com/2022/01/01/world/europe/pontifical-oriental-institute-digital-texts.html)
-* [Meisha Porter Had 3 Goals as N.Y.C. Schools Chief: ‘Open. Open. Open.’](https://www.nytimes.com/2021/12/31/nyregion/meisha-porter-nyc-schools-covid.html)
 * [Off-Duty Officer Shot While Sleeping in Car Outside a Harlem Police Station](https://www.nytimes.com/2022/01/01/nyregion/nypd-officer-shooting-police-station.html)
 * [Beaches Closed After 7 Million Gallons of Sewage Spill in Los Angeles County](https://www.nytimes.com/2022/01/01/us/sewage-spill-los-angeles.html)
 * [U.S. Military Focusing on ISIS Cell Behind Attack at Kabul Airport](https://www.nytimes.com/2022/01/01/us/politics/afghan-war-isis-attack.html)
@@ -97,13 +97,13 @@ layout: default
 ## globo.com
 
 
-* [Israel detecta primeiro caso de 'flurona', dupla infecção de Covid e influenza](https://oglobo.globo.com/mundo/israel-detecta-primeiro-caso-de-flurona-dupla-infeccao-de-covid-influenza-25338718)
-* [França tem 874 carros queimados em comemoração de ano novo](https://oglobo.globo.com/mundo/franca-tem-874-carros-queimados-em-comemoracao-de-ano-novo-1-25338661)
-* [Felipe Neto desabafa nas redes socias e menciona depressão: 'no fundo do poço'](https://oglobo.globo.com/ela/felipe-neto-desabafa-nas-redes-socias-menciona-depressao-no-fundo-do-poco-1-25338528)
-* [Ministério da Saúde diz que 'avaliará medidas cabíveis' após surtos de Covid-19 em navios](https://oglobo.globo.com/saude/ministerio-da-saude-diz-que-avaliara-medidas-cabiveis-apos-surtos-de-covid-19-em-navios-25338713)
-* [Brasil registra 3.159 casos de Covid no primeiro dia do ano, mostra boletim de imprensa](https://oglobo.globo.com/saude/brasil-registra-3159-casos-de-covid-no-primeiro-dia-do-ano-mostra-boletim-de-imprensa-1-25338665)
-* [Brasil volta ao Conselho de Segurança da ONU após 10 anos](https://oglobo.globo.com/mundo/brasil-volta-ao-conselho-de-seguranca-da-onu-apos-10-anos-25338530)
-* [PM de São Paulo veda publicação de fake news, armas e conteúdo político-partidário em redes sociais](https://oglobo.globo.com/politica/pm-de-sao-paulo-veda-publicacao-de-fake-news-armas-conteudo-politico-partidario-em-redes-sociais-25338477)
-* [STF derruba decisão do TCU e libera contrato de R$ 310 mi do governo para compra de medicamentos](https://oglobo.globo.com/saude/stf-derruba-decisao-do-tcu-libera-contrato-de-310-mi-do-governo-para-compra-de-medicamentos-25338598)
-* [Passageiros de navio com surto de Covid testam positivo após desembarque e relatam caos em cruzeiro da MSC: 'Eles perderam o controle total', diz mulher que estava a bordo](https://oglobo.globo.com/brasil/passageiros-de-navio-com-surto-de-covid-testam-positivo-apos-desembarque-relatam-caos-em-cruzeiro-da-msc-eles-perderam-controle-total-diz-mulher-que-estava-bordo-25338370)
-* [Em cruzeiro com atividades interrompidas pela Anvisa, passageiros fazem festa de réveillon](https://oglobo.globo.com/brasil/em-cruzeiro-com-atividades-interrompidas-pela-anvisa-passageiros-fazem-festa-de-reveillon-25338452)
+* [O Brasil vai crescer em 2022? Veja os setores que devem sustentar a expansão do PIB no ano que vem](https://oglobo.globo.com/economia/macroeconomia/o-brasil-vai-crescer-em-2022-veja-os-setores-que-devem-sustentar-expansao-do-pib-no-ano-que-vem-25338704)
+* [Na pandemia, carioca elegeu os espaços ao ar livre e a diversão nos bairros](https://oglobo.globo.com/rio/na-pandemia-carioca-elegeu-os-espacos-ao-ar-livre-a-diversao-nos-bairros-25338623)
+* ['Girls 5 eva', série com produção de Tina Fey, chega ao Globoplay; veja lista de lançamentos](https://oglobo.globo.com/cultura/revista-da-tv/girls-5-eva-serie-com-producao-de-tina-fey-chega-ao-globoplay-veja-lista-de-lancamentos-25338624)
+* [Força da negritude é o destaque de uma boa safra de sambas-enredo em 2022](https://oglobo.globo.com/cultura/musica/forca-da-negritude-o-destaque-de-uma-boa-safra-de-sambas-enredo-em-2022-25338611)
+* [Marcelo Barreto: Não olhe para cima, a lição de 2021](https://oglobo.globo.com/esportes/marcelo-barreto-nao-olhe-para-cima-licao-de-2021-1-25338472)
+* ['A dor de perder minha irmã do jeito que foi eu não aceito', diz Criolo](https://oglobo.globo.com/cultura/a-dor-de-perder-minha-irma-do-jeito-que-foi-eu-nao-aceito-diz-criolo-25335569)
+* [Feliz Ano Novo](https://oglobo.globo.com/cultura/feliz-ano-novo-25337698)
+* [Artistas periféricos da exposição 'nova vanguarda carioca' mostram talentos, contradições e inquietudes de um brasil pulsante](https://oglobo.globo.com/ela/artistas-perifericos-da-exposicao-nova-vanguarda-carioca-mostram-talentos-contradicoes-inquietudes-de-um-brasil-pulsante-25336400)
+* [Conheça Carla Madeira, a escritora brasileira que mais vendeu livros em 2021](https://oglobo.globo.com/ela/gente/conheca-carla-madeira-escritora-brasileira-que-mais-vendeu-livros-em-2021-25336337)
+* [Martha Medeiros: O dia fatal](https://oglobo.globo.com/ela/martha-medeiros-dia-fatal-25336322)

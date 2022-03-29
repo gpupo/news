@@ -14,7 +14,9 @@ def show_news_from(domain):
     print('## {0}\n\n'.format(domain))
     source = Newscatcher(website = domain)
     results = source.get_news()
-    show_list(results['articles'])
+    if 'articles' in results:
+        show_list(results['articles'])
+    
 
 def main():
     print("---\nlayout: default\n---\n")

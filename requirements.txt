@@ -1,4 +1,4 @@
-setuptools==57.5.0
+setuptools==65.5.1
 newscatcher==0.2.0
 feedparser==5.2.1
 certifi==2021.10.8
